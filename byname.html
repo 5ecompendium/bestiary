@@ -14,8 +14,10 @@ layout: default
     </dd>
     {% endfor %}
   </dl>
-  {% assign cur_letters = site.posts.first.title | slice: 0 %}
   {% assign post_list = site.posts | sort: 'title' %}
+  {% assign cur_letter = post_list.first.title | slice: 0 %}
+  <a id="{{cur_letter}}"></a>
+  <h2 class="post-list-head jetsHide">{{cur_letter}}</h2>
   <ul class="post-list jetsContent">
   {% for post in post_list %}
     {% assign f_letter = post.title | slice: 0 %}
@@ -31,7 +33,7 @@ layout: default
       <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
     </li>  
   {% endfor %}
-
+  </ul>
+  <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
-
 </div>
