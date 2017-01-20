@@ -14,7 +14,7 @@ layout: default
     </dd>
     {% endfor %}
   </dl>
-  {% assign cur_letters = '' %}
+  {% assign cur_letters = site.posts.first.title | slice: 0 %}
   {% assign post_list = site.posts | sort: 'title' %}
   <ul class="post-list jetsContent">
   {% for post in post_list %}
