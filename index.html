@@ -5,7 +5,7 @@ layout: default
 <div class="home">
   <h1 class="page-heading">All Creatures</h1>
   <p id="creatureSearch">Search by name: <input type="search" id="jetsSearch"></p>
-  <p id="sortBy">Sort By: <a href="/">CR</a> <a href="/byname">name</a></p>
+  <p id="sortBy">Sort By: <a href="{{site.baseurl}}/">CR</a> <a href="{{site.baseurl}}/byname">name</a></p>
   <dl class="tag-list">
     <dt>Challenge Rating:</dt>
     {% for level in site.data.levels %}
