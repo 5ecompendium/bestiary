@@ -25,8 +25,8 @@ tags: [medium, beast, cr1/8]
 
 **Challenge** 1/8 (25 XP)
 
-Keen Hearing and Smell. The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
+***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
 
 **Actions**
 
-Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
+***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.

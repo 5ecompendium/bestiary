@@ -27,7 +27,15 @@ tags: [large, giant, cr7]
 
 **Challenge** 7 (2,900 XP) 
 
-**Innate Spellcasting.** The oni’s innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components: At will: darkness, invisibility 1/day each: charm person, cone of cold, gaseous form, sleep Magic Weapons. The oni’s weapon attacks are magical. Regeneration. The oni regains 10 hit points at the start of its turn if it has at least 1 hit point. 
+**Innate Spellcasting.** The oni’s innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components: 
+
+*At will:* darkness, invisibility 
+
+*1/day each:* charm person, cone of cold, gaseous form, sleep 
+
+***Magic Weapons.*** The oni’s weapon attacks are magical. 
+
+***Regeneration.*** The oni regains 10 hit points at the start of its turn if it has at least 1 hit point. 
 
 **Actions** 
 

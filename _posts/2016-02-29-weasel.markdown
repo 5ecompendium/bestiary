@@ -25,8 +25,8 @@ tags: [tiny, beast, cr0]
 
 **Challenge** 0 (10 XP)
 
- Keen Hearing and Smell. The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
+***Keen Hearing and Smell.*** The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
 
 **Actions** 
 
-Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
+***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.

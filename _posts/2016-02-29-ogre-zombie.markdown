@@ -29,6 +29,8 @@ tags: [large, undead, cr2]
 
 **Challenge** 2 (450 XP) 
 
-Undead Fortitude. If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead. 
+***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead. 
 
-**Actions** Morningstar. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.360 Appendix A: Miscellaneous Creatures This appendix contains statistics for various animals, vermin, and other critters. The stat blocks are organized alphabetically by creature name.
+**Actions** 
+
+***Morningstar.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.

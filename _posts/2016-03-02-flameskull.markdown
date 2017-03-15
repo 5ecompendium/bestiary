@@ -38,10 +38,14 @@ tags: [tiny, undead, cr4]
 ***Rejuvenation.*** If the flameskull is destroyed, it regains all its hit points in 1 hour unless holy water is sprinkled on its remains or a dispel magic or remove curse spell is cast on them.
 
 ***Spellcasting.*** The flameskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The flameskull has the following wizard spells prepared:
-Cantrip (at will): mage hand
-1st level (3 slots): magic missile, shield
-2nd level (2 slots): blur, flaming sphere
-3rd level (1 slot): fireball
+
+*Cantrip (at will):* mage hand
+
+*1st level (3 slots):* magic missile, shield
+
+*2nd level (2 slots):* blur, flaming sphere
+
+*3rd level (1 slot):* fireball
 
 **Actions**
 

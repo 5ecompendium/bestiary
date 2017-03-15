@@ -30,9 +30,12 @@ tags: [medium, humanoid, cr2]
 ***Gruumsh’s Fury.*** The orc deals an extra 4 (1d8) damage when it hits with a weapon attack (included in the attack).
 
 ***Spellcasting.*** The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The orc has the following cleric spells prepared:
-Cantrips (at-will): guidance, resistance, thaumaturgy
-1st level (4 slots): bless, command
-2nd level (2 slots): augury, spiritual weapon (spear)
+
+*Cantrips (at-will):* guidance, resistance, thaumaturgy
+
+*1st level (4 slots):* bless, command
+
+*2nd level (2 slots):* augury, spiritual weapon (spear)
 
 **Actions**
 

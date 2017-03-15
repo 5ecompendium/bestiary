@@ -27,10 +27,14 @@ tags: [medium, humanoid, cr3]
 
 ***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit
 with spell attacks). It knows the following sorcerer spells (an asterisked spell appears in this appendix):
-Cantrips (at will): acid splash, blade ward, light, mending, mold earth*
-1st level (4 slots): earth tremor,* expeditious retreat, shield
-2nd level (3 slots): shatter, spider climb
-3rd level (2 slots): slow
+
+*Cantrips (at will):* acid splash, blade ward, light, mending, mold earth*
+
+*1st level (4 slots):* earth tremor,* expeditious retreat, shield
+
+*2nd level (3 slots):* shatter, spider climb
+
+*3rd level (2 slots):* slow
 
 **Actions**
 

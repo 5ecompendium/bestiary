@@ -25,8 +25,12 @@ tags: [huge, beast, cr3]
 
 **Challenge** 3 (700 XP)
 
-Echolocation. The whale can’t use its blindsight while deafened. Hold Breath. The whale can hold its breath for 30 minutes. Keen Hearing. The whale has advantage on Wisdom (Perception) checks that rely on hearing. 
+***Echolocation.*** The whale can’t use its blindsight while deafened. 
+
+***Hold Breath.*** The whale can hold its breath for 30 minutes. 
+
+***Keen Hearing.*** The whale has advantage on Wisdom (Perception) checks that rely on hearing. 
 
 **Actions**
 
-Bite. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 21 (5d6 + 4) piercing damage.
+***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 21 (5d6 + 4) piercing damage.

@@ -34,12 +34,18 @@ tags: [medium, humanoid, cr6]
 ***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
 ***Spellcasting.*** The kuo-toa is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:
-Cantrips (at will): guidance, sacred flame, thaumaturgy
-1st level (4 slots): detect magic, sanctuary, shield of faith
-2nd level (3 slots): hold person, spiritual weapon
-3rd level (3 slots): spirit guardians, tongues
-4th level (3 slots): control water, divination
-5th level (2 slots): mass cure wounds, scrying
+
+*Cantrips (at will):* guidance, sacred flame, thaumaturgy
+
+*1st level (4 slots):* detect magic, sanctuary, shield of faith
+
+*2nd level (3 slots):* hold person, spiritual weapon
+
+*3rd level (3 slots):* spirit guardians, tongues
+
+*4th level (3 slots):* control water, divination
+
+*5th level (2 slots):* mass cure wounds, scrying
 
 **Actions**
 

@@ -30,8 +30,10 @@ tags: [medium, humanoid, cr1]
 **Challenge** 1 (200 XP)
 
 ***Innate Spellcasting.*** The yuan-ti’s spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components:
-At will: animal friendship (snakes only)
-3/day each: poison spray, suggestion
+
+*At will:* animal friendship (snakes only)
+
+*3/day each:* poison spray, suggestion
 
 ***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
 

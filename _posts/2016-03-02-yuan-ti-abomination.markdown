@@ -32,9 +32,12 @@ tags: [large, monstrosity, cr7]
 ***Shapechanger.*** The yuan-ti can use its action to polymorph into a Large snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It doesn’t change form if it dies.
 
 ***Innate Spellcasting (Abomination Form Only).*** The yuan-ti’s innate spellcasting ability is Charisma (spell save DC 15). The yuan-ti can innately cast the following spells, requiring no material components:
-At will: animal friendship (snakes only)
-3/day: suggestion
-1/day: fear
+
+*At will:* animal friendship (snakes only)
+
+*3/day:* suggestion
+
+*1/day:* fear
 
 ***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
 

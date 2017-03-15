@@ -27,7 +27,11 @@ tags: [large, monstrosity, cr3]
 
 **Challenge** 3 (700 XP)
 
-***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell. Pack Tactics. The wolf has advantage on an attack roll against a creature if at least one of the wolf’s allies is within 5 feet of the creature and the ally isn’t incapacitated. Snow Camouflage. The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain. 
+***Keen Hearing and Smell.*** The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell. 
+
+***Pack Tactics.*** The wolf has advantage on an attack roll against a creature if at least one of the wolf’s allies is within 5 feet of the creature and the ally isn’t incapacitated. 
+
+***Snow Camouflage.*** The wolf has advantage on Dexterity (Stealth) checks made to hide in snowy terrain. 
 
 **Actions** 
 
