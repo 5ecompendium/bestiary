@@ -23,4 +23,4 @@ tags: [tiny, beast, cr0]
 
 **Challenge** 0 (0 XP)
 
- Water Breathing. The sea horse can breathe only underwater.
+***Water Breathing.*** The sea horse can breathe only underwater.

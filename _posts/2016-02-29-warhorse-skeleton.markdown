@@ -31,4 +31,4 @@ tags: [large, undead, cr1/2]
 
 **Actions** 
 
-Hooves. Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
+***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.

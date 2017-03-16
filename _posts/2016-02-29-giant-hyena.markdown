@@ -25,8 +25,8 @@ tags: [large, beast, cr1]
 
 **Challenge** 1 (200 XP)
 
- Rampage. When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can371 take a bonus action to move up to half its speed and make a bite attack. 
+***Rampage.*** When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can371 take a bonus action to move up to half its speed and make a bite attack. 
 
 **Actions** 
 
-Bite. Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.
+***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.

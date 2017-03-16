@@ -29,6 +29,12 @@ tags: [large, ooze, cr2]
 
 **Challenge** 2 (450 XP) 
 
-Amorphous. The jelly can move through a space as narrow as 1 inch wide without squeezing. Spider Climb. The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.341 
+***Amorphous.*** The jelly can move through a space as narrow as 1 inch wide without squeezing. 
 
-**Actions** Pseudopod. Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage. Reactions Split. When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly’s, rounded down. New jellies are one size smaller than the original jelly.
+***Spider Climb.*** The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.341 
+
+**Actions** 
+
+***Pseudopod.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage. 
+
+***Reactions Split.*** When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly’s, rounded down. New jellies are one size smaller than the original jelly.

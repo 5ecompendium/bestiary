@@ -21,8 +21,7 @@ tags: [tiny, undead, cr0]
 
 **Condition Immunities** charmed, exhaustion, poisoned
 
-**Senses** blindsight 30 ft. (blind beyond this radius),
-passive Perception 10
+**Senses** blindsight 30 ft. (blind beyond this radius), passive Perception 10
 
 **Languages** understands Common but can’t speak
 

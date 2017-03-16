@@ -25,10 +25,14 @@ tags: [medium, humanoid, cr3]
 **Challenge** 3 (700 XP)
 
 ***Spellcasting.*** The skyweaver is an 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
-Cantrips (at will): blade ward, light, message, ray of frost, shocking grasp
-1st level (4 slots): feather fall, mage armor, witch bolt
-2nd level (3 slots): gust of wind, invisibility
-3rd level (3 slots): fly, lightning bolt
+
+*Cantrips (at will):* blade ward, light, message, ray of frost, shocking grasp
+
+*1st level (4 slots):* feather fall, mage armor, witch bolt
+
+*2nd level (3 slots):* gust of wind, invisibility
+
+*3rd level (3 slots):* fly, lightning bolt
 
 **Actions**
 

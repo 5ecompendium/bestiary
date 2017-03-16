@@ -25,8 +25,7 @@ tags: [large, monstrosity, cr1/2]
 
 **Challenge** 1/2 (100 XP)
 
-***Keen Hearing and Smell.*** The worg has advantage on Wisdom (Perception) checks that rely on hearing or 
-smell.
+***Keen Hearing and Smell.*** The worg has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
 **Actions** 
 

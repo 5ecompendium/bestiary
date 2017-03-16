@@ -27,7 +27,7 @@ tags: [medium, humanoid, cr2]
 
 ***Spellcasting.*** The hurricane is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It knows the following sorcerer spells (an asterisked spell appears in this appendix):
 
-*Cantrips (at will):* blade ward, gust,* light, prestidigitation
+*Cantrips (at will):* blade ward, gust*, light, prestidigitation
 
 *1st level (4 slots):* feather fall, jump, thunderwave
 

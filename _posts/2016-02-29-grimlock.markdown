@@ -25,7 +25,7 @@ tags: [medium, humanoid, cr1/4]
 
 **Languages** Undercommon 
 
-**Challenge** 1/4 (50 XP)  
+**Challenge** 1/4 (50 XP)
 
 ***Blind Senses.*** The grimlock can’t use its blindsight while deafened and unable to smell. 
 

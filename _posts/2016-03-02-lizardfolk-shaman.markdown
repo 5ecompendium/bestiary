@@ -28,10 +28,14 @@ tags: [medium, humanoid, cr2]
 ***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.
 
 ***Spellcasting (Lizardfolk Form Only).*** The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The lizardfolk has the following druid spells prepared:
-Cantrips (at will): druidcraft, produce flame, thorn whip
-1st Level (4 slots): entangle, fog cloud
-2nd Level (3 slots): heat metal, spike growth
-3rd Level (2 slots): conjure animals (reptiles only), plant growth
+
+*Cantrips (at will):* druidcraft, produce flame, thorn whip
+
+*1st Level (4 slots):* entangle, fog cloud
+
+*2nd Level (3 slots):* heat metal, spike growth
+
+*3rd Level (2 slots):* conjure animals (reptiles only), plant growth
 
 **Actions**
 

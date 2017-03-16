@@ -23,7 +23,7 @@ tags: [medium, beast, cr1/4]
 
 **Challenge** 1/4 (50 XP)
 
- Keen Smell. The badger has advantage on Wisdom (Perception) checks that rely on smell. 
+***Keen Smell.*** The badger has advantage on Wisdom (Perception) checks that rely on smell. 
 
 **Actions** 
 
