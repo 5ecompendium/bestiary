@@ -22,7 +22,7 @@
 			{% for level in site.data.levels %}
 			<a id="{{level.tag}}"></a>
 			<h2 class="post-list-head jetsHide">{{level.title}}</h2>
-			{% assign post_list = site.tags[{{level.tag}}] | sort: 'title' %}
+			{% assign post_list = site.tags.[{{level.tag}}] | sort: 'title' %}
 			{% for post in post_list %}
 			{% for tag in post.tags %}
 			{% if tag == page.tag %}
