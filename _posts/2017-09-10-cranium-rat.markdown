@@ -25,7 +25,7 @@ tags: [tiny, beast, cr0, volos-guide]
 
 ***Illumination.*** As a bonus action, the cranium rat can shed dim light from its brain in a 5-foot radius or extinguish the light.
 
-***Telepathic Shroud.*** The cranium rat is immune to any effect that would sense its emotions or read its thoughts, as well as i to all divination spells.
+***Telepathic Shroud.*** The cranium rat is immune to any effect that would sense its emotions or read its thoughts, as well as to all divination spells.
 
 **Actions**
 
