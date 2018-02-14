@@ -17,7 +17,7 @@ tags: [medium, swarm, cr5, volos-guide]
 |:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 | 9 (-1) | 14 (+2) | 10 (0) | 15 (+2) | 11 (0) | 14 (+2) |
 
-**Damage Resistances** bludgenoning, piercing, slashing
+**Damage Resistances** bludgeoning, piercing, slashing
 
 **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
@@ -37,7 +37,7 @@ tags: [medium, swarm, cr5, volos-guide]
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny rat. The swarm can't regain hit points or gain temporary hit points.
 
-***Telepathic Shroud.*** The swarm is immune to any effect that would sense its emotions or read its thoughts. as well as to all divination spells.
+***Telepathic Shroud.*** The swarm is immune to any effect that would sense its emotions or read its thoughts, as well as to all divination spells.
 
 **Actions**
 
