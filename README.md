@@ -4,12 +4,6 @@ Bestiary is a mobile-friendly 5e compendium of creatures that organizes them in 
 
 See the latest compiled build here: [http://chisaipete.github.io/bestiary/](http://chisaipete.github.io/bestiary/)
 
-## Changelog
-* 03/21/16: Merged typo fixes and table markdown fix
-* 03/09/16: Added hiding of tag headers during search
-* 03/02/16: Added monsters from online supplements
-* 02/27/16: Added monsters from the SRD
-
 ## To Do
 * Sort by location, sub-types, tags, CR, level, etc.
 * More Monsters from more sources!
