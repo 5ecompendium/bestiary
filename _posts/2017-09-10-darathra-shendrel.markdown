@@ -5,7 +5,7 @@ date: 2017-09-10
 tags: [medium, humanoid, cr0, storm-kings-thunder]
 ---
 
-**Medium humanoid (illuskan humanoid), lawfull good**
+**Medium humanoid (illuskan humanoid), lawful good**
 
 **Armor Class** 14 (breastplate)
 
