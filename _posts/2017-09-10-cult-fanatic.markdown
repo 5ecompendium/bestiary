@@ -9,7 +9,7 @@ tags: [medium, humanoid, cr2, monster-manual]
 
 **Armor Class** 13 (leather armor)
 
-**Hit Points** 22 (6d8+6)
+**Hit Points** 33 (6d8+6)
 
 **Speed** 30 ft.
 
