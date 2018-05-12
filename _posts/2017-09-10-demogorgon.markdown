@@ -47,7 +47,7 @@ At will: detect magic, major image
 
 ***Magic Weapon.*** Demogorgon's weapon attacks are magical
 
-***Two Heads.*** Demogorgon has advantage on saving throws against being blinded, defened, stunned, and knocked unconscious.
+***Two Heads.*** Demogorgon has advantage on saving throws against being blinded, deafened, stunned, and knocked unconscious.
 
 **Actions**
 
