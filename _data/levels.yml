@@ -61,9 +61,9 @@
 - tag: cr17
   name: 17
   title: Challenge 17
-# - tag: cr18
-#   name: 18
-#   title: Challenge 18
+- tag: cr18
+  name: 18
+  title: Challenge 18
 - tag: cr19
   name: 19
   title: Challenge 19
@@ -85,9 +85,9 @@
 # - tag: cr25
 #   name: 25
 #   title: Challenge 25
-# - tag: cr26
-#   name: 26
-#   title: Challenge 26
+- tag: cr26
+  name: 26
+  title: Challenge 26
 # - tag: cr27
 #   name: 27
 #   title: Challenge 27

@@ -2,7 +2,7 @@
 layout: post
 title: "Avatar of Death"
 date: 2017-09-10
-tags: [medium, undead, cr00, monster-manual]
+tags: [medium, undead, cr--, monster-manual]
 ---
 
 **Medium undead, neutral evil**
