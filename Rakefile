@@ -17,10 +17,10 @@ require 'rubygems'
     desc "Only publish blog to gh-pages"
     task :publish do
       Dir.mktmpdir do |tmp|
-        system "mv _site/* ../tmp"
+        system "mv _site/* #{tmp}"
         system "git checkout -B gh-pages"
         system "rm -rf *"
-        system "mv ../tmp/* ."
+        system "mv #{tmp}/* ."
         message = "Site updated at #{Time.now.utc}"
         system "git add ."
         system("git", "commit", "-am", "#{message}")
@@ -33,10 +33,10 @@ require 'rubygems'
     desc "Generate and publish blog to gh-pages"
     task :genpublish => [:generate] do
       Dir.mktmpdir do |tmp|
-        system "mv _site/* ../tmp"
+        system "mv _site/* #{tmp}"
         system "git checkout -B gh-pages"
         system "rm -rf *"
-        system "mv ../tmp/* ."
+        system "mv #{tmp}/* ."
         message = "Site updated at #{Time.now.utc}"
         system "git add ."
         system("git", "commit", "-am", "#{message}")
