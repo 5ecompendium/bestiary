@@ -1,30 +1,891 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml" />
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Bestiary</title>
+    <description>A searchable D&amp;D 5e creature list.</description>
+    <link>http://chisaipete.github.io/bestiary/</link>
+    <atom:link href="http://chisaipete.github.io/bestiary/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 18 Jun 2018 23:53:35 -0700</pubDate>
+    <lastBuildDate>Mon, 18 Jun 2018 23:53:35 -0700</lastBuildDate>
+    <generator>Jekyll v3.8.3</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>Yan-C-Bin</title>
+        <description>&lt;p&gt;&lt;strong&gt;Huge elemental, neutral evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 22&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 283 (21d12+147)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 50 ft., fly 150 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18 (+4)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;24 (+7)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;24 (+7)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;21 (+5)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;23 (+6)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Saving Throws&lt;/strong&gt; Dex +13, Wis +11, Cha +12&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Resistances&lt;/strong&gt; cold, fire, bludgeoning, piercing, and slashing from nonmagical weapons&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Immunities&lt;/strong&gt; lightning, poison, thunder&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Condition Immunities&lt;/strong&gt; charmed, frightened, paralyzed, petrified, poisoned, prone, restrained&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; blindsight 120 ft., passive perception 15&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Auran&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 18 (20,000 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Air Form&lt;/em&gt;&lt;/strong&gt; Yan-C-Bin can enter a hostile creature’s space and stop there. He can move through a space as narrow as 1 inch wide without squeezing if air could pass through that space.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Empowered Attacks.&lt;/em&gt;&lt;/strong&gt; Yan-C-Bin’s slam attacks are treated as magical for the purpose of bypassing resistance and immunity to nonmagical weapons.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Innate Spellcasting.&lt;/em&gt;&lt;/strong&gt; Yan-C-Bin’s innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;At will: gust of wind, invisibility, lightning bolt&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;2/day each: chain lightning, cloudkill, haste&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Legendary Resistance (3/Day).&lt;/em&gt;&lt;/strong&gt; If Yan-C-Bin fails a saving throw, he can choose to succeed instead.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Magic Resistance.&lt;/em&gt;&lt;/strong&gt; Yan-C-Bin has advantage on saving throws against spells and other magical effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack.&lt;/em&gt;&lt;/strong&gt; Yan-C-Bin makes two slam attacks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Slam.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 20 (3d8 + 7) force damage plus 10 (3d6) lightning damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Thundercrack (Recharges after a Short or Long Rest).&lt;/em&gt;&lt;/strong&gt;  Yan-C-Bin unleashes a terrible thundercrack in a 100-foot-radius sphere centered on himself. All other creatures in the area must succeed on a DC 24 Constitution saving throw or take 31 (9d6) thunder damage and be deafened for 1 minute. On a successful save, a creature takes half as much damage and is deafened until the start of Yan-C-Bin’s next turn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Change Shape.&lt;/em&gt;&lt;/strong&gt; Yan-C-Bin polymorphs into a Medium humanoid. While in polymorphed form, a swirling breeze surrounds him, his eyes are pale and cloudy, and he loses the Air Form trait. He can remain in polymorphed form for up to 1 hour. Reverting to his true form requires an action.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Summon Elementals (1/Day).&lt;/em&gt;&lt;/strong&gt; Yan-C-Bin summons up to three air elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Yan-C-Bin, and disappear if Yan-C-Bin is reduced to 0 hit points.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Legendary Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Yan-C-Bin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature’s turn. Yan-C-Bin regains spent legendary actions at the start of its turn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Peal of Thunder.&lt;/em&gt;&lt;/strong&gt; Yan-C-Bin unleashes a peal of thunder that can be heard out to a range of 300 feet. Each creature within 30 feet of Yan-C-Bin takes 5 (1d10) thunder damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Teleport (Costs 2 Actions).&lt;/em&gt;&lt;/strong&gt; Yan-C-Bin magically teleports up to 120 feet to an unoccupied space he can see. Anything Yan-CBin is wearing or carrying is teleported with him.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Suffocate (Costs 3 Actions).&lt;/em&gt;&lt;/strong&gt; Yan-C-Bin steals the air of one breathing creature he can see within 60 feet of him. The target must make a DC 21 Constitution saving throw. On a failed save, the target drops to 0 hit points and is dying. On a successful save, the target can’t breathe or speak until the start of its next turn.&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Feb 2018 00:00:00 -0800</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/Yan-C-Bin</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/Yan-C-Bin</guid>
+        
+        <category>huge</category>
+        
+        <category>elemental</category>
+        
+        <category>cr18</category>
+        
+        <category>elemental-evil</category>
+        
+        
+        <category>creatures</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Zuggtmoy</title>
+        <description>&lt;p&gt;&lt;strong&gt;Large fiend (demon), chaotic evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 18 (natural armor)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 304 (32d10+128)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 30 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;22 (+6)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;18 (+4)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;20 (+5)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;19 (+4)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;24 (+7)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Saving Throws&lt;/strong&gt; Dex +9, Con +11, Wis +11&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; Perception +11&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Resistances&lt;/strong&gt; cold, fire, lightning&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Immunities&lt;/strong&gt; poison; bludgeoning, piercing, and slashing that is nonmagical&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Condition Immunities&lt;/strong&gt; charmed, exhaustion, frightened, poisoned&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; truesight 120 ft.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; all, telepathy 120 ft.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 23 (50,000 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Innate Spellcasting.&lt;/em&gt;&lt;/strong&gt; Zuggtmoy’s spellcasting ability is Charisma (spell save DC 22). She can innately cast the following spells, requiring no material components:&lt;/p&gt;
+
+&lt;p&gt;At will: detect magic, locate animals or plants, ray of sickness&lt;/p&gt;
+
+&lt;p&gt;3/day each: dispel magic, ensnaring strike, entangle, plant growth&lt;/p&gt;
+
+&lt;p&gt;1/day: etherealness, teleport&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Legendary Resistance (3/Day).&lt;/em&gt;&lt;/strong&gt; If Zuggtmoy fails a saving throw, she can choose to succeed instead.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Magic Resistance.&lt;/em&gt;&lt;/strong&gt; Zuggtmoy has advantage on saving throws against spells and other magical effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Magic Weapon.&lt;/em&gt;&lt;/strong&gt; Zuggtmoy’s weapon attacks are magical.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack.&lt;/em&gt;&lt;/strong&gt; Zuggtmoy makes four pseudopod attacks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pseudopod.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage plus 9 (2d8) poison damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Infestation Spores (3/Day).&lt;/em&gt;&lt;/strong&gt; Zuggtmoy releases spores that burst out in cloud fills a 20-foof-radius sphere centered on her, and it lingers for 1 minute. Any flesh-and-blood creature in the cloud when it appears, or that enters it later, must make a DC 19 Constitution saving throw. On a successful save, the creature can’t be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the spores of Zuggtmoy and also gains a random form of madness (determined by rolling on the Madness of Zuggtmoy table) that lasts until the creature is cured of the disease or dies. While infected in this way, the creature can’t be reinfected, and it must repeat the saving throw at the end of every 24 hours, ending the infection on a success. On a failure, the infected creature’s body is slowly taken over by fungal growth, and after three such failed saves, the creature dies and is reanimated as a spore servant if it’s a type of creature that can be (see the “Myconids” entry in the Monster Manual).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Mind Control Spores (Recharge 5-6).&lt;/em&gt;&lt;/strong&gt; Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on her, and it lingers for 1 minute. Humanoids and beasts in the cloud when it appears, or that enter it later, must make a DC 19 Wisdom saving throw. On a successful save, the creature can’t be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the influence of Zuggtmoy for 24 hours. While infected, the creature is charmed by her and can’t be reinfected by these spores.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Legendary Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Zuggtmoy can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature’s turn. Zuggtmoy regains spent legendary actions at the start of her turn.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Attack.&lt;/em&gt;&lt;/strong&gt; Zuggtmoy makes one pseudopod attack.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Exert Will.&lt;/em&gt;&lt;/strong&gt; One creature charmed by Zuggtmoy that she can see must use its reaction to move up to its speed as she directs or to make a weapon attack against a target that she designates.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/zuggtmoy</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/zuggtmoy</guid>
+        
+        <category>large</category>
+        
+        <category>fiend</category>
+        
+        <category>cr23</category>
+        
+        <category>out-of-the-abyss</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Zombie</title>
+        <description>&lt;p&gt;&lt;strong&gt;Medium undead, neutral evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 8&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 22 (3d8+9)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 20 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6 (-2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3 (-4)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;6 (-2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;5 (-3)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Saving Throws&lt;/strong&gt; Wis +0&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Condition Immunities&lt;/strong&gt; poisoned&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; darkvision 60 ft.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; understands all languages it spoke in life but can’t speak&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 1/4 (50 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Undead Fortitude.&lt;/em&gt;&lt;/strong&gt; If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Slam.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/zombie</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/zombie</guid>
+        
+        <category>medium</category>
+        
+        <category>undead</category>
+        
+        <category>cr1/4</category>
+        
+        <category>monster-manual</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Zi Liang</title>
+        <description>&lt;p&gt;&lt;strong&gt;Medium humanoid (shou human), chaotic good&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 15&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 22 (5d8)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 30 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11 (0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11 (0)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; Acrobatics +4, Athletics +3, Perception +5, Stealth +4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Common, Elvish, Goblin&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 0 (10 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Unarmored Defense.&lt;/em&gt;&lt;/strong&gt; While Zi is wearing no armor and wielding no shield, her AC includes her Wisdom modifier.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Roleplaying Information.&lt;/em&gt;&lt;/strong&gt; Zi Liang is a devout worshiper of Chauntea, the Earth Mother. She has considerably less faith in Goldenfields’ defenders, so she patrols the temple-farm during her off-duty hours.&lt;/p&gt;
+
+&lt;p&gt;Ideal: “If we faithfully tend to our gardens and our fields, Chauntea will smile upon us.”&lt;/p&gt;
+
+&lt;p&gt;Bond: “Goldenfields is the breadbasket of the North. People depend on its safety and prosperity, and I’ll do what must be done to protect it.”&lt;/p&gt;
+
+&lt;p&gt;Flaw: “I don’t trust authority. I do what my heart says is right.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack.&lt;/em&gt;&lt;/strong&gt; Zi makes two melee attacks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Quarterstaff.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) bludgeoning damage, or 5 (1d8+1) bludgeoning damage if used with both hands.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sling.&lt;/em&gt;&lt;/strong&gt; Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4+2) bludgeoning damage. Zi carries twenty sling stones.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/zi-liang</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/zi-liang</guid>
+        
+        <category>medium</category>
+        
+        <category>humanoid</category>
+        
+        <category>cr0</category>
+        
+        <category>storm-kings-thunder</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Yusdrayl</title>
+        <description>&lt;p&gt;&lt;strong&gt;Small humanoid (kobold), lawful evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 12 (15 with mage armor)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 16 (3d6+6)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 30 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;8 (-1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;15 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 (0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10 (0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; Arcana +2, Insight +2, Stealth +4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; darkvision 60 ft.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Common, Draconic&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 1 (200 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Source.&lt;/em&gt;&lt;/strong&gt; tales from the yawning portal,  page 248&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Spellcasting.&lt;/em&gt;&lt;/strong&gt; Yusdrayl is a 2nd-level spellcaster. Her spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She knows the following sorcerer spells:&lt;/p&gt;
+
+&lt;p&gt;Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp&lt;/p&gt;
+
+&lt;p&gt;1st level (4 slots): burning hands, chromatic orb, mage armor&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sunlight Sensitivity.&lt;/em&gt;&lt;/strong&gt; While in sunlight, Yusdrayl has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Pack Tactics.&lt;/em&gt;&lt;/strong&gt; Yusdrayl has advantage on an attack roll against a creature if at least one of her allies is within 5 feet of the creature and the ally isn’t incapacitated.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Dagger.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/yusdrayl</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/yusdrayl</guid>
+        
+        <category>small</category>
+        
+        <category>humanoid</category>
+        
+        <category>cr1</category>
+        
+        <category>tales-from-the-yawning-portal</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Yuan-ti Pureblood</title>
+        <description>&lt;p&gt;&lt;strong&gt;Medium humanoid (yuan-ti), neutral evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 11&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 40 (9d8)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 30 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11 (0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;11 (0)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; Deception +6, Perception +3, Stealth +3&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Immunities&lt;/strong&gt; poison&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Condition Immunities&lt;/strong&gt; poisoned&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; darkvision 60 ft.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Abyssal, Common, Draconic&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 1 (200 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Innate Spellcasting.&lt;/em&gt;&lt;/strong&gt; The yuan-ti’s spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components:&lt;/p&gt;
+
+&lt;p&gt;At will: animal friendship (snakes only)&lt;/p&gt;
+
+&lt;p&gt;3/day each: poison spray, suggestion&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Magic Resistance.&lt;/em&gt;&lt;/strong&gt; The yuan-ti has advantage on saving throws against spells and other magical effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack.&lt;/em&gt;&lt;/strong&gt; The yuan-ti makes two melee attacks.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Scimitar.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Shortbow.&lt;/em&gt;&lt;/strong&gt; Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 4 (1d6 + 1) piercing damage plus 7 (2d6) poison damage.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/yuan-ti-pureblood</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/yuan-ti-pureblood</guid>
+        
+        <category>medium</category>
+        
+        <category>humanoid</category>
+        
+        <category>cr1</category>
+        
+        <category>monster-manual</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Yuan-ti Pit Master</title>
+        <description>&lt;p&gt;&lt;strong&gt;Medium monstrosity (shapechanger, yuan-ti), neutral evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 14 (natural armor)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 88 (16d8+16)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 30 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Saving Throws&lt;/strong&gt; Wis +3, Cha +5&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; Deception +5, Stealth +4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Immunities&lt;/strong&gt; poison&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Condition Immunities&lt;/strong&gt; poisoned&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; darkvision 120 ft. (penetrates magical darkness)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Abyssal, Common, Draconic&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 5 (1,800 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Shapechanger.&lt;/em&gt;&lt;/strong&gt; The yuan-ti can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It doesn’t change form if it dies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Innate Spellcasting (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan-ti’s innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:&lt;/p&gt;
+
+&lt;p&gt;At will: animal friendship (snakes only) 3/day: suggestion&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Magic Resistance.&lt;/em&gt;&lt;/strong&gt; The yuan-ti has advantage on saving throws against spells and other magical effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Poison’s Disciple (2/Day).&lt;/em&gt;&lt;/strong&gt; The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) poison damage to the target.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Spellcasting (Yuan-ti Farm Only).&lt;/em&gt;&lt;/strong&gt; The yuan-ti is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:&lt;/p&gt;
+
+&lt;p&gt;Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll), friends, guidance, mage hand, message, poison spray&lt;/p&gt;
+
+&lt;p&gt;1st-3rd level (2 3rd-level slots): command, counterspell, hellish rebuke, invisibility, misty step, unseen servant, vampiric touch&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Variant: Chameleon Skin.&lt;/em&gt;&lt;/strong&gt; The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Variant: Shed Skin (1/Day).&lt;/em&gt;&lt;/strong&gt; The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan-ti makes two bite attacks using its snake arms.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bite.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) piercing damage plus 7 (2d6) poison damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Merrshaulk’s Slumber (1/Day).&lt;/em&gt;&lt;/strong&gt; The yuan-ti targets up to five creatures that it can see within 60 feet of it. Each target must succeed on a DC 13 Constitution saving throw or fall into a magical sleep and be unconscious for 10 minutes. A sleeping target awakens if it takes damage or if someone uses an action to shake or slap it awake. This magical sleep has no effect on a creature immune to being charmed.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/yuan-ti-pit-master</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/yuan-ti-pit-master</guid>
+        
+        <category>medium</category>
+        
+        <category>monstrosity</category>
+        
+        <category>cr5</category>
+        
+        <category>volos-guide</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Yuan-ti Nightmare Speaker</title>
+        <description>&lt;p&gt;&lt;strong&gt;Medium monstrosity (shapechanger, yuan-ti), neutral evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 14 (natural armor)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 71 (13d8+13)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 30 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Saving Throws&lt;/strong&gt; Wis +3, Cha +5&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; Deception +5, Stealth +4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Immunities&lt;/strong&gt; poison&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Condition Immunities&lt;/strong&gt; poisoned&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; darkvision 120 ft. (penetrates magical darkness)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Abyssal, Common, Draconic&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 4 (1,100 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Shapechanger.&lt;/em&gt;&lt;/strong&gt; The yuan-ti can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. If it dies, it stays in its current form.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Death Fangs (2/Day).&lt;/em&gt;&lt;/strong&gt; The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) necrotic damage to the target.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Innate Spellcasting (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan-ti’s innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:&lt;/p&gt;
+
+&lt;p&gt;At will: animal friendship (snakes only) 3/day: suggestion&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Magic Resistance.&lt;/em&gt;&lt;/strong&gt; The yuan-ti has advantage on saving throws against spells and other magical effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Spellcasting (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan-ti is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:&lt;/p&gt;
+
+&lt;p&gt;Cantrip (at will): chill touch, eldritch blast (range 300 ft., +3 bonus to each damage roll), mage hand, message, poison spray, prestidigitation&lt;/p&gt;
+
+&lt;p&gt;1st-3rd level (2 3rd-level slots): arms of Hadar, darkness, fear, hex, hold person, hunger of Hadar, witch bolt&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Variant: Chameleon Skin.&lt;/em&gt;&lt;/strong&gt; The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Variant: Shed Skin (1/Day).&lt;/em&gt;&lt;/strong&gt; The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan-ti makes one constrict attack and one scimitar attack.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Constrict.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 10 ft., one target. Hit: 10 (2d6+3) bludgeoning damage, and the target is grappled (escape DC 14) if it is a Large or smaller creature. Until this grapple ends, the target is restrained, and the yuan-ti can’t constrict another target.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Scimitar (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) slashing damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Invoke Nightmare (Recharges after a Short or Long Rest).&lt;/em&gt;&lt;/strong&gt; The yuan-ti taps into the nightmares of a creature it can see within 60 feet of it and creates an illusory, immobile manifestation of the creature’s deepest fears, visible only to that creature. The target must make a DC 13 Intelligence saving throw. On a failed save, the target takes 11 (2d10) psychic damage and is frightened of the manifestation, believing it to be real. The yuan-ti must concentrate to maintain the illusion (as if concentrating on a spell), which lasts for up to 1 minute and can’t be harmed. The target can repeat the saving throw at the end of each of its turns, ending the illusion on a success, or taking 11 (2d10) psychic damage on a failure.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/yuan-ti-nightmare-speaker</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/yuan-ti-nightmare-speaker</guid>
+        
+        <category>medium</category>
+        
+        <category>monstrosity</category>
+        
+        <category>cr4</category>
+        
+        <category>volos-guide</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Yuan-ti Mind Whisperer</title>
+        <description>&lt;p&gt;&lt;strong&gt;Medium monstrosity (shapechanger, yuan-ti), neutral evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 14 (natural armor)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 71 (13d8+13)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 30 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Saving Throws&lt;/strong&gt; Wis +4, Cha +5&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; Deception +5, Stealth +4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Immunities&lt;/strong&gt; poison&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Condition Immunities&lt;/strong&gt; poisoned&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; darkvision 120 ft. (penetrates magical darkness)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Abyssal, Common, Draconic&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 4 (1,100 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Shapechanger.&lt;/em&gt;&lt;/strong&gt; The yuan-ti can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. If it dies, it stays in its current form.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Innate Spellcasting (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan-ti’s innate spellcasting ability is Charisma (spell save DC 13). The yuan-ti can innately cast the following spells, requiring no material components:&lt;/p&gt;
+
+&lt;p&gt;At will: animal friendship (snakes only)&lt;/p&gt;
+
+&lt;p&gt;3/day: suggestion&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Magic Resistance.&lt;/em&gt;&lt;/strong&gt; The yuan-ti has advantage on saving throws against spells and other magical effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Mind Fangs (2/Day).&lt;/em&gt;&lt;/strong&gt; The first time the yuan-ti hits with a melee attack on its turn, it can deal an extra 16 (3d10) psychic damage to the target.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Spellcasting (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan-ti is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:&lt;/p&gt;
+
+&lt;p&gt;Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll),friends, message, minor illusion, poison spray, prestidigitation&lt;/p&gt;
+
+&lt;p&gt;1st-3rd level (2 3rd-level slots): charm person, crown of madness, detect thoughts, expeditious retreat, fly, hypnotic pattern, illusory script&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Sseth’s Blessing.&lt;/em&gt;&lt;/strong&gt; When the yuan-ti reduces an enemy to 0 hit points, the yuan-ti gains 9 temporary hit points.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Variant: Chameleon Skin.&lt;/em&gt;&lt;/strong&gt; The yuan-ti has advantage on Dexterity (Stealth) checks made to hide.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Variant: Shed Skin (1/Day).&lt;/em&gt;&lt;/strong&gt; The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan-ti makes one bite attack and one scimitar attack.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bite.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) piercing damage plus 7 (2d6) poison damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Scimitar (Yuan-ti Form Only).&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) slashing damage.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/yuan-ti-mind-whisperer</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/yuan-ti-mind-whisperer</guid>
+        
+        <category>medium</category>
+        
+        <category>monstrosity</category>
+        
+        <category>cr4</category>
+        
+        <category>volos-guide</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
+      <item>
+        <title>Yuan-ti Malison Type 3</title>
+        <description>&lt;p&gt;&lt;strong&gt;Medium monstrosity (shapechanger, yuan-ti), neutral evil&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Armor Class&lt;/strong&gt; 12&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Hit Points&lt;/strong&gt; 66 (12d8+12)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Speed&lt;/strong&gt; 30 ft.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;STR&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;DEX&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CON&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;INT&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;WIS&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;CHA&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;13 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;14 (+2)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;12 (+1)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;16 (+3)&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt; Deception +5, Stealth +4&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Damage Immunities&lt;/strong&gt; poison&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Condition Immunities&lt;/strong&gt; poisoned&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Senses&lt;/strong&gt; darkvision 60 ft.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Languages&lt;/strong&gt; Abyssal, Common, Draconic&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Challenge&lt;/strong&gt; 3 (700 XP)&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Shapechanger.&lt;/em&gt;&lt;/strong&gt; The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It doesn’t change form if it dies.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Innate Spellcasting (Yuan_ti Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan_ti’s innate spellcasting ability is Charisma (spell save DC 13). The yuan_ti can innately cast the following spells, requiring no material components:&lt;/p&gt;
+
+&lt;p&gt;At will: animal friendship (snakes only)&lt;/p&gt;
+
+&lt;p&gt;3/day: suggestion&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Magic Resistance.&lt;/em&gt;&lt;/strong&gt; The yuan-ti has advantage on saving throws against spells and other magical effects.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Malison Type.&lt;/em&gt;&lt;/strong&gt; The yuan_ti has one of the following types:&lt;/p&gt;
+
+&lt;p&gt;Type 1: Human body with snake head&lt;/p&gt;
+
+&lt;p&gt;Type 2: Human head and body with snakes for arms&lt;/p&gt;
+
+&lt;p&gt;Type 3: Human head and upper body with a serpentine lower body instead of legs&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Actions&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Multiattack (Yuan_ti Form Only).&lt;/em&gt;&lt;/strong&gt; The yuan_ti makes two ranged attacks or two melee attacks, but can constrict only once.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Bite (Snake Form Only).&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 5 (1d4 + 3) piercing damage plus 7 (2d6) poison damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Constrict.&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13). Until this grapple ends, the target is restrained, and the yuan_ti can’t constrict another target.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Scimitar (Yuan_ti Form Only).&lt;/em&gt;&lt;/strong&gt; Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;Longbow (Yuan_ti Form Only).&lt;/em&gt;&lt;/strong&gt; Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 10 Sep 2017 00:00:00 -0700</pubDate>
+        <link>http://chisaipete.github.io/bestiary/creatures/yuan-ti-malison-type-3</link>
+        <guid isPermaLink="true">http://chisaipete.github.io/bestiary/creatures/yuan-ti-malison-type-3</guid>
+        
+        <category>medium</category>
+        
+        <category>monstrosity</category>
+        
+        <category>cr3</category>
+        
+        <category>monster-manual</category>
+        
+        
+        <category>creatures</category>
+        
+      </item>
+    
   </channel>
 </rss>

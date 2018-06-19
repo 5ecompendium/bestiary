@@ -1,39 +1,5012 @@
----
-layout: default
----
-{% assign letters = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z" | split: ' ' %}
+<!DOCTYPE html>
+<html>
+
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+    <title>Bestiary</title>
+    <meta name="description" content="A searchable D&D 5e creature list.">
+
+    <link rel="stylesheet" href="/bestiary/css/main.css">
+    <link rel="canonical" href="http://chisaipete.github.io/bestiary/byname">
+    <script src="https://use.typekit.net/dle2jou.js"></script>
+    <script src="/bestiary/js/jets.min.js"></script>
+    <script>try{Typekit.load();}catch(e){}</script>
+    <script type="text/javascript">
+    	function menuClick() {
+    		if ( document.getElementById("menu").className.match(/(?:^|\s)show(?!\S)/) ) {
+    			document.getElementById("menu").className = document.getElementById("menu").className.replace ( /(?:^|\s)show(?!\S)/g , '' )
+    		}
+    		else {
+    			document.getElementById("menu").className += " show";
+    		}
+  		}
+
+  		window.onload = function(){
+        document.getElementById("menuIcon").addEventListener( 'click' , menuClick );
+	    }
+    </script>
+</head>
+
+
+  <body>
+
+    <header class="site-header">
+  <a id="top"></a>
+  <div class="wrapper">
+    <nav class="site-nav">
+      <a class="site-title" href="/bestiary/">Bestiary</a>
+      <a href="#" id="menuIcon" class="menu-icon">
+        <svg viewBox="0 0 18 15">
+          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
+          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
+          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
+        </svg>
+      </a>
+
+      <div id="menu" class="trigger">
+        
+          <a class="page-link" href="/bestiary/tags/aberration.html">Aberrations</a>
+        
+          <a class="page-link" href="/bestiary/tags/beast.html">Beasts</a>
+        
+          <a class="page-link" href="/bestiary/tags/celestial.html">Celestials</a>
+        
+          <a class="page-link" href="/bestiary/tags/construct.html">Constructs</a>
+        
+          <a class="page-link" href="/bestiary/tags/dragon.html">Dragons</a>
+        
+          <a class="page-link" href="/bestiary/tags/elemental.html">Elementals</a>
+        
+          <a class="page-link" href="/bestiary/tags/fey.html">Fey</a>
+        
+          <a class="page-link" href="/bestiary/tags/fiend.html">Fiends</a>
+        
+          <a class="page-link" href="/bestiary/tags/giant.html">Giants</a>
+        
+          <a class="page-link" href="/bestiary/tags/humanoid.html">Humanoids</a>
+        
+          <a class="page-link" href="/bestiary/tags/monstrosity.html">Monstrosities</a>
+        
+          <a class="page-link" href="/bestiary/tags/ooze.html">Oozes</a>
+        
+          <a class="page-link" href="/bestiary/tags/plant.html">Plants</a>
+        
+          <a class="page-link" href="/bestiary/tags/undead.html">Undead</a>
+        
+      </div>
+    </nav>
+
+  </div>
+
+</header>
+
+
+    <div class="page-content">
+      <div class="wrapper">
+        
 <div class="home">
   <h1 class="page-heading">All Creatures</h1>
   <p id="creatureSearch">Search by name: <input type="search" id="jetsSearch"></p>
-  <p id="sortBy">Sort By: <a href="{{site.baseurl}}/">CR</a> <a href="{{site.baseurl}}/byname">name</a></p>
+  <p id="sortBy">Sort By: <a href="/bestiary/">CR</a> <a href="/bestiary/byname">name</a></p>
   <dl class="tag-list">
     <dt>Letter:</dt>
-    {% for l in letters %}
+    
     <dd>
-      <a href="#{{l}}">{{l}}</a>
+      <a href="#A">A</a>
     </dd>
-    {% endfor %}
+    
+    <dd>
+      <a href="#B">B</a>
+    </dd>
+    
+    <dd>
+      <a href="#C">C</a>
+    </dd>
+    
+    <dd>
+      <a href="#D">D</a>
+    </dd>
+    
+    <dd>
+      <a href="#E">E</a>
+    </dd>
+    
+    <dd>
+      <a href="#F">F</a>
+    </dd>
+    
+    <dd>
+      <a href="#G">G</a>
+    </dd>
+    
+    <dd>
+      <a href="#H">H</a>
+    </dd>
+    
+    <dd>
+      <a href="#I">I</a>
+    </dd>
+    
+    <dd>
+      <a href="#J">J</a>
+    </dd>
+    
+    <dd>
+      <a href="#K">K</a>
+    </dd>
+    
+    <dd>
+      <a href="#L">L</a>
+    </dd>
+    
+    <dd>
+      <a href="#M">M</a>
+    </dd>
+    
+    <dd>
+      <a href="#N">N</a>
+    </dd>
+    
+    <dd>
+      <a href="#O">O</a>
+    </dd>
+    
+    <dd>
+      <a href="#P">P</a>
+    </dd>
+    
+    <dd>
+      <a href="#Q">Q</a>
+    </dd>
+    
+    <dd>
+      <a href="#R">R</a>
+    </dd>
+    
+    <dd>
+      <a href="#S">S</a>
+    </dd>
+    
+    <dd>
+      <a href="#T">T</a>
+    </dd>
+    
+    <dd>
+      <a href="#U">U</a>
+    </dd>
+    
+    <dd>
+      <a href="#V">V</a>
+    </dd>
+    
+    <dd>
+      <a href="#W">W</a>
+    </dd>
+    
+    <dd>
+      <a href="#X">X</a>
+    </dd>
+    
+    <dd>
+      <a href="#Y">Y</a>
+    </dd>
+    
+    <dd>
+      <a href="#Z">Z</a>
+    </dd>
+    
   </dl>
-  {% assign post_list = site.posts | sort: 'title' %}
-  {% assign cur_letter = post_list.first.title | slice: 0 %}
-  <a id="{{cur_letter}}"></a>
-  <h2 class="post-list-head jetsHide">{{cur_letter}}</h2>
+  
+  
+  <a id="A"></a>
+  <h2 class="post-list-head jetsHide">A</h2>
   <ul class="post-list jetsContent">
-  {% for post in post_list %}
-    {% assign f_letter = post.title | slice: 0 %}
-    {% if f_letter != cur_letter %}
-      {% assign cur_letter = f_letter %}
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/aarakocra">Aarakocra</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/abjurer">Abjurer</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/aboleth">Aboleth</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/abominable-yeti">Abominable Yeti</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/acolyte">Acolyte</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/adult-black-dragon">Adult Black Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/adult-blue-dracolich">Adult Blue Dracolich</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/adult-blue-dragon">Adult Blue Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/adult-brass-dragon">Adult Brass Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/adult-bronze-dragon">Adult Bronze Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/adult-copper-dragon">Adult Copper Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/adult-gold-dragon">Adult Gold Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/adult-green-dragon">Adult Green Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/adult-red-dragon">Adult Red Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/adult-silver-dragon">Adult Silver Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/adult-white-dragon">Adult White Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/aerisi-kalinoth">Aerisi Kalinoth</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/air-elemental">Air Elemental</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/air-elemental-myrmidon">Air Elemental Myrmidon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/alhoon">Alhoon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/allosaurus">Allosaurus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ambush-drake">Ambush Drake</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ancient-black-dragon">Ancient Black Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ancient-blue-dragon">Ancient Blue Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ancient-brass-dragon">Ancient Brass Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ancient-bronze-dragon">Ancient Bronze Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ancient-copper-dragon">Ancient Copper Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ancient-gold-dragon">Ancient Gold Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ancient-green-dragon">Ancient Green Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ancient-red-dragon">Ancient Red Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ancient-silver-dragon">Ancient Silver Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ancient-white-dragon">Ancient White Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/androsphinx">Androsphinx</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/animated-armor">Animated Armor</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/animated-table">Animated Table</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ankheg">Ankheg</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ankylosaurus">Ankylosaurus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/annis-hag">Annis Hag</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ape">Ape</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/apprentice-wizard">Apprentice Wizard</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/arcanaloth">Arcanaloth</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/archdruid">Archdruid</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/archer">Archer</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/archmage">Archmage</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/assassin">Assassin</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/augrek-brighthelm">Augrek Brighthelm</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/aurochs">Aurochs</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/avatar-of-death">Avatar of Death</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/awakened-shrub">Awakened Shrub</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/awakened-tree">Awakened Tree</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/awakened-zurkhwood">Awakened Zurkhwood</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/axe-beak">Axe Beak</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/azbara-jos">Azbara Jos</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/azer">Azer</a>
+    </li>  
+  
+    
+    
+      
       </ul>
       <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
-      <a id="{{cur_letter}}"></a>
-      <h2 class="post-list-head jetsHide">{{cur_letter}}</h2>
+      <a id="B"></a>
+      <h2 class="post-list-head jetsHide">B</h2>
       <ul class="post-list jetsContent">
-    {% endif %}
+    
     <li>
-      <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      <a class="post-link" href="/bestiary/creatures/baba-lysaga">Baba Lysaga</a>
     </li>  
-  {% endfor %}
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/baba-lysagas-creeping-hut">Baba Lysaga's Creeping Hut</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/babau">Babau</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/baboon">Baboon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/badger">Badger</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/balor">Balor</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/banderhobb">Banderhobb</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bandit">Bandit</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bandit-captain">Bandit Captain</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/banshee">Banshee</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/baphomet">Baphomet</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/barbed-devil">Barbed Devil</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bard">Bard</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/barghest">Barghest</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/barlgura">Barlgura</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/barovian-witch">Barovian Witch</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/basilisk">Basilisk</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bastian-thermandar">Bastian Thermandar</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bat">Bat</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bearded-devil">Bearded Devil</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/behir">Behir</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/beholder">Beholder</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/beholder-zombie">Beholder Zombie</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/beldora">Beldora</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/berserker">Berserker</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bheur-hag">Bheur Hag</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/black-bear">Black Bear</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/black-dragon-wyrmling">Black Dragon Wyrmling</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/black-earth-guard">Black Earth Guard</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/black-earth-priest">Black Earth Priest</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/black-guard-drake">Black Guard Drake</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/black-pudding">Black Pudding</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/blackguard">Blackguard</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/blagothkus">Blagothkus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/blink-dog">Blink Dog</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/blood-hawk">Blood Hawk</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/blue-dragon-wyrmling">Blue Dragon Wyrmling</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/blue-guard-drake">Blue Guard Drake</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/blue-slaad">Blue Slaad</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/boar">Boar</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bodak">Bodak</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/boggle">Boggle</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bone-devil">Bone Devil</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bone-devil-polearm">Bone Devil Polearm</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bone-naga-(guardian)">Bone Naga (Guardian)</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bone-naga-(spirit)">Bone Naga (Spirit)</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/brass-dragon-wyrmling">Brass Dragon Wyrmling</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bridesmaid-of-zuggtmoy">Bridesmaid of Zuggtmoy</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/brontosaurus">Brontosaurus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bronze-dragon-wyrmling">Bronze Dragon Wyrmling</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/broom-of-animated-attack">Broom of Animated Attack</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/brown-bear">Brown Bear</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bugbear">Bugbear</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bugbear-chief">Bugbear Chief</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bulette">Bulette</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/bullywug">Bullywug</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/burrowshark">Burrowshark</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="C"></a>
+      <h2 class="post-list-head jetsHide">C</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/cambion">Cambion</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/camel">Camel</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/captain-othelstan">Captain Othelstan</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/carrion-crawler">Carrion Crawler</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/cat">Cat</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/catoblepas">Catoblepas</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/cave-bear">Cave Bear</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/cave-fisher">Cave Fisher</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/centaur">Centaur</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/centaur-mummy">Centaur Mummy</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/chain-devil">Chain Devil</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/chamberlain-of-zuggtmoy">Chamberlain of Zuggtmoy</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/champion">Champion</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/chasme">Chasme</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/chimera">Chimera</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/chitine">Chitine</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/choldrith">Choldrith</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/chuul">Chuul</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/chuul-spore-servant">Chuul Spore Servant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/clay-golem">Clay Golem</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/cloaker">Cloaker</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/cloud-giant">Cloud Giant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/cloud-giant-smiling-one">Cloud Giant Smiling One</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/cockatrice">Cockatrice</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/commoner">Commoner</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/conjurer">Conjurer</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/constrictor-snake">Constrictor Snake</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/copper-dragon-wyrmling">Copper Dragon Wyrmling</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/couatl">Couatl</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/cow">Cow</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/crab">Crab</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/crag-cat">Crag Cat</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/cranium-rat">Cranium Rat</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/crawling-claw">Crawling Claw</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/crocodile">Crocodile</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/crushing-wave-priest">Crushing Wave Priest</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/crushing-wave-reaver">Crushing Wave Reaver</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/cult-fanatic">Cult Fanatic</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/cultist">Cultist</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/cyclops">Cyclops</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="D"></a>
+      <h2 class="post-list-head jetsHide">D</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/dao">Dao</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/darathra-shendrel">Darathra Shendrel</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/dark-tide-knight">Dark Tide Knight</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/darkling">Darkling</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/darkling-elder">Darkling Elder</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/darkmantle">Darkmantle</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/darz-helgar">Darz Helgar</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/death-dog">Death Dog</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/death-kiss">Death Kiss</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/death-knight">Death Knight</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/death-slaad">Death Slaad</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/death-tyrant">Death Tyrant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/deathlock-wight">Deathlock Wight</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/deep-gnome-(svirfneblin)">Deep Gnome (Svirfneblin)</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/deep-rothe">Deep Rothe</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/deep-scion">Deep Scion</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/deer">Deer</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/deinonychus">Deinonychus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/demilich">Demilich</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/demogorgon">Demogorgon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/derro">Derro</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/derro-savant">Derro Savant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/deva">Deva</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/devourer">Devourer</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/dimetrodon">Dimetrodon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/dire-wolf">Dire Wolf</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/displacer-beast">Displacer Beast</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/diviner">Diviner</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/djinni">Djinni</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/dolphin">Dolphin</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/doppelganger">Doppelganger</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/draegloth">Draegloth</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/draft-horse">Draft Horse</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/dragon-turtle">Dragon Turtle</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/dragonclaw">Dragonclaw</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/dragonfang">Dragonfang</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/dragonsoul">Dragonsoul</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/dragonwing">Dragonwing</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/dralmorrer-borngray">Dralmorrer Borngray</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/drannin-splithelm">Drannin Splithelm</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/dread-warrior">Dread Warrior</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/dretch">Dretch</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/drider">Drider</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/drider-spellcaster">Drider Spellcaster</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/droki">Droki</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/drow">Drow</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/drow-elite-warrior">Drow Elite Warrior</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/drow-mage">Drow Mage</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/drow-priestess-of-lolth">Drow Priestess of Lolth</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/drow-spore-servant">Drow Spore Servant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/druid">Druid</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/dryad">Dryad</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/duergar">Duergar</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/duergar-darkhaft">Duergar Darkhaft</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/duergar-kavalrachni">Duergar Kavalrachni</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/duergar-keeper-of-the-flame">Duergar Keeper of the Flame</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/duergar-soulblade">Duergar Soulblade</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/duergar-spore-servant">Duergar Spore Servant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/duergar-spy">Duergar Spy</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/duergar-stone-guard">Duergar Stone Guard</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/duergar-xarron">Duergar Xarron</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/duodrone">Duodrone</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/dust-mephit">Dust Mephit</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/duvessa-shane">Duvessa Shane</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="E"></a>
+      <h2 class="post-list-head jetsHide">E</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/eagle">Eagle</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/earth-elemental">Earth Elemental</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/earth-elemental-myrmidon">Earth Elemental Myrmidon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/efreeti">Efreeti</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/elder-brain">Elder Brain</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/elephant">Elephant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/elizar-dryflagon">Elizar Dryflagon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/elk">Elk</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/empyrean">Empyrean</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/enchanter">Enchanter</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/erinyes">Erinyes</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/eternal-flame-guardian">Eternal Flame Guardian</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/eternal-flame-priest">Eternal Flame Priest</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ettercap">Ettercap</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ettin">Ettin</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/evil-mage">Evil Mage</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/evoker">Evoker</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ezmerelda-davenir">Ezmerelda d'Avenir</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="F"></a>
+      <h2 class="post-list-head jetsHide">F</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/faerie-dragon-(blue)">Faerie Dragon (Blue)</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/faerie-dragon-(green)">Faerie Dragon (Green)</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/faerie-dragon-(indigo)">Faerie Dragon (Indigo)</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/faerie-dragon-(orange)">Faerie Dragon (Orange)</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/faerie-dragon-(red)">Faerie Dragon (Red)</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/faerie-dragon-(violet)">Faerie Dragon (Violet)</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/faerie-dragon-(yellow)">Faerie Dragon (Yellow)</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/fathomer">Fathomer</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/feathergale-knight">Feathergale Knight</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/female-steeder">Female Steeder</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/fire-elemental">Fire Elemental</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/fire-elemental-myrmidon">Fire Elemental Myrmidon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/fire-giant">Fire Giant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/fire-giant-dreadnought">Fire Giant Dreadnought</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/fire-snake">Fire Snake</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/firenewt-warlock-of-imix">Firenewt Warlock of Imix</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/firenewt-warrior">Firenewt Warrior</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/flail-snail">Flail Snail</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/flameskull">Flameskull</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/flamewrath">Flamewrath</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/flesh-golem">Flesh Golem</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/flind">Flind</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/flumph">Flumph</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/flying-snake">Flying Snake</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/flying-sword">Flying Sword</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/fomorian">Fomorian</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/fraz-urbluu">Fraz-Urb'luu</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/frog">Frog</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/froghemoth">Froghemoth</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/frost-giant">Frost Giant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/frost-giant-everlasting-one">Frost Giant Everlasting One</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/frulam-mondath">Frulam Mondath</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="G"></a>
+      <h2 class="post-list-head jetsHide">G</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/galeb-duhr">Galeb Duhr</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gar-shatterkeel">Gar Shatterkeel</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gargoyle">Gargoyle</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gas-spore">Gas Spore</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gauth">Gauth</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gazer">Gazer</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gelatinous-cube">Gelatinous Cube</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ghald">Ghald</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ghast">Ghast</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ghost">Ghost</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ghoul">Ghoul</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-ape">Giant Ape</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-badger">Giant Badger</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-bat">Giant Bat</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-boar">Giant Boar</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-centipede">Giant Centipede</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-constrictor-snake">Giant Constrictor Snake</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-crab">Giant Crab</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-crayfish">Giant Crayfish</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-crocodile">Giant Crocodile</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-eagle">Giant Eagle</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-elk">Giant Elk</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-fire-beetle">Giant Fire Beetle</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-fly">Giant Fly</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-frog">Giant Frog</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-goat">Giant Goat</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-hyena">Giant Hyena</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-lightning-eel">Giant Lightning Eel</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-lizard">Giant Lizard</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-octopus">Giant Octopus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-owl">Giant Owl</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-poisonous-snake">Giant Poisonous Snake</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-rat">Giant Rat</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-rat-(diseased)">Giant Rat (Diseased)</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-scorpion">Giant Scorpion</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-sea-horse">Giant Sea Horse</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-shark">Giant Shark</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-spider">Giant Spider</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-strider">Giant Strider</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-subterranean-lizard">Giant Subterranean Lizard</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-toad">Giant Toad</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-vulture">Giant Vulture</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-wasp">Giant Wasp</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-weasel">Giant Weasel</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/giant-wolf-spider">Giant Wolf Spider</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gibbering-mouther">Gibbering Mouther</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/girallon">Girallon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/githyanki-knight">Githyanki Knight</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/githyanki-warrior">Githyanki Warrior</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/githzerai-monk">Githzerai Monk</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/githzerai-zerth">Githzerai Zerth</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/glabrezu">Glabrezu</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gladiator">Gladiator</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gnoll">Gnoll</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gnoll-fang-of-yeenoghu">Gnoll Fang of Yeenoghu</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gnoll-flesh-gnawer">Gnoll Flesh Gnawer</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gnoll-hunter">Gnoll Hunter</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gnoll-pack-lord">Gnoll Pack Lord</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gnoll-witherling">Gnoll Witherling</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/goat">Goat</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/goblin">Goblin</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/goblin-boss">Goblin Boss</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gold-dragon-wyrmling">Gold Dragon Wyrmling</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gorgon">Gorgon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/goristro">Goristro</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gray-ooze">Gray Ooze</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gray-ooze-(psychic)">Gray Ooze (Psychic)</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gray-slaad">Gray Slaad</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/grazzt">Graz'zt</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/greater-zombie">Greater Zombie</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/green-dragon-wyrmling">Green Dragon Wyrmling</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/green-guard-drake">Green Guard Drake</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/green-hag">Green Hag</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/green-slaad">Green Slaad</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/grell">Grell</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/grick">Grick</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/grick-alpha">Grick Alpha</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/griffon">Griffon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/grimlock">Grimlock</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/grisha">Grisha</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/grung">Grung</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/grung-elite-warrior">Grung Elite Warrior</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/grung-wildling">Grung Wildling</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/guard">Guard</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/guard-drake">Guard Drake</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/guardian-naga">Guardian Naga</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/guardian-portrait">Guardian Portrait</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/gynosphinx">Gynosphinx</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="H"></a>
+      <h2 class="post-list-head jetsHide">H</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hadrosaurus">Hadrosaurus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/half-ogre-(ogrillon)">Half-Ogre (Ogrillon)</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/half-red-dragon-veteran">Half-Red Dragon Veteran</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/harpy">Harpy</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hawk">Hawk</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hell-hound">Hell Hound</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hellenrae">Hellenrae</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/helmed-horror">Helmed Horror</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hezrou">Hezrou</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hill-giant">Hill Giant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hippogriff">Hippogriff</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hobgoblin">Hobgoblin</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hobgoblin-captain">Hobgoblin Captain</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hobgoblin-devastator">Hobgoblin Devastator</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hobgoblin-iron-shadow">Hobgoblin Iron Shadow</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hobgoblin-warlord">Hobgoblin Warlord</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/homunculus">Homunculus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hook-horror">Hook Horror</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hook-horror-spore-servant">Hook Horror Spore Servant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/horned-devil">Horned Devil</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/howling-hatred-initiate">Howling Hatred Initiate</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/howling-hatred-priest">Howling Hatred Priest</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hulking-crab">Hulking Crab</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hunter-shark">Hunter Shark</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hurricane">Hurricane</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hydra">Hydra</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/hyena">Hyena</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="I"></a>
+      <h2 class="post-list-head jetsHide">I</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ice-devil">Ice Devil</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ice-devil-spear">Ice Devil Spear</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ice-mephit">Ice Mephit</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ice-toad">Ice Toad</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/illithilich">Illithilich</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/illusionist">Illusionist</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/imix">Imix</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/imp">Imp</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/intellect-devourer">Intellect Devourer</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/invisible-stalker">Invisible Stalker</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/iron-golem">Iron Golem</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ixitxachitl">Ixitxachitl</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ixitxachitl-cleric">Ixitxachitl Cleric</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/iymrith-ancient-blue-dragon">Iymrith, Ancient Blue Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/izek-strazni">Izek Strazni</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="J"></a>
+      <h2 class="post-list-head jetsHide">J</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/jackal">Jackal</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/jackalwere">Jackalwere</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/jamna-gleamsilver">Jamna Gleamsilver</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/juiblex">Juiblex</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="K"></a>
+      <h2 class="post-list-head jetsHide">K</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/kalka-kylla">Kalka-Kylla</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/kelpie">Kelpie</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/kenku">Kenku</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ki-rin">Ki-rin</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/killer-whale">Killer Whale</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/knight">Knight</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/kobold">Kobold</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/kobold-dragonshield">Kobold Dragonshield</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/kobold-inventor">Kobold Inventor</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/kobold-scale-sorcerer">Kobold Scale Sorcerer</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/korred">Korred</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/kraken">Kraken</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/kraken-priest">Kraken Priest</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/kuo-toa">Kuo-Toa</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/kuo-toa-archpriest">Kuo-Toa Archpriest</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/kuo-toa-monitor">Kuo-Toa Monitor</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/kuo-toa-whip">Kuo-Toa Whip</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="L"></a>
+      <h2 class="post-list-head jetsHide">L</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/lamia">Lamia</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/langdedrosa-cyanwrath">Langdedrosa Cyanwrath</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/lemure">Lemure</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/leucrotta">Leucrotta</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/lich">Lich</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/lifferlas">Lifferlas</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/lion">Lion</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/lizard">Lizard</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/lizard-king-queen">Lizard King/Queen</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/lizardfolk">Lizardfolk</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/lizardfolk-shaman">Lizardfolk Shaman</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="M"></a>
+      <h2 class="post-list-head jetsHide">M</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/madam-eva">Madam Eva</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/maegera-the-dawn-titan">Maegera the Dawn Titan</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mage">Mage</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/magma-mephit">Magma Mephit</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/magmin">Magmin</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/male-steeder">Male Steeder</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/malformed-kraken">Malformed Kraken</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mammoth">Mammoth</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/manes">Manes</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/manticore">Manticore</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/marid">Marid</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/marilith">Marilith</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/markham-southwell">Markham Southwell</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/marlos-urnrayle">Marlos Urnrayle</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/martial-arts-adept">Martial Arts Adept</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/master-thief">Master Thief</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mastiff">Mastiff</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/maw-demon">Maw Demon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/medusa">Medusa</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/meenlock">Meenlock</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/merfolk">Merfolk</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/merrow">Merrow</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mezzoloth">Mezzoloth</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mimic">Mimic</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mind-flayer">Mind Flayer</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mind-flayer-arcanist">Mind Flayer Arcanist</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mind-flayer-psion">Mind Flayer Psion</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mindwitness">Mindwitness</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/minotaur">Minotaur</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/minotaur-skeleton">Minotaur Skeleton</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/miraj-vizann">Miraj Vizann</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/miros-xelbrin">Miros Xelbrin</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mongrelfolk">Mongrelfolk</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/monodrone">Monodrone</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/morkoth">Morkoth</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mormesk-the-wraith">Mormesk the Wraith</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mouth-of-grolantor">Mouth of Grolantor</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mud-mephit">Mud Mephit</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mule">Mule</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mummy">Mummy</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/mummy-lord">Mummy Lord</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/myconid-adult">Myconid Adult</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/myconid-sovereign">Myconid Sovereign</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/myconid-sprout">Myconid Sprout</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="N"></a>
+      <h2 class="post-list-head jetsHide">N</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/naergoth-bladelord">Naergoth Bladelord</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/nalfeshnee">Nalfeshnee</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/narrak">Narrak</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/narth-tezrin">Narth Tezrin</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/naxene-drathkala">Naxene Drathkala</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/necromancer">Necromancer</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/needle-blight">Needle Blight</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/neogi">Neogi</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/neogi-hatchling">Neogi Hatchling</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/neogi-master">Neogi Master</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/neothelid">Neothelid</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/nereid">Nereid</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/neronvain">Neronvain</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/nezznar-the-black-spider">Nezznar the Black Spider</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/night-hag">Night Hag</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/nightmare">Nightmare</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/nilbog">Nilbog</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/noble">Noble</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/nothic">Nothic</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/nycaloth">Nycaloth</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="O"></a>
+      <h2 class="post-list-head jetsHide">O</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ochre-jelly">Ochre Jelly</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/octopus">Octopus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ogre">Ogre</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ogre-zombie">Ogre Zombie</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ogremoch">Ogremoch</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/olhydra">Olhydra</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/one-eyed-shiver">One-Eyed Shiver</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/oni">Oni</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ooze-master">Ooze Master</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/orc">Orc</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/orc-blade-of-ilneval">Orc Blade of Ilneval</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/orc-claw-of-luthic">Orc Claw of Luthic</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/orc-eye-of-gruumsh">Orc Eye of Gruumsh</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/orc-hand-of-yurtrus">Orc Hand of Yurtrus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/orc-nurtured-one-of-yurtrus">Orc Nurtured One of Yurtrus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/orc-red-fang-of-shargaas">Orc Red Fang of Shargaas</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/orc-war-chief">Orc War Chief</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/orcus">Orcus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/oreioth">Oreioth</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/oren-yogilvy">Oren Yogilvy</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/orog">Orog</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/otyugh">Otyugh</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/owl">Owl</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/owlbear">Owlbear</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ox">Ox</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="P"></a>
+      <h2 class="post-list-head jetsHide">P</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/panther">Panther</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/pegasus">Pegasus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/pentadrone">Pentadrone</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/peryton">Peryton</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/phantom-warrior">Phantom Warrior</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/pharblex-spattergoo">Pharblex Spattergoo</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/phase-spider">Phase Spider</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/pidlwick-ii">Pidlwick II</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/piercer">Piercer</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/pit-fiend">Pit Fiend</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/pixie">Pixie</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/planetar">Planetar</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/plesiosaurus">Plesiosaurus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/poisonous-snake">Poisonous Snake</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/polar-bear">Polar Bear</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/poltergeist">Poltergeist</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/pony">Pony</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/priest">Priest</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/pseudodragon">Pseudodragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/pteranodon">Pteranodon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/purple-worm">Purple Worm</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/purple-wormling">Purple Wormling</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="Q"></a>
+      <h2 class="post-list-head jetsHide">Q</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/quadrone">Quadrone</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/quaggoth">Quaggoth</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/quaggoth-spore-servant">Quaggoth Spore Servant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/quaggoth-thonot">Quaggoth Thonot</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/quasit">Quasit</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/quetzalcoatlus">Quetzalcoatlus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/quickling">Quickling</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/quipper">Quipper</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="R"></a>
+      <h2 class="post-list-head jetsHide">R</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/rahadin">Rahadin</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/rakshasa">Rakshasa</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/rat">Rat</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/rath-modar">Rath Modar</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/raven">Raven</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/razerblast">Razerblast</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/red-dragon-wyrmling">Red Dragon Wyrmling</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/red-guard-drake">Red Guard Drake</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/red-slaad">Red Slaad</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/redbrand-ruffian">Redbrand Ruffian</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/redcap">Redcap</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/reef-shark">Reef Shark</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/remorhaz">Remorhaz</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/revenant">Revenant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/rezmir">Rezmir</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/rhinoceros">Rhinoceros</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/rictavio">Rictavio</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/riding-horse">Riding Horse</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/roc">Roc</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/roper">Roper</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/rothe">Rothe</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/rug-of-smothering">Rug of Smothering</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/rust-monster">Rust Monster</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="S"></a>
+      <h2 class="post-list-head jetsHide">S</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/saber-toothed-tiger">Saber-Toothed Tiger</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/sacred-stone-monk">Sacred Stone Monk</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/sahuagin">Sahuagin</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/sahuagin-baron">Sahuagin Baron</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/sahuagin-priestess">Sahuagin Priestess</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/salamander">Salamander</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/satyr">Satyr</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/scarecrow">Scarecrow</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/scorpion">Scorpion</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/scout">Scout</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/sea-hag">Sea Hag</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/sea-horse">Sea Horse</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/sea-lion">Sea Lion</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/sea-spawn">Sea Spawn</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/severin">Severin</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/shadow">Shadow</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/shadow-demon">Shadow Demon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/shadow-mastiff">Shadow Mastiff</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/shalvus-martholio">Shalvus Martholio</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/shambling-mound">Shambling Mound</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/sharwyn-hucrele">Sharwyn Hucrele</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/shield-guardian">Shield Guardian</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/shoalar-quanderil">Shoalar Quanderil</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/shoosuva">Shoosuva</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/shrieker">Shrieker</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/sildar-hallwinter">Sildar Hallwinter</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/silver-dragon-wyrmling">Silver Dragon Wyrmling</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/sir-baric-nylef">Sir Baric Nylef</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/sir-braford">Sir Braford</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/sirac-of-suzail">Sirac of Suzail</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/siren">Siren</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/skeleton">Skeleton</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/skyweaver">Skyweaver</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/slaad-tadpole">Slaad Tadpole</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/slithering-tracker">Slithering Tracker</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/smoke-mephit">Smoke Mephit</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/solar">Solar</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/spawn-of-kyuss">Spawn of Kyuss</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/spectator">Spectator</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/specter">Specter</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/spider">Spider</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/spined-devil">Spined Devil</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/spirit-naga">Spirit Naga</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/sprite">Sprite</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/spy">Spy</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/steam-mephit">Steam Mephit</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/stegosaurus">Stegosaurus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/stench-kow">Stench Kow</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/stirge">Stirge</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/stone-giant">Stone Giant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/stone-giant-dreamwalker">Stone Giant Dreamwalker</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/stone-golem">Stone Golem</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/stonemelder">Stonemelder</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/storm-giant">Storm Giant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/storm-giant-quintessent">Storm Giant Quintessent</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/strahd-zombie">Strahd Zombie</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/strahd-von-zarovich">Strahd von Zarovich</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/strahds-animated-armor">Strahd's Animated Armor</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/succubus-incubus">Succubus/Incubus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/swarm-of-bats">Swarm of Bats</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/swarm-of-beetles">Swarm of Beetles</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/swarm-of-centipedes">Swarm of Centipedes</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/swarm-of-cranium-rats">Swarm of Cranium Rats</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/swarm-of-insects">Swarm of Insects</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/swarm-of-poisonous-snakes">Swarm of Poisonous Snakes</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/swarm-of-quippers">Swarm of Quippers</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/swarm-of-rats">Swarm of Rats</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/swarm-of-ravens">Swarm of Ravens</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/swarm-of-rot-grubs">Swarm of Rot Grubs</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/swarm-of-spiders">Swarm of Spiders</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/swarm-of-wasps">Swarm of Wasps</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/swashbuckler">Swashbuckler</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="T"></a>
+      <h2 class="post-list-head jetsHide">T</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/talis-the-white">Talis the White</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/tanarukk">Tanarukk</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/tarrasque">Tarrasque</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/tarul-var">Tarul Var</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/thayan-warrior">Thayan Warrior</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/the-pudding-king">The Pudding King</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/thorn-slinger">Thorn Slinger</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/thorny">Thorny</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/thri-kreen">Thri-kreen</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/thri-kreen-(psionic)">Thri-kreen (Psionic)</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/thug">Thug</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/thurl-merosska">Thurl Merosska</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/tiamat">Tiamat</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/tiger">Tiger</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/tlincalli">Tlincalli</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/transmuter">Transmuter</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/trapper">Trapper</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/treant">Treant</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/tree-blight">Tree Blight</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/tressym">Tressym</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/tribal-warrior">Tribal Warrior</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/triceratops">Triceratops</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/tridrone">Tridrone</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/troglodyte">Troglodyte</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/troglodyte-champion-of-laogzed">Troglodyte Champion of Laogzed</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/troll">Troll</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/twig-blight">Twig Blight</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/tyrannosaurus-rex">Tyrannosaurus Rex</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="U"></a>
+      <h2 class="post-list-head jetsHide">U</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ulitharid">Ulitharid</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/ultroloth">Ultroloth</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/umber-hulk">Umber Hulk</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/unicorn">Unicorn</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/uthgardt-shaman">Uthgardt Shaman</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="V"></a>
+      <h2 class="post-list-head jetsHide">V</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/vampire">Vampire</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/vampire-spawn">Vampire Spawn</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/vampire-spellcaster">Vampire Spellcaster</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/vampire-warrior">Vampire Warrior</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/vampiric-ixitxachitl">Vampiric Ixitxachitl</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/vampiric-ixitxachitl-cleric">Vampiric Ixitxachitl Cleric</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/vampiric-mist">Vampiric Mist</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/vanifer">Vanifer</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/vargouille">Vargouille</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/vegepygmy">Vegepygmy</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/vegepygmy-chief">Vegepygmy Chief</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/velociraptor">Velociraptor</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/veteran">Veteran</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/vine-blight">Vine Blight</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/violet-fungus">Violet Fungus</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/vladimir-horngaard">Vladimir Horngaard</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/vrock">Vrock</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/vulture">Vulture</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="W"></a>
+      <h2 class="post-list-head jetsHide">W</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/war-priest">War Priest</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/warhorse">Warhorse</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/warhorse-skeleton">Warhorse Skeleton</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/warlock-of-the-archfey">Warlock of the Archfey</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/warlock-of-the-fiend">Warlock of the Fiend</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/warlock-of-the-great-old-one">Warlock of the Great Old One</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/warlord">Warlord</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/water-elemental">Water Elemental</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/water-elemental-myrmidon">Water Elemental Myrmidon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/water-weird">Water Weird</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/weasel">Weasel</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/werebear">Werebear</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/wereboar">Wereboar</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/wererat">Wererat</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/wereraven">Wereraven</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/weretiger">Weretiger</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/werewolf">Werewolf</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/white-dragon-wyrmling">White Dragon Wyrmling</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/white-guard-drake">White Guard Drake</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/white-maw">White Maw</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/wiggan-nettlebee">Wiggan Nettlebee</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/wight">Wight</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/will-o-wisp">Will-o'-Wisp</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/windharrow">Windharrow</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/winged-kobold">Winged Kobold</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/winter-wolf">Winter Wolf</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/wolf">Wolf</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/wood-woad">Wood Woad</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/worg">Worg</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/wraith">Wraith</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/wyvern">Wyvern</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="X"></a>
+      <h2 class="post-list-head jetsHide">X</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/xorn">Xorn</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/xvart">Xvart</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/xvart-speaker">Xvart Speaker</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/xvart-warlock-of-raxivort">Xvart Warlock of Raxivort</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="Y"></a>
+      <h2 class="post-list-head jetsHide">Y</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yakfolk-priest">Yakfolk Priest</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yakfolk-warrior">Yakfolk Warrior</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yan-c-bin">Yan-C-Bin</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/Yan-C-Bin">Yan-C-Bin</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yeenoghu">Yeenoghu</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yestabrod">Yestabrod</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yeth-hound">Yeth Hound</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yeti">Yeti</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yochlol">Yochlol</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/young-black-dragon">Young Black Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/young-blue-dragon">Young Blue Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/young-brass-dragon">Young Brass Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/young-bronze-dragon">Young Bronze Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/young-copper-dragon">Young Copper Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/young-gold-dragon">Young Gold Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/young-green-dragon">Young Green Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/young-red-dragon">Young Red Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/young-red-shadow-dragon">Young Red Shadow Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/young-remorhaz">Young Remorhaz</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/young-silver-dragon">Young Silver Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/young-white-dragon">Young White Dragon</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yuan-ti-abomination">Yuan-ti Abomination</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yuan-ti-anathema">Yuan-ti Anathema</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yuan-ti-broodguard">Yuan-ti Broodguard</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yuan-ti-malison-type-1">Yuan-ti Malison Type 1</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yuan-ti-malison-type-2">Yuan-ti Malison Type 2</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yuan-ti-malison-type-3">Yuan-ti Malison Type 3</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yuan-ti-mind-whisperer">Yuan-ti Mind Whisperer</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yuan-ti-nightmare-speaker">Yuan-ti Nightmare Speaker</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yuan-ti-pit-master">Yuan-ti Pit Master</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yuan-ti-pureblood">Yuan-ti Pureblood</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/yusdrayl">Yusdrayl</a>
+    </li>  
+  
+    
+    
+      
+      </ul>
+      <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+      <a id="Z"></a>
+      <h2 class="post-list-head jetsHide">Z</h2>
+      <ul class="post-list jetsContent">
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/zi-liang">Zi Liang</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/zombie">Zombie</a>
+    </li>  
+  
+    
+    
+    <li>
+      <a class="post-link" href="/bestiary/creatures/zuggtmoy">Zuggtmoy</a>
+    </li>  
+  
   </ul>
   <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  <p class="rss-subscribe">subscribe <a href="/bestiary/feed.xml">via RSS</a></p>
 </div>
+
+      </div>
+    </div>
+
+    <footer class="site-footer">
+
+  <div class="wrapper">
+
+    <h2 class="footer-heading">Bestiary</h2>
+
+    <div class="footer-col-wrapper">
+      <div class="footer-col  footer-col-1">
+        <ul class="contact-list">
+          <li><p class="text">A searchable D&D 5e creature list.</p></li>
+          <li><a href="mailto:"></a></li>
+        </ul>
+      </div>
+
+      <div class="footer-col  footer-col-2">
+        <p>Dr. <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> tempts fickle fate in his pursuit of the <a href="http://www.sublimetext.com/" target="_blank">sublime</a>.</p>
+      </div>
+    
+    <div class="footer-col  footer-col-3">
+      <p>Source available on <a href="https://github.com/chisaipete/bestiary/" target="_blank">Github</a>.</p>
+    </div>
+  </div>
+  <div class="footer-top-link"><a href="#top">Back to top &#8593;</a></div>
+
+  </div>
+
+</footer>
+<script>
+  var jets = new Jets({
+    searchTag: '#jetsSearch',
+    contentTag: '.jetsContent',
+    didSearch: function(search_phrase) {
+      var elements = document.getElementsByClassName("jetsHide");
+      if (!search_phrase.trim()) {
+        for (var i = 0; i < elements.length; i++) {
+          elements[i].classList.remove("searchHide");
+        }
+      } else {
+        for (var i = 0; i < elements.length; i++) {
+          elements[i].classList.add("searchHide");
+        }
+      }     
+    }
+  })
+</script>
+
+
+  </body>
+
+</html>
