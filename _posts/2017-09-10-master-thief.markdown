@@ -9,7 +9,7 @@ tags: [medium, humanoid, cr5, volos-guide]
 
 **Armor Class** 16 (studded leather armor)
 
-**Hit Points** 83 (13d8+26)
+**Hit Points** 84 (13d8+26)
 
 **Speed** 30 ft.
 

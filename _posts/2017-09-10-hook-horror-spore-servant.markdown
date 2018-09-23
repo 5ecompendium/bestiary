@@ -9,7 +9,7 @@ tags: [medium, plant, cr3, out-of-the-abyss]
 
 **Armor Class** 15 (natural armor)
 
-**Hit Points** 75 (10d10+10)
+**Hit Points** 75 (10d10+20)
 
 **Speed** 20 ft., climb 20 ft.
 

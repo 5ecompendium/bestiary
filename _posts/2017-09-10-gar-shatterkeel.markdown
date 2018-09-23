@@ -9,7 +9,7 @@ tags: [medium, humanoid, cr9, elemental-evil]
 
 **Armor Class** 16 (natural armor)
 
-**Hit Points** 30 (15d8+45)
+**Hit Points** 112 (15d8+45)
 
 **Speed** 30 ft., swim 30 ft.
 

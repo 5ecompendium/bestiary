@@ -9,7 +9,7 @@ tags: [large, aberration, cr9, volos-guide]
 
 **Armor Class** 15 (breastplate)
 
-**Hit Points** 127 (17d10+14)
+**Hit Points** 127 (17d10+34)
 
 **Speed** 30 ft.
 

@@ -9,7 +9,7 @@ tags: [medium, monstrosity, cr3, volos-guide]
 
 **Armor Class** 15 (studded leather armor)
 
-**Hit Points** 15 (12d8+12)
+**Hit Points** 66 (12d8+12)
 
 **Speed** 30 ft., climb 30 ft.
 

@@ -9,7 +9,7 @@ tags: [huge, fiend, cr26, out-of-the-abyss]
 
 **Armor Class** 22 (natural armor)
 
-**Hit Points** 496 (34d12+272)
+**Hit Points** 493 (34d12+272)
 
 **Speed** 50 ft., swim 50 ft.
 

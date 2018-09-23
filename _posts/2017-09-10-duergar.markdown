@@ -9,7 +9,7 @@ tags: [medium, humanoid, cr1, monster-manual]
 
 **Armor Class** 16 (scale mail, shield)
 
-**Hit Points** 26 (4d8+4)
+**Hit Points** 26 (4d8+8)
 
 **Speed** 25 ft.
 

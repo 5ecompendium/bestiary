@@ -9,7 +9,7 @@ tags: [medium, humanoid, cr3, tyranny-of-dragons]
 
 **Armor Class** 16 (breastplate)
 
-**Hit Points** 71 (11d8+21)
+**Hit Points** 71 (11d8+22)
 
 **Speed** 30 ft.
 
