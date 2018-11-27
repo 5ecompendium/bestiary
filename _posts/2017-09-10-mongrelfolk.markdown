@@ -3,6 +3,7 @@ layout: post
 title: "Mongrelfolk"
 date: 2017-09-10
 tags: [medium, humanoid, cr1/4, curse-of-strahd]
+page_number: 234
 ---
 
 **Medium humanoid (mongrelfolk), any alignment**
