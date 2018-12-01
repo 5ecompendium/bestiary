@@ -2,7 +2,7 @@
 layout: post
 title: "Allip"
 date: 2018-11-30
-tags: [medium, undead, cr5, MToF]
+tags: [medium, undead, cr5, mordenkainens-tome-of-foes]
 ---
 
 **Medium undead, neutral evil**
