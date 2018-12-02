@@ -3,6 +3,7 @@ layout: post
 title: "Allip"
 date: 2018-11-30
 tags: [medium, undead, cr5, mordenkainens-tome-of-foes]
+page_number: 116
 ---
 
 **Medium undead, neutral evil**
@@ -26,6 +27,8 @@ tags: [medium, undead, cr5, mordenkainens-tome-of-foes]
 **Damage Immunities** cold , necrotic, poison
 
 **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
+
+**Senses** darkvision 60 ft ., passive Perception 15
 
 **Languages** the languages it knew in life
 
