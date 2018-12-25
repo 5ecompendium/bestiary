@@ -3,6 +3,7 @@ layout: post
 title: "Barovian Witch"
 date: 2017-09-10
 tags: [medium, humanoid, cr1/2, curse-of-strahd]
+page_number: 229
 ---
 
 **Medium humanoid (human), chaotic evil**

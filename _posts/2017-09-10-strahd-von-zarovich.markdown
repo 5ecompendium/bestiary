@@ -3,6 +3,7 @@ layout: post
 title: "Strahd von Zarovich"
 date: 2017-09-10
 tags: [medium, undead, cr15, curse-of-strahd]
+page_number: 239
 ---
 
 **Medium undead (shapechanger), lawful evil**
