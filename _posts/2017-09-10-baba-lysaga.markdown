@@ -3,6 +3,7 @@ layout: post
 title: "Baba Lysaga"
 date: 2017-09-10
 tags: [medium, humanoid, cr11, curse-of-strahd]
+page_number: 228
 ---
 
 **Medium humanoid (human, shapechanger), chaotic evil**

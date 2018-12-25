@@ -3,6 +3,7 @@ layout: post
 title: "Wereraven"
 date: 2017-09-10
 tags: [medium, humanoid, cr2, curse-of-strahd]
+page_number: 242
 ---
 
 **Medium humanoid (human, shapechanger), lawful good**

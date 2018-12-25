@@ -3,6 +3,7 @@ layout: post
 title: "Crag Cat"
 date: 2017-09-10
 tags: [large, beast, cr1, storm-kings-thunder]
+page_number: 17
 ---
 
 **Large beast, unaligned**
@@ -29,7 +30,7 @@ tags: [large, beast, cr1, storm-kings-thunder]
 
 ***Pounce.*** If the cat moves at least 20 feet straight toward a creature then hits it with a claw attack on the same turn, that target must succeed on a DC13 Strength saving throw or be knocked prone.  If the target is prone, the cat can make one bite attack against it as a bonus action.
 
-***Spell Turning.*** The cat has advantage on saving throws against any spell that tagets only the cat (not an area). If the cat's saving throw succeeds and the spell is of 7th level or lower, the spell has no effect on the cat and instead tagets the caster.
+***Spell Turning.*** The cat has advantage on saving throws against any spell that targets only the cat (not an area). If the cat's saving throw succeeds and the spell is of 7th level or lower, the spell has no effect on the cat and instead targets the caster.
 
 **Actions**
 

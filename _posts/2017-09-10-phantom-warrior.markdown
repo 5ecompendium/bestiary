@@ -3,6 +3,7 @@ layout: post
 title: "Phantom Warrior"
 date: 2017-09-10
 tags: [medium, undead, cr1, curse-of-strahd]
+page_number: 235
 ---
 
 **Medium undead, any alignment**

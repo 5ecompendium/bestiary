@@ -3,6 +3,7 @@ layout: post
 title: "Izek Strazni"
 date: 2017-09-10
 tags: [medium, humanoid, cr5, curse-of-strahd]
+page_number: 231
 ---
 
 **Medium humanoid (human), neutral evil**
