@@ -31,7 +31,7 @@ tags: [huge, beast, cr5, storm-kings-thunder]
 
 **Actions**
 
-***Multiattack.*** The aboleth makes three tentacle attacks.
+***Multiattack.*** The crab makes two attacks with its claws.
 
-***Claw.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 20 (3d10+4) bludgeoning damage, and the target is grappled (escape DC 15). The crab has two claws, each of which can grapple only one target
+***Claw.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 20 (3d10+4) bludgeoning damage, and the target is grappled (escape DC 15). The crab has two claws, each of which can grapple only one target.
 
