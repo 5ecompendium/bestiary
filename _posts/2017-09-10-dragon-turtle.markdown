@@ -9,7 +9,7 @@ tags: [gargantuan, dragon, cr17, monster-manual]
 
 **Armor Class** 20 (natural armor)
 
-**Hit Points** 341 (22d20+10)
+**Hit Points** 341 (22d20+110)
 
 **Speed** 20 ft., swim 40 ft.
 

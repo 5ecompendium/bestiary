@@ -9,7 +9,7 @@ tags: [medium, plant, cr1/2, monster-manual]
 
 **Armor Class** 12 (natural armor)
 
-**Hit Points** 26 (4d8+4)
+**Hit Points** 26 (4d8+8)
 
 **Speed** 10 ft.
 

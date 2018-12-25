@@ -9,7 +9,7 @@ tags: [huge, giant, cr11, volos-guide]
 
 **Armor Class** 15 (natural armor)
 
-**Hit Points** 262 (21d12+128)
+**Hit Points** 262 (21d12+126)
 
 **Speed** 40 ft.
 

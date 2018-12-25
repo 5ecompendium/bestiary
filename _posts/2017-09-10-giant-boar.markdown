@@ -9,7 +9,7 @@ tags: [large, beast, cr2, monster-manual]
 
 **Armor Class** 12 (natural armor)
 
-**Hit Points** 42 (5d10+5)
+**Hit Points** 42 (5d10+15)
 
 **Speed** 40 ft.
 

@@ -9,7 +9,7 @@ tags: [medium, humanoid, cr5, elemental-evil]
 
 **Armor Class** 17 (splint)
 
-**Hit Points** 112 (15d8+75)
+**Hit Points** 112 (15d8+45)
 
 **Speed** 30 ft.
 

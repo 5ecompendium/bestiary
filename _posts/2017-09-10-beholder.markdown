@@ -9,7 +9,7 @@ tags: [large, aberration, cr13, monster-manual]
 
 **Armor Class** 18 (natural armor)
 
-**Hit Points** 189 (19d10+76)
+**Hit Points** 180 (19d10+76)
 
 **Speed** 0 ft., fly 20 ft. (hover)
 
