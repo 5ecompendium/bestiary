@@ -23,7 +23,7 @@ tags: [small, aberration, cr1/4, out-of-the-abyss]
 
 **Challenge** 1/4 (50 XP)
 
-***Spellcasting.*** The ixtachitl is a 5th-level spellcaster that uses Wisdom as its spellcasting ability (Spell save DC 11, +3 to hit with spell attacks). The ixitxachil has the following cleric spells prepared:
+***Spellcasting.*** The ixtachitl is a 5th-level spellcaster that uses Wisdom as its spellcasting ability (Spell save DC 11, +3 to hit with spell attacks). The ixitxachitl has the following cleric spells prepared:
 
 Cantrips (at will): guidance, thaumaturgy
 
