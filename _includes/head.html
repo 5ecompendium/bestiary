@@ -25,4 +25,7 @@
         document.getElementById("menuIcon").addEventListener( 'click' , menuClick );
 	    }
     </script>
+    {% if site.tags != "" %}
+    {% include collect_tags.html %}
+    {% endif %}
 </head>

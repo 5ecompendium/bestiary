@@ -1,0 +1,22 @@
+<dl class="tag-list">
+  <dt>Challenge Rating:</dt>
+  {% for cr in site.data.challenge_ratings %}
+  <dd>
+    <a href="#cr{{ cr.level }}">{{ cr.level }}</a>
+  </dd>
+  {% endfor %}
+</dl>
+{% for cr in site.data.challenge_ratings %}
+{% assign tag = 'cr' | append: cr.level %}
+{% assign creatures = all_creatures | where: 'tags', tag %}
+<a id="cr{{ cr.level }}"></a>
+<h2 class="post-list-head jetsHide">Challenge {{ cr.level }}</h2>
+<ul class="post-list jetsContent">
+  {% for creature in creatures %}
+  <li>
+    <a class="post-link" href="{{ creature.url | prepend: site.baseurl }}">{{ creature.title }}</a>
+  </li>
+  {% endfor %}
+</ul>
+<a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+{% endfor %}

@@ -1,0 +1,9 @@
+---
+layout: default
+---
+<div class="post">
+  <h1>Tag: {{ page.name }}</h1>
+  {% assign all_creatures = site.creatures | where: 'tags', page.tag %}
+  {% include challenge_rating.html %}
+</div>
+<hr>

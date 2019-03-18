@@ -12,8 +12,8 @@
       </a>
 
       <div id="menu" class="trigger">
-        {% for creatureType in site.data.types %}
-          <a class="page-link" href="{{site.baseurl}}/tags/{{creatureType.tag}}.html">{{ creatureType.name }}</a>
+        {% for creature_type in site.data.creature_types %}
+          <a class="page-link" href="{{ site.baseurl }}/tag/{{ creature_type.tag }}">{{ creature_type.name }}</a>
         {% endfor %}
       </div>
     </nav>
