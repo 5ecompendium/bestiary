@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Warlock of the Archfey"
+name: "Warlock of the Archfey"
 date: 2017-09-10
 tags: [medium, humanoid, cr4, volos-guide]
 ---

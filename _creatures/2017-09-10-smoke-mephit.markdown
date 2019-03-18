@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Smoke Mephit"
+name: "Smoke Mephit"
 date: 2017-09-10
 tags: [small, elemental, cr1/4, monster-manual]
 ---

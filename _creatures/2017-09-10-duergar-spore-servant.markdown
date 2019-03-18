@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Duergar Spore Servant"
+name: "Duergar Spore Servant"
 date: 2017-09-10
 tags: [medium, plant, cr1/2, out-of-the-abyss]
 ---

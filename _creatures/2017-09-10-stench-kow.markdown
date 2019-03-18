@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stench Kow"
+name: "Stench Kow"
 date: 2017-09-10
 tags: [large, beast, cr1/4, volos-guide]
 ---

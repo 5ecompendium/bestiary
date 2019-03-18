@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tarrasque"
+name: "Tarrasque"
 date: 2017-09-10
 tags: [gargantuan, monstrosity, cr30, monster-manual]
 ---

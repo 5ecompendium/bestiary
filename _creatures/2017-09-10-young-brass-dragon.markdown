@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Young Brass Dragon"
+name: "Young Brass Dragon"
 date: 2017-09-10
 tags: [large, dragon, cr6, monster-manual]
 ---

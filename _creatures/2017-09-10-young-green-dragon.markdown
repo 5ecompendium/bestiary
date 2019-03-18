@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Young Green Dragon"
+name: "Young Green Dragon"
 date: 2017-09-10
 tags: [large, dragon, cr8, monster-manual]
 ---

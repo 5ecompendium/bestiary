@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Illithilich"
+name: "Illithilich"
 date: 2017-09-10
 tags: [medium, undead, cr22, volos-guide]
 ---

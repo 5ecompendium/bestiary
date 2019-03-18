@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Eternal Flame Priest"
+name: "Eternal Flame Priest"
 date: 2017-09-10
 tags: [medium, humanoid, cr3, elemental-evil]
 ---

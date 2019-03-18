@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Orc Red Fang of Shargaas"
+name: "Orc Red Fang of Shargaas"
 date: 2017-09-10
 tags: [medium, humanoid, cr3, volos-guide]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nightmare"
+name: "Nightmare"
 date: 2017-09-10
 tags: [large, fiend, cr3, monster-manual]
 ---

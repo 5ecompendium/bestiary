@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Swarm of Quippers"
+name: "Swarm of Quippers"
 date: 2017-09-10
 tags: [medium, swarm, cr1, monster-manual]
 ---

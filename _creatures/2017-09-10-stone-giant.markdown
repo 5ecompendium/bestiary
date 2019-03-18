@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stone Giant"
+name: "Stone Giant"
 date: 2017-09-10
 tags: [huge, giant, cr7, monster-manual]
 ---

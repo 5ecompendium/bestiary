@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Githyanki Knight"
+name: "Githyanki Knight"
 date: 2017-09-10
 tags: [medium, humanoid, cr8, monster-manual]
 ---

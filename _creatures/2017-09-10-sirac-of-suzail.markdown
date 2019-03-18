@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sirac of Suzail"
+name: "Sirac of Suzail"
 date: 2017-09-10
 tags: [medium, humanoid, cr0, storm-kings-thunder]
 ---

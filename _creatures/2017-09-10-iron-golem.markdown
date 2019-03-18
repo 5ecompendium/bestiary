@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Iron Golem"
+name: "Iron Golem"
 date: 2017-09-10
 tags: [large, construct, cr16, monster-manual]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Darathra Shendrel"
+name: "Darathra Shendrel"
 date: 2017-09-10
 tags: [medium, humanoid, cr0, storm-kings-thunder]
 ---

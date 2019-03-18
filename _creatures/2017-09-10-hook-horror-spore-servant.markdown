@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hook Horror Spore Servant"
+name: "Hook Horror Spore Servant"
 date: 2017-09-10
 tags: [medium, plant, cr3, out-of-the-abyss]
 ---

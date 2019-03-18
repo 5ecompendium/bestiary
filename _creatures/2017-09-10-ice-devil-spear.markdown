@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ice Devil Spear"
+name: "Ice Devil Spear"
 date: 2017-09-10
 tags: [large, fiend, cr14, monster-manual]
 ---

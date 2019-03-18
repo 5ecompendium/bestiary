@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neronvain"
+name: "Neronvain"
 date: 2017-09-10
 tags: [medium, humanoid, cr9, tyranny-of-dragons]
 ---

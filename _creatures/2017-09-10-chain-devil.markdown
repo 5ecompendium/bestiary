@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chain Devil"
+name: "Chain Devil"
 date: 2017-09-10
 tags: [medium, fiend, cr11, monster-manual]
 ---

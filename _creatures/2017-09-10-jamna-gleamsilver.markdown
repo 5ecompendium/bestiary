@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Jamna Gleamsilver"
+name: "Jamna Gleamsilver"
 date: 2017-09-10
 tags: [small, humanoid, cr1, tyranny-of-dragons]
 ---

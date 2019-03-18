@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aerisi Kalinoth"
+name: "Aerisi Kalinoth"
 date: 2017-09-10
 tags: [medium, humanoid, cr7, elemental-evil]
 ---

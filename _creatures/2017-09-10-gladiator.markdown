@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gladiator"
+name: "Gladiator"
 date: 2017-09-10
 tags: [medium, humanoid, cr5, monster-manual]
 ---

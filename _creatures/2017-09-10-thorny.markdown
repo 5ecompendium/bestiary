@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thorny"
+name: "Thorny"
 date: 2017-09-10
 tags: [medium, plant, cr1, volos-guide]
 ---

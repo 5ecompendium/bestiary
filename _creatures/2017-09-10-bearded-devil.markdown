@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bearded Devil"
+name: "Bearded Devil"
 date: 2017-09-10
 tags: [medium, fiend, cr3, monster-manual]
 ---

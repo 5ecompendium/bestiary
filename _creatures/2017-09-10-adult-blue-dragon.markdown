@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adult Blue Dragon"
+name: "Adult Blue Dragon"
 date: 2017-09-10
 tags: [huge, dragon, cr16, monster-manual]
 ---

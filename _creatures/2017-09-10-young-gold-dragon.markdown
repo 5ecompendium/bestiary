@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Young Gold Dragon"
+name: "Young Gold Dragon"
 date: 2017-09-10
 tags: [large, dragon, cr10, monster-manual]
 ---

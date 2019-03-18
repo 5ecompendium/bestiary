@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cult Fanatic"
+name: "Cult Fanatic"
 date: 2017-09-10
 tags: [medium, humanoid, cr2, monster-manual]
 ---

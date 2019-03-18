@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Giant Strider"
+name: "Giant Strider"
 date: 2017-09-10
 tags: [large, monstrosity, cr1, volos-guide]
 ---

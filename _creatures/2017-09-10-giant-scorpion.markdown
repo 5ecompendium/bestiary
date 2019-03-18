@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Giant Scorpion"
+name: "Giant Scorpion"
 date: 2017-09-10
 tags: [large, beast, cr3, monster-manual]
 ---

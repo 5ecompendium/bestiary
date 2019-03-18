@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Riding Horse"
+name: "Riding Horse"
 date: 2017-09-10
 tags: [large, beast, cr1/4, monster-manual]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ancient Black Dragon"
+name: "Ancient Black Dragon"
 date: 2017-09-10
 tags: [gargantuan, dragon, cr21, monster-manual]
 ---

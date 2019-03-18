@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Drow Elite Warrior"
+name: "Drow Elite Warrior"
 date: 2017-09-10
 tags: [medium, humanoid, cr5, monster-manual]
 ---

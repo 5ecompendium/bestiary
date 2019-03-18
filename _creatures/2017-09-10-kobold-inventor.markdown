@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kobold Inventor"
+name: "Kobold Inventor"
 date: 2017-09-10
 tags: [small, humanoid, cr1/4, volos-guide]
 ---

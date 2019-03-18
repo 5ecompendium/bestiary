@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Half-Red Dragon Veteran"
+name: "Half-Red Dragon Veteran"
 date: 2017-09-10
 tags: [medium, humanoid, cr5, monster-manual]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Awakened Tree"
+name: "Awakened Tree"
 date: 2017-09-10
 tags: [huge, plant, cr2, monster-manual]
 ---

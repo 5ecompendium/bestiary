@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ancient Gold Dragon"
+name: "Ancient Gold Dragon"
 date: 2017-09-10
 tags: [gargantuan, dragon, cr24, monster-manual]
 ---

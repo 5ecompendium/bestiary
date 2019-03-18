@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ultroloth"
+name: "Ultroloth"
 date: 2017-09-10
 tags: [medium, fiend, cr13, monster-manual]
 ---

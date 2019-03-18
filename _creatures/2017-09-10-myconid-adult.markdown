@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Myconid Adult"
+name: "Myconid Adult"
 date: 2017-09-10
 tags: [medium, plant, cr1/2, monster-manual]
 ---

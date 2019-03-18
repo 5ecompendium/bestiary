@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Minotaur Skeleton"
+name: "Minotaur Skeleton"
 date: 2017-09-10
 tags: [large, undead, cr2, monster-manual]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guardian Naga"
+name: "Guardian Naga"
 date: 2017-09-10
 tags: [large, monstrosity, cr10, monster-manual]
 ---

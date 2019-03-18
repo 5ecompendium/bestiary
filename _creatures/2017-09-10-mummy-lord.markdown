@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mummy Lord"
+name: "Mummy Lord"
 date: 2017-09-10
 tags: [medium, undead, cr15, monster-manual]
 ---

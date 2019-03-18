@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Glabrezu"
+name: "Glabrezu"
 date: 2017-09-10
 tags: [large, fiend, cr9, monster-manual]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Swarm of Spiders"
+name: "Swarm of Spiders"
 date: 2017-09-10
 tags: [medium, swarm, cr1/2, monster-manual]
 ---

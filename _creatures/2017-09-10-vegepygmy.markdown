@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vegepygmy"
+name: "Vegepygmy"
 date: 2017-09-10
 tags: [small, plant, cr1/4, volos-guide]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Copper Dragon Wyrmling"
+name: "Copper Dragon Wyrmling"
 date: 2017-09-10
 tags: [medium, dragon, cr1, monster-manual]
 ---

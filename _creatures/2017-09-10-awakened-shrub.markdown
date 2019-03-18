@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Awakened Shrub"
+name: "Awakened Shrub"
 date: 2017-09-10
 tags: [small, plant, cr0, monster-manual]
 ---

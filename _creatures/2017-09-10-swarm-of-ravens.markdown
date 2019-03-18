@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Swarm of Ravens"
+name: "Swarm of Ravens"
 date: 2017-09-10
 tags: [medium, swarm, cr1/4, monster-manual]
 ---

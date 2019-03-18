@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Black Guard Drake"
+name: "Black Guard Drake"
 date: 2017-09-10
 tags: [medium, dragon, cr2, volos-guide]
 ---

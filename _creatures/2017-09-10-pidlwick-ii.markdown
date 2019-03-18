@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pidlwick II"
+name: "Pidlwick II"
 date: 2017-09-10
 tags: [small, construct, cr1/4, curse-of-strahd]
 page_number: 235

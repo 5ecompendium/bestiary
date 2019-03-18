@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dragonsoul"
+name: "Dragonsoul"
 date: 2017-09-10
 tags: [medium, humanoid, cr7, tyranny-of-dragons]
 ---

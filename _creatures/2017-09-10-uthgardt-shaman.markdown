@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Uthgardt Shaman"
+name: "Uthgardt Shaman"
 date: 2017-09-10
 tags: [medium, humanoid, cr2, storm-kings-thunder]
 ---

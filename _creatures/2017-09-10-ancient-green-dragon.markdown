@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ancient Green Dragon"
+name: "Ancient Green Dragon"
 date: 2017-09-10
 tags: [gargantuan, dragon, cr22, monster-manual]
 ---

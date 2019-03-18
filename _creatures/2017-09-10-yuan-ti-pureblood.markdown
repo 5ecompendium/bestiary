@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yuan-ti Pureblood"
+name: "Yuan-ti Pureblood"
 date: 2017-09-10
 tags: [medium, humanoid, cr1, monster-manual]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nezznar the Black Spider"
+name: "Nezznar the Black Spider"
 date: 2017-09-10
 tags: [medium, humanoid, cr2, lost-mine-of-phandelver]
 ---

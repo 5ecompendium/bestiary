@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flying Snake"
+name: "Flying Snake"
 date: 2017-09-10
 tags: [tiny, beast, cr1/8, monster-manual]
 ---

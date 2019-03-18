@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Chamberlain of Zuggtmoy"
+name: "Chamberlain of Zuggtmoy"
 date: 2017-09-10
 tags: [large, plant, cr2, out-of-the-abyss]
 ---

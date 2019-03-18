@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ochre Jelly"
+name: "Ochre Jelly"
 date: 2017-09-10
 tags: [large, ooze, cr2, monster-manual]
 ---

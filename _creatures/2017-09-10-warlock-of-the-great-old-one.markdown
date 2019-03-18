@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Warlock of the Great Old One"
+name: "Warlock of the Great Old One"
 date: 2017-09-10
 tags: [medium, humanoid, cr6, volos-guide]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neogi Master"
+name: "Neogi Master"
 date: 2017-09-10
 tags: [medium, aberration, cr4, volos-guide]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bone Devil"
+name: "Bone Devil"
 date: 2017-09-10
 tags: [large, fiend, cr12, monster-manual]
 ---

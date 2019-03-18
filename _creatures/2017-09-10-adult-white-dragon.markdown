@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adult White Dragon"
+name: "Adult White Dragon"
 date: 2017-09-10
 tags: [huge, dragon, cr13, monster-manual]
 ---

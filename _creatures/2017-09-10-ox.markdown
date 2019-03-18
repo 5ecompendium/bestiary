@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ox"
+name: "Ox"
 date: 2017-09-10
 tags: [large, beast, cr1/4, volos-guide]
 ---

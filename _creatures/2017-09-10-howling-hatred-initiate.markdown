@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Howling Hatred Initiate"
+name: "Howling Hatred Initiate"
 date: 2017-09-10
 tags: [medium, humanoid, cr1/8, elemental-evil]
 ---

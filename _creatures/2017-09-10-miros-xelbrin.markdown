@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Miros Xelbrin"
+name: "Miros Xelbrin"
 date: 2017-09-10
 tags: [medium, humanoid, cr0, storm-kings-thunder]
 ---

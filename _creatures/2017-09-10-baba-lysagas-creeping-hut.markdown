@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Baba Lysaga's Creeping Hut"
+name: "Baba Lysaga's Creeping Hut"
 date: 2017-09-10
 tags: [gargantuan, construct, cr11, curse-of-strahd]
 page_number: 226

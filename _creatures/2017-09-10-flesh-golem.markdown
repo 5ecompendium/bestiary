@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flesh Golem"
+name: "Flesh Golem"
 date: 2017-09-10
 tags: [medium, construct, cr5, monster-manual]
 ---

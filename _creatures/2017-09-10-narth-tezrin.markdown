@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Narth Tezrin"
+name: "Narth Tezrin"
 date: 2017-09-10
 tags: [medium, humanoid, cr0, storm-kings-thunder]
 ---

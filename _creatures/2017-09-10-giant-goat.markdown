@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Giant Goat"
+name: "Giant Goat"
 date: 2017-09-10
 tags: [large, beast, cr1/2, monster-manual]
 ---

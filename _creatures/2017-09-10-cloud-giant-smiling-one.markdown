@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cloud Giant Smiling One"
+name: "Cloud Giant Smiling One"
 date: 2017-09-10
 tags: [huge, giant, cr11, volos-guide]
 ---

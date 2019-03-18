@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deva"
+name: "Deva"
 date: 2017-09-10
 tags: [medium, celestial, cr10, monster-manual]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Halaster Blackcloak"
+name: "Halaster Blackcloak"
 date: 2018-12-16
 tags: [medium, humanoid, cr23, dungeon-of-the-mad-mage]
 page_number: 310

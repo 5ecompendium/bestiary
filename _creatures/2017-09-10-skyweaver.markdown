@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Skyweaver"
+name: "Skyweaver"
 date: 2017-09-10
 tags: [medium, humanoid, cr3, elemental-evil]
 ---

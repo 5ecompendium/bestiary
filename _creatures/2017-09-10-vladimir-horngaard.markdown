@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vladimir Horngaard"
+name: "Vladimir Horngaard"
 date: 2017-09-10
 tags: [medium, undead, cr7, curse-of-strahd]
 page_number: 241

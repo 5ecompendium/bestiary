@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Female Steeder"
+name: "Female Steeder"
 date: 2017-09-10
 tags: [large, beast, cr1, out-of-the-abyss]
 ---

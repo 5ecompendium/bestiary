@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grick Alpha"
+name: "Grick Alpha"
 date: 2017-09-10
 tags: [large, monstrosity, cr7, monster-manual]
 ---

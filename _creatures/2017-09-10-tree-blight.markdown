@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tree Blight"
+name: "Tree Blight"
 date: 2017-09-10
 tags: [huge, plant, cr7, curse-of-strahd]
 page_number: 230

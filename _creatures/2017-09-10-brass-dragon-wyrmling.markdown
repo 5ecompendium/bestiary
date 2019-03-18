@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brass Dragon Wyrmling"
+name: "Brass Dragon Wyrmling"
 date: 2017-09-10
 tags: [medium, dragon, cr1, monster-manual]
 ---

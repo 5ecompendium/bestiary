@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Giant Sea Horse"
+name: "Giant Sea Horse"
 date: 2017-09-10
 tags: [large, beast, cr1/2, monster-manual]
 ---

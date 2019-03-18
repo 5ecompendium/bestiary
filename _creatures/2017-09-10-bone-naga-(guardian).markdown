@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bone Naga (Guardian)"
+name: "Bone Naga (Guardian)"
 date: 2017-09-10
 tags: [large, undead, cr4, monster-manual]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mind Flayer Arcanist"
+name: "Mind Flayer Arcanist"
 date: 2017-09-10
 tags: [medium, aberration, cr8, monster-manual]
 ---

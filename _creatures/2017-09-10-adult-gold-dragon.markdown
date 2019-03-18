@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adult Gold Dragon"
+name: "Adult Gold Dragon"
 date: 2017-09-10
 tags: [huge, dragon, cr17, monster-manual]
 ---

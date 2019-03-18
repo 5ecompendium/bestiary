@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Frost Giant Everlasting One"
+name: "Frost Giant Everlasting One"
 date: 2017-09-10
 tags: [huge, giant, cr12, volos-guide]
 ---

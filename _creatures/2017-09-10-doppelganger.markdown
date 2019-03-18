@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Doppelganger"
+name: "Doppelganger"
 date: 2017-09-10
 tags: [medium, monstrosity, cr3, monster-manual]
 ---

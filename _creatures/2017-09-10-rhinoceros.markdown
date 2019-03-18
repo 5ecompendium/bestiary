@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rhinoceros"
+name: "Rhinoceros"
 date: 2017-09-10
 tags: [large, beast, cr2, monster-manual]
 ---

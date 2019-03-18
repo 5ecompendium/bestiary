@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fire Elemental"
+name: "Fire Elemental"
 date: 2017-09-10
 tags: [large, elemental, cr5, monster-manual]
 ---

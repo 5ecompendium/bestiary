@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The Pudding King"
+name: "The Pudding King"
 date: 2017-09-10
 tags: [small, humanoid, cr4, out-of-the-abyss]
 ---

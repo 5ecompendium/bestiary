@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Juiblex"
+name: "Juiblex"
 date: 2017-09-10
 tags: [huge, fiend, cr23, out-of-the-abyss]
 ---

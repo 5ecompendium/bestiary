@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Giant Boar"
+name: "Giant Boar"
 date: 2017-09-10
 tags: [large, beast, cr2, monster-manual]
 ---

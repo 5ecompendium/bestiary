@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ambush Drake"
+name: "Ambush Drake"
 date: 2017-09-10
 tags: [medium, dragon, cr1/2, tyranny-of-dragons]
 ---

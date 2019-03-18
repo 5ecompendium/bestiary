@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Swarm of Poisonous Snakes"
+name: "Swarm of Poisonous Snakes"
 date: 2017-09-10
 tags: [medium, swarm, cr2, monster-manual]
 ---

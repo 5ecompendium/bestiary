@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sacred Stone Monk"
+name: "Sacred Stone Monk"
 date: 2017-09-10
 tags: [medium, humanoid, cr1/2, elemental-evil]
 ---

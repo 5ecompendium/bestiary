@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hobgoblin Devastator"
+name: "Hobgoblin Devastator"
 date: 2017-09-10
 tags: [medium, humanoid, cr4, volos-guide]
 ---

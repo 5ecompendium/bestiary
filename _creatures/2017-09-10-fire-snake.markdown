@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fire Snake"
+name: "Fire Snake"
 date: 2017-09-10
 tags: [medium, elemental, cr1, monster-manual]
 ---

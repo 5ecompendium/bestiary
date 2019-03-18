@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Swarm of Beetles"
+name: "Swarm of Beetles"
 date: 2017-09-10
 tags: [medium, swarm, cr1/2, monster-manual]
 ---

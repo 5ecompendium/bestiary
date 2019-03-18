@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yakfolk Warrior"
+name: "Yakfolk Warrior"
 date: 2017-09-10
 tags: [large, monstrosity, cr3, storm-kings-thunder]
 ---

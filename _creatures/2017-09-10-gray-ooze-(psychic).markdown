@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gray Ooze (Psychic)"
+name: "Gray Ooze (Psychic)"
 date: 2017-09-10
 tags: [medium, ooze, cr1/2, monster-manual]
 ---

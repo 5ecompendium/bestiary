@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kraken"
+name: "Kraken"
 date: 2017-09-10
 tags: [gargantuan, monstrosity, cr23, monster-manual]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Galeb Duhr"
+name: "Galeb Duhr"
 date: 2017-09-10
 tags: [medium, elemental, cr6, monster-manual]
 ---

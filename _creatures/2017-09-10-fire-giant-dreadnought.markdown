@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Fire Giant Dreadnought"
+name: "Fire Giant Dreadnought"
 date: 2017-09-10
 tags: [huge, giant, cr14, volos-guide]
 ---

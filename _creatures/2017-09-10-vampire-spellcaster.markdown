@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vampire Spellcaster"
+name: "Vampire Spellcaster"
 date: 2017-09-10
 tags: [medium, undead, cr15, monster-manual]
 ---

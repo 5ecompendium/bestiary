@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Neogi Hatchling"
+name: "Neogi Hatchling"
 date: 2017-09-10
 tags: [tiny, aberration, cr1/8, volos-guide]
 ---

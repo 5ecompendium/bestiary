@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Barbed Devil"
+name: "Barbed Devil"
 date: 2017-09-10
 tags: [medium, fiend, cr5, monster-manual]
 ---

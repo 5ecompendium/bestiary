@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Male Steeder"
+name: "Male Steeder"
 date: 2017-09-10
 tags: [medium, beast, cr1/4, out-of-the-abyss]
 ---

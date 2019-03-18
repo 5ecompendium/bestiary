@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Orc Nurtured One of Yurtrus"
+name: "Orc Nurtured One of Yurtrus"
 date: 2017-09-10
 tags: [medium, humanoid, cr1/2, volos-guide]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stone Giant Dreamwalker"
+name: "Stone Giant Dreamwalker"
 date: 2017-09-10
 tags: [huge, giant, cr10, volos-guide]
 ---

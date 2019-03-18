@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thri-kreen (Psionic)"
+name: "Thri-kreen (Psionic)"
 date: 2017-09-10
 tags: [medium, humanoid, cr1, monster-manual]
 ---

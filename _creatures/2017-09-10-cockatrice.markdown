@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Cockatrice"
+name: "Cockatrice"
 date: 2017-09-10
 tags: [small, monstrosity, cr1/2, monster-manual]
 ---

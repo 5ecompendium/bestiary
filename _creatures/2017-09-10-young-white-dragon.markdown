@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Young White Dragon"
+name: "Young White Dragon"
 date: 2017-09-10
 tags: [large, dragon, cr6, monster-manual]
 ---

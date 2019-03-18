@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Avatar of Death"
+name: "Avatar of Death"
 date: 2017-09-10
 tags: [medium, undead, cr--, monster-manual]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Shadow Mastiff"
+name: "Shadow Mastiff"
 date: 2017-09-10
 tags: [medium, monstrosity, cr2, volos-guide]
 ---

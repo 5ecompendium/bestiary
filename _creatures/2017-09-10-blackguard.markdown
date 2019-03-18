@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blackguard"
+name: "Blackguard"
 date: 2017-09-10
 tags: [medium, humanoid, cr8, volos-guide]
 ---

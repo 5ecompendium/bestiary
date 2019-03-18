@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kraken Priest"
+name: "Kraken Priest"
 date: 2017-09-10
 tags: [medium, humanoid, cr5, volos-guide]
 ---

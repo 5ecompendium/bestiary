@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Gnoll Flesh Gnawer"
+name: "Gnoll Flesh Gnawer"
 date: 2017-09-10
 tags: [medium, humanoid, cr1, volos-guide]
 ---

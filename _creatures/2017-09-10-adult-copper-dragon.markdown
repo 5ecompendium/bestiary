@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Adult Copper Dragon"
+name: "Adult Copper Dragon"
 date: 2017-09-10
 tags: [huge, dragon, cr14, monster-manual]
 ---

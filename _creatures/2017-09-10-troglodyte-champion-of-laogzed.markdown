@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Troglodyte Champion of Laogzed"
+name: "Troglodyte Champion of Laogzed"
 date: 2017-09-10
 tags: [medium, humanoid, cr3, out-of-the-abyss]
 ---

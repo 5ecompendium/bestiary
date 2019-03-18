@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Living Unseen Servant"
+name: "Living Unseen Servant"
 date: 2017-09-10
 tags: [medium, construct, cr0, dungeon-of-the-mad-mage]
 page_number: 313

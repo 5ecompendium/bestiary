@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Water Weird"
+name: "Water Weird"
 date: 2017-09-10
 tags: [large, elemental, cr3, monster-manual]
 ---

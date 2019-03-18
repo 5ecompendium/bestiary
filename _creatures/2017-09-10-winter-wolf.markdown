@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Winter Wolf"
+name: "Winter Wolf"
 date: 2017-09-10
 tags: [large, monstrosity, cr3, monster-manual]
 ---

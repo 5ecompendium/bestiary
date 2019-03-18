@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ezmerelda d'Avenir"
+name: "Ezmerelda d'Avenir"
 date: 2017-09-10
 tags: [medium, humanoid, cr8, curse-of-strahd]
 page_number: 230

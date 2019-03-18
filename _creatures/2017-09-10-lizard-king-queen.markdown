@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Lizard King/Queen"
+name: "Lizard King/Queen"
 date: 2017-09-10
 tags: [medium, humanoid, cr4, monster-manual]
 ---

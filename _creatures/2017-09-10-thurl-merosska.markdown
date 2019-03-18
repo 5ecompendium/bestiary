@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thurl Merosska"
+name: "Thurl Merosska"
 date: 2017-09-10
 tags: [medium, humanoid, cr3, tyranny-of-dragons]
 ---

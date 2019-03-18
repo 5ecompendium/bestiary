@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hobgoblin Iron Shadow"
+name: "Hobgoblin Iron Shadow"
 date: 2017-09-10
 tags: [medium, humanoid, cr2, volos-guide]
 ---

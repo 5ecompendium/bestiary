@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Banderhobb"
+name: "Banderhobb"
 date: 2017-09-10
 tags: [large, monstrosity, cr5, volos-guide]
 ---

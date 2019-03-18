@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Duergar Stone Guard"
+name: "Duergar Stone Guard"
 date: 2017-09-10
 tags: [medium, humanoid, cr2, out-of-the-abyss]
 ---

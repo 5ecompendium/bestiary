@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yuan-ti Broodguard"
+name: "Yuan-ti Broodguard"
 date: 2017-09-10
 tags: [medium, humanoid, cr2, volos-guide]
 ---

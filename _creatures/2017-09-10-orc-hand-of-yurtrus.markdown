@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Orc Hand of Yurtrus"
+name: "Orc Hand of Yurtrus"
 date: 2017-09-10
 tags: [medium, humanoid, cr2, volos-guide]
 ---

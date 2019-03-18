@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Abyssal Wretch"
+name: "Abyssal Wretch"
 date: 2018-12-02
 tags: [medium, fiend, cr1/4, mordenkainens-tome-of-foes]
 page_number: 136

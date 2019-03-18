@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Silver Dragon Wyrmling"
+name: "Silver Dragon Wyrmling"
 date: 2017-09-10
 tags: [medium, dragon, cr2, monster-manual]
 ---

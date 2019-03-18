@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "White Dragon Wyrmling"
+name: "White Dragon Wyrmling"
 date: 2017-09-10
 tags: [medium, dragon, cr2, monster-manual]
 ---

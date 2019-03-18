@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Black Pudding"
+name: "Black Pudding"
 date: 2017-09-10
 tags: [large, ooze, cr4, monster-manual]
 ---

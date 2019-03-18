@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Feathergale Knight"
+name: "Feathergale Knight"
 date: 2017-09-10
 tags: [medium, humanoid, cr1, elemental-evil]
 ---

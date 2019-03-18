@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Myconid Sovereign"
+name: "Myconid Sovereign"
 date: 2017-09-10
 tags: [large, plant, cr2, monster-manual]
 ---

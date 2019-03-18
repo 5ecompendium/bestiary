@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Duergar Soulblade"
+name: "Duergar Soulblade"
 date: 2017-09-10
 tags: [medium, humanoid, cr1, out-of-the-abyss]
 ---

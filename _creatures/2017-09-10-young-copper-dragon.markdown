@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Young Copper Dragon"
+name: "Young Copper Dragon"
 date: 2017-09-10
 tags: [large, dragon, cr7, monster-manual]
 ---

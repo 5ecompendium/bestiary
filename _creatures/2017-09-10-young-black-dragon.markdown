@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Young Black Dragon"
+name: "Young Black Dragon"
 date: 2017-09-10
 tags: [large, dragon, cr7, monster-manual]
 ---

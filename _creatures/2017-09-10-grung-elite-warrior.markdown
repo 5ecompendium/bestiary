@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Grung Elite Warrior"
+name: "Grung Elite Warrior"
 date: 2017-09-10
 tags: [small, humanoid, cr2, volos-guide]
 ---

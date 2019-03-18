@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Quetzalcoatlus"
+name: "Quetzalcoatlus"
 date: 2017-09-10
 tags: [huge, beast, cr2, volos-guide]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Giant Crocodile"
+name: "Giant Crocodile"
 date: 2017-09-10
 tags: [huge, beast, cr5, monster-manual]
 ---

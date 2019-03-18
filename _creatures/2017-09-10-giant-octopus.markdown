@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Giant Octopus"
+name: "Giant Octopus"
 date: 2017-09-10
 tags: [large, beast, cr1, monster-manual]
 ---

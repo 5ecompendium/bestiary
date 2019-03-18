@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Half-Ogre (Ogrillon)"
+name: "Half-Ogre (Ogrillon)"
 date: 2017-09-10
 tags: [large, giant, cr1, monster-manual]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Black Earth Guard"
+name: "Black Earth Guard"
 date: 2017-09-10
 tags: [medium, humanoid, cr2, elemental-evil]
 ---

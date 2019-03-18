@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bone Naga (Spirit)"
+name: "Bone Naga (Spirit)"
 date: 2017-09-10
 tags: [large, undead, cr4, monster-manual]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Warlock of the Fiend"
+name: "Warlock of the Fiend"
 date: 2017-09-10
 tags: [medium, humanoid, cr7, volos-guide]
 ---

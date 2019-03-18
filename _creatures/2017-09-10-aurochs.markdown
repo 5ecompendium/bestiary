@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aurochs"
+name: "Aurochs"
 date: 2017-09-10
 tags: [large, beast, cr2, volos-guide]
 ---

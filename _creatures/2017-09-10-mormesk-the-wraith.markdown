@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Mormesk the Wraith"
+name: "Mormesk the Wraith"
 date: 2017-09-10
 tags: [medium, undead, cr3, lost-mine-of-phandelver]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Deep Gnome (Svirfneblin)"
+name: "Deep Gnome (Svirfneblin)"
 date: 2017-09-10
 tags: [small, humanoid, cr1/2, monster-manual]
 ---

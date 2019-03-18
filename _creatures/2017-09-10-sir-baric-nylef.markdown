@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sir Baric Nylef"
+name: "Sir Baric Nylef"
 date: 2017-09-10
 tags: [medium, humanoid, cr0, storm-kings-thunder]
 ---

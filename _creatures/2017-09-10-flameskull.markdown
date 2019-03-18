@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flameskull"
+name: "Flameskull"
 date: 2017-09-10
 tags: [tiny, undead, cr4, monster-manual]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Darkmantle"
+name: "Darkmantle"
 date: 2017-09-10
 tags: [small, monstrosity, cr1/2, monster-manual]
 ---

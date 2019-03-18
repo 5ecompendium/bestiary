@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Howling Hatred Priest"
+name: "Howling Hatred Priest"
 date: 2017-09-10
 tags: [medium, humanoid, cr2, elemental-evil]
 ---

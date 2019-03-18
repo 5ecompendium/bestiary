@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Guardian Portrait"
+name: "Guardian Portrait"
 date: 2017-09-10
 tags: [medium, construct, cr1, curse-of-strahd]
 page_number: 227

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Balhannoth"
+name: "Balhannoth"
 date: 2018-11-30
 tags: [large, aberration, cr11, mordenkainens-tome-of-foes]
 page_number: 119

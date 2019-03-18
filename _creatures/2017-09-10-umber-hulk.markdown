@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Umber Hulk"
+name: "Umber Hulk"
 date: 2017-09-10
 tags: [large, monstrosity, cr5, monster-manual]
 ---

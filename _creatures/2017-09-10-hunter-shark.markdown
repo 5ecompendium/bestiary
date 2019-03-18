@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hunter Shark"
+name: "Hunter Shark"
 date: 2017-09-10
 tags: [large, beast, cr2, monster-manual]
 ---

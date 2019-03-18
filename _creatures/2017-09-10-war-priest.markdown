@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "War Priest"
+name: "War Priest"
 date: 2017-09-10
 tags: [medium, humanoid, cr9, volos-guide]
 ---

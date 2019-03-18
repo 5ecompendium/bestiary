@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "One-Eyed Shiver"
+name: "One-Eyed Shiver"
 date: 2017-09-10
 tags: [medium, humanoid, cr3, elemental-evil]
 ---

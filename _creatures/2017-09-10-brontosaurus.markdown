@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Brontosaurus"
+name: "Brontosaurus"
 date: 2017-09-10
 tags: [gargantuan, beast, cr5, volos-guide]
 ---

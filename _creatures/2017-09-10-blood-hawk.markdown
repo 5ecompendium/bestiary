@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Blood Hawk"
+name: "Blood Hawk"
 date: 2017-09-10
 tags: [small, beast, cr1/8, monster-manual]
 ---

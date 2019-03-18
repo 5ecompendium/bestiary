@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Stone Golem"
+name: "Stone Golem"
 date: 2017-09-10
 tags: [large, construct, cr10, monster-manual]
 ---

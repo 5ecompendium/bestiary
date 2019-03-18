@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Faerie Dragon (Violet)"
+name: "Faerie Dragon (Violet)"
 date: 2017-09-10
 tags: [tiny, dragon, cr2, monster-manual]
 ---

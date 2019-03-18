@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Thayan Warrior"
+name: "Thayan Warrior"
 date: 2017-09-10
 tags: [medium, humanoid, cr2, tales-from-the-yawning-portal]
 ---

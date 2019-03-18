@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bastian Thermandar"
+name: "Bastian Thermandar"
 date: 2017-09-10
 tags: [medium, humanoid, cr8, elemental-evil]
 ---

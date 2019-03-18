@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Yuan-ti Mind Whisperer"
+name: "Yuan-ti Mind Whisperer"
 date: 2017-09-10
 tags: [medium, monstrosity, cr4, volos-guide]
 ---

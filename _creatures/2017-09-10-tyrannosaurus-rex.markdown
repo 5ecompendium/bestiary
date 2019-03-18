@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tyrannosaurus Rex"
+name: "Tyrannosaurus Rex"
 date: 2017-09-10
 tags: [huge, beast, cr8, monster-manual]
 ---

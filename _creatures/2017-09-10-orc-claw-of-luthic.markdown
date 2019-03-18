@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Orc Claw of Luthic"
+name: "Orc Claw of Luthic"
 date: 2017-09-10
 tags: [medium, humanoid, cr2, volos-guide]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Flying Sword"
+name: "Flying Sword"
 date: 2017-09-10
 tags: [small, construct, cr1/4, monster-manual]
 ---

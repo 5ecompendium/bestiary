@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Swarm of Rats"
+name: "Swarm of Rats"
 date: 2017-09-10
 tags: [medium, swarm, cr1/4, monster-manual]
 ---

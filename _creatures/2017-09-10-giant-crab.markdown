@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Giant Crab"
+name: "Giant Crab"
 date: 2017-09-10
 tags: [medium, beast, cr1/8, monster-manual]
 ---

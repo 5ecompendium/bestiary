@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Froghemoth"
+name: "Froghemoth"
 date: 2017-09-10
 tags: [huge, monstrosity, cr10, volos-guide]
 ---

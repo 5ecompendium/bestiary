@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Azbara Jos"
+name: "Azbara Jos"
 date: 2017-09-10
 tags: [medium, humanoid, cr4, tyranny-of-dragons]
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Marlos Urnrayle"
+name: "Marlos Urnrayle"
 date: 2017-09-10
 tags: [medium, monstrosity, cr8, elemental-evil]
 ---

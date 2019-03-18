@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Salamander"
+name: "Salamander"
 date: 2017-09-10
 tags: [large, elemental, cr5, monster-manual]
 ---
