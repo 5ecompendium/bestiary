@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Faerie Dragon (Green)"
 date: 2017-09-10
 tags: [tiny, dragon, cr2, monster-manual]

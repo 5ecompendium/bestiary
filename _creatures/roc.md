@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Roc"
 date: 2017-09-10
 tags: [gargantuan, monstrosity, cr11, monster-manual]

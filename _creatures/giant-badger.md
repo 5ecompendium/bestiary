@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Giant Badger"
 date: 2017-09-10
 tags: [medium, beast, cr1/4, monster-manual]

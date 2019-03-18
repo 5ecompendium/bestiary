@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Sea Hag"
 date: 2017-09-10
 tags: [medium, fey, cr2, monster-manual]

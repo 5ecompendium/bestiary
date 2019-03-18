@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Zi Liang"
 date: 2017-09-10
 tags: [medium, humanoid, cr0, storm-kings-thunder]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Chuul"
 date: 2017-09-10
 tags: [large, aberration, cr4, monster-manual]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Young Red Dragon"
 date: 2017-09-10
 tags: [large, dragon, cr10, monster-manual]

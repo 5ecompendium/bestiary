@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Shadow"
 date: 2017-09-10
 tags: [medium, undead, cr1/2, monster-manual]

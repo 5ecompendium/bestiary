@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Lich"
 date: 2017-09-10
 tags: [medium, undead, cr21, monster-manual]

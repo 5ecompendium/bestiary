@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Crushing Wave Reaver"
 date: 2017-09-10
 tags: [medium, humanoid, cr1/2, elemental-evil]

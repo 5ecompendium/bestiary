@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Quasit"
 date: 2017-09-10
 tags: [tiny, fiend, cr1, monster-manual]

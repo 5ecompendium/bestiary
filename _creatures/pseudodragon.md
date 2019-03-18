@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Pseudodragon"
 date: 2017-09-10
 tags: [tiny, dragon, cr1/4, monster-manual]

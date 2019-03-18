@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Giant Lightning Eel"
 date: 2017-09-10
 tags: [large, beast, cr3, tales-from-the-yawning-portal]

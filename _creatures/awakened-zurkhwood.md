@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Awakened Zurkhwood"
 date: 2017-09-10
 tags: [huge, plant, cr2, out-of-the-abyss]

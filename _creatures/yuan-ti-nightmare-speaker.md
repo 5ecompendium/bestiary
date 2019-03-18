@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Yuan-ti Nightmare Speaker"
 date: 2017-09-10
 tags: [medium, monstrosity, cr4, volos-guide]

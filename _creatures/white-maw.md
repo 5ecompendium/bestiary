@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "White Maw"
 date: 2017-09-10
 tags: [gargantuan, ooze, cr10, tales-from-the-yawning-portal]

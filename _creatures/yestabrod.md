@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Yestabrod"
 date: 2017-09-10
 tags: [large, monstrosity, cr4, out-of-the-abyss]

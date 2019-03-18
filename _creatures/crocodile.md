@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Crocodile"
 date: 2017-09-10
 tags: [large, beast, cr1/2, monster-manual]

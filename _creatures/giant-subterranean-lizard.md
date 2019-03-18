@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Giant Subterranean Lizard"
 date: 2017-09-10
 tags: [huge, beast, cr4, tales-from-the-yawning-portal]

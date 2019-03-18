@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Giant Rat (Diseased)"
 date: 2017-09-10
 tags: [small, beast, cr1/8, monster-manual]

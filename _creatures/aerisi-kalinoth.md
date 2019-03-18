@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Aerisi Kalinoth"
 date: 2017-09-10
 tags: [medium, humanoid, cr7, elemental-evil]

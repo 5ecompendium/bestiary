@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Nothic"
 date: 2017-09-10
 tags: [medium, aberration, cr2, monster-manual]

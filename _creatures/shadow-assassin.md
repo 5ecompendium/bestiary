@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Shadow Assassin"
 date: 2018-12-17
 tags: [medium, undead, cr9, dungeon-of-the-mad-mage]

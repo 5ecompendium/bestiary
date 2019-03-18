@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Nycaloth"
 date: 2017-09-10
 tags: [large, fiend, cr9, monster-manual]

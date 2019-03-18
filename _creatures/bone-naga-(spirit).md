@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Bone Naga (Spirit)"
 date: 2017-09-10
 tags: [large, undead, cr4, monster-manual]

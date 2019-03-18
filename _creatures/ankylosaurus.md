@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Ankylosaurus"
 date: 2017-09-10
 tags: [huge, beast, cr3, monster-manual]

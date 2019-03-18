@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Neothelid"
 date: 2017-09-10
 tags: [gargantuan, aberration, cr13, volos-guide]

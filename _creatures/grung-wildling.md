@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Grung Wildling"
 date: 2017-09-10
 tags: [small, humanoid, cr1, volos-guide]

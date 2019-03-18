@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Azer"
 date: 2017-09-10
 tags: [medium, elemental, cr2, monster-manual]

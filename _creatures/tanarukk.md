@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Tanarukk"
 date: 2017-09-10
 tags: [medium, fiend, cr5, volos-guide]

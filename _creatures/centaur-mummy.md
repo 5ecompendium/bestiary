@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Centaur Mummy"
 date: 2017-09-10
 tags: [large, undead, cr6, tales-from-the-yawning-portal]

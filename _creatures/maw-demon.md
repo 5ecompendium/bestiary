@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Maw Demon"
 date: 2017-09-10
 tags: [medium, fiend, cr1, volos-guide]

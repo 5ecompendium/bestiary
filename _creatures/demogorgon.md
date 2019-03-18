@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Demogorgon"
 date: 2017-09-10
 tags: [huge, fiend, cr26, out-of-the-abyss]

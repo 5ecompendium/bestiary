@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Erinyes"
 date: 2017-09-10
 tags: [medium, fiend, cr12, monster-manual]

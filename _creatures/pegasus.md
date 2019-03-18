@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Pegasus"
 date: 2017-09-10
 tags: [large, celestial, cr2, monster-manual]

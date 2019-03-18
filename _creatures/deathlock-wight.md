@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Deathlock Wight"
 date: 2017-09-10
 tags: [medium, undead, cr3, tales-from-the-yawning-portal]

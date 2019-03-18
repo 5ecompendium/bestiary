@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Piercer"
 date: 2017-09-10
 tags: [large, monstrosity, cr1/2, monster-manual]

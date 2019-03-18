@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Shadow Mastiff Alpha"
 date: 2019-06-28
 tags: [medium, monstrosity, cr2, volos-guide]

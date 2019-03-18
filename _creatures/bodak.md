@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Bodak"
 date: 2017-09-10
 tags: [medium, undead, cr6, volos-guide]

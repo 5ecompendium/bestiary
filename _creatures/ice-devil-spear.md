@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Ice Devil Spear"
 date: 2017-09-10
 tags: [large, fiend, cr14, monster-manual]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Werebat"
 date: 2018-12-17
 tags: [small, humanoid, cr2, dungeon-of-the-mad-mage]

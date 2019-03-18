@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Mud Mephit"
 date: 2017-09-10
 tags: [small, elemental, cr1/4, monster-manual]

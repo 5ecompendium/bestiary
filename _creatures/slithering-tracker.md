@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Slithering Tracker"
 date: 2017-09-10
 tags: [medium, ooze, cr3, volos-guide]

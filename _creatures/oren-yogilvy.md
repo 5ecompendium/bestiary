@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Oren Yogilvy"
 date: 2017-09-10
 tags: [small, humanoid, cr0, storm-kings-thunder]

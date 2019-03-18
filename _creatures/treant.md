@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Treant"
 date: 2017-09-10
 tags: [huge, plant, cr9, monster-manual]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Behir"
 date: 2017-09-10
 tags: [huge, monstrosity, cr11, monster-manual]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Aurochs"
 date: 2017-09-10
 tags: [large, beast, cr2, volos-guide]

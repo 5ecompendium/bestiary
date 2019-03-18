@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Annis Hag"
 date: 2017-09-10
 tags: [large, fey, cr6, volos-guide]

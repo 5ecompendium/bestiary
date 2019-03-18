@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Death Kiss"
 date: 2017-09-10
 tags: [large, aberration, cr10, volos-guide]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Rath Modar"
 date: 2017-09-10
 tags: [medium, humanoid, cr6, tyranny-of-dragons]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Red Dragon Wyrmling"
 date: 2017-09-10
 tags: [medium, dragon, cr4, monster-manual]

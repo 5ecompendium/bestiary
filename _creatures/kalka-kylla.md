@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Kalka-Kylla"
 date: 2017-09-10
 tags: [large, monstrosity, cr3, tales-from-the-yawning-portal]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Beholder Zombie"
 date: 2017-09-10
 tags: [large, undead, cr5, monster-manual]

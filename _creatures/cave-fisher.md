@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Cave Fisher"
 date: 2017-09-10
 tags: [medium, monstrosity, cr3, volos-guide]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Death Tyrant"
 date: 2017-09-10
 tags: [large, undead, cr14, monster-manual]

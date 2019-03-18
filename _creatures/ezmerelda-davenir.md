@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Ezmerelda d'Avenir"
 date: 2017-09-10
 tags: [medium, humanoid, cr8, curse-of-strahd]

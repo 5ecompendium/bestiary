@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Ghald"
 date: 2017-09-10
 tags: [large, humanoid, cr7, elemental-evil]

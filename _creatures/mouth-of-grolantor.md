@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Mouth of Grolantor"
 date: 2017-09-10
 tags: [huge, giant, cr6, volos-guide]

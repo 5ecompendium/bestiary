@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Blink Dog"
 date: 2017-09-10
 tags: [medium, fey, cr1/4, monster-manual]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Hezrou"
 date: 2017-09-10
 tags: [large, fiend, cr8, monster-manual]

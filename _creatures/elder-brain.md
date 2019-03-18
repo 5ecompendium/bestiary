@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Elder Brain"
 date: 2017-09-10
 tags: [large, aberration, cr14, volos-guide]

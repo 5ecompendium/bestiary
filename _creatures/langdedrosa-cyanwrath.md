@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Langdedrosa Cyanwrath"
 date: 2017-09-10
 tags: [medium, humanoid, cr4, tyranny-of-dragons]

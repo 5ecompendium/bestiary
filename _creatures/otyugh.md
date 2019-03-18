@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Otyugh"
 date: 2017-09-10
 tags: [large, aberration, cr5, monster-manual]

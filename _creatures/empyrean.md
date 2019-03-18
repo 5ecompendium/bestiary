@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Empyrean"
 date: 2017-09-10
 tags: [huge, celestial, cr23, monster-manual]

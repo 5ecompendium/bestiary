@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Green Slaad"
 date: 2017-09-10
 tags: [large, aberration, cr8, monster-manual]

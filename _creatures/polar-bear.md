@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Polar Bear"
 date: 2017-09-10
 tags: [large, beast, cr2, monster-manual]

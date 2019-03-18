@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Chasme"
 date: 2017-09-10
 tags: [large, fiend, cr6, monster-manual]

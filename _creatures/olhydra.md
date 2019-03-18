@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Olhydra"
 date: 2017-09-10
 tags: [huge, elemental, cr18, elemental-evil]

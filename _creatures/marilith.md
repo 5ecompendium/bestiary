@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Marilith"
 date: 2017-09-10
 tags: [large, fiend, cr16, monster-manual]

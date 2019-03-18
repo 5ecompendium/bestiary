@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Peryton"
 date: 2017-09-10
 tags: [medium, monstrosity, cr2, monster-manual]

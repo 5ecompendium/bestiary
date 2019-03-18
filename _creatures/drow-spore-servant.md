@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Drow Spore Servant"
 date: 2017-09-10
 tags: [medium, plant, cr1/8, out-of-the-abyss]

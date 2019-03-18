@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Demilich"
 date: 2017-09-10
 tags: [tiny, undead, cr18, monster-manual]

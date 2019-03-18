@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Horned Devil"
 date: 2017-09-10
 tags: [large, fiend, cr11, monster-manual]

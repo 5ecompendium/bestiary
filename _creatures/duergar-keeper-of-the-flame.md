@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Duergar Keeper of the Flame"
 date: 2017-09-10
 tags: [medium, humanoid, cr2, out-of-the-abyss]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Swarm of Cranium Rats"
 date: 2017-09-10
 tags: [medium, swarm, cr5, volos-guide]

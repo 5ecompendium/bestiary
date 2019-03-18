@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Troll"
 date: 2017-09-10
 tags: [large, giant, cr5, monster-manual]

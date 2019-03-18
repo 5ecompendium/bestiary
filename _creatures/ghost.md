@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Ghost"
 date: 2017-09-10
 tags: [medium, undead, cr4, monster-manual]

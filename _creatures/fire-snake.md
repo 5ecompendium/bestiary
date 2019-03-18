@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Fire Snake"
 date: 2017-09-10
 tags: [medium, elemental, cr1, monster-manual]

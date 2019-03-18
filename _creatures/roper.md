@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Roper"
 date: 2017-09-10
 tags: [large, monstrosity, cr5, monster-manual]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Talis the White"
 date: 2017-09-10
 tags: [medium, humanoid, cr5, tyranny-of-dragons]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Invisible Stalker"
 date: 2017-09-10
 tags: [medium, elemental, cr6, monster-manual]

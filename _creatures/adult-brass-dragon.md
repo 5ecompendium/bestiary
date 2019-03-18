@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Adult Brass Dragon"
 date: 2017-09-10
 tags: [huge, dragon, cr13, monster-manual]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Imix"
 date: 2017-09-10
 tags: [huge, elemental, cr19, elemental-evil]

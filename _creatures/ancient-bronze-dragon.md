@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Ancient Bronze Dragon"
 date: 2017-09-10
 tags: [gargantuan, dragon, cr22, monster-manual]

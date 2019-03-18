@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Blue Slaad"
 date: 2017-09-10
 tags: [large, aberration, cr7, monster-manual]

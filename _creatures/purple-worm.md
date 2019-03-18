@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Purple Worm"
 date: 2017-09-10
 tags: [gargantuan, monstrosity, cr15, monster-manual]

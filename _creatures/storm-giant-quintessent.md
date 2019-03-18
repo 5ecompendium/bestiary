@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Storm Giant Quintessent"
 date: 2017-09-10
 tags: [huge, giant, cr16, volos-guide]

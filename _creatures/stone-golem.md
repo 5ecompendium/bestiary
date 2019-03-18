@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Stone Golem"
 date: 2017-09-10
 tags: [large, construct, cr10, monster-manual]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Warhorse Skeleton"
 date: 2017-09-10
 tags: [large, undead, cr1/2, monster-manual]

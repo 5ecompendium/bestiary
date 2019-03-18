@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Ki-rin"
 date: 2017-09-10
 tags: [huge, celestial, cr12, volos-guide]

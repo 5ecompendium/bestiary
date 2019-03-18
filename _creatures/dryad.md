@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Dryad"
 date: 2017-09-10
 tags: [medium, fey, cr1, monster-manual]

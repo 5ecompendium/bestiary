@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Marid"
 date: 2017-09-10
 tags: [large, elemental, cr11, monster-manual]

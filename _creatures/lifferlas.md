@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Lifferlas"
 date: 2017-09-10
 tags: [huge, plant, cr0, storm-kings-thunder]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Swarm of Beetles"
 date: 2017-09-10
 tags: [medium, swarm, cr1/2, monster-manual]

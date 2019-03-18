@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Barlgura"
 date: 2017-09-10
 tags: [large, fiend, cr5, monster-manual]

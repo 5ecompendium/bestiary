@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Violet Fungus"
 date: 2017-09-10
 tags: [medium, plant, cr1/4, monster-manual]

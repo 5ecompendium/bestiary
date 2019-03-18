@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Astral Dreadnought"
 date: 2018-12-2
 tags: [gargantuan, titan, cr21, mordenkainens-tome-of-foes]

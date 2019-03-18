@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Yeth Hound"
 date: 2017-09-10
 tags: [large, fey, cr4, volos-guide]

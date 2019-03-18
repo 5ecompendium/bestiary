@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Cranium Rat"
 date: 2017-09-10
 tags: [tiny, beast, cr0, volos-guide]

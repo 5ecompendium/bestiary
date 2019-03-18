@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Thorny"
 date: 2017-09-10
 tags: [medium, plant, cr1, volos-guide]

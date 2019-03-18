@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Beholder"
 date: 2017-09-10
 tags: [large, aberration, cr13, monster-manual]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Minotaur Skeleton"
 date: 2017-09-10
 tags: [large, undead, cr2, monster-manual]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Slaad Tadpole"
 date: 2017-09-10
 tags: [tiny, aberration, cr1/8, monster-manual]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Meenlock"
 date: 2017-09-10
 tags: [small, fey, cr2, volos-guide]

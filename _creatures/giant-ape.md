@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Giant Ape"
 date: 2017-09-10
 tags: [huge, beast, cr7, monster-manual]

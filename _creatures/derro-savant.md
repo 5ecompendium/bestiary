@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Derro Savant"
 date: 2017-09-10
 tags: [small, humanoid, cr3, out-of-the-abyss]

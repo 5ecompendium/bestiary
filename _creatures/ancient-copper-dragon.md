@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Ancient Copper Dragon"
 date: 2017-09-10
 tags: [gargantuan, dragon, cr21, monster-manual]

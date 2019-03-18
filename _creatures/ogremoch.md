@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Ogremoch"
 date: 2017-09-10
 tags: [gargantuan, elemental, cr20, elemental-evil]

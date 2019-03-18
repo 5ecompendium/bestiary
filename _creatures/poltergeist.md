@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Poltergeist"
 date: 2017-09-10
 tags: [medium, undead, cr2, monster-manual]

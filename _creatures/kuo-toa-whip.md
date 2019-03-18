@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Kuo-Toa Whip"
 date: 2017-09-10
 tags: [medium, humanoid, cr1, monster-manual]

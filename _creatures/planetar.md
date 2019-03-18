@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Planetar"
 date: 2017-09-10
 tags: [large, celestial, cr16, monster-manual]

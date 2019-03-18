@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Madam Eva"
 date: 2017-09-10
 tags: [medium, humanoid, cr10, curse-of-strahd]

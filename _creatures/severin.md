@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Severin"
 date: 2017-09-10
 tags: [medium, humanoid, cr11, tyranny-of-dragons]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Tiamat"
 date: 2017-09-10
 tags: [gargantuan, fiend, cr30, tyranny-of-dragons]

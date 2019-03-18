@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Shield Guardian"
 date: 2017-09-10
 tags: [large, construct, cr7, monster-manual]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Intellect Devourer"
 date: 2017-09-10
 tags: [tiny, aberration, cr2, monster-manual]

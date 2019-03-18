@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Deep Gnome (Svirfneblin)"
 date: 2017-09-10
 tags: [small, humanoid, cr1/2, monster-manual]

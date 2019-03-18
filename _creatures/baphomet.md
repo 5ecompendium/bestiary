@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Baphomet"
 date: 2017-09-10
 tags: [huge, fiend, cr23, out-of-the-abyss]

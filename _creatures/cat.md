@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Cat"
 date: 2017-09-10
 tags: [tiny, beast, cr0, monster-manual]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Gauth"
 date: 2017-09-10
 tags: [medium, aberration, cr6, volos-guide]

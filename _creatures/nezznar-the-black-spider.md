@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Nezznar the Black Spider"
 date: 2017-09-10
 tags: [medium, humanoid, cr2, lost-mine-of-phandelver]

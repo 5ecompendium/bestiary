@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Baboon"
 date: 2017-09-10
 tags: [small, beast, cr0, monster-manual]

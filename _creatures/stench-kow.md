@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Stench Kow"
 date: 2017-09-10
 tags: [large, beast, cr1/4, volos-guide]

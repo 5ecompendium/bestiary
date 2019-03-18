@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Fire Giant"
 date: 2017-09-10
 tags: [huge, giant, cr9, monster-manual]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Gas Spore"
 date: 2017-09-10
 tags: [large, plant, cr1/2, monster-manual]

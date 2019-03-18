@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Pit Fiend"
 date: 2017-09-10
 tags: [large, fiend, cr20, monster-manual]

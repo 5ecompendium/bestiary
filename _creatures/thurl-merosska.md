@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Thurl Merosska"
 date: 2017-09-10
 tags: [medium, humanoid, cr3, tyranny-of-dragons]

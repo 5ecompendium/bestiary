@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Morkoth"
 date: 2017-09-10
 tags: [medium, aberration, cr11, volos-guide]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Ooze Master"
 date: 2017-09-10
 tags: [huge, undead, cr10, tales-from-the-yawning-portal]

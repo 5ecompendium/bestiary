@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Chuul Spore Servant"
 date: 2017-09-10
 tags: [large, plant, cr4, out-of-the-abyss]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Quickling"
 date: 2017-09-10
 tags: [tiny, fey, cr1, volos-guide]

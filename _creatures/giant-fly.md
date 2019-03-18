@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Giant Fly"
 date: 2017-09-10
 tags: [large, beast, cr0, monster-manual]

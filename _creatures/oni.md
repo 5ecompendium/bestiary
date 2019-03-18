@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Oni"
 date: 2017-09-10
 tags: [large, giant, cr7, monster-manual]

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Orc Eye of Gruumsh"
 date: 2017-09-10
 tags: [medium, humanoid, cr2, monster-manual]

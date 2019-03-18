@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Muiral"
 date: 2018-12-16
 tags: [large, monstrosity, cr13, dungeon-of-the-mad-mage]

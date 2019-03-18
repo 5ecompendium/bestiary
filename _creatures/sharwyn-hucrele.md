@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Sharwyn Hucrele"
 date: 2017-09-10
 tags: [medium, humanoid, cr1/2, tales-from-the-yawning-portal]

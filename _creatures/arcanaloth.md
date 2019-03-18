@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Arcanaloth"
 date: 2017-09-10
 tags: [medium, fiend, cr12, monster-manual]

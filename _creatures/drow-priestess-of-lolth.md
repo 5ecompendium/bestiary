@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Drow Priestess of Lolth"
 date: 2017-09-10
 tags: [medium, humanoid, cr8, monster-manual]

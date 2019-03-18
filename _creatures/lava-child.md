@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: creature
 name: "Lava Child"
 date: 2018-12-16
 tags: [medium, humanoid, cr3, dungeon-of-the-mad-mage]
