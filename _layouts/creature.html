@@ -9,7 +9,7 @@ layout: default
       <dt>Tags:</dt> {% for tag in page.tags %}
       <dd>
         {% if tag contains 'cr' %}
-        <a href="{{ site.baseurl }}/#{{ tag }}">{{ tag }}</a>
+        <a href="{{ site.baseurl }}/cr#{{ tag }}">{{ tag }}</a>
 	{% else %}
         <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
 	{% endif %}
