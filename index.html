@@ -2,6 +2,7 @@
 layout: default
 ---
 {% assign letters = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z" | split: ' ' %}
+{% assign all_creatures = site.creatures | sort: 'title' %}
 <div class="home">
   <h1 class="page-heading">All Creatures</h1>
   <p id="creatureSearch">Search by name: <input type="search" id="jetsSearch"></p>
@@ -19,7 +20,7 @@ layout: default
   <a id="{{ letter }}"></a>
   <h2 class="post-list-head jetsHide">{{ letter }}</h2>
   <ul class="post-list jetsContent">
-    {% for creature in site.creatures %}
+    {% for creature in all_creatures %}
     {% assign l = creature.title | slice: 0 %}
     {% if l != letter %}{% continue %}{% endif %}
     <li>

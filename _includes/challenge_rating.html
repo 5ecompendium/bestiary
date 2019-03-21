@@ -12,7 +12,7 @@
 <a id="cr{{ cr.level }}"></a>
 <h2 class="post-list-head jetsHide">Challenge {{ cr.level }}</h2>
 <ul class="post-list jetsContent">
-  {% for creature in creatures %}
+  {% for creature in creatures | sort: 'title' %}
   <li>
     <a class="post-link" href="{{ creature.url | prepend: site.baseurl }}">{{ creature.title }}</a>
   </li>
