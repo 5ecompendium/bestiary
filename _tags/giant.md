@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: giants
+name: Giants
 tag: giant
 ---

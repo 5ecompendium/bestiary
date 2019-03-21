@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: plants
+name: Plants
 tag: plant
 ---

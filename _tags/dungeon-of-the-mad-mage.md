@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: "waterdeep: dungeon of the mad mage"
+name: "Waterdeep: Dungeon of the Mad Mage"
 tag: dungeon-of-the-mad-mage
 ---

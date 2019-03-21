@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: elementals
+name: Elementals
 tag: elemental
 ---

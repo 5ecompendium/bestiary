@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: monster manual
+name: Monster Manual
 tag: monster-manual
 ---

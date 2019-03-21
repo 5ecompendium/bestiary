@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: swarm
+name: Swarm
 tag: swarm
 ---

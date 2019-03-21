@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: monstrosities
+name: Monstrosities
 tag: monstrosity
 ---

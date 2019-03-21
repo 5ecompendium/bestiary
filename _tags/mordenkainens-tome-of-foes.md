@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: mordenkainen's tome of foes
+name: Mordenkainen's Tome of Foes
 tag: mordenkainens-tome-of-foes
 ---

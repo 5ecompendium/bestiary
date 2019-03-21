@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: volo's guide to monsters
+name: Volo's Guide to Monsters
 tag: volos-guide
 ---

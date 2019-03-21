@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: oozes
+name: Oozes
 tag: ooze
 ---

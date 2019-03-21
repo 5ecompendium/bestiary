@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: out of the abyss
+name: Out of the Abyss
 tag: out-of-the-abyss
 ---

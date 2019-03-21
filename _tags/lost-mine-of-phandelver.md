@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: lost mine of phandelver
+name: Lost Mine of Phandelver
 tag: lost-mine-of-phandelver
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: elemental evil player's companion
+name: Elemental Evil Player's Companion
 tag: elemental-evil
 ---

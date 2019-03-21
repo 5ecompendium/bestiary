@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: fey
+name: Fey
 tag: fey
 ---

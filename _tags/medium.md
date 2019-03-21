@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: medium
+name: Medium
 tag: medium
 ---

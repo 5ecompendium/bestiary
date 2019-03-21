@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: storm king's thunder
+name: Storm King's Thunder
 tag: storm-kings-thunder
 ---

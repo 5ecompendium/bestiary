@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: curse of strahd
+name: Curse of Strahd
 tag: curse-of-strahd
 ---

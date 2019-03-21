@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: dragons
+name: Dragons
 tag: dragon
 ---

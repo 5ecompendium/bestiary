@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: gargantuan
+name: Gargantuan
 tag: gargantuan
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: beasts
+name: Beasts
 tag: beast
 ---

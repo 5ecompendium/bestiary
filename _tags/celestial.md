@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: celestials
+name: Celestials
 tag: celestial
 ---

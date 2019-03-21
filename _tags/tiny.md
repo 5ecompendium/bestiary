@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: tiny
+name: Tiny
 tag: tiny
 ---

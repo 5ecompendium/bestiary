@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: undead
+name: Undead
 tag: undead
 ---

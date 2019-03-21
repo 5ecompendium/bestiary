@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: humanoids
+name: Humanoids
 tag: humanoid
 ---

@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: tyranny of dragons hoard of the dragon queen
+name: Tyranny of Dragons Hoard of the Dragon Queen
 tag: tyranny-of-dragons
 ---

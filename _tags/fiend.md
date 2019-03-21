@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: fiends
+name: Fiends
 tag: fiend
 ---
