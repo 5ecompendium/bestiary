@@ -1,12 +1,34 @@
 ---
 layout: default
 ---
-
+{% assign letters = "A B C D E F G H I J K L M N O P Q R S T U V W X Y Z" | split: ' ' %}
 <div class="home">
   <h1 class="page-heading">All Creatures</h1>
   <p id="creatureSearch">Search by name: <input type="search" id="jetsSearch"></p>
-  <p id="sortBy">Sort By: <a href="{{ site.baseurl }}/">CR</a> <a href="{{ site.baseurl }}/byname">name</a></p>
-  {% assign all_creatures = site.creatures %}
-  {% include challenge_rating.html %}
+  <p id="sortBy">Sort By: <a href="{{ site.baseurl }}/cr">CR</a> <a href="{{ site.baseurl }}/">name</a></p>
+
+  <dl class="tag-list">
+    <dt>Letter:</dt>
+    {% for letter in letters %}
+    <dd>
+      <a href="#{{ letter }}">{{ letter }}</a>
+    </dd>
+    {% endfor %}
+  </dl>
+  {% for letter in letters %}
+  <a id="{{ letter }}"></a>
+  <h2 class="post-list-head jetsHide">{{ letter }}</h2>
+  <ul class="post-list jetsContent">
+    {% for creature in site.creatures %}
+    {% assign l = creature.title | slice: 0 %}
+    {% if l != letter %}{% continue %}{% endif %}
+    <li>
+      <a class="post-link" href="{{ creature.url | prepend: site.baseurl }}">{{ creature.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+  <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+  {% endfor %}
+
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
