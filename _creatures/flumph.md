@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Flumph"
-date: 2017-09-10
 tags: [small, aberration, cr1/8, monster-manual]
 ---
 

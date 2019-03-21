@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Draegloth"
-date: 2017-09-10
 tags: [large, fiend, cr7, volos-guide]
 ---
 

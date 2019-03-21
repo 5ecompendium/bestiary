@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Wraith"
-date: 2017-09-10
 tags: [medium, undead, cr5, monster-manual]
 ---
 

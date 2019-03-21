@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Remorhaz"
-date: 2017-09-10
 tags: [huge, monstrosity, cr11, monster-manual]
 ---
 

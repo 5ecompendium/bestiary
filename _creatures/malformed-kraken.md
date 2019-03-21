@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Malformed Kraken"
-date: 2017-09-10
 tags: [huge, monstrosity, cr10, tales-from-the-yawning-portal]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Quaggoth Spore Servant"
-date: 2017-09-10
 tags: [medium, plant, cr1, monster-manual]
 ---
 

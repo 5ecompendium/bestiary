@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Hadrosaurus"
-date: 2017-09-10
 tags: [large, beast, cr1/4, volos-guide]
 ---
 

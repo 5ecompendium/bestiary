@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Yakfolk Priest"
-date: 2017-09-10
 tags: [large, monstrosity, cr4, storm-kings-thunder]
 ---
 

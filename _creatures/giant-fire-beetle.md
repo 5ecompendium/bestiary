@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Giant Fire Beetle"
-date: 2017-09-10
 tags: [small, beast, cr0, monster-manual]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Martial Arts Adept"
-date: 2017-09-10
 tags: [medium, humanoid, cr3, volos-guide]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Yochlol"
-date: 2017-09-10
 tags: [medium, fiend, cr10, monster-manual]
 ---
 

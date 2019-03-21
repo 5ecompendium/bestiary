@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Death Dog"
-date: 2017-09-10
 tags: [medium, monstrosity, cr1, monster-manual]
 ---
 

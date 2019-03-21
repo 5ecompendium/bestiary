@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Magma Mephit"
-date: 2017-09-10
 tags: [small, elemental, cr1/2, monster-manual]
 ---
 

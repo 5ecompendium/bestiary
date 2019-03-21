@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Barghest"
-date: 2017-09-10
 tags: [large, fiend, cr4, volos-guide]
 ---
 

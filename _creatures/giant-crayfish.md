@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Giant Crayfish"
-date: 2017-09-10
 tags: [large, beast, cr2, tales-from-the-yawning-portal]
 ---
 

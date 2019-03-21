@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Rug of Smothering"
-date: 2017-09-10
 tags: [large, construct, cr2, monster-manual]
 ---
 

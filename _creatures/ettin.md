@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Ettin"
-date: 2017-09-10
 tags: [large, giant, cr4, monster-manual]
 ---
 

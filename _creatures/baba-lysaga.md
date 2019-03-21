@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Baba Lysaga"
-date: 2017-09-10
 tags: [medium, humanoid, cr11, curse-of-strahd]
 page_number: 228
 ---

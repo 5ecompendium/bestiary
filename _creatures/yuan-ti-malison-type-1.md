@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Yuan-ti Malison Type 1"
-date: 2017-09-10
 tags: [medium, monstrosity, cr3, monster-manual]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Darkling"
-date: 2017-09-10
 tags: [small, fey, cr1/2, volos-guide]
 ---
 

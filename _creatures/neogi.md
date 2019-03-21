@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Neogi"
-date: 2017-09-10
 tags: [small, aberration, cr3, volos-guide]
 ---
 

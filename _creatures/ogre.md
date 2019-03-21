@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Ogre"
-date: 2017-09-10
 tags: [large, giant, cr2, monster-manual]
 ---
 

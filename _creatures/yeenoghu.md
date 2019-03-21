@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Yeenoghu"
-date: 2017-09-10
 tags: [huge, fiend, cr24, out-of-the-abyss]
 ---
 

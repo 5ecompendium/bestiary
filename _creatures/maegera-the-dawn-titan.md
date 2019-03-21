@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Maegera the Dawn Titan"
-date: 2017-09-10
 tags: [gargantuan, elemental, cr23, storm-kings-thunder]
 ---
 

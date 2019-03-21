@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Neogi Master"
-date: 2017-09-10
 tags: [medium, aberration, cr4, volos-guide]
 ---
 

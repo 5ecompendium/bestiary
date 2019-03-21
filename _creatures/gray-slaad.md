@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Gray Slaad"
-date: 2017-09-10
 tags: [medium, aberration, cr9, monster-manual]
 ---
 

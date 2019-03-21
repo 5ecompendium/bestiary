@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Darkling Elder"
-date: 2017-09-10
 tags: [medium, fey, cr2, volos-guide]
 ---
 

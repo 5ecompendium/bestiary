@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Berbalang"
-date: 2018-12-2
 tags: [medium, aberration, cr2, mordenkainens-tome-of-foes]
 page_number: 120
 ---

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Giant Centipede"
-date: 2017-09-10
 tags: [small, beast, cr1/4, monster-manual]
 ---
 

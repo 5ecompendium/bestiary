@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Xorn"
-date: 2017-09-10
 tags: [medium, elemental, cr5, monster-manual]
 ---
 

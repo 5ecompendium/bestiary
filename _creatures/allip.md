@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Allip"
-date: 2018-11-30
 tags: [medium, undead, cr5, mordenkainens-tome-of-foes]
 page_number: 116
 ---

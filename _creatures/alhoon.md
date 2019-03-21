@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Alhoon"
-date: 2017-09-10
 tags: [medium, undead, cr10, volos-guide]
 ---
 

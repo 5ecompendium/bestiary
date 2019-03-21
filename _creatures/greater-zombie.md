@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Greater Zombie"
-date: 2017-09-10
 tags: [medium, undead, cr5, tales-from-the-yawning-portal]
 ---
 

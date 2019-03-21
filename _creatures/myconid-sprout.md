@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Myconid Sprout"
-date: 2017-09-10
 tags: [small, plant, cr0, monster-manual]
 ---
 

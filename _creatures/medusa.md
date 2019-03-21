@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Medusa"
-date: 2017-09-10
 tags: [medium, monstrosity, cr6, monster-manual]
 ---
 

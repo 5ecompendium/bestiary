@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Wood Woad"
-date: 2017-09-10
 tags: [medium, plant, cr5, volos-guide]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Eternal Flame Guardian"
-date: 2017-09-10
 tags: [medium, humanoid, cr2, elemental-evil]
 ---
 

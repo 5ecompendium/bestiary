@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Spawn of Kyuss"
-date: 2017-09-10
 tags: [medium, undead, cr5, volos-guide]
 ---
 

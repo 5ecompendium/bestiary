@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Strahd's Animated Armor"
-date: 2017-09-10
 tags: [medium, construct, cr6, curse-of-strahd]
 page_number: 227
 ---

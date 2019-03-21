@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Gnoll Flesh Gnawer"
-date: 2017-09-10
 tags: [medium, humanoid, cr1, volos-guide]
 ---
 

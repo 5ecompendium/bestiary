@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Monodrone"
-date: 2017-09-10
 tags: [medium, construct, cr1/8, monster-manual]
 ---
 

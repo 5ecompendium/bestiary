@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Young Bronze Dragon"
-date: 2017-09-10
 tags: [large, dragon, cr8, monster-manual]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Shambling Mound"
-date: 2017-09-10
 tags: [large, plant, cr5, monster-manual]
 ---
 

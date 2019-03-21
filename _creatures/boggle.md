@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Boggle"
-date: 2017-09-10
 tags: [small, fey, cr1/8, volos-guide]
 ---
 

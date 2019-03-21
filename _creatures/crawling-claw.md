@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Crawling Claw"
-date: 2017-09-10
 tags: [tiny, undead, cr0, monster-manual]
 ---
 

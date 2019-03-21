@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Will-o'-Wisp"
-date: 2017-09-10
 tags: [tiny, undead, cr2, monster-manual]
 ---
 

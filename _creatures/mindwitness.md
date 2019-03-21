@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Mindwitness"
-date: 2017-09-10
 tags: [large, aberration, cr5, volos-guide]
 ---
 

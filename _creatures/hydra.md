@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Hydra"
-date: 2017-09-10
 tags: [huge, monstrosity, cr8, monster-manual]
 ---
 

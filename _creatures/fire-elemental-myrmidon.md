@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Fire Elemental Myrmidon"
-date: 2017-09-10
 tags: [medium, elemental, cr7, elemental-evil]
 ---
 

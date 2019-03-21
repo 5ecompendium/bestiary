@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Homunculus"
-date: 2017-09-10
 tags: [tiny, construct, cr0, monster-manual]
 ---
 

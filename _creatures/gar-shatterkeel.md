@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Gar Shatterkeel"
-date: 2017-09-10
 tags: [medium, humanoid, cr9, elemental-evil]
 ---
 

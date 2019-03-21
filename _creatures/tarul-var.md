@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Tarul Var"
-date: 2017-09-10
 tags: [medium, undead, cr13, tales-from-the-yawning-portal]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Ancient Red Dragon"
-date: 2017-09-10
 tags: [gargantuan, dragon, cr24, monster-manual]
 ---
 

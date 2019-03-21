@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Grung"
-date: 2017-09-10
 tags: [small, humanoid, cr1/4, volos-guide]
 ---
 

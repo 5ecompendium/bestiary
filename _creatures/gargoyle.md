@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Gargoyle"
-date: 2017-09-10
 tags: [medium, elemental, cr2, monster-manual]
 ---
 

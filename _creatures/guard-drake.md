@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Guard Drake"
-date: 2017-09-10
 tags: [medium, dragon, cr2, volos-guide]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Shoosuva"
-date: 2017-09-10
 tags: [large, fiend, cr8, volos-guide]
 ---
 

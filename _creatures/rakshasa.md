@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Rakshasa"
-date: 2017-09-10
 tags: [medium, fiend, cr13, monster-manual]
 ---
 

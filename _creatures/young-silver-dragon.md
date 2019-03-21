@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Young Silver Dragon"
-date: 2017-09-10
 tags: [large, dragon, cr9, monster-manual]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Death Slaad"
-date: 2017-09-10
 tags: [medium, aberration, cr10, monster-manual]
 ---
 

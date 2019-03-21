@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Jamna Gleamsilver"
-date: 2017-09-10
 tags: [small, humanoid, cr1, tyranny-of-dragons]
 ---
 

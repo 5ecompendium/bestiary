@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Graz'zt"
-date: 2017-09-10
 tags: [large, fiend, cr24, out-of-the-abyss]
 ---
 

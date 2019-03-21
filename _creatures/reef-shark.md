@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Reef Shark"
-date: 2017-09-10
 tags: [medium, beast, cr1/2, monster-manual]
 ---
 

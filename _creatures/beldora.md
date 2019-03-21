@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Beldora"
-date: 2017-09-10
 tags: [medium, humanoid, cr0, storm-kings-thunder]
 ---
 

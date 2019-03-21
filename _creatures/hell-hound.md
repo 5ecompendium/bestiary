@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Hell Hound"
-date: 2017-09-10
 tags: [medium, fiend, cr3, monster-manual]
 ---
 

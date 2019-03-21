@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Vegepygmy Chief"
-date: 2017-09-10
 tags: [small, plant, cr2, volos-guide]
 ---
 

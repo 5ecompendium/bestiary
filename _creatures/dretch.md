@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Dretch"
-date: 2017-09-10
 tags: [small, fiend, cr1/4, monster-manual]
 ---
 

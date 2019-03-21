@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Duodrone"
-date: 2017-09-10
 tags: [medium, construct, cr1/4, monster-manual]
 ---
 

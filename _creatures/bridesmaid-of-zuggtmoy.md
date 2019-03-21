@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Bridesmaid of Zuggtmoy"
-date: 2017-09-10
 tags: [medium, plant, cr1/8, out-of-the-abyss]
 ---
 

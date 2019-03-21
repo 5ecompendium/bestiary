@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Manes"
-date: 2017-09-10
 tags: [small, fiend, cr1/8, monster-manual]
 ---
 

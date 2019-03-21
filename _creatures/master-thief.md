@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Master Thief"
-date: 2017-09-10
 tags: [medium, humanoid, cr5, volos-guide]
 ---
 

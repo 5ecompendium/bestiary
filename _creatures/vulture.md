@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Vulture"
-date: 2017-09-10
 tags: [medium, beast, cr0, monster-manual]
 ---
 

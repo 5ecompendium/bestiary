@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Gnoll Fang of Yeenoghu"
-date: 2017-09-10
 tags: [medium, humanoid, cr4, monster-manual]
 ---
 

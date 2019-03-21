@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Vargouille"
-date: 2017-09-10
 tags: [tiny, fiend, cr1, volos-guide]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Naergoth Bladelord"
-date: 2017-09-10
 tags: [medium, undead, cr11, tyranny-of-dragons]
 ---
 

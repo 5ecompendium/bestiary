@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Dread Warrior"
-date: 2017-09-10
 tags: [medium, undead, crl, tales-from-the-yawning-portal]
 ---
 

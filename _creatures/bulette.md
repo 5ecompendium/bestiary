@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Bulette"
-date: 2017-09-10
 tags: [large, monstrosity, cr5, monster-manual]
 ---
 

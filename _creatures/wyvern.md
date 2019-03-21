@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Wyvern"
-date: 2017-09-10
 tags: [large, dragon, cr6, monster-manual]
 ---
 

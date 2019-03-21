@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Quadrone"
-date: 2017-09-10
 tags: [medium, construct, cr1, monster-manual]
 ---
 

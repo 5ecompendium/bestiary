@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Redcap"
-date: 2017-09-10
 tags: [small, fey, cr3, volos-guide]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Cloaker"
-date: 2017-09-10
 tags: [large, aberration, cr8, monster-manual]
 ---
 

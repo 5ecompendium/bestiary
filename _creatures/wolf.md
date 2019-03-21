@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Wolf"
-date: 2017-09-10
 tags: [medium, beast, cr1/4, monster-manual]
 ---
 

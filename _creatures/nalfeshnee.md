@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Nalfeshnee"
-date: 2017-09-10
 tags: [large, fiend, cr13, monster-manual]
 ---
 

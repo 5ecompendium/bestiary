@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Velociraptor"
-date: 2017-09-10
 tags: [tiny, beast, cr1/4, volos-guide]
 ---
 

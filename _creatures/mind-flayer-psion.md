@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Mind Flayer Psion"
-date: 2017-09-10
 tags: [medium, aberration, cr8, volos-guide]
 ---
 

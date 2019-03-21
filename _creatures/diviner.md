@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Diviner"
-date: 2017-09-10
 tags: [medium, humanoid, cr8, volos-guide]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Banshee"
-date: 2017-09-10
 tags: [medium, undead, cr4, monster-manual]
 ---
 

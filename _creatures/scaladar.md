@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Scaladar"
-date: 2018-12-17
 tags: [huge, construct, cr8, dungeon-of-the-mad-mage]
 page_number: 315
 ---

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Kobold"
-date: 2017-09-10
 tags: [small, humanoid, cr1/8, monster-manual]
 ---
 

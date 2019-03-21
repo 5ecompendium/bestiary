@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Illithilich"
-date: 2017-09-10
 tags: [medium, undead, cr22, volos-guide]
 ---
 

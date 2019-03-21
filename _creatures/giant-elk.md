@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Giant Elk"
-date: 2017-09-10
 tags: [huge, beast, cr2, monster-manual]
 ---
 

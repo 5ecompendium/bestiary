@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Yuan-ti Abomination"
-date: 2017-09-10
 tags: [large, monstrosity, cr7, monster-manual]
 ---
 

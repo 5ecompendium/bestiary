@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Gray Ooze"
-date: 2017-09-10
 tags: [medium, ooze, cr1/2, monster-manual]
 ---
 

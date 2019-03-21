@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Korred"
-date: 2017-09-10
 tags: [small, fey, cr7, volos-guide]
 ---
 

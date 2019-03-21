@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Ixitxachitl Cleric"
-date: 2017-09-10
 tags: [small, aberration, cr1/4, out-of-the-abyss]
 ---
 

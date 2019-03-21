@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Fomorian"
-date: 2017-09-10
 tags: [huge, giant, cr8, monster-manual]
 ---
 

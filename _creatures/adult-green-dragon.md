@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Adult Green Dragon"
-date: 2017-09-10
 tags: [huge, dragon, cr15, monster-manual]
 ---
 

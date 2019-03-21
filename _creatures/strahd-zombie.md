@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Strahd Zombie"
-date: 2017-09-10
 tags: [medium, undead, cr1, curse-of-strahd]
 page_number: 241
 ---

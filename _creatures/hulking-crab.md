@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Hulking Crab"
-date: 2017-09-10
 tags: [huge, beast, cr5, storm-kings-thunder]
 ---
 

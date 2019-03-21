@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Thorn Slinger"
-date: 2017-09-10
 tags: [large, plant, cr1/2, tales-from-the-yawning-portal]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Giant Hyena"
-date: 2017-09-10
 tags: [large, beast, cr1, monster-manual]
 ---
 

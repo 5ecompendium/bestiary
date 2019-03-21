@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Kobold Scale Sorcerer"
-date: 2017-09-10
 tags: [small, humanoid, cr1, volos-guide]
 ---
 

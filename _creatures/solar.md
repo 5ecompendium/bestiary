@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Solar"
-date: 2017-09-10
 tags: [large, celestial, cr21, monster-manual]
 ---
 

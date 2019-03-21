@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Blagothkus"
-date: 2017-09-10
 tags: [huge, giant, cr9, tyranny-of-dragons]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Adult Blue Dracolich"
-date: 2017-09-10
 tags: [huge, undead, cr17, monster-manual]
 ---
 

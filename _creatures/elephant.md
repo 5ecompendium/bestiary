@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Elephant"
-date: 2017-09-10
 tags: [huge, beast, cr4, monster-manual]
 ---
 

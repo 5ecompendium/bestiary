@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Pixie"
-date: 2017-09-10
 tags: [tiny, fey, cr1/4, monster-manual]
 ---
 

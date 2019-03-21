@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Mammoth"
-date: 2017-09-10
 tags: [huge, beast, cr6, monster-manual]
 ---
 

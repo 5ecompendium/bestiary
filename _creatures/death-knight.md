@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Death Knight"
-date: 2017-09-10
 tags: [medium, undead, cr17, monster-manual]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Fraz-Urb'luu"
-date: 2017-09-10
 tags: [large, fiend, cr23, out-of-the-abyss]
 ---
 

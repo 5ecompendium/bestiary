@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Drider"
-date: 2017-09-10
 tags: [large, monstrosity, cr6, monster-manual]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Ogre Zombie"
-date: 2017-09-10
 tags: [large, undead, cr2, monster-manual]
 ---
 

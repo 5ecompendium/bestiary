@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Couatl"
-date: 2017-09-10
 tags: [medium, celestial, cr4, monster-manual]
 ---
 

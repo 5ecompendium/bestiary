@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Androsphinx"
-date: 2017-09-10
 tags: [large, monstrosity, cr17, monster-manual]
 ---
 

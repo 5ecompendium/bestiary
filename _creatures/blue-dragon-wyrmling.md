@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Blue Dragon Wyrmling"
-date: 2017-09-10
 tags: [medium, dragon, cr3, monster-manual]
 ---
 

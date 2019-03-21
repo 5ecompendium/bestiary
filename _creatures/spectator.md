@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Spectator"
-date: 2017-09-10
 tags: [medium, aberration, cr3, monster-manual]
 ---
 

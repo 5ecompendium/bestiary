@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Adult Black Dragon"
-date: 2017-09-10
 tags: [huge, dragon, cr14, monster-manual]
 ---
 

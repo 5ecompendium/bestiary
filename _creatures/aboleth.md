@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Aboleth"
-date: 2017-09-10
 tags: [large, aberration, cr10, monster-manual]
 ---
 

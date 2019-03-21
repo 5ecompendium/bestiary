@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Deep Rothe"
-date: 2017-09-10
 tags: [medium, beast, cr1/4, volos-guide]
 ---
 

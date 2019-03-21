@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Helmed Horror"
-date: 2017-09-10
 tags: [medium, construct, cr4, monster-manual]
 ---
 

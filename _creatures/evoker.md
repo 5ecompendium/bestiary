@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Evoker"
-date: 2017-09-10
 tags: [medium, humanoid, cr9, volos-guide]
 ---
 

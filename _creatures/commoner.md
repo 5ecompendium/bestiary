@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Commoner"
-date: 2017-09-10
 tags: [medium, humanoid, cr0, monster-manual]
 ---
 

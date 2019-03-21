@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Gelatinous Cube"
-date: 2017-09-10
 tags: [large, ooze, cr2, monster-manual]
 ---
 

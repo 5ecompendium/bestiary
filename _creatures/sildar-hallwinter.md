@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Sildar Hallwinter"
-date: 2017-09-10
 tags: [medium, humanoid, cr1, lost-mine-of-phandelver]
 ---
 

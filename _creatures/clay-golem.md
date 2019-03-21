@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Clay Golem"
-date: 2017-09-10
 tags: [large, construct, cr9, monster-manual]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Droki"
-date: 2017-09-10
 tags: [small, humanoid, cr2, out-of-the-abyss]
 ---
 

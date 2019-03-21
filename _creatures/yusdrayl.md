@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Yusdrayl"
-date: 2017-09-10
 tags: [small, humanoid, cr1, tales-from-the-yawning-portal]
 ---
 

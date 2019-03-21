@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Merrow"
-date: 2017-09-10
 tags: [large, monstrosity, cr2, monster-manual]
 ---
 

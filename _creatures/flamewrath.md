@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Flamewrath"
-date: 2017-09-10
 tags: [medium, humanoid, cr6, elemental-evil]
 ---
 

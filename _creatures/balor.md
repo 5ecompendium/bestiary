@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Balor"
-date: 2017-09-10
 tags: [huge, fiend, cr19, monster-manual]
 ---
 

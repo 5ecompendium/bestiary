@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Ettercap"
-date: 2017-09-10
 tags: [medium, monstrosity, cr2, monster-manual]
 ---
 

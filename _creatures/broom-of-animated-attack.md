@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Broom of Animated Attack"
-date: 2017-09-10
 tags: [small, construct, cr1/4, curse-of-strahd]
 page_number: 226
 ---

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Zariel"
-date: 2018-11-20
 tags: [large, fiend, cr26, mordenkainens-tome-of-foes]
 ---
 

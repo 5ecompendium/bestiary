@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Leucrotta"
-date: 2017-09-10
 tags: [large, monstrosity, cr3, volos-guide]
 ---
 

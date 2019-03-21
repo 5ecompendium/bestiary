@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Mongrelfolk"
-date: 2017-09-10
 tags: [medium, humanoid, cr1/4, curse-of-strahd]
 page_number: 234
 ---

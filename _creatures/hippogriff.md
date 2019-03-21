@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Hippogriff"
-date: 2017-09-10
 tags: [large, monstrosity, cr1, monster-manual]
 ---
 

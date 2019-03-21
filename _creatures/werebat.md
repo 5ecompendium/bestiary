@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Werebat"
-date: 2018-12-17
 tags: [small, humanoid, cr2, dungeon-of-the-mad-mage]
 page_number: 317
 ---

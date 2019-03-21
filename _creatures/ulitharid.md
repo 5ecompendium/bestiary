@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Ulitharid"
-date: 2017-09-10
 tags: [large, aberration, cr9, volos-guide]
 ---
 

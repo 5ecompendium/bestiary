@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Yuan-ti Anathema"
-date: 2017-09-10
 tags: [huge, monstrosity, cr12, volos-guide]
 ---
 

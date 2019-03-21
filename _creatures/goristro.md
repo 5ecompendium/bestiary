@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Goristro"
-date: 2017-09-10
 tags: [huge, fiend, cr17, monster-manual]
 ---
 

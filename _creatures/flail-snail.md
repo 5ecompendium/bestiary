@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Flail Snail"
-date: 2017-09-10
 tags: [large, elemental, cr3, volos-guide]
 ---
 

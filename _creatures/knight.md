@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Knight"
-date: 2017-09-10
 tags: [medium, humanoid, cr3, monster-manual]
 ---
 

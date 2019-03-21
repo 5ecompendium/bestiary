@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Axe Beak"
-date: 2017-09-10
 tags: [large, beast, cr1/4, monster-manual]
 ---
 

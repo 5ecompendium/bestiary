@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Razerblast"
-date: 2017-09-10
 tags: [medium, humanoid, cr5, elemental-evil]
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Hill Giant"
-date: 2017-09-10
 tags: [huge, giant, cr5, monster-manual]
 ---
 

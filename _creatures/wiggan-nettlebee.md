@@ -1,7 +1,6 @@
 ---
 layout: creature
 name: "Wiggan Nettlebee"
-date: 2017-09-10
 tags: [small, humanoid, cr2, elemental-evil]
 ---
 
