@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Balhannoth"
-date: 2018-11-30
+date: 2019-01-08
 tags: [large, aberration, cr11, mordenkainens-tome-of-foes]
 page_number: 119
 ---
@@ -10,12 +10,12 @@ page_number: 119
 
 **Armor Class** 17 (natural armor)
 
-**Hit Points** 114 (12dl0 + 48)
+**Hit Points** 114  (12d10 + 48)
 
 **Speed** 25 ft., climb 25 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
 | 17 (+3) | 8 (-1) | 18 (+4) | 6 (-2) | 15 (+2) | 8 (-1) |
 
 **Saving Throws** Con +8
@@ -26,11 +26,11 @@ page_number: 119
 
 **Senses** blindsight 500 ft. (blind beyond this radius), passive Perception 16
 
-**Languages** understands Deep Speech, telepathy l mile
+**Languages** understands Deep Speech, telepathy 1 mile
 
-**Challenge** 11 (7,200 XP)
+**Challenge** 11 (7200 XP)
 
-***Legendary Resistance (2/Day)*** If the balhannoth fai ls a saving throw, it can choose to succeed instead.
+***Legendary Resistance (2/Day).*** If the balhannoth fails a saving throw, it can choose to succeed instead.
 
 **Actions**
 
