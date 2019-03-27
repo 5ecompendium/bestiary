@@ -13,7 +13,7 @@ layout: null
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for creature in site.creatures limit:10 %}
       <item>
-        <title>{{ creature.title | xml_escape }}</title>
+        <title>{{ creature.name | xml_escape }}</title>
         <description>{{ creature.content | xml_escape }}</description>
         <link>{{ creature.url | prepend: site.baseurl | prepend: site.url }}</link>
         <guid isPermaLink="true">{{ creature.url | prepend: site.baseurl | prepend: site.url }}</guid>
