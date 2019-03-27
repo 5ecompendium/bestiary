@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Dybbuk"
+name: "Dybbuk"
 tags: [medium, fiend, cr4, mordenkainens-tome-of-foes]
 page_number: 132
 ---

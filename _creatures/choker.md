@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Choker"
+name: "Choker"
 tags: [small, aberration, cr1, mordenkainens-tome-of-foes]
 page_number: 123
 ---

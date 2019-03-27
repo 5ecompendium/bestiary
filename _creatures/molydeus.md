@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Molydeus"
+name: "Molydeus"
 tags: [huge, fiend, cr21, mordenkainens-tome-of-foes]
 page_number: 134
 ---

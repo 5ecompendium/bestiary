@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Deathlock Mastermind"
+name: "Deathlock Mastermind"
 tags: [medium, undead, cr8, mordenkainens-tome-of-foes]
 page_number: 129
 ---

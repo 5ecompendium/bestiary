@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Titivilus"
+name: "Titivilus"
 tags: [medium, fiend, cr16, mordenkainens-tome-of-foes]
 page_number: 179
 ---

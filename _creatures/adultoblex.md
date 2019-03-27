@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Adult Oblex"
+name: "Adult Oblex"
 tags: [medium, ooze, cr5, mordenkainens-tome-of-foes]
 page_number: 218
 ---

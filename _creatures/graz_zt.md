@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Graz'zt"
+name: "Graz'zt"
 tags: [large, fiend, cr24, mordenkainens-tome-of-foes]
 page_number: 149
 ---

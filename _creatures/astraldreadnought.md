@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Astral Dreadnought"
+name: "Astral Dreadnought"
 tags: [gargantuan, monstrosity, cr21, mordenkainens-tome-of-foes]
 page_number: 117
 ---

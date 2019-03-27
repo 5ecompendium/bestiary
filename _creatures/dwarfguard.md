@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Dwarf Guard"
+name: "Dwarf Guard"
 tags: [medium, humanoid, cr1/8, unofficial]
 page_number: 999
 ---

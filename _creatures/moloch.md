@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Moloch"
+name: "Moloch"
 tags: [large, fiend, cr21, mordenkainens-tome-of-foes]
 page_number: 177
 ---

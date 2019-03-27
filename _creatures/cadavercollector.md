@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Cadaver Collector"
+name: "Cadaver Collector"
 tags: [large, construct, cr14, mordenkainens-tome-of-foes]
 page_number: 122
 ---

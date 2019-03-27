@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Elder Evil Template"
+name: "Elder Evil Template"
 tags: [medium, humanoid, cr0, mordenkainens-tome-of-foes, template]
 page_number: 237
 ---

@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Sword Wraith Warrior"
+name: "Sword Wraith Warrior"
 tags: [medium, undead, cr3, mordenkainens-tome-of-foes]
 page_number: 241
 ---

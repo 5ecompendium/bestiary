@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Dwarf Noble"
+name: "Dwarf Noble"
 tags: [medium, humanoid, cr1/8, unofficial]
 page_number: 999
 ---

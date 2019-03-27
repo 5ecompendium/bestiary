@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Summer Eladrin"
+name: "Summer Eladrin"
 tags: [medium, fey, cr10, mordenkainens-tome-of-foes]
 page_number: 196
 ---

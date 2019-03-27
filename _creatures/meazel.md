@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Meazel"
+name: "Meazel"
 tags: [medium, humanoid, cr1, mordenkainens-tome-of-foes]
 page_number: 214
 ---

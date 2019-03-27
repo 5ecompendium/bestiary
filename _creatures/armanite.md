@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Armanite"
+name: "Armanite"
 tags: [large, fiend, cr7, mordenkainens-tome-of-foes]
 page_number: 131
 ---

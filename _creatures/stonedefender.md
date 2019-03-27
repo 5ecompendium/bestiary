@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Stone Defender"
+name: "Stone Defender"
 tags: [medium, construct, cr4, mordenkainens-tome-of-foes]
 page_number: 126
 ---

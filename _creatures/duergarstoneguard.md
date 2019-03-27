@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Duergar Stone Guard"
+name: "Duergar Stone Guard"
 tags: [medium, humanoid, cr2, mordenkainens-tome-of-foes]
 page_number: 191
 ---

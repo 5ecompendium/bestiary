@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Wastrilith"
+name: "Wastrilith"
 tags: [large, fiend, cr13, mordenkainens-tome-of-foes]
 page_number: 139
 ---

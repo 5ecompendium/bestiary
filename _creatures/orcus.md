@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Orcus"
+name: "Orcus"
 tags: [huge, fiend, cr26, mordenkainens-tome-of-foes]
 page_number: 153
 ---

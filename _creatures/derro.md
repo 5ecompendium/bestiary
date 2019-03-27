@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Derro"
+name: "Derro"
 tags: [small, humanoid, cr1/4, mordenkainens-tome-of-foes]
 page_number: 158
 ---

@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Bael"
+name: "Bael"
 tags: [large, fiend, cr19, mordenkainens-tome-of-foes]
 page_number: 170
 ---

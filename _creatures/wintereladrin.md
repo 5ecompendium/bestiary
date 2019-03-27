@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Winter Eladrin"
+name: "Winter Eladrin"
 tags: [medium, fey, cr10, mordenkainens-tome-of-foes]
 page_number: 197
 ---

@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Oaken Bolter"
+name: "Oaken Bolter"
 tags: [medium, construct, cr5, mordenkainens-tome-of-foes]
 page_number: 126
 ---

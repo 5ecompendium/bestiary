@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Adult Kruthik"
+name: "Adult Kruthik"
 tags: [medium, monstrosity, cr2, mordenkainens-tome-of-foes]
 page_number: 212
 ---

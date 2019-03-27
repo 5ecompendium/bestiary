@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Elder Tempest"
+name: "Elder Tempest"
 tags: [gargantuan, elemental, cr23, mordenkainens-tome-of-foes]
 page_number: 200
 ---

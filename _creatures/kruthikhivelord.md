@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Kruthik Hive Lord"
+name: "Kruthik Hive Lord"
 tags: [large, monstrosity, cr5, mordenkainens-tome-of-foes]
 page_number: 212
 ---

@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Merrenoloth"
+name: "Merrenoloth"
 tags: [medium, fiend, cr3, mordenkainens-tome-of-foes]
 page_number: 250
 ---

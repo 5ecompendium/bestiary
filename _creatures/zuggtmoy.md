@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Zuggtmoy"
+name: "Zuggtmoy"
 tags: [large, fiend, cr23, mordenkainens-tome-of-foes]
 page_number: 157
 ---

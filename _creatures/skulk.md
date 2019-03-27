@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Skulk"
+name: "Skulk"
 tags: [medium, humanoid, cr1/2, mordenkainens-tome-of-foes]
 page_number: 227
 ---

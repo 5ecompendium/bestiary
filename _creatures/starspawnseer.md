@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Star Spawn Seer"
+name: "Star Spawn Seer"
 tags: [medium, aberration, cr13, mordenkainens-tome-of-foes]
 page_number: 236
 ---

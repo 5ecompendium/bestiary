@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Githzerai Anarch"
+name: "Githzerai Anarch"
 tags: [medium, humanoid, cr16, mordenkainens-tome-of-foes]
 page_number: 207
 ---

@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Fraz-Urb'luu"
+name: "Fraz-Urb'luu"
 tags: [large, fiend, cr23, mordenkainens-tome-of-foes]
 page_number: 146
 ---

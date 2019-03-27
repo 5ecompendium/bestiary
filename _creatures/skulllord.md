@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Skull Lord"
+name: "Skull Lord"
 tags: [medium, undead, cr15, mordenkainens-tome-of-foes]
 page_number: 230
 ---

@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "The Wretched"
+name: "The Wretched"
 tags: [small, monstrosity, cr1/4, mordenkainens-tome-of-foes]
 page_number: 233
 ---

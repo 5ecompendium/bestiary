@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Dire Troll"
+name: "Dire Troll"
 tags: [huge, giant, cr13, mordenkainens-tome-of-foes]
 page_number: 243
 ---

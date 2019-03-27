@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Star Spawn Larva Mage"
+name: "Star Spawn Larva Mage"
 tags: [medium, aberration, cr16, mordenkainens-tome-of-foes]
 page_number: 235
 ---

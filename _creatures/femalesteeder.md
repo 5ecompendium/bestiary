@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Female Steeder"
+name: "Female Steeder"
 tags: [large, monstrosity, cr1, mordenkainens-tome-of-foes]
 page_number: 238
 ---

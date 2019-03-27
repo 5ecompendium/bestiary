@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Red Abishai"
+name: "Red Abishai"
 tags: [medium, fiend, cr19, mordenkainens-tome-of-foes]
 page_number: 160
 ---

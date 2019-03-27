@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Howler"
+name: "Howler"
 tags: [large, fiend, cr8, mordenkainens-tome-of-foes]
 page_number: 210
 ---

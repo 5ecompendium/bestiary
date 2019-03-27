@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Dwarf Acolyte"
+name: "Dwarf Acolyte"
 tags: [medium, humanoid, cr1/4, unofficial]
 page_number: 999
 ---

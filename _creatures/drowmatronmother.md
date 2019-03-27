@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Drow Matron Mother"
+name: "Drow Matron Mother"
 tags: [medium, humanoid, cr20, mordenkainens-tome-of-foes]
 page_number: 186
 ---

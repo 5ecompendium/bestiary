@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Tortle Druid"
+name: "Tortle Druid"
 tags: [medium, humanoid, cr2, mordenkainens-tome-of-foes]
 page_number: 242
 ---

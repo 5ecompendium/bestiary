@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Retriever"
+name: "Retriever"
 tags: [large, construct, cr14, mordenkainens-tome-of-foes]
 page_number: 222
 ---

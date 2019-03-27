@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Sibriex"
+name: "Sibriex"
 tags: [huge, fiend, cr18, mordenkainens-tome-of-foes]
 page_number: 137
 ---

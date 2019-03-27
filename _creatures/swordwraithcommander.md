@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Sword Wraith Commander"
+name: "Sword Wraith Commander"
 tags: [medium, undead, cr8, mordenkainens-tome-of-foes]
 page_number: 241
 ---

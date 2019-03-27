@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "The Hungry"
+name: "The Hungry"
 tags: [medium, monstrosity, cr11, mordenkainens-tome-of-foes]
 page_number: 232
 ---

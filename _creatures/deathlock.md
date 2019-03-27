@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Deathlock"
+name: "Deathlock"
 tags: [medium, undead, cr4, mordenkainens-tome-of-foes]
 page_number: 128
 ---

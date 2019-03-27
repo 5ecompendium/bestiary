@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Hydroloth"
+name: "Hydroloth"
 tags: [medium, fiend, cr9, mordenkainens-tome-of-foes]
 page_number: 249
 ---

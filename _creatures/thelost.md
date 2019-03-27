@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "The Lost"
+name: "The Lost"
 tags: [medium, monstrosity, cr7, mordenkainens-tome-of-foes]
 page_number: 233
 ---

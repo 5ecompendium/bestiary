@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Black Abishai"
+name: "Black Abishai"
 tags: [medium, fiend, cr7, mordenkainens-tome-of-foes]
 page_number: 160
 ---

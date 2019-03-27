@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Githyanki Kith'rak"
+name: "Githyanki Kith'rak"
 tags: [medium, humanoid, cr12, mordenkainens-tome-of-foes]
 page_number: 205
 ---

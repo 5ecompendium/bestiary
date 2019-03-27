@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Nagpa"
+name: "Nagpa"
 tags: [medium, humanoid, cr17, mordenkainens-tome-of-foes]
 page_number: 215
 ---

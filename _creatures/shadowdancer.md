@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Shadow Dancer"
+name: "Shadow Dancer"
 tags: [medium, humanoid, cr7, mordenkainens-tome-of-foes]
 page_number: 225
 ---

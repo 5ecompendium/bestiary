@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Water Elemental Myrmidon"
+name: "Water Elemental Myrmidon"
 tags: [medium, elemental, cr7, mordenkainens-tome-of-foes]
 page_number: 203
 ---

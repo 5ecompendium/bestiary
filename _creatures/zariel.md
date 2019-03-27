@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Zariel"
+name: "Zariel"
 tags: [large, fiend, cr26, mordenkainens-tome-of-foes]
 page_number: 180
 ---

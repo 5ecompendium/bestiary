@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Duergar Warlord"
+name: "Duergar Warlord"
 tags: [medium, humanoid, cr6, mordenkainens-tome-of-foes]
 page_number: 192
 ---

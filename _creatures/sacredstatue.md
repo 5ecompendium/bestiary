@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Sacred Statue"
+name: "Sacred Statue"
 tags: [large, construct, cr0, mordenkainens-tome-of-foes]
 page_number: 194
 ---

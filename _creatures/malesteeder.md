@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Male Steeder"
+name: "Male Steeder"
 tags: [medium, monstrosity, cr1/4, mordenkainens-tome-of-foes]
 page_number: 238
 ---

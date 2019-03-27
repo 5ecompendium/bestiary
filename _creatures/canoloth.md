@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Canoloth"
+name: "Canoloth"
 tags: [medium, fiend, cr8, mordenkainens-tome-of-foes]
 page_number: 247
 ---

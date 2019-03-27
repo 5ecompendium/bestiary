@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Hutijin"
+name: "Hutijin"
 tags: [large, fiend, cr21, mordenkainens-tome-of-foes]
 page_number: 175
 ---

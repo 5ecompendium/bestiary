@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Amnizu"
+name: "Amnizu"
 tags: [medium, fiend, cr18, mordenkainens-tome-of-foes]
 page_number: 164
 ---

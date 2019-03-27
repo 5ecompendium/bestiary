@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Nupperibo"
+name: "Nupperibo"
 tags: [medium, fiend, cr1/2, mordenkainens-tome-of-foes]
 page_number: 168
 ---

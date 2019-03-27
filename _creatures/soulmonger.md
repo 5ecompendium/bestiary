@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Soul Monger"
+name: "Soul Monger"
 tags: [medium, humanoid, cr11, mordenkainens-tome-of-foes]
 page_number: 226
 ---

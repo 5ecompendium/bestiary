@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Stone Cursed"
+name: "Stone Cursed"
 tags: [medium, construct, cr1, mordenkainens-tome-of-foes]
 page_number: 240
 ---

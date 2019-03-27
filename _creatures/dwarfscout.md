@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Dwarf Scout"
+name: "Dwarf Scout"
 tags: [medium, humanoid, cr1/2, unofficial]
 page_number: 999
 ---

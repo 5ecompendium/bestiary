@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Alkilith"
+name: "Alkilith"
 tags: [medium, fiend, cr11, mordenkainens-tome-of-foes]
 page_number: 130
 ---

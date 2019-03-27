@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Venom Troll"
+name: "Venom Troll"
 tags: [large, giant, cr7, mordenkainens-tome-of-foes]
 page_number: 245
 ---

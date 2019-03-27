@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Rot Troll"
+name: "Rot Troll"
 tags: [large, giant, cr9, mordenkainens-tome-of-foes]
 page_number: 244
 ---

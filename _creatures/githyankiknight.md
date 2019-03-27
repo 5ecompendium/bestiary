@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Githyanki Knight"
+name: "Githyanki Knight"
 tags: [medium, humanoid, cr8, monster-manual]
 page_number: 160
 ---

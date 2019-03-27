@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Duergar Screamer"
+name: "Duergar Screamer"
 tags: [medium, construct, cr3, mordenkainens-tome-of-foes]
 page_number: 190
 ---

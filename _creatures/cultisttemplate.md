@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Diabolical Cultist Template"
+name: "Diabolical Cultist Template"
 tags: [medium, humanoid, cr0, mordenkainens-tome-of-foes, template]
 page_number: 18
 ---

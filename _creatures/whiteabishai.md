@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "White Abishai"
+name: "White Abishai"
 tags: [medium, fiend, cr6, mordenkainens-tome-of-foes]
 page_number: 163
 ---

@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Demogorgon"
+name: "Demogorgon"
 tags: [huge, fiend, cr26, mordenkainens-tome-of-foes]
 page_number: 144
 ---

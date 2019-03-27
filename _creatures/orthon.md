@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Orthon"
+name: "Orthon"
 tags: [large, fiend, cr10, mordenkainens-tome-of-foes]
 page_number: 169
 ---

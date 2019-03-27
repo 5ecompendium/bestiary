@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Ogre Bolt Launcher"
+name: "Ogre Bolt Launcher"
 tags: [large, giant, cr2, mordenkainens-tome-of-foes]
 page_number: 220
 ---

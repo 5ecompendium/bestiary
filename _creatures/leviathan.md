@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Leviathan"
+name: "Leviathan"
 tags: [gargantuan, elemental, cr20, mordenkainens-tome-of-foes]
 page_number: 198
 ---

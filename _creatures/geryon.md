@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Geryon"
+name: "Geryon"
 tags: [huge, fiend, cr22, mordenkainens-tome-of-foes]
 page_number: 173
 ---

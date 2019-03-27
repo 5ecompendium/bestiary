@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Oblex Spawn"
+name: "Oblex Spawn"
 tags: [tiny, ooze, cr1/4, mordenkainens-tome-of-foes]
 page_number: 217
 ---

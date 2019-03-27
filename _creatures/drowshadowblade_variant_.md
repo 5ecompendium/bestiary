@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Drow Shadowblade (variant)"
+name: "Drow Shadowblade (variant)"
 tags: [medium, humanoid, cr11, mordenkainens-tome-of-foes]
 page_number: 187
 ---

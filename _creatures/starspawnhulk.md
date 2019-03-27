@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Star Spawn Hulk"
+name: "Star Spawn Hulk"
 tags: [large, aberration, cr10, mordenkainens-tome-of-foes]
 page_number: 234
 ---

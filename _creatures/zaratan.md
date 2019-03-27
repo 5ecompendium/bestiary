@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Zaratan"
+name: "Zaratan"
 tags: [gargantuan, elemental, cr22, mordenkainens-tome-of-foes]
 page_number: 201
 ---

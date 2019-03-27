@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Githzerai Enlightened"
+name: "Githzerai Enlightened"
 tags: [medium, humanoid, cr10, mordenkainens-tome-of-foes]
 page_number: 208
 ---

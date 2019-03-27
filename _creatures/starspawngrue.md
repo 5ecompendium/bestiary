@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Star Spawn Grue"
+name: "Star Spawn Grue"
 tags: [small, aberration, cr1/4, mordenkainens-tome-of-foes]
 page_number: 234
 ---

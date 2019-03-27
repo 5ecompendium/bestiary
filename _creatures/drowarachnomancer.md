@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Drow Arachnomancer"
+name: "Drow Arachnomancer"
 tags: [medium, humanoid, cr13, mordenkainens-tome-of-foes]
 page_number: 182
 ---

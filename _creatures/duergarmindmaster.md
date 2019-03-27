@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Duergar Mind Master"
+name: "Duergar Mind Master"
 tags: [medium, humanoid, cr2, mordenkainens-tome-of-foes]
 page_number: 189
 ---

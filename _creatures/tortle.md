@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Tortle"
+name: "Tortle"
 tags: [medium, humanoid, cr1/4, mordenkainens-tome-of-foes]
 page_number: 242
 ---

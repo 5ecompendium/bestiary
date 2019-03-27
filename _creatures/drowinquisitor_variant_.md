@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Drow Inquisitor (variant)"
+name: "Drow Inquisitor (variant)"
 tags: [medium, humanoid, cr14, mordenkainens-tome-of-foes]
 page_number: 184
 ---

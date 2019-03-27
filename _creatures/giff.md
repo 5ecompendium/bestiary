@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Giff"
+name: "Giff"
 tags: [medium, humanoid, cr3, mordenkainens-tome-of-foes]
 page_number: 204
 ---

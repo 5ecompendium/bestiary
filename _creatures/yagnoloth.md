@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Yagnoloth"
+name: "Yagnoloth"
 tags: [large, fiend, cr11, mordenkainens-tome-of-foes]
 page_number: 252
 ---

@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Boneclaw"
+name: "Boneclaw"
 tags: [large, undead, cr12, mordenkainens-tome-of-foes]
 page_number: 121
 ---

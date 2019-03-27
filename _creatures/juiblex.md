@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Juiblex"
+name: "Juiblex"
 tags: [huge, fiend, cr23, mordenkainens-tome-of-foes]
 page_number: 151
 ---

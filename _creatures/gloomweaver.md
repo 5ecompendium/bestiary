@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Gloom Weaver"
+name: "Gloom Weaver"
 tags: [medium, humanoid, cr9, mordenkainens-tome-of-foes]
 page_number: 224
 ---

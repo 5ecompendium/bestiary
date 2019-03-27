@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Steel Predator"
+name: "Steel Predator"
 tags: [large, construct, cr16, mordenkainens-tome-of-foes]
 page_number: 239
 ---

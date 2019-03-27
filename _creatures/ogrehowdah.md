@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Ogre Howdah"
+name: "Ogre Howdah"
 tags: [large, giant, cr2, mordenkainens-tome-of-foes]
 page_number: 221
 ---

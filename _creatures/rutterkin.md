@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Rutterkin"
+name: "Rutterkin"
 tags: [medium, fiend, cr2, mordenkainens-tome-of-foes]
 page_number: 136
 ---

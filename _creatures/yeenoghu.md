@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Yeenoghu"
+name: "Yeenoghu"
 tags: [huge, fiend, cr24, mordenkainens-tome-of-foes]
 page_number: 155
 ---

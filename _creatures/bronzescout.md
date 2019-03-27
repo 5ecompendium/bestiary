@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Bronze Scout"
+name: "Bronze Scout"
 tags: [medium, construct, cr1, mordenkainens-tome-of-foes]
 page_number: 125
 ---

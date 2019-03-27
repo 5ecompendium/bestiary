@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Duergar Soulblade"
+name: "Duergar Soulblade"
 tags: [medium, humanoid, cr1, mordenkainens-tome-of-foes]
 page_number: 190
 ---

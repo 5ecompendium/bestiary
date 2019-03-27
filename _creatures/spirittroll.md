@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Spirit Troll"
+name: "Spirit Troll"
 tags: [large, giant, cr11, mordenkainens-tome-of-foes]
 page_number: 244
 ---

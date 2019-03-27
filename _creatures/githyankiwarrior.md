@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Githyanki Warrior"
+name: "Githyanki Warrior"
 tags: [medium, humanoid, cr3, monster-manual]
 page_number: 160
 ---

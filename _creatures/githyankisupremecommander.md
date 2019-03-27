@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Githyanki Supreme Commander"
+name: "Githyanki Supreme Commander"
 tags: [medium, humanoid, cr14, mordenkainens-tome-of-foes]
 page_number: 206
 ---

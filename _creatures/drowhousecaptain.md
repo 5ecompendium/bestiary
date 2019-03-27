@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Drow House Captain"
+name: "Drow House Captain"
 tags: [medium, humanoid, cr9, mordenkainens-tome-of-foes]
 page_number: 184
 ---

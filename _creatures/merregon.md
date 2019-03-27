@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Merregon"
+name: "Merregon"
 tags: [medium, fiend, cr4, mordenkainens-tome-of-foes]
 page_number: 166
 ---

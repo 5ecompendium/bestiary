@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Nabassu"
+name: "Nabassu"
 tags: [medium, fiend, cr15, mordenkainens-tome-of-foes]
 page_number: 135
 ---

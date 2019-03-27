@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Dwarf Mage"
+name: "Dwarf Mage"
 tags: [medium, humanoid, cr6, unofficial]
 page_number: 999
 ---

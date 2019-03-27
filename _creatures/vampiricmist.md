@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Vampiric Mist"
+name: "Vampiric Mist"
 tags: [medium, undead, cr3, mordenkainens-tome-of-foes]
 page_number: 246
 ---

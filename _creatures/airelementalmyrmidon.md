@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Air Elemental Myrmidon"
+name: "Air Elemental Myrmidon"
 tags: [medium, elemental, cr7, mordenkainens-tome-of-foes]
 page_number: 202
 ---

@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Narzugon"
+name: "Narzugon"
 tags: [medium, fiend, cr13, mordenkainens-tome-of-foes]
 page_number: 167
 ---

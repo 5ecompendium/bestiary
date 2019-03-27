@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Dhergoloth"
+name: "Dhergoloth"
 tags: [medium, fiend, cr7, mordenkainens-tome-of-foes]
 page_number: 248
 ---

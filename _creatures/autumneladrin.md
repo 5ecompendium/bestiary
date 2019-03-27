@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Autumn Eladrin"
+name: "Autumn Eladrin"
 tags: [medium, fey, cr10, mordenkainens-tome-of-foes]
 page_number: 195
 ---

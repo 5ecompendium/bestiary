@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Fire Elemental Myrmidon"
+name: "Fire Elemental Myrmidon"
 tags: [medium, elemental, cr7, mordenkainens-tome-of-foes]
 page_number: 203
 ---

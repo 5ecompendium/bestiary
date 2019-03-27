@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Ogre Chain Brute"
+name: "Ogre Chain Brute"
 tags: [large, giant, cr3, mordenkainens-tome-of-foes]
 page_number: 221
 ---

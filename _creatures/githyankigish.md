@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Githyanki Gish"
+name: "Githyanki Gish"
 tags: [medium, humanoid, cr10, mordenkainens-tome-of-foes]
 page_number: 205
 ---

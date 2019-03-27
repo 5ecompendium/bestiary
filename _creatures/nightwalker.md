@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Nightwalker"
+name: "Nightwalker"
 tags: [huge, undead, cr20, mordenkainens-tome-of-foes]
 page_number: 216
 ---

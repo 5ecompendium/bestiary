@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Dwarf Priest"
+name: "Dwarf Priest"
 tags: [medium, humanoid, cr2, unofficial]
 page_number: 999
 ---

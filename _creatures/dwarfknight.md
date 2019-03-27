@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Dwarf Knight"
+name: "Dwarf Knight"
 tags: [medium, humanoid, cr3, unofficial]
 page_number: 999
 ---

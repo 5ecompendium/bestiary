@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Dwarf Veteran"
+name: "Dwarf Veteran"
 tags: [medium, humanoid, cr3, unofficial]
 page_number: 999
 ---

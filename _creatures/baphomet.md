@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Baphomet"
+name: "Baphomet"
 tags: [huge, fiend, cr23, mordenkainens-tome-of-foes]
 page_number: 143
 ---

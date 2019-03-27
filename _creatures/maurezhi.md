@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Maurezhi"
+name: "Maurezhi"
 tags: [medium, fiend, cr7, mordenkainens-tome-of-foes]
 page_number: 133
 ---

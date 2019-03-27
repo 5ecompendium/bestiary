@@ -1,6 +1,6 @@
 ---
 layout: creature
-title: "Oinoloth"
+name: "Oinoloth"
 tags: [medium, fiend, cr12, mordenkainens-tome-of-foes]
 page_number: 251
 ---
