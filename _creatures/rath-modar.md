@@ -26,7 +26,7 @@ tags: [medium, humanoid, cr6, tyranny-of-dragons]
 
 ***Special Equipment.*** Rath has a staff of fire, and scrolls of dimension door, feather fall, and fireball.
 
-***Spellcasting.*** Rath is an 11th-level spellcaster who uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Rath has the following spells prepared from the wizard spell list: 
+***Spellcasting.*** Rath is an 11th-level spellcaster who uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Rath has the following spells prepared from the wizard spell list:
 
 * Cantrips (at will): fire bolt, minor illusion, prestidigitation, shocking grasp
 

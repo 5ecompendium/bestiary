@@ -30,13 +30,13 @@ tags: [medium, humanoid, cr5, tyranny-of-dragons]
 
 ***Fey Ancestry.*** Talis has advantage on saving throws against being charmed, and magic can't put her to sleep.
 
-***Spellcasting.*** Talis is a 9th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Talis has the following spells prepared from the cleric spell list: 
+***Spellcasting.*** Talis is a 9th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Talis has the following spells prepared from the cleric spell list:
 
 * Cantrips (at will): guidance, resistance, thaumaturgy
 
 * 1st level (4 slots): command, cure wounds, healing word, inflict wounds
 
-* 2nd level (3 slots): blindness/deafness, lesser restoration, spiritual weapon (spear) 
+* 2nd level (3 slots): blindness/deafness, lesser restoration, spiritual weapon (spear)
 
 * 3rd level (3 slots): dispel magic, mass healing word, sending
 

@@ -24,7 +24,7 @@ tags: [medium, humanoid, cr1, lost-mine-of-phandelver]
 
 **Challenge** 1 (200 XP)
 
-***Spellcasting.*** The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; +5 to hit with spell attacks). The mage knows the following spells from the wizard's spell list: 
+***Spellcasting.*** The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; +5 to hit with spell attacks). The mage knows the following spells from the wizard's spell list:
 
 * Cantrips (at will): light, mage hand, shocking grasp
 

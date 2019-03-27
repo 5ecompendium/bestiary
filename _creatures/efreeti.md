@@ -28,7 +28,7 @@ tags: [large, elemental, cr11, monster-manual]
 
 ***Elemental Demise.*** If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the djinni was wearing or carrying.
 
-***Innate Spellcasting.*** The efreeti's innate spell casting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The efreeti's innate spell casting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 At will: detect magic
 

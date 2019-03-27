@@ -28,7 +28,7 @@ tags: [small, humanoid, cr1, tales-from-the-yawning-portal]
 
 ***Spellcasting.*** Yusdrayl is a 2nd-level spellcaster. Her spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She knows the following sorcerer spells:
 
-Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp 
+Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp
 
 1st level (4 slots): burning hands, chromatic orb, mage armor
 

@@ -30,7 +30,7 @@ tags: [medium, humanoid, cr9, elemental-evil]
 
 ***Legendary Resistance (2/Day).*** If Vanifer fails a saving throw, she can choose to succeed instead.
 
-***Spellcasting.*** Vanifer is a 10th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). Vanifer knows the following sorcerer spells: 
+***Spellcasting.*** Vanifer is a 10th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). Vanifer knows the following sorcerer spells:
 
 * Cantrips (at will): chill touch, fire bolt, friends, mage hand, message, produce flame, thaumaturgy
 

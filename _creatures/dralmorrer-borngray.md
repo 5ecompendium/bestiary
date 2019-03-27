@@ -28,7 +28,7 @@ tags: [medium, humanoid, cr3, tyranny-of-dragons]
 
 ***Fey Ancestry.*** Dralmorrer has advantage on saving throws against being charmed, and magic can't put him to sleep.
 
-***Spellcasting.*** Dralmorrer is a 7th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Dralmorrer has the following spells prepared from the wizard spell list: 
+***Spellcasting.*** Dralmorrer is a 7th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Dralmorrer has the following spells prepared from the wizard spell list:
 
 * Cantrips (at will): fire bolt, prestidigitation, shocking grasp
 

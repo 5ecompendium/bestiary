@@ -34,7 +34,7 @@ tags: [medium, undead, cr17, monster-manual]
 
 ***Marshal Undead.*** Unless the death knight is incapacitated, it and undead creatures of its choice within 60 feet of it have advantage on saving throws against features that turn undead.
 
-***Spellcasting.*** The death knight is a 19th-level spell caster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following paladin spells prepared: 
+***Spellcasting.*** The death knight is a 19th-level spell caster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following paladin spells prepared:
 
 * 1st level (4 slots): command, compelled duel, searing smite
 

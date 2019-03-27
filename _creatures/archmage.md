@@ -28,7 +28,7 @@ tags: [medium, humanoid, cr12, monster-manual]
 
 ***Magic Resistance.*** The archmage has advantage on saving throws against spells and other magical effects.
 
-***Spellcasting.*** The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared: 
+***Spellcasting.*** The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared:
 
 * Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp
 

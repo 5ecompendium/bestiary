@@ -38,7 +38,7 @@ tags: [medium, undead, cr3, tales-from-the-yawning-portal]
 
 ***Innate Spellcasting.*** The wight's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no verbal or material components:
 
-At will: detect magic, disguise self, mage armor 
+At will: detect magic, disguise self, mage armor
 
 1/day each:fear, hold person, misty step
 

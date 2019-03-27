@@ -28,7 +28,7 @@ tags: [gargantuan, dragon, cr23, monster-manual]
 
 **Challenge** 23 (50,000 XP)
 
-***Innate Spellcasting.*** Iymrith's innate spellcasting ability is Charisma (spell save DC 20).  Iymrith's stone shape can create a living gargoyle instead of altering the stone as described in the spell description. She can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** Iymrith's innate spellcasting ability is Charisma (spell save DC 20).  Iymrith's stone shape can create a living gargoyle instead of altering the stone as described in the spell description. She can innately cast the following spells, requiring no material components:
 
 1/day: counterspell, detect magic, ice storm, stone shape, teleport
 

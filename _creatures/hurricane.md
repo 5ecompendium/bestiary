@@ -22,7 +22,7 @@ tags: [medium, humanoid, cr2, elemental-evil]
 
 **Challenge** 2 (450 XP)
 
-***Spellcasting.*** The hurricane is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It knows the following sorcerer spells: 
+***Spellcasting.*** The hurricane is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It knows the following sorcerer spells:
 
 * Cantrips (at will): blade ward, gust, light, prestidigitation
 

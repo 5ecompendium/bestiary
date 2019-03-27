@@ -26,13 +26,13 @@ tags: [medium, humanoid, cr8, elemental-evil]
 
 **Challenge** 8 (3,900 XP)
 
-***Innate Spellcasting.*** Bastian's innate spellcasting ability is Constitution (spell save DC 13, +5 to hit with spell attacks). He can innately cast the following spells: 
+***Innate Spellcasting.*** Bastian's innate spellcasting ability is Constitution (spell save DC 13, +5 to hit with spell attacks). He can innately cast the following spells:
 
 * At will: produce flame
 
 * 1/day: burning hands
 
-***Spellcasting.*** Bastian is a 9th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Bastian knows the following sorcerer spells: 
+***Spellcasting.*** Bastian is a 9th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Bastian knows the following sorcerer spells:
 
 * Cantrips (at will): fire bolt, mage hand, message, prestidigitation, shocking grasp
 

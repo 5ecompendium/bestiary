@@ -26,7 +26,7 @@ tags: [medium, humanoid, cr4, elemental-evil]
 
 ***Death Burst.*** When the Stonemelder dies, it turns to stone and explodes in a burst of rock shards, becoming a smoking pile of rubble. Each creature within 10 feet of the exploding Stonemelder must make a DC 14 Dexterity saving throw, taking 11 (2d10) bludgeoning damage on a failed save, or half as much damage on a successful one.
 
-***Spellcasting.*** The Stonemelder is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells: 
+***Spellcasting.*** The Stonemelder is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
 * Cantrips (at will): acid splash, blade ward, light, mending, mold earth
 

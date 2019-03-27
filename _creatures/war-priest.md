@@ -34,7 +34,7 @@ Cantrips (at will): light, mending, sacred flame, spare the dying
 
 3rd level (3 slots): beacon of hope, crusader's mantle, dispel magic, revivify, spirit guardians, water wall
 
-4th level (3 slots): banishment, freedom of movement, guardian of faith, stoneskin 
+4th level (3 slots): banishment, freedom of movement, guardian of faith, stoneskin
 
 5th level (1 slot): flame strike, mass cure wounds, hold monster
 

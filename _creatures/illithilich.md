@@ -36,7 +36,7 @@ tags: [medium, undead, cr22, volos-guide]
 
 ***Rejuvenation.*** If it has a phylactery, a destroyed illithilich gains a new body in 1d10 days, regaining all its hit points and becoming active again. The new body appears within 5 feet of the phylactery.
 
-***Spellcasting.*** The illithilich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared: 
+***Spellcasting.*** The illithilich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
 
 * Cantrips (at will): mage hand, prestidigitation, ray of frost
 
@@ -84,7 +84,7 @@ At will: detect thoughts, levitate
 
 The illithilich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The illithilich regains spent legendary actions at the start of its turn.
 
-***Tentacles.*** The illithilich makes one attack with its tentacles. 
+***Tentacles.*** The illithilich makes one attack with its tentacles.
 
 ***Extract Brain (Costs 2 Actions).*** The illithilich uses Extract Brain.
 

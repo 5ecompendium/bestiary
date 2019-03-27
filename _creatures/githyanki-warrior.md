@@ -22,7 +22,7 @@ tags: [medium, humanoid, cr3, monster-manual]
 
 **Challenge** 3 (700 XP)
 
-***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components: 
+***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
 
 At will: mage hand (the hand is invisible)
 

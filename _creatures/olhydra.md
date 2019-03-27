@@ -32,7 +32,7 @@ tags: [huge, elemental, cr18, elemental-evil]
 
 ***Empowered Attacks.*** Olhydra's slam attacks are treated as magical for the purpose of bypassing resistance and immunity to nonmagical weapons.
 
-***Innate Spellcasting.*** Olhydra's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). She can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** Olhydra's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
 * At will: wall of ice
 

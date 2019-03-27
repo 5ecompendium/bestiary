@@ -44,19 +44,19 @@ tags: [medium, undead, cr13, tales-from-the-yawning-portal]
 
 ***Spellcasting.*** Var is a 12th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). He has the following wizard spells prepared:
 
-Cantrips (at will):.fire bolt, mage hand, minor illusion, prestidigitation, ray of frost 
+Cantrips (at will):.fire bolt, mage hand, minor illusion, prestidigitation, ray of frost
 
 1st level (4 slots): detect magic, magic missile, shield, unseen servant*
 
-2nd level (3 slots): detect thoughts, flaming sphere,* mirror image, scorching ray 
+2nd level (3 slots): detect thoughts, flaming sphere,* mirror image, scorching ray
 
 3rd level (3 slots): counterspell, dispel magic, fireball
 
 4th level (3 slots): dimension door,* Evard's black tentacles*
 
-5th level (3 slots): cloudkill,* scrying 
+5th level (3 slots): cloudkill,* scrying
 
-6th level (1 slot): circle of death 
+6th level (1 slot): circle of death
 
 *Conjuration spell of 1st level or higher.
 

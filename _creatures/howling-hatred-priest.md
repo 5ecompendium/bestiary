@@ -24,7 +24,7 @@ tags: [medium, humanoid, cr2, elemental-evil]
 
 ***Hold Breath.*** The priest can hold its breath for 30 minutes.
 
-***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spells: 
+***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spells:
 
 * Cantrips (at will): blade ward, gust, light, prestidigitation, shocking grasp
 

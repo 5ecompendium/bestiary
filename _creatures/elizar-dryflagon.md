@@ -22,7 +22,7 @@ tags: [medium, humanoid, cr5, elemental-evil]
 
 **Challenge** 5 (1,800 XP)
 
-***Spellcasting.*** Elizar is a 7th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). Elizar has the following druid spells prepared: 
+***Spellcasting.*** Elizar is a 7th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). Elizar has the following druid spells prepared:
 
 * Cantrips (at will): druidcraft, guidance, poison spray, produce flame
 

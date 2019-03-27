@@ -28,7 +28,7 @@ tags: [medium, humanoid, cr9, elemental-evil]
 
 ***Legendary Resistance (2/Day).*** If Gar fails a saving throw, he can choose to succeed instead.
 
-***Spellcasting.*** Gar is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). He has the following druid spells prepared: 
+***Spellcasting.*** Gar is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). He has the following druid spells prepared:
 
 * Cantrips (at will): mending, resistance, shape water
 

@@ -36,7 +36,7 @@ tags: [large, fiend, cr20, monster-manual]
 
 ***Magic Weapons.*** The pit fiend's weapon attacks are magical.
 
-***Innate Spellcasting.*** The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The pit fiend's spellcasting ability is Charisma (spell save DC 21). The pit fiend can innately cast the following spells, requiring no material components:
 
 At will: detect magic, fireball
 

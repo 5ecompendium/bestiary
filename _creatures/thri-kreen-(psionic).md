@@ -28,7 +28,7 @@ tags: [medium, humanoid, cr1, monster-manual]
 
 ***Standing Leap.*** The thri-kreen's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
 
-***Innate Spellcasting (Psionics).*** The thri-kreen's innate spellcasting ability is Wisdom. The thri-kreen can innately cast the following spells, requiring no components: 
+***Innate Spellcasting (Psionics).*** The thri-kreen's innate spellcasting ability is Wisdom. The thri-kreen can innately cast the following spells, requiring no components:
 
 At will: mage hand (the hand is invisible)
 

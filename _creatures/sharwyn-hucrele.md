@@ -30,7 +30,7 @@ tags: [medium, humanoid, cr1/2, tales-from-the-yawning-portal]
 
 ***Spellcasting.*** Sharwyn is a 1st-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:
 
-Cantrips (at will): light, prestidigitation, ray of frost 
+Cantrips (at will): light, prestidigitation, ray of frost
 
 1st level (2 slots): color spray, magic missile, shield, sleep.
 

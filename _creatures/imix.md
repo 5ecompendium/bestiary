@@ -40,7 +40,7 @@ tags: [huge, elemental, cr19, elemental-evil]
 
 ***Legendary Resistance (3/Day).*** If Imix fails a saving throw, he can choose to succeed instead.
 
-***Innate Spellcasting.*** Imix's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** Imix's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components:
 
 * At will: fireball, wall of fire
 

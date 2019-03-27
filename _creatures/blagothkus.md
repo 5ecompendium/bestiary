@@ -26,11 +26,11 @@ tags: [huge, giant, cr9, tyranny-of-dragons]
 
 ***Keen Smell.*** Blagothkus has advantage on Wisdom (Perception) checks that rely on smell.
 
-***Innate Spellcasting.*** Blagothkus can innately cast the following spells (spell save DC 15), requiring no material components: 
+***Innate Spellcasting.*** Blagothkus can innately cast the following spells (spell save DC 15), requiring no material components:
 
 * 3/day each: fog cloud, levitate
 
-***Spellcasting.*** Blagothkus is a 5th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Blagothkus has the following spells prepared from the wizard spell list: 
+***Spellcasting.*** Blagothkus is a 5th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Blagothkus has the following spells prepared from the wizard spell list:
 
 * Cantrips (at will): light, mage hand, prestidigitation
 

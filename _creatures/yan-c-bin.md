@@ -34,7 +34,7 @@ tags: [huge, elemental, cr18, elemental-evil]
 
 ***Empowered Attacks.*** Yan-C-Bin's slam attacks are treated as magical for the purpose of bypassing resistance and immunity to nonmagical weapons.
 
-***Innate Spellcasting.*** Yan-C-Bin's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** Yan-C-Bin's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components:
 
 * At will: gust of wind, invisibility, lightning bolt
 

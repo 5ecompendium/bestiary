@@ -24,7 +24,7 @@ tags: [medium, humanoid, cr6, elemental-evil]
 
 **Challenge** 6 (2,300 XP)
 
-***Spellcasting.*** The flamewrath is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following sorcerer spells: 
+***Spellcasting.*** The flamewrath is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It knows the following sorcerer spells:
 
 * Cantrips (at will): control flames, fire bolt, friends, light, minor illusion
 

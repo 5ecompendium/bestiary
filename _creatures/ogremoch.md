@@ -32,7 +32,7 @@ tags: [gargantuan, elemental, cr20, elemental-evil]
 
 ***Empowered Attacks.*** Ogremoch's slam attacks are treated as magical and adamantine for the purpose of bypassing resistance and immunity to nonmagical weapons.
 
-***Innate Spellcasting.*** Ogremoch's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** Ogremoch's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components:
 
 
 

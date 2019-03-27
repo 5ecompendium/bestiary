@@ -32,7 +32,7 @@ tags: [medium, fiend, cr12, monster-manual]
 
 **Challenge** 12 (8,400 XP)
 
-***Innate Spellcasting.*** The arcanaloth's innate spellcasting ability is Charisma (spell save DC 15). The arcanaloth can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The arcanaloth's innate spellcasting ability is Charisma (spell save DC 15). The arcanaloth can innately cast the following spells, requiring no material components:
 
 At will: alter self, darkness, heat metal, invisibility (self only), magic missile
 
@@ -40,7 +40,7 @@ At will: alter self, darkness, heat metal, invisibility (self only), magic missi
 
 ***Magic Weapons.*** The arcanaloth's weapon attacks are magical.
 
-***Spellcasting.*** The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth has the following wizard spells prepared: 
+***Spellcasting.*** The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth has the following wizard spells prepared:
 
 * Cantrips (at will): fire bolt, mage hand, minor illusion, prestidigitation
 

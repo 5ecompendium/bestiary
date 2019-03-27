@@ -28,7 +28,7 @@ tags: [large, giant, cr5, monster-manual]
 
 ***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
-***Variant: Loathsome Limbs.*** Whenever the troll takes at least 15 slashing damage at one time, roll a d20 to determine what else happens to it: 
+***Variant: Loathsome Limbs.*** Whenever the troll takes at least 15 slashing damage at one time, roll a d20 to determine what else happens to it:
 
 1-10: Nothing else happens.
 

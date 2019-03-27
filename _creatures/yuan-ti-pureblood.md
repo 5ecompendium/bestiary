@@ -28,7 +28,7 @@ tags: [medium, humanoid, cr1, monster-manual]
 
 **Challenge** 1 (200 XP)
 
-***Innate Spellcasting.*** The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The yuan-ti's spellcasting ability is Charisma (spell save DC 12). The yuan-ti can innately cast the following spells, requiring no material components:
 
 At will: animal friendship (snakes only)
 

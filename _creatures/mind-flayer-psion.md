@@ -28,7 +28,7 @@ tags: [medium, aberration, cr8, volos-guide]
 
 ***Magic Resistance.*** The mind flayer has advantage on saving throws against spells and other magical effects.
 
-***Innate Spellcasting (Psionics).*** The mind flayer is a 10th-level spellcaster. Its innate spellcasting ability is Intelligence (spell save DC 15; +7 to hit with spell attacks). It can innately cast the following spells, requiring no components: 
+***Innate Spellcasting (Psionics).*** The mind flayer is a 10th-level spellcaster. Its innate spellcasting ability is Intelligence (spell save DC 15; +7 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
 At will: guidance, mage hand, vicious mockery, true strike
 

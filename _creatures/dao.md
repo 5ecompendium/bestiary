@@ -30,7 +30,7 @@ tags: [large, elemental, cr11, monster-manual]
 
 ***Elemental Demise.*** If the dao dies, its body disintegrates into crystalline powder, leaving behind only equipment the dao was wearing or carrying.
 
-***Innate Spellcasting.*** The dao's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The dao's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 At will: detect evil and good, detect magic, stone shape
 

@@ -24,7 +24,7 @@ tags: [medium, humanoid, cr6, monster-manual]
 
 **Challenge** 6 (2,300 XP)
 
-***Innate Spellcasting (Psionics).*** The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components: 
+***Innate Spellcasting (Psionics).*** The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
 
 At will: mage hand (the hand is invisible)
 

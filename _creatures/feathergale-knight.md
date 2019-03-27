@@ -22,7 +22,7 @@ tags: [medium, humanoid, cr1, elemental-evil]
 
 **Challenge** 1 (200 XP)
 
-***Spellcasting.*** The knight is a 1st-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spell: 
+***Spellcasting.*** The knight is a 1st-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spell:
 
 * Cantrips (at will): gust, light, message, ray of frost
 

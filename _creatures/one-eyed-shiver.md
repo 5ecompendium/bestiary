@@ -26,7 +26,7 @@ tags: [medium, humanoid, cr3, elemental-evil]
 
 ***Chilling Mist.*** While it is alive, the one-eyed shiver projects an aura of cold mist within 10 feet of itself. If the one-eyed shiver deals damage to a creature in this area, the creature also takes 5 (1d10) cold damage.
 
-***Spellcasting.*** The one-eyed shiver is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells: 
+***Spellcasting.*** The one-eyed shiver is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
 * Cantrips (at will): chill touch, mage hand
 

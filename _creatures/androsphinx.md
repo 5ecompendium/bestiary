@@ -34,7 +34,7 @@ tags: [large, monstrosity, cr17, monster-manual]
 
 ***Magic Weapons.*** The sphinx's weapon attacks are magical.
 
-***Spellcasting.*** The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared: 
+***Spellcasting.*** The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
 
 * Cantrips (at will): sacred flame, spare the dying, thaumaturgy
 

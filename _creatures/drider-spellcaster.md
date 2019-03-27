@@ -26,7 +26,7 @@ tags: [large, monstrosity, cr6, monster-manual]
 
 ***Fey Ancestry.*** The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.
 
-***Innate Spellcasting.*** The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:
 
 At will: dancing lights
 
@@ -38,7 +38,7 @@ At will: dancing lights
 
 ***Web Walker.*** The drider ignores movement restrictions caused by webbing.
 
-***Spellcasting.*** The drider is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The drider has the following spells prepared from the cleric spell list: 
+***Spellcasting.*** The drider is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The drider has the following spells prepared from the cleric spell list:
 
 * Cantrips (at will): poison spray, thaumaturgy
 

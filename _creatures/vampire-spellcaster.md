@@ -44,7 +44,7 @@ While it has 0 hit points in mist form, it can't revert to its vampire form, and
 
 ***Spider Climb.*** The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-***Vampire Weaknesses.*** The vampire has the following flaws: 
+***Vampire Weaknesses.*** The vampire has the following flaws:
 
 Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants.
 
@@ -54,7 +54,7 @@ Stake to the Heart. If a piercing weapon made of wood is driven into the vampire
 
 Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-***Spellcasting.*** The vampire is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The vampire has the following wizard spells prepared: 
+***Spellcasting.*** The vampire is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The vampire has the following wizard spells prepared:
 
 * Cantrips (at will): mage hand, prestidigitation, ray of frost
 

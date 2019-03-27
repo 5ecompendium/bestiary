@@ -24,7 +24,7 @@ tags: [medium, humanoid, cr2, tyranny-of-dragons]
 
 **Challenge** 2 (450 XP)
 
-***Spellcasting.*** Frulam is a 5th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Frulam has the following spells prepared from the cleric spell list: 
+***Spellcasting.*** Frulam is a 5th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Frulam has the following spells prepared from the cleric spell list:
 
 * Cantrips (at will): light, sacred flame, thaumaturgy
 

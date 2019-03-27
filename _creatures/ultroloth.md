@@ -30,7 +30,7 @@ tags: [medium, fiend, cr13, monster-manual]
 
 **Challenge** 13 (10,000 XP)
 
-***Innate Spellcasting.*** The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:
 
 At will: alter self, clairvoyance, darkness, detect magic, detect thoughts, dispel magic, invisibility (self only), suggestion
 

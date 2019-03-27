@@ -30,7 +30,7 @@ tags: [large, elemental, cr11, monster-manual]
 
 ***Elemental Demise.*** If the marid dies, its body disintegrates into a burst of water and foam, leaving behind only equipment the marid was wearing or carrying.
 
-***Innate Spellcasting.*** The marid's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The marid's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 At will: create or destroy water, detect evil and good, detect magic, fog cloud, purify food and drink
 

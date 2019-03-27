@@ -28,7 +28,7 @@ tags: [medium, aberration, cr7, monster-manual]
 
 ***Magic Resistance.*** The mind flayer has advantage on saving throws against spells and other magical effects.
 
-***Innate Spellcasting (Psionics).*** The mind flayer's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components: 
+***Innate Spellcasting (Psionics).*** The mind flayer's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
 
 At will: detect thoughts, levitate
 

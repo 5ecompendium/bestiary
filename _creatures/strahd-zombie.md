@@ -29,7 +29,7 @@ page_number: 241
 
 **Challenge** 1 (200 XP)
 
-***Loathsome Limbs.*** Whenever the zombie takes at least 5 bludgeoning or slashing damage at one time, roll a d20 to determine what else happens to it: 
+***Loathsome Limbs.*** Whenever the zombie takes at least 5 bludgeoning or slashing damage at one time, roll a d20 to determine what else happens to it:
 
 1-8: One leg is severed from the zombie if it has any legs left.
 

@@ -22,7 +22,7 @@ tags: [medium, humanoid, cr3, tyranny-of-dragons]
 
 **Challenge** 3 (700 XP)
 
-***Spellcasting.*** Thurl is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). Thurl knows the following sorcerer spells: 
+***Spellcasting.*** Thurl is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). Thurl knows the following sorcerer spells:
 
 * Cantrips (at will): friends, gust, light, message, ray of frost
 

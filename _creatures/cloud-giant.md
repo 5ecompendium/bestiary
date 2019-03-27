@@ -26,7 +26,7 @@ tags: [huge, giant, cr9, monster-manual]
 
 ***Keen Smell.*** The giant has advantage on Wisdom (Perception) checks that rely on smell.
 
-***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 
 At will: detect magic, fog cloud, light
 

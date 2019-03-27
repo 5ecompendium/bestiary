@@ -26,7 +26,7 @@ tags: [large, aberration, cr14, volos-guide]
 
 **Challenge** 14 (11,500 XP)
 
-***Creature Sense.*** The elder brain is aware of the presence of creatures within 5 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature. as well as each one's intelligence score, but can't sense anything else about it. A creature protected by a mind blank spell. a nondetection spell, or similar magic can't be perceived in this manner. 
+***Creature Sense.*** The elder brain is aware of the presence of creatures within 5 miles of it that have an Intelligence score of 4 or higher. It knows the distance and direction to each creature. as well as each one's intelligence score, but can't sense anything else about it. A creature protected by a mind blank spell. a nondetection spell, or similar magic can't be perceived in this manner.
 
 ***Innate Spellcasting (Psionics).*** The elder brain's innate spellcasting ability is Intelligence (spell save DC 18). It can innately cast the following spells, requiring no components:
 

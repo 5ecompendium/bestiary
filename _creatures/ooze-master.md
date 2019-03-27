@@ -44,15 +44,15 @@ tags: [huge, undead, cr10, tales-from-the-yawning-portal]
 
 ***Spellcasting.*** The Ooze Master is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It has the following wizard spells prepared:
 
-Cantrips (at will): acid splash, friends, mage hand, poison spray 
+Cantrips (at will): acid splash, friends, mage hand, poison spray
 
-1st level (4 slots): charm person, detect magic, magic missile, ray of sickness 
+1st level (4 slots): charm person, detect magic, magic missile, ray of sickness
 
-2nd level (3 slots): detect thoughts, Melf's acid arrow, suggestion 
+2nd level (3 slots): detect thoughts, Melf's acid arrow, suggestion
 
-3rd level (3 slots):fear, slow, stinking cloud 
+3rd level (3 slots):fear, slow, stinking cloud
 
-4th level (3 slots): confusion, Evard's evard's black tentacles 
+4th level (3 slots): confusion, Evard's evard's black tentacles
 
 5th level (1 slot): cloudkill.
 

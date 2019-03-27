@@ -32,7 +32,7 @@ Unless the target is surprised or the revelation of the hag's true form is sudde
 
 A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.
 
-***Shared Spellcasting (Coven Only).*** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves: 
+***Shared Spellcasting (Coven Only).*** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
 
 * 1st level (4 slots): identify, ray of sickness
 

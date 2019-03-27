@@ -22,7 +22,7 @@ tags: [medium, humanoid, cr2, elemental-evil]
 
 **Challenge** 2 (450 XP)
 
-***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells: 
+***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
 * Cantrips (at will): chill touch, mage hand, minor illusion, prestidigitation, ray of frost
 

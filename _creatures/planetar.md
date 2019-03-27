@@ -34,7 +34,7 @@ tags: [large, celestial, cr16, monster-manual]
 
 ***Divine Awareness.*** The planetar knows if it hears a lie.
 
-***Innate Spellcasting.*** The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:
 
 At will: detect evil and good, invisibility (self only)
 

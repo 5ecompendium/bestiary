@@ -22,7 +22,7 @@ tags: [medium, humanoid, cr2, storm-kings-thunder]
 
 **Challenge** 2 (450 XP)
 
-***Innate Spellcasting.*** The shaman can innately cast the following spells. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). 
+***Innate Spellcasting.*** The shaman can innately cast the following spells. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks).
 
 * At Will: dancing lights, message, mage hand, thaumaturgy
 

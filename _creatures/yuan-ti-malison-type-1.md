@@ -30,7 +30,7 @@ tags: [medium, monstrosity, cr3, monster-manual]
 
 ***Shapechanger.*** The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.
 
-***Innate Spellcasting (Yuan_ti Form Only).*** The yuan_ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan_ti can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting (Yuan_ti Form Only).*** The yuan_ti's innate spellcasting ability is Charisma (spell save DC 13). The yuan_ti can innately cast the following spells, requiring no material components:
 
 At will: animal friendship (snakes only)
 
@@ -38,7 +38,7 @@ At will: animal friendship (snakes only)
 
 ***Magic Resistance.*** The yuan-ti has advantage on saving throws against spells and other magical effects.
 
-***Malison Type.*** The yuan_ti has one of the following types: 
+***Malison Type.*** The yuan_ti has one of the following types:
 
 Type 1: Human body with snake head
 

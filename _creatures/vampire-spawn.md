@@ -32,7 +32,7 @@ tags: [medium, undead, cr5, monster-manual]
 
 ***Spider Climb.*** The vampire can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-***Vampire Weaknesses.*** The vampire has the following flaws: 
+***Vampire Weaknesses.*** The vampire has the following flaws:
 
 Forbiddance. The vampire can't enter a residence without an invitation from one of the occupants.
 

@@ -34,7 +34,7 @@ tags: [large, monstrosity, cr11, monster-manual]
 
 ***Magic Weapons.*** The sphinx's weapon attacks are magical.
 
-***Spellcasting.*** The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared: 
+***Spellcasting.*** The sphinx is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following wizard spells prepared:
 
 * Cantrips (at will): mage hand, minor illusion, prestidigitation
 

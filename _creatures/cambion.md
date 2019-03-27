@@ -30,7 +30,7 @@ tags: [medium, fiend, cr5, monster-manual]
 
 ***Fiendish Blessing.*** The AC of the cambion includes its Charisma bonus.
 
-***Innate Spellcasting.*** The cambion's spellcasting ability is Charisma (spell save DC 14). The cambion can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The cambion's spellcasting ability is Charisma (spell save DC 14). The cambion can innately cast the following spells, requiring no material components:
 
 3/day each: alter self, command, detect magic
 

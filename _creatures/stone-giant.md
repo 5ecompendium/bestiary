@@ -30,7 +30,7 @@ tags: [huge, giant, cr7, monster-manual]
 
 **Actions**
 
-***Fling.*** The giant tries to throw a Small or Medium creature within 10 feet of it. The target must succeed on a DC 17 Dexterity saving throw or be hurled up to 60 feet horizontally in a direction of the giant's choice. and land prone, taking 1d6 bludgeoning damage for every 10 feet it was thrown. 
+***Fling.*** The giant tries to throw a Small or Medium creature within 10 feet of it. The target must succeed on a DC 17 Dexterity saving throw or be hurled up to 60 feet horizontally in a direction of the giant's choice. and land prone, taking 1d6 bludgeoning damage for every 10 feet it was thrown.
 
 ***Rolling Rock.*** The giant sends a rock tumbling along the ground in a 30-foot line that is 5 feet wide. Each creature in that line must make a DC 17 Dexterity saving throw, taking 22 (3d10 + 6) bludgeoning damage and falling prone on a failed save
 

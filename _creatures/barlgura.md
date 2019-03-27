@@ -32,7 +32,7 @@ tags: [large, fiend, cr5, monster-manual]
 
 **Challenge** 5 (1,800 XP)
 
-***Innate Spellcasting.*** The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components:
 
 1/day each: entangle, phantasmal force
 

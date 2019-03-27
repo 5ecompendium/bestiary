@@ -36,7 +36,7 @@ tags: [large, celestial, cr21, monster-manual]
 
 ***Divine Awareness.*** The solar knows if it hears a lie.
 
-***Innate Spellcasting.*** The solar's spell casting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The solar's spell casting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:
 
 At will: detect evil and good, invisibility (self only)
 

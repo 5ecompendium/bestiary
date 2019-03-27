@@ -30,7 +30,7 @@ tags: [medium, humanoid, cr3, monster-manual]
 
 ***Wounded Fury.*** While it has 10 hit points or fewer, the quaggoth has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack.
 
-***Innate Spellcasting (Psionics).*** The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11 ). The quaggoth can innately cast the following spells, requiring no components: 
+***Innate Spellcasting (Psionics).*** The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11 ). The quaggoth can innately cast the following spells, requiring no components:
 
 At will: feather fall, mage hand (the hand is invisible)
 

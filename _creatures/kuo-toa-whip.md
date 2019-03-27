@@ -32,7 +32,7 @@ tags: [medium, humanoid, cr1, monster-manual]
 
 ***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-***Spellcasting.*** The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The kuo-toa has the following cleric spells prepared: 
+***Spellcasting.*** The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:
 
 * Cantrips (at will): sacred flame, thaumaturgy
 

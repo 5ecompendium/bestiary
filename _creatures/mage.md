@@ -24,7 +24,7 @@ tags: [medium, humanoid, cr6, monster-manual]
 
 **Challenge** 6 (2,300 XP)
 
-***Spellcasting.*** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared: 
+***Spellcasting.*** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 
 * Cantrips (at will): fire bolt, light, mage hand, prestidigitation
 

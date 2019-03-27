@@ -26,7 +26,7 @@ tags: [medium, humanoid, cr3, elemental-evil]
 
 ***Fey Ancestry.*** Windharrow has advantage on saving throws against being charmed, and magic can't put him to sleep.
 
-***Spellcasting.*** Windharrow is an 8th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). Windharrow knows the following bard spells: 
+***Spellcasting.*** Windharrow is an 8th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). Windharrow knows the following bard spells:
 
 * Cantrips (at will): friends, prestidigitation, vicious mockery
 

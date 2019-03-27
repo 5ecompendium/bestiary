@@ -24,7 +24,7 @@ tags: [medium, fey, cr1, monster-manual]
 
 **Challenge** 1 (200 XP)
 
-***Innate Spellcasting.*** The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:
 
 At will: druidcraft
 

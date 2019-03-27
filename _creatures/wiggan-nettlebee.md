@@ -24,7 +24,7 @@ tags: [small, humanoid, cr2, elemental-evil]
 
 ***Brave Devotion.*** Wiggan has advantage on saving throws against being charmed or frightened.
 
-***Spellcasting.*** Wiggan is a 4th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). He has the following cleric spells prepared: 
+***Spellcasting.*** Wiggan is a 4th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). He has the following cleric spells prepared:
 
 * Cantrips (at will): guidance, light, mending, shillelagh, thaumaturgy
 

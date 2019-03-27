@@ -40,7 +40,7 @@ tags: [medium, humanoid, cr12, volos-guide]
 
 The warlord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The warlord regains spent legendary actions at the start of its turn.
 
-***Weapon Attack.*** The warlord makes a weapon attack. 
+***Weapon Attack.*** The warlord makes a weapon attack.
 
 ***Command Ally.*** The warlord targets one ally it can see within 30 feet of it. if the target can see and hear the warlord, the target can make one weapon attack as a reaction and gains advantage on the attack roll.
 

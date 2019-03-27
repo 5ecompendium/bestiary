@@ -26,13 +26,13 @@ tags: [medium, humanoid, cr4, elemental-evil]
 
 ***Amphibious.*** Shoalar can breathe air and water.
 
-***Innate Spellcasting.*** Shoalar's innate spellcasting ability is Constitution (spell save DC 13, +5 to hit with spell attacks). He can innately cast the following spells: 
+***Innate Spellcasting.*** Shoalar's innate spellcasting ability is Constitution (spell save DC 13, +5 to hit with spell attacks). He can innately cast the following spells:
 
 * At will: shape water
 
 * 1/day: create or destroy water
 
-***Spellcasting.*** Shoalar is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). He knows the following sorcerer spells: 
+***Spellcasting.*** Shoalar is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). He knows the following sorcerer spells:
 
 * Cantrips (at will): acid splash, chill touch, friends, prestidigitation, ray of frost
 

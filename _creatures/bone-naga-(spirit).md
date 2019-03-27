@@ -26,7 +26,7 @@ tags: [large, undead, cr4, monster-manual]
 
 **Challenge** 4 (1,100 XP)
 
-***Spellcasting.*** The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Intelligence, and it has the following wizard spells prepared: 
+***Spellcasting.*** The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Intelligence, and it has the following wizard spells prepared:
 
 * Cantrips (at will): mage hand, minor illusion, ray of frost
 

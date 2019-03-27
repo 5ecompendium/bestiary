@@ -28,7 +28,7 @@ tags: [large, aberration, cr8, monster-manual]
 
 ***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-***Innate Spellcasting.*** The slaad's innate spellcasting ability is Charisma (spell save DC 12). The slaad can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The slaad's innate spellcasting ability is Charisma (spell save DC 12). The slaad can innately cast the following spells, requiring no material components:
 
 At will: detect magic, detect thoughts, mage hand
 

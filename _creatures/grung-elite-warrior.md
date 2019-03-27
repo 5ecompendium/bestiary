@@ -38,7 +38,7 @@ tags: [small, humanoid, cr2, volos-guide]
 
 >A creature poisoned by a grung can suffer an additional effect that varies depending on the grung's skin color. This effect lasts until the creature is no longer poisoned by the grung.
 
-Orange. The poisoned creature is frightened of its allies. 
+Orange. The poisoned creature is frightened of its allies.
 
 Gold. The poisoned creature is charmed and can speak Grung.
 

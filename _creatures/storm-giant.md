@@ -30,7 +30,7 @@ tags: [huge, giant, cr13, monster-manual]
 
 ***Amphibious.*** The giant can breathe air and water.
 
-***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 
 At will: detect magic, feather fall, levitate, light
 

@@ -28,7 +28,7 @@ tags: [medium, celestial, cr4, monster-manual]
 
 **Challenge** 4 (1,100 XP)
 
-***Innate Spellcasting.*** The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components: 
+***Innate Spellcasting.*** The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:
 
 At will: detect evil and good, detect magic, detect thoughts
 

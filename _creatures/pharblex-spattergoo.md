@@ -28,7 +28,7 @@ tags: [medium, humanoid, cr3, tyranny-of-dragons]
 
 ***Poison Strike (3/Day).*** Once per turn, when Pharblex hits with a melee attack, he can expend a use of this trait to deal an extra 9 (2d8) poison damage.
 
-***Spellcasting.*** Pharblex is a 6th-level spellcaster that uses Wisdom as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Pharblex has the following spells prepared from the druid spell list: 
+***Spellcasting.*** Pharblex is a 6th-level spellcaster that uses Wisdom as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Pharblex has the following spells prepared from the druid spell list:
 
 * Cantrips (at will): druidcraft, guidance, poison spray
 

@@ -28,7 +28,7 @@ tags: [huge, celestial, cr23, monster-manual]
 
 **Challenge** 23 (50,000 XP)
 
-***Innate Spellcasting.*** The empyrean's innate spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The empyrean's innate spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 At will: greater restoration, pass without trace, water breathing, water walk
 

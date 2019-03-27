@@ -24,7 +24,7 @@ tags: [medium, humanoid, cr3, elemental-evil]
 
 **Challenge** 3 (700 XP)
 
-***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells: 
+***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
 * Cantrips (at will): control flames, create bonfire, fire bolt, light, minor illusion
 

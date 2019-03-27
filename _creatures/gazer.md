@@ -34,15 +34,15 @@ tags: [tiny, aberration, cr1/2, volos-guide]
 
 ***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage.
 
-***Eye Rays.*** The gazer shoots two of the following magical eye rays at random (reroll duplicates), choosing one or two targets it can see within 60 feet of it: 
+***Eye Rays.*** The gazer shoots two of the following magical eye rays at random (reroll duplicates), choosing one or two targets it can see within 60 feet of it:
 
-7. Dazing Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be charmed until the start of the gazer's next turn. While the target is charmed in this way, its speed is halved, and it has disadvantage on attack rolls. 
+7. Dazing Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be charmed until the start of the gazer's next turn. While the target is charmed in this way, its speed is halved, and it has disadvantage on attack rolls.
 
-2. Fear Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be frightened until the start of the gazer's next turn. 
+2. Fear Ray: The targeted creature must succeed on a DC 12 Wisdom saving throw or be frightened until the start of the gazer's next turn.
 
-3. Frost Ray: The targeted creature must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage. 
+3. Frost Ray: The targeted creature must succeed on a DC 12 Dexterity saving throw or take 10 (3d6) cold damage.
 
-4. Telekinetic Ray: If the target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer. 
+4. Telekinetic Ray: If the target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer.
 
 >If the target is an object weighing 10 pounds or less that isn't being worn or carried, the gazer moves it up to 30 feet in any direction. The gazer can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a container.
 

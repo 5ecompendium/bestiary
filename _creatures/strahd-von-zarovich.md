@@ -59,7 +59,7 @@ page_number: 239
 
 ***Spider Climb.*** Strahd can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-***Vampire Weaknesses.*** Strahd has the following flaws. 
+***Vampire Weaknesses.*** Strahd has the following flaws.
 
 >Forbiddance: He can't enter a residence without an invitation from one of the occupants.
 

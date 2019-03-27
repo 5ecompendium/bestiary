@@ -30,7 +30,7 @@ tags: [medium, fiend, cr5, monster-manual]
 
 **Challenge** 5 (1,800 XP)
 
-***Innate Spellcasting.*** The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:
 
 2/day each: darkness, dispel magic
 

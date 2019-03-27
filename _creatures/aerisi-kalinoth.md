@@ -32,7 +32,7 @@ tags: [medium, humanoid, cr7, elemental-evil]
 
 ***Legendary Resistance (2/Day).*** If Aerisi fails a saving throw, she can choose to succeed instead.
 
-***Spellcasting.*** Aerisi is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Aerisi has the following wizard spells prepared: 
+***Spellcasting.*** Aerisi is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Aerisi has the following wizard spells prepared:
 
 * Cantrips (at will): gust, mage hand, message, prestidigitation, ray of frost, shocking grasp
 
@@ -44,7 +44,7 @@ tags: [medium, humanoid, cr7, elemental-evil]
 
 * 4th level (3 slots): ice storm, storm sphere
 
-* 5th level (2 slots): cloudkill, seeming (cast each day) 
+* 5th level (2 slots): cloudkill, seeming (cast each day)
 
 * 6th level (1 slot): chain lightning
 

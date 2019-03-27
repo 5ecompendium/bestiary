@@ -32,13 +32,13 @@ tags: [medium, humanoid, cr2, lost-mine-of-phandelver]
 
 ***Sunlight Sensitivity.*** Nezznar has disadvantage on attack rolls when he or his target is in sunlight.
 
-***Innate Spellcasting.*** Nezznar can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** Nezznar can innately cast the following spells, requiring no material components:
 
 * At will: dancing lights
 
 * 1/day each: darkness, faerie fire (save DC 12)
 
-***Spellcasting.*** Nezznar is a 4th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13; +5 to hit with spell attacks). Nezznar has the following spells prepared from the wizard's spell list: 
+***Spellcasting.*** Nezznar is a 4th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13; +5 to hit with spell attacks). Nezznar has the following spells prepared from the wizard's spell list:
 
 * Cantrips (at will): mage hand, ray of frost, shocking grasp
 

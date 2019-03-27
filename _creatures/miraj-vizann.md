@@ -24,11 +24,11 @@ tags: [medium, humanoid, cr6, elemental-evil]
 
 ***Earth Walk.*** Moving through difficult terrain made of earth or stone costs Miraj no extra movement.
 
-***Innate Spellcasting.*** Miraj's innate spellcasting ability is Constitution (spell save DC 14). He can innately cast the following spell, requiring no material components: 
+***Innate Spellcasting.*** Miraj's innate spellcasting ability is Constitution (spell save DC 14). He can innately cast the following spell, requiring no material components:
 
 * 1/day: pass without trace
 
-***Spellcasting.*** Miraj is an 11th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He knows the following sorcerer spells: 
+***Spellcasting.*** Miraj is an 11th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He knows the following sorcerer spells:
 
 * Cantrips (at will): acid splash, blade ward, friends, light, message, mold earth
 

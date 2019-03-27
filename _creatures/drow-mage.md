@@ -26,13 +26,13 @@ tags: [medium, humanoid, cr7, monster-manual]
 
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
-***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
 
 At will: dancing lights
 
 1/day each: darkness, faerie fire, levitate (self only)
 
-***Spellcasting.*** The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The drow has the following wizard spells prepared: 
+***Spellcasting.*** The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The drow has the following wizard spells prepared:
 
 * Cantrips (at will): mage hand, minor illusion, poison spray, ray of frost
 

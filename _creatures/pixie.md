@@ -24,7 +24,7 @@ tags: [tiny, fey, cr1/4, monster-manual]
 
 ***Magic Resistance.*** The pixie has advantage on saving throws against spells and other magical effects.
 
-***Innate Spellcasting.*** The pixie's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring only its pixie dust as a component: 
+***Innate Spellcasting.*** The pixie's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring only its pixie dust as a component:
 
 At will: druidcraft
 

@@ -28,7 +28,7 @@ While in serpent form, the fathomer gains a swimming speed of 40 feet, the abili
 
 ***Olhydra's Armor (Human Form Only).*** The fathomer can cast mage armor at will, without expending material components.
 
-***Spellcasting (Human Form Only).*** The fathomer is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has two 3rd-level spell slots, which it regains after finishing a short or long rest, and knows the following warlock spells: 
+***Spellcasting (Human Form Only).*** The fathomer is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has two 3rd-level spell slots, which it regains after finishing a short or long rest, and knows the following warlock spells:
 
 * Cantrips (at will): chill touch, eldritch blast, mage hand
 

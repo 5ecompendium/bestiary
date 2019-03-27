@@ -22,7 +22,7 @@ tags: [medium, humanoid, cr3, elemental-evil]
 
 **Challenge** 3 (700 XP)
 
-***Spellcasting.*** The Skyweaver is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells: 
+***Spellcasting.*** The Skyweaver is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
 * Cantrips (at will): blade ward, light, message, ray of frost, shocking grasp
 

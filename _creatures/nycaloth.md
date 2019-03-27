@@ -30,7 +30,7 @@ tags: [large, fiend, cr9, monster-manual]
 
 **Challenge** 9 (5,000 XP)
 
-***Innate Spellcasting.*** The nycaloth's innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The nycaloth's innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components:
 
 At will: darkness, detect magic, dispel magic, invisibility (self only), mirror image
 

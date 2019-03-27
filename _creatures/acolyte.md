@@ -22,7 +22,7 @@ tags: [medium, humanoid, cr1/4, monster-manual]
 
 **Challenge** 1/4 (50 XP)
 
-***Spellcasting.*** The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared: 
+***Spellcasting.*** The acolyte is a 1st-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The acolyte has following cleric spells prepared:
 
 * Cantrips (at will): light, sacred flame, thaumaturgy
 

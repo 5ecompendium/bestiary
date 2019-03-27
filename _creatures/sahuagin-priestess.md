@@ -30,7 +30,7 @@ tags: [medium, humanoid, cr2, monster-manual]
 
 ***Shark Telepathy.*** The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
 
-***Spellcasting.*** The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared: 
+***Spellcasting.*** The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
 
 * Cantrips (at will): guidance, thaumaturgy
 

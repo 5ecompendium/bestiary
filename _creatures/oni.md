@@ -26,7 +26,7 @@ tags: [large, giant, cr7, monster-manual]
 
 **Challenge** 7 (2,900 XP)
 
-***Innate Spellcasting.*** The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:
 
 At will: darkness, invisibility
 

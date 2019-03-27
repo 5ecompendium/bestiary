@@ -38,7 +38,7 @@ tags: [medium, fiend, cr10, monster-manual]
 
 ***Spider Climb.*** The yochlol can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-***Innate Spellcasting.*** The yochlol's spellcasting ability is Charisma (spell save DC 14). The yochlol can innately cast the following spells, requiring no material components: 
+***Innate Spellcasting.*** The yochlol's spellcasting ability is Charisma (spell save DC 14). The yochlol can innately cast the following spells, requiring no material components:
 
 At will: detect thoughts, web
 
