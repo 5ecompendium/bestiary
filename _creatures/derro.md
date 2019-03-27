@@ -1,30 +1,29 @@
 ---
 layout: creature
-name: "Derro"
-tags: [small, humanoid, cr1/4, out-of-the-abyss]
+title: "Derro"
+tags: [small, humanoid, cr1/4, mordenkainens-tome-of-foes]
+page_number: 158
 ---
 
 **Small humanoid (derro), chaotic evil**
 
 **Armor Class** 13 (leather armor)
 
-**Hit Points** 13 (3d6+3)
+**Hit Points** 13  (3d6 + 3)
 
 **Speed** 30 ft.
 
 |   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 9 (-1) | 14 (+2) | 12 (+1) | 11 (0) | 5 (-3) | 9 (-1) |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| 10 (0) | 14 (+2) | 12 (+1) | 11 (0) | 5 (-2) | 9 (0) |
 
 **Skills** Stealth +4
 
-**Senses** darkvision 120 ft.
+**Senses** darkvision 120 ft., passive Perception 7
 
 **Languages** Dwarvish, Undercommon
 
 **Challenge** 1/4 (50 XP)
-
-***Insanity.*** The derro has advantage on saving throws against being charmed or frightened.
 
 ***Magic Resistance.*** The derro has advantage on saving throws against spells and other magical effects.
 
@@ -32,7 +31,6 @@ tags: [small, humanoid, cr1/4, out-of-the-abyss]
 
 **Actions**
 
-***Hooked Shortspear.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 (1d4-1) piercing damage. If the target is a creature, the derro can choose to deal no damage and try to trip the target instead, in which case the target must succeed on a DC 9 Strength saving throw or fall prone.
+***Hooked Spear*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage. If the target is Medium or smaller, the derro can choose to deal no damage and knock it prone.
 
-***Light Repeating Crossbow.*** Ranged Weapon Attack: +4 to hit, range 40/160 ft., one target. Hit: 6 (1d8+2) piercing damage.
-
+***Light Crossbow*** Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
