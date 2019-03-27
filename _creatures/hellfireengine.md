@@ -29,7 +29,7 @@ page_number: 165
 
 **Languages** understands Infernal but can't speak
 
-**Challenge** 16 (15000 XP)
+**Challenge** 16 (15,000 XP)
 
 ***Immutable Form.*** The hellfire engine is immune to any spell or effect that would alter its form.
 

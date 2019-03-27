@@ -27,7 +27,7 @@ page_number: 224
 
 **Languages** Common, Elvish
 
-**Challenge** 9 (5000 XP)
+**Challenge** 9 (5,000 XP)
 
 ***Burden of Time.*** Beasts and humanoids, other than shadar-kai, have disadvantage on saving throws while within 10 feet of the gloom weaver.
 

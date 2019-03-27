@@ -23,7 +23,7 @@ page_number: 232
 
 **Languages** Common
 
-**Challenge** 9 (5000 XP)
+**Challenge** 9 (5,000 XP)
 
 ***Psychic Leech.*** At the start of each of the Lonely's turns, each creature within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6) psychic damage.
 

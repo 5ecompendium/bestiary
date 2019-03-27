@@ -29,7 +29,7 @@ page_number: 239
 
 **Languages** understands Modron and the language of its owner but can't speak
 
-**Challenge** 16 (15000 XP)
+**Challenge** 16 (15,000 XP)
 
 ***Innate Spellcasting.*** The steel predator's innate spellcasting ability is Wisdom. The steel predator can innately cast the following spells, requiring no components:
 3/day each: dimension door (self only), plane shift (self only)

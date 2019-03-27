@@ -31,7 +31,7 @@ page_number: 175
 
 **Languages** all, telepathy 120 ft.
 
-**Challenge** 21 (33000 XP)
+**Challenge** 21 (33,000 XP)
 
 ***Infernal Despair.*** Each creature within 15 feet of Hutijin that isn't a devil makes saving throws with disadvantage.
 

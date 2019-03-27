@@ -27,7 +27,7 @@ page_number: 186
 
 **Languages** Elvish, Undercommon
 
-**Challenge** 20 (25000 XP)
+**Challenge** 20 (25,000 XP)
 
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 

@@ -31,7 +31,7 @@ page_number: 213
 
 **Languages** all but rarely speaks
 
-**Challenge** 25 (75000 XP)
+**Challenge** 25 (75,000 XP)
 
 ***Immutable Form.*** The marut is immune to any spell or effect that would alter its form.
 

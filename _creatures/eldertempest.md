@@ -29,7 +29,7 @@ page_number: 200
 
 **Languages** -
 
-**Challenge** 23 (50000 XP)
+**Challenge** 23 (50,000 XP)
 
 ***Air Form.*** The tempest can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 

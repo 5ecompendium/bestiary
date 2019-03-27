@@ -25,7 +25,7 @@ page_number: 184
 
 **Languages** Elvish, Undercommon
 
-**Challenge** 9 (5000 XP)
+**Challenge** 9 (5,000 XP)
 
 ***Battle Command.*** As a bonus action, the drow targets one ally he can see within 30 feet of him. If the target can see or hear the drow, the target can use its reaction to make one melee attack or to take the Dodge or Hide action.
 

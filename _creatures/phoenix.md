@@ -29,7 +29,7 @@ page_number: 199
 
 **Languages** -
 
-**Challenge** 16 (15000 XP)
+**Challenge** 16 (15,000 XP)
 
 ***Fiery Death and Rebirth.*** When the phoenix dies, it explodes. Each creature within 60-feet of it must make a DC 20 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't worn or carried.
 The explosion destroys the phoenix's body and leaves behind an egg-shaped cinder that weighs 5 pounds. The cinder is blazing hot, dealing 21 (6d6) fire damage to any creature that touches it, though no more than once per round. The cinder is immune to all damage, and after 1d6 days, it hatches a new phoenix.

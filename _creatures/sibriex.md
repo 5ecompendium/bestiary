@@ -31,7 +31,7 @@ page_number: 137
 
 **Languages** all, telepathy 120 ft.
 
-**Challenge** 18 (20000 XP)
+**Challenge** 18 (20,000 XP)
 
 ***Contamination.*** The sibriex emits an aura of corruption 30 feet in every direction. Plants that aren't creatures wither in the aura, and the ground in it is difficult terrain for other creatures. Any creature that starts its turn in the aura must succeed on a DC 20 Constitution saving throw or take 14 (4d6) poison damage. A creature that succeeds on the save is immune to this sibriex's Contamination for 24 hours.
 

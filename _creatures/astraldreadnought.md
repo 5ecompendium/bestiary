@@ -29,7 +29,7 @@ page_number: 117
 
 **Languages** -
 
-**Challenge** 21 (33000 XP)
+**Challenge** 21 (33,000 XP)
 
 ***Antimagic Cone.*** The astral dreadnought's opened eye creates an area of antimagic, as in the antimagic field spell, in a 150foot cone. At the start of each of its turns, the dreadnought decides which way the cone faces. The cone doesn't function while the dreadnought's eye is closed or while the dreadnought is blinded.
 

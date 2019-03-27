@@ -29,7 +29,7 @@ page_number: 139
 
 **Languages** Abyssal, telepathy 120 ft.
 
-**Challenge** 13 (10000 XP)
+**Challenge** 13 (10,000 XP)
 
 ***Amphibious.*** The wastrilith can breathe air and water.
 

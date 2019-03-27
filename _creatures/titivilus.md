@@ -31,7 +31,7 @@ page_number: 179
 
 **Languages** all, telepathy 120 ft.
 
-**Challenge** 16 (15000 XP)
+**Challenge** 16 (15,000 XP)
 
 ***Innate Spellcasting.*** Titivilus's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
 * At will: alter self, animate dead, bestow curse, confusion, major image, modify memory, nondetection, sending, suggestion

@@ -29,7 +29,7 @@ page_number: 243
 
 **Languages** Giant
 
-**Challenge** 13 (10000 XP)
+**Challenge** 13 (10,000 XP)
 
 ***Keen Senses.*** The troll has advantage on Wisdom (Perception) checks that rely on smell or sight.
 

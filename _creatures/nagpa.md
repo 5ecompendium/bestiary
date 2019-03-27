@@ -25,7 +25,7 @@ page_number: 215
 
 **Languages** Common plus up to five other languages
 
-**Challenge** 17 (18000 XP)
+**Challenge** 17 (18,000 XP)
 
 ***Corruption.*** As a bonus action, the nagpa targets one creature it can see within 90 feet of it. The target must make a DC 20 Charisma saving throw. An evil creature makes the save with disadvantage. On a failed save, the target is charmed by the nagpa until the start of the nagpa's next turn. On a successful save, the target becomes immune to the nagpa's Corruption for the next 24 hours.
 

@@ -29,7 +29,7 @@ page_number: 230
 
 **Languages** all the languages it knew in life
 
-**Challenge** 15 (13000 XP)
+**Challenge** 15 (13,000 XP)
 
 ***Legendary Resistance (3/Day).*** If the skull lord fails a saving throw, it can choose to succeed instead.
 

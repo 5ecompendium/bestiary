@@ -31,7 +31,7 @@ page_number: 146
 
 **Languages** all, telepathy 120 ft.
 
-**Challenge** 23 (50000 XP)
+**Challenge** 23 (50,000 XP)
 
 ***Innate Spellcasting.*** Fraz-Urb'luu's spellcasting ability is Charisma. Fraz-Urb'luu can innately cast the following spells, requiring no material components:
 * At will: alter self (can become Medium when changing his appearance), detect magic, dispel magic, phantasmal force

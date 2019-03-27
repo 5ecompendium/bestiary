@@ -31,7 +31,7 @@ page_number: 235
 
 **Languages** Deep Speech
 
-**Challenge** 16 (15000 XP)
+**Challenge** 16 (15,000 XP)
 
 ***Innate Spellcasting.*** The larva mage's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 * At will: eldritch blast (3 beams, +3 bonus to each damage roll), minor illusion

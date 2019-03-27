@@ -31,7 +31,7 @@ page_number: 164
 
 **Languages** Common, Infernal, telepathy 1,000 ft.
 
-**Challenge** 18 (20000 XP)
+**Challenge** 18 (20,000 XP)
 
 ***Devil's Sight.*** Magical darkness doesn't impede the amnizu's darkvision.
 

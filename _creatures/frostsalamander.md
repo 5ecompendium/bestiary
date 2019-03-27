@@ -27,7 +27,7 @@ page_number: 223
 
 **Languages** Primordial
 
-**Challenge** 9 (5000 XP)
+**Challenge** 9 (5,000 XP)
 
 ***Burning Fury.*** When the salamander takes fire damage, its Freezing Breath automatically recharges.
 

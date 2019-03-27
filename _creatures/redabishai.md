@@ -31,7 +31,7 @@ page_number: 160
 
 **Languages** Draconic, Infernal, telepathy 120 ft.
 
-**Challenge** 19 (22000 XP)
+**Challenge** 19 (22,000 XP)
 
 ***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
 

@@ -29,7 +29,7 @@ page_number: 198
 
 **Languages** -
 
-**Challenge** 20 (25000 XP)
+**Challenge** 20 (25,000 XP)
 
 ***Legendary Resistance (3/Day).*** If the leviathan fails a saving throw, it can choose to succeed instead.
 

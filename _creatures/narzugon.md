@@ -31,7 +31,7 @@ page_number: 167
 
 **Languages** Common, Infernal, telepathy 120 ft.
 
-**Challenge** 13 (10000 XP)
+**Challenge** 13 (10,000 XP)
 
 ***Diabolical Sense.*** The narzugon has advantage on Wisdom (Perception) checks made to perceive good-aligned creatures.
 

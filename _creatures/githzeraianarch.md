@@ -25,7 +25,7 @@ page_number: 207
 
 **Languages** Gith
 
-**Challenge** 16 (15000 XP)
+**Challenge** 16 (15,000 XP)
 
 ***Innate Spellcasting (Psionics).*** The anarch's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
 * At will: mage hand (the hand is invisible)

@@ -25,7 +25,7 @@ page_number: 244
 
 **Languages** Giant
 
-**Challenge** 9 (5000 XP)
+**Challenge** 9 (5,000 XP)
 
 ***Rancid Degeneration.*** At the end of each of the troll's turns, each creature within 5 feet of it takes 11 (2d10) necrotic damage, unless the troll has taken acid or fire damage since the end of its last turn.
 

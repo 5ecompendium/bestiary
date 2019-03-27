@@ -31,7 +31,7 @@ page_number: 177
 
 **Languages** all, telepathy 120 ft.
 
-**Challenge** 21 (33000 XP)
+**Challenge** 21 (33,000 XP)
 
 ***Innate Spellcasting.*** Moloch's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
 * At will: alter self (can become Medium when changing his appearance), animate dead, burning hands (as a 7th-level spell), confusion, detect magic, fly, geas, major image, stinking cloud, suggestion, wall of fire

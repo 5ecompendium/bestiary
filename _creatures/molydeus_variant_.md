@@ -31,7 +31,7 @@ page_number: 134
 
 **Languages** Abyssal, telepathy 120 ft.
 
-**Challenge** 21 (33000 XP)
+**Challenge** 21 (33,000 XP)
 
 ***Innate Spellcasting.*** The molydeus's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 * At will: dispel magic, polymorph, telekinesis, teleport

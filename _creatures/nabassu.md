@@ -31,7 +31,7 @@ page_number: 135
 
 **Languages** Abyssal, telepathy 120 ft.
 
-**Challenge** 15 (13000 XP)
+**Challenge** 15 (13,000 XP)
 
 ***Demonic Shadows.*** The nabassu darkens the area around its body in a 10-foot radius. Nonmagical light can't illuminate this area of dim light.
 

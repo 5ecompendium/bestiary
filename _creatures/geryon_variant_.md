@@ -31,7 +31,7 @@ page_number: 173
 
 **Languages** all, telepathy 120 ft.
 
-**Challenge** 22 (41000 XP)
+**Challenge** 22 (41,000 XP)
 
 ***Innate Spellcasting.*** Geryon's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
 * At will: alter self (can become Medium when changing his appearance), detect magic, geas, ice storm, invisibility (self only), locate object, suggestion, wall of ice

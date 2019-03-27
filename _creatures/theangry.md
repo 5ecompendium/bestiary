@@ -25,7 +25,7 @@ page_number: 231
 
 **Languages** Common
 
-**Challenge** 13 (10000 XP)
+**Challenge** 13 (10,000 XP)
 
 ***Two Heads.*** The Angry has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
 

@@ -29,7 +29,7 @@ page_number: 249
 
 **Languages** Abyssal, Infernal, telepathy 60 ft.
 
-**Challenge** 9 (5000 XP)
+**Challenge** 9 (5,000 XP)
 
 ***Amphibious.*** The hydroloth can breathe air and water.
 

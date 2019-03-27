@@ -31,7 +31,7 @@ page_number: 149
 
 **Languages** all, telepathy 120 ft.
 
-**Challenge** 24 (62000 XP)
+**Challenge** 24 (62,000 XP)
 
 ***Shapechanger.*** Graz'zt can use his action to polymorph into a form that resembles a Medium humanoid, or back into his true form. Aside from his size, his statistics are the same in each form. Any equipment he is wearing or carrying isn't transformed.
 

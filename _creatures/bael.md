@@ -31,7 +31,7 @@ page_number: 170
 
 **Languages** all, telepathy 120 ft.
 
-**Challenge** 19 (22000 XP)
+**Challenge** 19 (22,000 XP)
 
 ***Dreadful.*** Bael can use a bonus action to appear dreadful until the start of his next turn. Each creature, other than a devil, that starts its turn within 10 feet of Bael must succeed on a DC 22 Wisdom saving throw or be frightened until the start of the creature's next turn.
 
