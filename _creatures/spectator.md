@@ -2,31 +2,26 @@
 layout: creature
 name: "Spectator"
 tags: [medium, aberration, cr3, monster-manual]
+cha: 11 (0)
+wis: 14 (+2)
+int: 13 (+1)
+con: 14 (+2)
+dex: 14 (+2)
+str: 8 (-1)
+size: Medium aberration
+alignment: lawful neutral
+challenge: "3 (700 XP)"
+languages: "Deep Speech, Undercommon, telepathy 120 ft."
+senses: "darkvision 120 ft."
+skills: "Perception +6"
+speed: "0 ft., fly 30 ft. (hover)"
+hit_points: "39 (6d8+12)"
+armor_class: "14 (natural armor)"
 ---
-
-**Medium aberration, lawful neutral**
-
-**Armor Class** 14 (natural armor)
-
-**Hit Points** 39 (6d8+12)
-
-**Speed** 0 ft., fly 30 ft. (hover)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 8 (-1) | 14 (+2) | 14 (+2) | 13 (+1) | 14 (+2) | 11 (0) |
-
-**Skills** Perception +6
 
 **Condition Immunities** prone
 
-**Senses** darkvision 120 ft.
-
-**Languages** Deep Speech, Undercommon, telepathy 120 ft.
-
-**Challenge** 3 (700 XP)
-
-**Actions**
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6 - 1) piercing damage.
 
@@ -42,7 +37,6 @@ tags: [medium, aberration, cr3, monster-manual]
 
 ***Create Food and Water.*** The spectator magically creates enough food and water to sustain itself for 24 hours.
 
-**Reactions**
+### Reactions
 
 ***Spell Reflection.*** If the spectator makes a successful saving throw against a spell, or a spell attack misses it, the spectator can choose another creature (including the spellcaster) it can see within 30 ft. of it. The spell targets the chosen creature instead of the spectator. If the spell forced a saving throw, the chosen creature makes its own save. If the spell was an attack, the attack roll is rerolled against the chosen creature.
-

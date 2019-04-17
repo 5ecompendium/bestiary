@@ -2,27 +2,22 @@
 layout: creature
 name: "Kuo-Toa Archpriest"
 tags: [medium, humanoid, cr6, monster-manual]
+cha: 14 (+2)
+wis: 16 (+3)
+int: 13 (+1)
+con: 16 (+3)
+dex: 14 (+2)
+str: 16 (+3)
+size: Medium humanoid (kuo-toa)
+alignment: neutral evil
+challenge: "6 (2,300 XP)"
+languages: "Undercommon"
+senses: "darkvision 120 ft."
+skills: "Perception +9, Religion +6"
+speed: "31 ft., swim 30 ft."
+hit_points: "97 (13d8+39)"
+armor_class: "13 (natural armor)"
 ---
-
-**Medium humanoid (kuo-toa), neutral evil**
-
-**Armor Class** 13 (natural armor)
-
-**Hit Points** 97 (13d8+39)
-
-**Speed** 31 ft., swim 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 16 (+3) | 14 (+2) | 16 (+3) | 13 (+1) | 16 (+3) | 14 (+2) |
-
-**Skills** Perception +9, Religion +6
-
-**Senses** darkvision 120 ft.
-
-**Languages** Undercommon
-
-**Challenge** 6 (2,300 XP)
 
 ***Amphibious.*** The kuo-toa can breathe air and water.
 
@@ -46,11 +41,10 @@ tags: [medium, humanoid, cr6, monster-manual]
 
 * 5th level (2 slots): mass cure wounds, scrying
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The kuo-toa makes two melee attacks.
 
 ***Scepter.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 14 (4d6) lightning damage.
 
 ***Unarmed Strike.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) bludgeoning damage.
-

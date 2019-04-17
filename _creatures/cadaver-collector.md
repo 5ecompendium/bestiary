@@ -3,35 +3,30 @@ layout: creature
 name: "Cadaver Collector"
 tags: [large, construct, cr14, mordenkainens-tome-of-foes]
 page_number: 122
+cha: 8 (-1)
+wis: 11 (0)
+int: 5 (-2)
+con: 20 (+5)
+dex: 14 (+2)
+str: 21 (+5)
+size: Large construct
+alignment: lawful evil
+challenge: "14 (11500 XP)"
+languages: "understands all languages but can't speak"
+senses: "darkvision 60 ft., passive Perception 10"
+damage_immunities: "necrotic, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
+speed: "30 ft."
+hit_points: "189  (18d10 + 90)"
+armor_class: "17 (natural armor)"
 ---
 
-**Large construct, lawful evil**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 189  (18d10 + 90)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 21 (+5) | 14 (+2) | 20 (+5) | 5 (-2) | 11 (0) | 8 (-1) |
-
-**Damage Immunities** necrotic, poison, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
-
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-
-**Senses** darkvision 60 ft., passive Perception 10
-
-**Languages** understands all languages but can't speak
-
-**Challenge** 14 (11500 XP)
 
 ***Magic Resistance.*** The cadaver collector has advantage on saving throws against spells and other magical effects.
 
 ***Summon Specters (Recharges after a Short or Long Rest).*** As a bonus action, the cadaver collector calls up the enslaved spirits of those it has slain; 1d6 specters (without Sunlight Sensitivity) arise in unoccupied spaces within 15 feet of the cadaver collector. The specters act right after the cadaver collector on the same initiative count and fight until they're destroyed. They disappear when the cadaver collector is destroyed.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The cadaver collector makes two slam attacks.
 

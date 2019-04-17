@@ -2,27 +2,22 @@
 layout: creature
 name: "Kuo-Toa"
 tags: [medium, humanoid, cr1/4, monster-manual]
+cha: 8 (-1)
+wis: 10 (0)
+int: 11 (0)
+con: 11 (0)
+dex: 10 (0)
+str: 13 (+1)
+size: Medium humanoid (kuo-toa)
+alignment: neutral evil
+challenge: "1/4 (50 XP)"
+languages: "Undercommon"
+senses: "darkvision 120 ft."
+skills: "Perception +4"
+speed: "30 ft., swim 30 ft."
+hit_points: "18 (4d8)"
+armor_class: "13 (natural armor, shield)"
 ---
-
-**Medium humanoid (kuo-toa), neutral evil**
-
-**Armor Class** 13 (natural armor, shield)
-
-**Hit Points** 18 (4d8)
-
-**Speed** 30 ft., swim 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 13 (+1) | 10 (0) | 11 (0) | 11 (0) | 10 (0) | 8 (-1) |
-
-**Skills** Perception +4
-
-**Senses** darkvision 120 ft.
-
-**Languages** Undercommon
-
-**Challenge** 1/4 (50 XP)
 
 ***Amphibious.*** The kuo-toa can breathe air and water.
 
@@ -32,7 +27,7 @@ tags: [medium, humanoid, cr1/4, monster-manual]
 
 ***Sunlight Sensitivity.*** While in sunlight, the kuo-toa has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
 
@@ -40,7 +35,6 @@ tags: [medium, humanoid, cr1/4, monster-manual]
 
 ***Net.*** Ranged Weapon Attack: +3 to hit, range 5/15 ft., one Large or smaller creature. Hit: The target is restrained. A creature can use its action to make a DC 10 Strength check to free itself or another creature in a net, ending the effect on a success. Dealing 5 slashing damage to the net (AC 10) frees the target without harming it and destroys the net.
 
-**Reactions**
+### Reactions
 
 ***Sticky Shield.*** When a creature misses the kuo-toa with a melee weapon attack, the kuo-toa uses its sticky shield to catch the weapon. The attacker must succeed on a DC 11 Strength saving throw, or the weapon becomes stuck to the kuo-toa's shield. If the weapon's wielder can't or won't let go of the weapon, the wielder is grappled while the weapon is stuck. While stuck, the weapon can't be used. A creature can pull the weapon free by taking an action to make a DC 11 Strength check and succeeding.
-

@@ -2,33 +2,28 @@
 layout: creature
 name: "Wood Woad"
 tags: [medium, plant, cr5, volos-guide]
+cha: 8 (-1)
+wis: 13 (+1)
+int: 10 (0)
+con: 16 (+3)
+dex: 12 (+1)
+str: 18 (+4)
+size: Medium plant
+alignment: lawful neutral
+challenge: "5 (1,800 XP)"
+languages: "Sylvan"
+senses: "darkvision 60 ft."
+skills: "Athletics +7, Perception +4, Stealth +4"
+speed: "30 ft., climb 30 ft."
+hit_points: "75 (10d8+30)"
+armor_class: "18 (natural armor, shield)"
 ---
-
-**Medium plant, lawful neutral**
-
-**Armor Class** 18 (natural armor, shield)
-
-**Hit Points** 75 (10d8+30)
-
-**Speed** 30 ft., climb 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 12 (+1) | 16 (+3) | 10 (0) | 13 (+1) | 8 (-1) |
-
-**Skills** Athletics +7, Perception +4, Stealth +4
 
 **Damage Vulnerabilities** fire
 
 **Damage Resistances** bludgeoning, piercing
 
 **Condition Immunities** charmed, frightened
-
-**Senses** darkvision 60 ft.
-
-**Languages** Sylvan
-
-**Challenge** 5 (1,800 XP)
 
 ***Magic Club.*** In the wood woad's hand, its club is magical and deals 7 (3d4) extra damage (included in its attacks).
 
@@ -38,9 +33,8 @@ tags: [medium, plant, cr5, volos-guide]
 
 ***Tree Stride.*** Once on each of its turns, the wood woad can use 10 feet of its movement to step magically into one living tree within 5 feet of it and emerge from a second living tree within 60 feet of it that it can see, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The wood woad makes two attacks with its club.
 
 ***Club.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (4d4+4) bludgeoning damage.
-

@@ -3,31 +3,25 @@ layout: creature
 name: "Gray Render"
 tags: [large, monstrosity, cr12, mordenkainens-tome-of-foes]
 page_number: 209
+cha: 8 (-1)
+wis: 6 (-2)
+int: 3 (-3)
+con: 20 (+5)
+dex: 13 (+1)
+str: 19 (+4)
+size: Large monstrosity
+alignment: chaotic neutral
+challenge: "12 (8400 XP)"
+languages: "-"
+senses: "darkvision 60 ft., passive Perception 12"
+skills: "Perception +2"
+saving_throws: "Str +8, Con +9"
+speed: "30 ft."
+hit_points: "189  (18d10 + 90)"
+armor_class: "19 (natural armor)"
 ---
 
-**Large monstrosity, chaotic neutral**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 189  (18d10 + 90)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 19 (+4) | 13 (+1) | 20 (+5) | 3 (-3) | 6 (-2) | 8 (-1) |
-
-**Saving Throws** Str +8, Con +9
-
-**Skills** Perception +2
-
-**Senses** darkvision 60 ft., passive Perception 12
-
-**Languages** -
-
-**Challenge** 12 (8400 XP)
-
-**Actions**
+### Actions
 
 ***Multiattack*** The gray render makes three attacks: one with its bite and two with its claws.
 

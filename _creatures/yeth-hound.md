@@ -2,29 +2,25 @@
 layout: creature
 name: "Yeth Hound"
 tags: [large, fey, cr4, volos-guide]
+cha: 7 (-2)
+wis: 12 (+1)
+int: 5 (-3)
+con: 16 (+3)
+dex: 17 (+3)
+str: 18 (+4)
+size: Large fey
+alignment: neutral evil
+challenge: "4 (1,100 XP)"
+languages: "understands Common, Elvish, and Sylvan but can't speak"
+senses: "darkvision 60 ft."
+speed: "40 ft., fly 40 ft. (hover)"
+hit_points: "51 (6d10+18)"
+armor_class: "14 (natural armor)"
 ---
-
-**Large fey, neutral evil**
-
-**Armor Class** 14 (natural armor)
-
-**Hit Points** 51 (6d10+18)
-
-**Speed** 40 ft., fly 40 ft. (hover)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 17 (+3) | 16 (+3) | 5 (-3) | 12 (+1) | 7 (-2) |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
 
 **Condition Immunities** charmed, exhaustion, frightened
-
-**Senses** darkvision 60 ft.
-
-**Languages** understands Common, Elvish, and Sylvan but can't speak
-
-**Challenge** 4 (1,100 XP)
 
 ***Keen Hearing and Smell.*** The yeth hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
@@ -32,9 +28,8 @@ tags: [large, fey, cr4, volos-guide]
 
 ***Telepathic Bond.*** While the yeth hound is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically with each other.
 
-**Actions**
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6+4) piercing damage, plus 14 (4d6) psychic damage if the target is frightened.
 
 ***Baleful Baying.*** The yeth hound bays magically. Every enemy within 300 feet of the hound that can hear it must succeed on a DC 13 Wisdom saving throw or be frightened until the end of the hound's next turn or until the hound is incapacitated. A frightened target that starts its turn within 30 feet of the hound must use all its movement on that turn to get as far from the hound as possible, must finish the move before taking an action, and must take the most direct route, even if hazards lie that way. A target that successfully saves is immune to the baying of all yeth hounds for the next 24 hours.
-

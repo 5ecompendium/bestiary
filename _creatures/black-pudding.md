@@ -2,27 +2,23 @@
 layout: creature
 name: "Black Pudding"
 tags: [large, ooze, cr4, monster-manual]
+cha: 1 (-5)
+wis: 6 (-2)
+int: 1 (-5)
+con: 16 (+3)
+dex: 5 (-3)
+str: 16 (+3)
+size: Large ooze
+alignment: unaligned
+challenge: "4 (1,100 XP)"
+senses: "blindsight 60 ft. (blind beyond this radius)"
+damage_immunities: "acid, cold, lightning, slashing"
+speed: "20 ft., climb 20 ft."
+hit_points: "85 (10d10+30)"
+armor_class: "7"
 ---
 
-**Large ooze, unaligned**
-
-**Armor Class** 7
-
-**Hit Points** 85 (10d10+30)
-
-**Speed** 20 ft., climb 20 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 16 (+3) | 5 (-3) | 16 (+3) | 1 (-5) | 6 (-2) | 1 (-5) |
-
-**Damage Immunities** acid, cold, lightning, slashing
-
 **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
-
-**Senses** blindsight 60 ft. (blind beyond this radius)
-
-**Challenge** 4 (1,100 XP)
 
 ***Amorphous.*** The pudding can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -30,11 +26,10 @@ tags: [large, ooze, cr4, monster-manual]
 
 ***Spider Climb.*** The pudding can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-**Actions**
+### Actions
 
 ***Pseudopod.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage plus 18 (4d8) acid damage. In addition, nonmagical armor worn by the target is partly dissolved and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
 
-**Reactions**
+### Reactions
 
 ***Split.*** When a pudding that is Medium or larger is subjected to lightning or slashing damage, it splits into two new puddings if it has at least 10 hit points. Each new pudding has hit points equal to half the original pudding's, rounded down. New puddings are one size smaller than the original pudding.
-

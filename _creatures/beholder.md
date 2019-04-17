@@ -2,35 +2,29 @@
 layout: creature
 name: "Beholder"
 tags: [large, aberration, cr13, monster-manual]
+cha: 17 (+3)
+wis: 15 (+2)
+int: 17 (+3)
+con: 18 (+4)
+dex: 14 (+2)
+str: 10 (0)
+size: Large aberration
+alignment: lawful evil
+challenge: "13 (10,000 XP)"
+languages: "Deep Speech, Undercommon"
+senses: "darkvision 120 ft."
+skills: "Perception +12"
+saving_throws: "Int +8, Wis +7, Cha +8"
+speed: "0 ft., fly 20 ft. (hover)"
+hit_points: "180 (19d10+76)"
+armor_class: "18 (natural armor)"
 ---
-
-**Large aberration, lawful evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 180 (19d10+76)
-
-**Speed** 0 ft., fly 20 ft. (hover)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 10 (0) | 14 (+2) | 18 (+4) | 17 (+3) | 15 (+2) | 17 (+3) |
-
-**Saving Throws** Int +8, Wis +7, Cha +8
-
-**Skills** Perception +12
 
 **Condition Immunities** prone
 
-**Senses** darkvision 120 ft.
-
-**Languages** Deep Speech, Undercommon
-
-**Challenge** 13 (10,000 XP)
-
 ***Antimagic Cone.*** The beholder's central eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot cone. At the start of each of its turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays.
 
-**Actions**
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (4d6) piercing damage.
 
@@ -60,9 +54,8 @@ If the target is a Large or smaller nonmagical object or creation of magical for
 
 10. Death Ray. The targeted creature must succeed on a DC 16 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.
 
-**Legendary Actions**
+### Legendary Actions
 
 The beholder can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The beholder regains spent legendary actions at the start of its turn.
 
 ***Eye Ray.*** The beholder uses one random eye ray.
-

@@ -2,33 +2,26 @@
 layout: creature
 name: "Rezmir"
 tags: [medium, humanoid, cr7, tyranny-of-dragons]
+cha: 14 (+2)
+wis: 12 (+1)
+int: 15 (+2)
+con: 16 (+3)
+dex: 16 (+3)
+str: 18 (+4)
+size: Medium humanoid (half-black dragon)
+alignment: neutral evil
+challenge: "7 (2,900 XP)"
+languages: "Common, Draconic, Infernal, Giant, Netherese"
+senses: "blindsight 10 ft., darkvision 120 ft."
+skills: "Arcana +5, Stealth +9"
+damage_immunities: "acid"
+saving_throws: "Dex +6, Wis +4"
+speed: "30 ft."
+hit_points: "90 (12d8+36)"
+armor_class: "13 (15 with the Black Dragon Mask)"
 ---
 
-**Medium humanoid (half-black dragon), neutral evil**
-
-**Armor Class** 13 (15 with the Black Dragon Mask)
-
-**Hit Points** 90 (12d8+36)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 16 (+3) | 16 (+3) | 15 (+2) | 12 (+1) | 14 (+2) |
-
-**Saving Throws** Dex +6, Wis +4
-
-**Skills** Arcana +5, Stealth +9
-
-**Damage Immunities** acid
-
 **Condition Immunities** charmed, frightened
-
-**Senses** blindsight 10 ft., darkvision 120 ft.
-
-**Languages** Common, Draconic, Infernal, Giant, Netherese
-
-**Challenge** 7 (2,900 XP)
 
 ***Special Equipment.*** Rezmir has the Black Dragon Mask, Hazirawn, and an insignia of claws.
 
@@ -42,7 +35,7 @@ tags: [medium, humanoid, cr7, tyranny-of-dragons]
 
 ***Legendary Resistance (1/Day).*** If Rezmir fails a saving throw while wearing the Black Dragon Mask, she can choose to succeed instead.
 
-**Actions**
+### Actions
 
 ***Greatsword (Hazirawn).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 7 (2d6) necrotic damage. If the target is a creature, it can't regain hit points for 1 minute. The target can make a DC 15 Constitution saving throw at the end of each of its turns, ending this effect early on a success.
 
@@ -50,7 +43,7 @@ tags: [medium, humanoid, cr7, tyranny-of-dragons]
 
 ***Acid Breath (Recharge 5-6).*** Rezmir breathes acid in a 30-foot line that is 5 feet wide. Each creature in the line must make a DC 14 Dexterity saving throw, taking 22 (5d8) acid damage on a failed save, or half as much damage on a successful one.
 
-**Legendary Actions**
+### Legendary Actions
 
 The rezmir can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The rezmir regains spent legendary actions at the start of its turn.
 
@@ -61,4 +54,3 @@ A 15-foot radius of magical darkness extends from a point Rezmir can see within 
 ***Attack.*** Rezmir makes one melee attack.
 
 ***Hide.*** Rezmir takes the Hide action.
-

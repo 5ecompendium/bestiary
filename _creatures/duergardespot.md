@@ -3,31 +3,25 @@ layout: creature
 name: "Duergar Despot"
 tags: [medium, humanoid, cr12, mordenkainens-tome-of-foes]
 page_number: 188
+cha: 13 (+1)
+wis: 14 (+2)
+int: 15 (+2)
+con: 19 (+4)
+dex: 5 (-2)
+str: 20 (+5)
+size: Medium humanoid (dwarf)
+alignment: lawful evil
+challenge: "12 (8400 XP)"
+languages: "Dwarvish, Undercommon"
+senses: "darkvision 120 ft., passive Perception 12"
+damage_immunities: "poison"
+saving_throws: "Con +8, Wis +6"
+speed: "25 ft."
+hit_points: "119  (14d8 + 56)"
+armor_class: "21 (natural armor)"
 ---
 
-**Medium humanoid (dwarf), lawful evil**
-
-**Armor Class** 21 (natural armor)
-
-**Hit Points** 119  (14d8 + 56)
-
-**Speed** 25 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 20 (+5) | 5 (-2) | 19 (+4) | 15 (+2) | 14 (+2) | 13 (+1) |
-
-**Saving Throws** Con +8, Wis +6
-
-**Damage Immunities** poison
-
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
-
-**Senses** darkvision 120 ft., passive Perception 12
-
-**Languages** Dwarvish, Undercommon
-
-**Challenge** 12 (8400 XP)
 
 ***Innate Spellcasting (Psionics).*** The duergar despot's innate spellcasting ability is Intelligence. It can cast the following spells, requiring no components:
 * At will: mage hand, minor illusion
@@ -39,7 +33,7 @@ page_number: 188
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar despot has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The despot makes two iron fist attacks and two stomping foot attacks. It can replace up to four of these attacks with uses of its Flame Jet.
 

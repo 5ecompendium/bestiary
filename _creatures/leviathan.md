@@ -3,33 +3,27 @@ layout: creature
 name: "Leviathan"
 tags: [gargantuan, elemental, cr20, mordenkainens-tome-of-foes]
 page_number: 198
+cha: 17 (+3)
+wis: 18 (+4)
+int: 2 (-4)
+con: 30 (+10)
+dex: 24 (+7)
+str: 30 (+10)
+size: Gargantuan elemental
+alignment: neutral
+challenge: "20 (25,000 XP)"
+languages: "-"
+senses: "darkvision 60 ft., passive Perception 14"
+damage_immunities: "acid, poison"
+saving_throws: "Wis +10, Cha +9"
+speed: "40 ft., swim 120 ft."
+hit_points: "328  (16d20 + 160)"
+armor_class: "17"
 ---
-
-**Gargantuan elemental, neutral**
-
-**Armor Class** 17
-
-**Hit Points** 328  (16d20 + 160)
-
-**Speed** 40 ft., swim 120 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 30 (+10) | 24 (+7) | 30 (+10) | 2 (-4) | 18 (+4) | 17 (+3) |
-
-**Saving Throws** Wis +10, Cha +9
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** acid, poison
-
 **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
-
-**Senses** darkvision 60 ft., passive Perception 14
-
-**Languages** -
-
-**Challenge** 20 (25,000 XP)
 
 ***Legendary Resistance (3/Day).*** If the leviathan fails a saving throw, it can choose to succeed instead.
 
@@ -39,7 +33,7 @@ page_number: 198
 
 ***Water Form.*** The leviathan can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The leviathan makes two attacks: one with its slam and one with its tail.
 
@@ -51,7 +45,7 @@ page_number: 198
 At the start of each of the leviathan's turns after the wall appears, the wall, along with any other creatures in it, moves 50 feet away from the leviathan. Any Huge or smaller creature inside the wall or whose space the wall enters when it moves must succeed on a DC 24 Strength saving throw or take 27 (5d10) bludgeoning damage. A creature takes this damage no more than once on a turn. At the end of each turn the wall moves, the wall's height is reduced by 50 feet, and the damage creatures take from the wall on subsequent rounds is reduced by 1d10. When the wall reaches 0 feet in height, the effect ends.
 A creature caught in the wall can move by swimming. Because of the force of the wave, though, the creature must make a successful DC 24 Strength (Athletics) check to swim at all during that turn.
 
-**Legendary Actions**
+### Legendary Actions
 
 The leviathan can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The leviathan regains spent legendary actions at the start of its turn.
 

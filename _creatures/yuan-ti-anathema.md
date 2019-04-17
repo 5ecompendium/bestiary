@@ -2,33 +2,27 @@
 layout: creature
 name: "Yuan-ti Anathema"
 tags: [huge, monstrosity, cr12, volos-guide]
+cha: 20 (+5)
+wis: 17 (+3)
+int: 19 (+4)
+con: 19 (+4)
+dex: 13 (+1)
+str: 23 (+6)
+size: Huge monstrosity (shapechanger
+alignment: yuan-ti)
+challenge: "12 (8,400 XP)"
+languages: "Abyssal, Common, Draconic"
+senses: "darkvision 60 ft."
+skills: "Perception +7, Stealth +5"
+damage_immunities: "poison"
+speed: "40 ft., climb 30 ft., swim 30 ft."
+hit_points: "189 (18d12+72)"
+armor_class: "16 (natural armor)"
 ---
-
-**Huge monstrosity (shapechanger, yuan-ti), neutral evil**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 189 (18d12+72)
-
-**Speed** 40 ft., climb 30 ft., swim 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 23 (+6) | 13 (+1) | 19 (+4) | 19 (+4) | 17 (+3) | 20 (+5) |
-
-**Skills** Perception +7, Stealth +5
 
 **Damage Resistances** acid, fire, lightning
 
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 60 ft.
-
-**Languages** Abyssal, Common, Draconic
-
-**Challenge** 12 (8,400 XP)
 
 ***Innate Spellcasting (Anathema Form Only).*** The anathema's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 
@@ -52,7 +46,7 @@ At will: animal friendship (snakes only)
 
 ***Variant: Shed Skin (1/Day).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
 
-**Actions**
+### Actions
 
 ***Multiattack (Anathema Form Only).*** The anathema makes two claw attacks, one constrict attack, and one Flurry of Bites attack.
 
@@ -61,4 +55,3 @@ At will: animal friendship (snakes only)
 ***Constrict.*** Melee Weapon Attack: +10 to hit, reach 15 ft., one Large or smaller creature. Hit: 16 (3d6+6) bludgeoning damage plus 7 (2d6) acid damage, and the target is grappled (escape DC 16). Until this grapple ends, the target is restrained and takes 16 (3d6+6) bludgeoning damage plus 7 (2d6) acid damage at the start of each of its turns, and the anathema can't constrict another target.
 
 ***Flurry of Bites.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one creature. Hit: 27 (6d6+6) piercing damage plus 14 (4d6) poison damage.
-

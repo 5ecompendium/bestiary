@@ -2,31 +2,25 @@
 layout: creature
 name: "Kraken"
 tags: [gargantuan, monstrosity, cr23, monster-manual]
+cha: 20 (+5)
+wis: 18 (+4)
+int: 22 (+6)
+con: 25 (+7)
+dex: 11 (0)
+str: 30 (+10)
+size: Gargantuan monstrosity (titan)
+alignment: chaotic evil
+challenge: "23 (50,000 XP)"
+languages: "understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft."
+senses: "truesight 120 ft."
+damage_immunities: "lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
+saving_throws: "Str +17, Dex +7, Con +14, Int +13, Wis +11"
+speed: "20 ft., swim 60 ft."
+hit_points: "472 (27d20+189)"
+armor_class: "18 (natural armor)"
 ---
 
-**Gargantuan monstrosity (titan), chaotic evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 472 (27d20+189)
-
-**Speed** 20 ft., swim 60 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 30 (+10) | 11 (0) | 25 (+7) | 22 (+6) | 18 (+4) | 20 (+5) |
-
-**Saving Throws** Str +17, Dex +7, Con +14, Int +13, Wis +11
-
-**Damage Immunities** lightning, bludgeoning, piercing, and slashing from nonmagical weapons
-
 **Condition Immunities** frightened, paralyzed
-
-**Senses** truesight 120 ft.
-
-**Languages** understands Abyssal, Celestial, Infernal, and Primordial but can't speak, telepathy 120 ft.
-
-**Challenge** 23 (50,000 XP)
 
 ***Amphibious.*** The kraken can breathe air and water.
 
@@ -34,7 +28,7 @@ tags: [gargantuan, monstrosity, cr23, monster-manual]
 
 ***Siege Monster.*** The kraken deals double damage to objects and structures.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The kraken makes three tentacle attacks, each of which it can replace with one use of Fling.
 
@@ -46,7 +40,7 @@ tags: [gargantuan, monstrosity, cr23, monster-manual]
 
 ***Lightning Storm.*** The kraken magically creates three bolts of lightning, each of which can strike a target the kraken can see within 120 feet of it. A target must make a DC 23 Dexterity saving throw, taking 22 (4d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-**Legendary Actions**
+### Legendary Actions
 
 The kraken can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The kraken regains spent legendary actions at the start of its turn.
 
@@ -55,4 +49,3 @@ The kraken can take 3 legendary actions, choosing from the options below. Only o
 ***Lightning Storm (Costs 2 Actions).*** The kraken uses Lightning Storm.
 
 ***Ink Cloud (Costs 3 Actions).*** While underwater, the kraken expels an ink cloud in a 60-foot radius. The cloud spreads around corners, and that area is heavily obscured to creatures other than the kraken. Each creature other than the kraken that ends its turn there must succeed on a DC 23 Constitution saving throw, taking 16 (3d10) poison damage on a failed save, or half as much damage on a successful one. A strong current disperses the cloud, which otherwise disappears at the end of the kraken's next turn.
-

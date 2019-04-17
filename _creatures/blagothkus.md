@@ -2,27 +2,22 @@
 layout: creature
 name: "Blagothkus"
 tags: [huge, giant, cr9, tyranny-of-dragons]
+cha: 15 (+2)
+wis: 15 (+2)
+int: 16 (+3)
+con: 20 (+5)
+dex: 13 (+1)
+str: 26 (+8)
+size: Huge giant (cloud giant)
+alignment: neutral evil
+challenge: "9 (5,000 XP)"
+languages: "Common, Draconic, Giant"
+skills: "Arcana +7, Insight +6, Intimidation +6, Perception +6"
+saving_throws: "Con +9, Wis +6, Cha +6"
+speed: "40 ft."
+hit_points: "138 (12d12+60)"
+armor_class: "17 (splint)"
 ---
-
-**Huge giant (cloud giant), neutral evil**
-
-**Armor Class** 17 (splint)
-
-**Hit Points** 138 (12d12+60)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 26 (+8) | 13 (+1) | 20 (+5) | 16 (+3) | 15 (+2) | 15 (+2) |
-
-**Saving Throws** Con +9, Wis +6, Cha +6
-
-**Skills** Arcana +7, Insight +6, Intimidation +6, Perception +6
-
-**Languages** Common, Draconic, Giant
-
-**Challenge** 9 (5,000 XP)
 
 ***Keen Smell.*** Blagothkus has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -40,9 +35,8 @@ tags: [huge, giant, cr9, tyranny-of-dragons]
 
 * 3rd level (2 slots): fly, lightning bolt
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Blagothkus attacks twice with his morningstar.
 
 ***Morningstar.*** Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) piercing damage.
-

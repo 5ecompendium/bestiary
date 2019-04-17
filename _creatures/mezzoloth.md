@@ -2,33 +2,27 @@
 layout: creature
 name: "Mezzoloth"
 tags: [medium, fiend, cr5, monster-manual]
+cha: 11 (0)
+wis: 10 (0)
+int: 7 (-2)
+con: 16 (+3)
+dex: 11 (0)
+str: 18 (+4)
+size: Medium fiend (yugoloth)
+alignment: neutral evil
+challenge: "5 (1,800 XP)"
+languages: "Abyssal, Infernal, telepathy 60 ft."
+senses: "blindsight 60 ft., darkvision 60 ft."
+skills: "Perception +3"
+damage_immunities: "acid, poison"
+speed: "40 ft."
+hit_points: "75 (10d8+30)"
+armor_class: "18 (natural armor)"
 ---
-
-**Medium fiend (yugoloth), neutral evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 75 (10d8+30)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 11 (0) | 16 (+3) | 7 (-2) | 10 (0) | 11 (0) |
-
-**Skills** Perception +3
 
 **Damage Resistances** cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
 
-**Damage Immunities** acid, poison
-
 **Condition Immunities** poisoned
-
-**Senses** blindsight 60 ft., darkvision 60 ft.
-
-**Languages** Abyssal, Infernal, telepathy 60 ft.
-
-**Challenge** 5 (1,800 XP)
 
 ***Innate Spellcasting.*** The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:
 
@@ -40,7 +34,7 @@ tags: [medium, fiend, cr5, monster-manual]
 
 ***Magic Weapons.*** The mezzoloth's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The mezzoloth makes two attacks: one with its claws and one with its trident.
 
@@ -55,4 +49,3 @@ tags: [medium, fiend, cr5, monster-manual]
 A mezzoloth has a 30 percent chance of summoning one mezzoloth.
 
 A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases, and can't summon other yugoloths. The summoned yugoloth remains for 1 minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it.
-

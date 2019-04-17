@@ -3,35 +3,28 @@ layout: creature
 name: "Geryon"
 tags: [huge, fiend, cr22, mordenkainens-tome-of-foes]
 page_number: 173
+cha: 23 (+6)
+wis: 16 (+3)
+int: 19 (+4)
+con: 22 (+6)
+dex: 17 (+3)
+str: 29 (+9)
+size: Huge fiend (devil)
+alignment: lawful evil
+challenge: "22 (41,000 XP)"
+languages: "all, telepathy 120 ft."
+senses: "truesight 120 ft., passive Perception 20"
+skills: "Deception +13, Intimidation +13, Perception +10"
+damage_immunities: "cold, fire, poison"
+saving_throws: "Dex +10, Con +13, Wis +10, Cha +13"
+speed: "30 ft., fly 50 ft."
+hit_points: "300  (24d12 + 144)"
+armor_class: "19 (natural armor)"
 ---
-
-**Huge fiend (devil), lawful evil**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 300  (24d12 + 144)
-
-**Speed** 30 ft., fly 50 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 29 (+9) | 17 (+3) | 22 (+6) | 19 (+4) | 16 (+3) | 23 (+6) |
-
-**Saving Throws** Dex +10, Con +13, Wis +10, Cha +13
-
-**Skills** Deception +13, Intimidation +13, Perception +10
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** cold, fire, poison
-
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
-
-**Senses** truesight 120 ft., passive Perception 20
-
-**Languages** all, telepathy 120 ft.
-
-**Challenge** 22 (41,000 XP)
 
 ***Innate Spellcasting.*** Geryon's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
 * At will: alter self (can become Medium when changing his appearance), detect magic, geas, ice storm, invisibility (self only), locate object, suggestion, wall of ice
@@ -45,7 +38,7 @@ page_number: 173
 
 ***Regeneration.*** Geryon regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Geryon dies only if he starts his turn with 0 hit points and doesn't regenerate.
 
-**Actions**
+### Actions
 
 ***Multiattack*** Geryon makes two attacks: one with his claws and one with his stinger.
 
@@ -55,7 +48,7 @@ page_number: 173
 
 ***Teleport*** Geryon magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 
-**Legendary Actions**
+### Legendary Actions
 
 Geryon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Geryon regains spent legendary actions at the start of his turn.
 

@@ -3,27 +3,22 @@ layout: creature
 name: "Rictavio"
 tags: [medium, humanoid, cr5, curse-of-strahd]
 page_number: 238
+cha: 16 (+3)
+wis: 18 (+4)
+int: 16 (+3)
+con: 13 (+1)
+dex: 12 (+1)
+str: 9 (-1)
+size: Medium humanoid (human)
+alignment: lawful good
+challenge: "5 (1,800 XP)"
+languages: "Abyssal, Common, Elvish, Infernal"
+skills: "Arcana +9, Insight +7, Medicine +7, Perception +7, Religion +6, Sleight of Hand +4"
+saving_throws: "Con +4, Wis +7"
+speed: "30 ft."
+hit_points: "77 (14d8+14)"
+armor_class: "12 (leather armor)"
 ---
-
-**Medium humanoid (human), lawful good**
-
-**Armor Class** 12 (leather armor)
-
-**Hit Points** 77 (14d8+14)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 9 (-1) | 12 (+1) | 13 (+1) | 16 (+3) | 18 (+4) | 16 (+3) |
-
-**Saving Throws** Con +4, Wis +7
-
-**Skills** Arcana +9, Insight +7, Medicine +7, Perception +7, Religion +6, Sleight of Hand +4
-
-**Languages** Abyssal, Common, Elvish, Infernal
-
-**Challenge** 5 (1,800 XP)
 
 ***Special Equipment.*** In addition to his sword cane, Rictavio wears a hat of disguise and a ring of mind shielding, and he carries a spell scroll of raise dead.
 
@@ -43,9 +38,8 @@ page_number: 238
 
 ***Undead Slayer.*** When Rictavio hits an undead with a weapon attack, the undead takes an extra 10 (3d6) damage of the weapon's type.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Rictavio makes two attacks with his sword cane.
 
 ***Sword Cane.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) bludgeoning damage (wooden cane) or piercing damage (silvered sword).
-

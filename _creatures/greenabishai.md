@@ -3,35 +3,28 @@ layout: creature
 name: "Green Abishai"
 tags: [medium, fiend, cr15, mordenkainens-tome-of-foes]
 page_number: 162
+cha: 19 (+4)
+wis: 12 (+1)
+int: 17 (+3)
+con: 16 (+3)
+dex: 17 (+3)
+str: 12 (+1)
+size: Medium fiend (devil)
+alignment: lawful evil
+challenge: "15 (13,000 XP)"
+languages: "Draconic, Infernal, telepathy 120 ft."
+senses: "darkvision 120 ft., passive Perception 16"
+skills: "Deception +9, Insight +6, Perception +6, Persuasion +9"
+damage_immunities: "fire, poison"
+saving_throws: "Int +8, Cha +9"
+speed: "30 ft., fly 40 ft."
+hit_points: "187  (25d8 + 75)"
+armor_class: "18 (natural armor)"
 ---
-
-**Medium fiend (devil), lawful evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 187  (25d8 + 75)
-
-**Speed** 30 ft., fly 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 12 (+1) | 17 (+3) | 16 (+3) | 17 (+3) | 12 (+1) | 19 (+4) |
-
-**Saving Throws** Int +8, Cha +9
-
-**Skills** Deception +9, Insight +6, Perception +6, Persuasion +9
 
 **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** fire, poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 120 ft., passive Perception 16
-
-**Languages** Draconic, Infernal, telepathy 120 ft.
-
-**Challenge** 15 (13,000 XP)
 
 ***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
 

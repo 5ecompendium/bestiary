@@ -3,31 +3,26 @@ layout: creature
 name: "The Lost"
 tags: [medium, monstrosity, cr7, mordenkainens-tome-of-foes]
 page_number: 233
+cha: 5 (-2)
+wis: 7 (-1)
+int: 6 (-2)
+con: 15 (+2)
+dex: 12 (+1)
+str: 17 (+3)
+size: Medium monstrosity
+alignment: neutral evil
+challenge: "7 (2900 XP)"
+languages: "Common"
+senses: "darkvision 60 ft., passive Perception 8"
+skills: "Athletics +6"
+speed: "30 ft."
+hit_points: "78  (12d8 + 24)"
+armor_class: "15 (natural armor)"
 ---
-
-**Medium monstrosity, neutral evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 78  (12d8 + 24)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 17 (+3) | 12 (+1) | 15 (+2) | 6 (-2) | 7 (-1) | 5 (-2) |
-
-**Skills** Athletics +6
 
 **Damage Resistances** bludgeoning, piercing, and slashing while in dim light or darkness
 
-**Senses** darkvision 60 ft., passive Perception 8
-
-**Languages** Common
-
-**Challenge** 7 (2900 XP)
-
-**Actions**
+### Actions
 
 ***Multiattack*** The Lost makes two arm spike attacks.
 

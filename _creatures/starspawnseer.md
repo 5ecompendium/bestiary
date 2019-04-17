@@ -3,39 +3,32 @@ layout: creature
 name: "Star Spawn Seer"
 tags: [medium, aberration, cr13, mordenkainens-tome-of-foes]
 page_number: 236
+cha: 16 (+3)
+wis: 19 (+4)
+int: 22 (+6)
+con: 18 (+4)
+dex: 12 (+1)
+str: 14 (+2)
+size: Medium aberration
+alignment: neutral evil
+challenge: "13 (10,000 XP)"
+languages: "Common, Deep Speech, Undercommon"
+senses: "darkvision 60 ft., passive Perception 19"
+skills: "Perception +9"
+damage_immunities: "psychic"
+saving_throws: "Dex +6, Int +11, Wis +9, Cha +8"
+speed: "30 ft."
+hit_points: "153  (18d8 + 72)"
+armor_class: "17 (natural armor)"
 ---
-
-**Medium aberration, neutral evil**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 153  (18d8 + 72)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 14 (+2) | 12 (+1) | 18 (+4) | 22 (+6) | 19 (+4) | 16 (+3) |
-
-**Saving Throws** Dex +6, Int +11, Wis +9, Cha +8
-
-**Skills** Perception +9
 
 **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** psychic
-
 **Condition Immunities** charmed, frightened
-
-**Senses** darkvision 60 ft., passive Perception 19
-
-**Languages** Common, Deep Speech, Undercommon
-
-**Challenge** 13 (10,000 XP)
 
 ***Out-of-Phase Movement.*** The seer can move through other creatures and objects as if they were difficult terrain. Each creature it moves through takes 5 (1d10) psychic damage; no creature can take this damage more than once per turn. The seer takes 5 (1d10) force damage if it ends its turn inside an object.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The seer makes two comet staff attacks or uses Psychic Orb twice.
 

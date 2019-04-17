@@ -2,31 +2,26 @@
 layout: creature
 name: "Kelpie"
 tags: [medium, plant, cr4, tales-from-the-yawning-portal]
+cha: 10 (0)
+wis: 12 (+1)
+int: 7 (-2)
+con: 16 (+3)
+dex: 14 (+2)
+str: 14 (+2)
+size: Medium plant
+alignment: neutral evil
+challenge: "4 (1,100 XP)"
+languages: "Common, Sylvan"
+senses: "blindsight 60 ft."
+skills: "Perception +3, Stealth +4"
+speed: "10 ft., swim 30 ft."
+hit_points: "67 (9d8+27)"
+armor_class: "14 (natural armor)"
 ---
-
-**Medium plant, neutral evil**
-
-**Armor Class** 14 (natural armor)
-
-**Hit Points** 67 (9d8+27)
-
-**Speed** 10 ft., swim 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 14 (+2) | 14 (+2) | 16 (+3) | 7 (-2) | 12 (+1) | 10 (0) |
-
-**Skills** Perception +3, Stealth +4
 
 **Damage Resistances** bludgeoning, fire, piercing
 
 **Condition Immunities** blinded, deafened, exhaustion
-
-**Senses** blindsight 60 ft.
-
-**Languages** Common, Sylvan
-
-**Challenge** 4 (1,100 XP)
 
 ***Source.*** tales from the yawning portal,  page 238
 
@@ -36,7 +31,7 @@ tags: [medium, plant, cr4, tales-from-the-yawning-portal]
 
 ***False Appearance.*** While the kelpie remains motionless in its true form, it is indistinguishable from normal seaweed.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The kelpie makes two slam attacks.
 
@@ -51,4 +46,3 @@ tags: [medium, plant, cr4, tales-from-the-yawning-portal]
 >Before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the kelpie or drowning, the target can repeat the saving throw. A charmed target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it.
 
 >A target that successfully saves is immune to this kelpie's hypnosis for the next 24 hours.
-

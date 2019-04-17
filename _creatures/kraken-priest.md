@@ -2,27 +2,23 @@
 layout: creature
 name: "Kraken Priest"
 tags: [medium, humanoid, cr5, volos-guide]
+cha: 14 (+2)
+wis: 15 (+2)
+int: 10 (0)
+con: 16 (+3)
+dex: 10 (0)
+str: 12 (+1)
+size: Medium humanoid (any race)
+alignment: any evil alignment
+challenge: "5 (1,800 XP)"
+languages: "any two languages"
+skills: "Perception +5"
+speed: "30 ft., swim 30 ft."
+hit_points: "75 (10d8+30)"
+armor_class: "10"
 ---
 
-**Medium humanoid (any race), any evil alignment**
-
-**Armor Class** 10
-
-**Hit Points** 75 (10d8+30)
-
-**Speed** 30 ft., swim 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 12 (+1) | 10 (0) | 16 (+3) | 10 (0) | 15 (+2) | 14 (+2) |
-
-**Skills** Perception +5
-
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Languages** any two languages
-
-**Challenge** 5 (1,800 XP)
 
 ***Amphibious.*** The priest can breathe air and water.
 
@@ -34,9 +30,8 @@ At will: command, create or destroy water
 
 1/day each: call lightning, Evard's black tentacles
 
-**Actions**
+### Actions
 
 ***Thunderous Touch.*** Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: 27 (5d10) thunder damage.
 
 ***Voice of the Kraken (Recharges after a Short or Long Rest).*** A kraken speaks through the priest with a thunderous voice audible within 300 feet. Creatures of the priest's choice that can hear the kraken's words (which are spoken in Abyssal, Infernal, or Primordial) must succeed on a DC 14 Charisma saving throw or be frightened for 1 minute. A frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-

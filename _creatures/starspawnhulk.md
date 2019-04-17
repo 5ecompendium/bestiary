@@ -3,37 +3,31 @@ layout: creature
 name: "Star Spawn Hulk"
 tags: [large, aberration, cr10, mordenkainens-tome-of-foes]
 page_number: 234
+cha: 9 (0)
+wis: 12 (+1)
+int: 7 (-1)
+con: 21 (+5)
+dex: 8 (-1)
+str: 20 (+5)
+size: Large aberration
+alignment: chaotic evil
+challenge: "10 (5900 XP)"
+languages: "Deep Speech"
+senses: "darkvision 60 ft., passive Perception 15"
+skills: "Perception +5"
+saving_throws: "Dex +3, Wis +5"
+speed: "30 ft."
+hit_points: "136  (13d10 + 65)"
+armor_class: "16 (natural armor)"
 ---
-
-**Large aberration, chaotic evil**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 136  (13d10 + 65)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 20 (+5) | 8 (-1) | 21 (+5) | 7 (-1) | 12 (+1) | 9 (0) |
-
-**Saving Throws** Dex +3, Wis +5
-
-**Skills** Perception +5
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
 **Condition Immunities** charmed, frightened
 
-**Senses** darkvision 60 ft., passive Perception 15
-
-**Languages** Deep Speech
-
-**Challenge** 10 (5900 XP)
-
 ***Psychic Mirror.*** If the hulk takes psychic damage, each creature within 10 feet of the hulk takes that damage instead; the hulk takes none of the damage. In addition, the hulk's thoughts and location can't be discerned by magic.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The hulk makes two slam attacks. If both attacks hit the same target, the target also takes 9 (2d8) psychic damage and must succeed on a DC 17 Constitution saving throw or be stunned until the end of the target's next turn.
 

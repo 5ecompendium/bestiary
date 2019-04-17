@@ -2,33 +2,26 @@
 layout: creature
 name: "Ancient Blue Dragon"
 tags: [gargantuan, dragon, cr23, monster-manual]
+cha: 21 (+5)
+wis: 17 (+3)
+int: 18 (+4)
+con: 27 (+8)
+dex: 10 (0)
+str: 29 (+9)
+size: Gargantuan dragon
+alignment: lawful evil
+challenge: "23 (50,000 XP)"
+languages: "Common, Draconic"
+senses: "blindsight 60 ft., darkvision 120 ft."
+skills: "Perception +17, Stealth +7"
+damage_immunities: "lightning"
+saving_throws: "Dex +7, Con +15, Wis +10, Cha +12"
+speed: "40 ft., burrow 40 ft., fly 80 ft."
+hit_points: "481 (26d20+208)"
+armor_class: "22 (natural armor)"
 ---
 
-**Gargantuan dragon, lawful evil**
-
-**Armor Class** 22 (natural armor)
-
-**Hit Points** 481 (26d20+208)
-
-**Speed** 40 ft., burrow 40 ft., fly 80 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 29 (+9) | 10 (0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
-
-**Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
-
-**Skills** Perception +17, Stealth +7
-
-**Damage Immunities** lightning
-
-**Senses** blindsight 60 ft., darkvision 120 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 23 (50,000 XP)
-
-**Actions**
+### Actions
 
 ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -42,7 +35,7 @@ tags: [gargantuan, dragon, cr23, monster-manual]
 
 ***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 23 Dexterity saving throw, taking 88 (16d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-**Legendary Actions**
+### Legendary Actions
 
 The ancient blue dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The ancient blue dragon regains spent legendary actions at the start of its turn.
 
@@ -51,4 +44,3 @@ The ancient blue dragon can take 3 legendary actions, choosing from the options 
 ***Tail Attack.*** The dragon makes a tail attack.
 
 ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-

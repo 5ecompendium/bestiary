@@ -3,31 +3,25 @@ layout: creature
 name: "Strahd Zombie"
 tags: [medium, undead, cr1, curse-of-strahd]
 page_number: 241
+cha: 5 (-3)
+wis: 6 (-2)
+int: 3 (-4)
+con: 16 (+3)
+dex: 6 (-2)
+str: 13 (+1)
+size: Medium undead
+alignment: unaligned
+challenge: "1 (200 XP)"
+languages: "understands the languages it knew in life but can't speak"
+senses: "darkvision 60 ft."
+damage_immunities: "poison"
+saving_throws: "Wis +0"
+speed: "20 ft."
+hit_points: "30 (4d8+12)"
+armor_class: "8"
 ---
 
-**Medium undead, unaligned**
-
-**Armor Class** 8
-
-**Hit Points** 30 (4d8+12)
-
-**Speed** 20 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 13 (+1) | 6 (-2) | 16 (+3) | 3 (-4) | 6 (-2) | 5 (-3) |
-
-**Saving Throws** Wis +0
-
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 60 ft.
-
-**Languages** understands the languages it knew in life but can't speak
-
-**Challenge** 1 (200 XP)
 
 ***Loathsome Limbs.*** Whenever the zombie takes at least 5 bludgeoning or slashing damage at one time, roll a d20 to determine what else happens to it:
 
@@ -47,11 +41,10 @@ page_number: 241
 
 >The zombie's speed is halved if it's missing a leg. If it loses both legs, it falls prone. If it has both arms, it can crawl. With only one arm, it can still crawl, but its speed is halved. With no arms or legs, its speed is 0, and it can't benefit from bonuses to speed.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The zombie makes three attacks: one with its bite and two with its claws.
 
 ***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) piercing damage.
 
 ***Claw.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) slashing damage.
-

@@ -3,35 +3,28 @@ layout: creature
 name: "Blue Abishai"
 tags: [medium, fiend, cr17, mordenkainens-tome-of-foes]
 page_number: 161
+cha: 18 (+4)
+wis: 23 (+6)
+int: 22 (+6)
+con: 17 (+3)
+dex: 14 (+2)
+str: 15 (+2)
+size: Medium fiend (devil)
+alignment: lawful evil
+challenge: "17 (18,000 XP)"
+languages: "Draconic, Infernal, telepathy 120 ft."
+senses: "darkvision 120 ft., passive Perception 16"
+skills: "Arcana +12"
+damage_immunities: "fire, lightning, poison"
+saving_throws: "Int +12, Wis +12"
+speed: "30 ft., fly 50 ft."
+hit_points: "195  (26d8 + 78)"
+armor_class: "19 (natural armor)"
 ---
-
-**Medium fiend (devil), lawful evil**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 195  (26d8 + 78)
-
-**Speed** 30 ft., fly 50 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 15 (+2) | 14 (+2) | 17 (+3) | 22 (+6) | 23 (+6) | 18 (+4) |
-
-**Saving Throws** Int +12, Wis +12
-
-**Skills** Arcana +12
 
 **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** fire, lightning, poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 120 ft., passive Perception 16
-
-**Languages** Draconic, Infernal, telepathy 120 ft.
-
-**Challenge** 17 (18,000 XP)
 
 ***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
 
@@ -49,7 +42,7 @@ page_number: 161
 * 6th level (1 slot): chain lightning
 * 7th level (1 slot): teleport
 
-**Actions**
+### Actions
 
 ***Multiattack*** The abishai makes two attacks: one with its quarterstaff and one with its bite.
 

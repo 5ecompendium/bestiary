@@ -2,29 +2,24 @@
 layout: creature
 name: "Aerisi Kalinoth"
 tags: [medium, humanoid, cr7, elemental-evil]
+cha: 16 (+3)
+wis: 10 (0)
+int: 17 (+3)
+con: 12 (+1)
+dex: 16 (+3)
+str: 8 (-1)
+size: Medium humanoid (elf)
+alignment: neutral evil
+challenge: "7 (2,900 XP)"
+languages: "Auran, Common, Elvish"
+senses: "darkvision 60 ft."
+skills: "Arcana +6, History +6, Perception +3"
+speed: "30 ft."
+hit_points: "66 (12d8+12)"
+armor_class: "13 (16 with mage armor)"
 ---
 
-**Medium humanoid (elf), neutral evil**
-
-**Armor Class** 13 (16 with mage armor)
-
-**Hit Points** 66 (12d8+12)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 8 (-1) | 16 (+3) | 12 (+1) | 17 (+3) | 10 (0) | 16 (+3) |
-
-**Skills** Arcana +6, History +6, Perception +3
-
 **Damage Resistances** lightning
-
-**Senses** darkvision 60 ft.
-
-**Languages** Auran, Common, Elvish
-
-**Challenge** 7 (2,900 XP)
 
 ***Fey Ancestry.*** Aerisi has advantage on saving throws against being charmed, and magic can't put her to sleep.
 
@@ -48,7 +43,6 @@ tags: [medium, humanoid, cr7, elemental-evil]
 
 * 6th level (1 slot): chain lightning
 
-**Actions**
+### Actions
 
 ***Windvane.*** Melee or Ranged Weapon Attack: +9 to hit, reach 5 ft. or range 20 ft./60 ft., one target. Hit: 9 (1d6 + 6) piercing damage, or 10 (1d8 + 6) piercing damage if used with two hands to make a melee attack, plus 3 (1d6) lightning damage.
-

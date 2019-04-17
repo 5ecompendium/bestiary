@@ -2,35 +2,28 @@
 layout: creature
 name: "Illithilich"
 tags: [medium, undead, cr22, volos-guide]
+cha: 16 (+3)
+wis: 14 (+2)
+int: 20 (+5)
+con: 16 (+3)
+dex: 16 (+3)
+str: 11 (0)
+size: Medium undead
+alignment: any evil alignment
+challenge: "22 (41,000 XP)"
+languages: "Deep Speech, Undercommon, telepathy 120 ft."
+senses: "truesight 120 ft."
+skills: "Arcana +18, History +12, Insight +9, Perception +9"
+damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical weapons"
+saving_throws: "Con +10, Int +12, Wis +9"
+speed: "30 ft."
+hit_points: "135 (18d8+54)"
+armor_class: "17 (natural armor)"
 ---
-
-**Medium undead, any evil alignment**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 135 (18d8+54)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 11 (0) | 16 (+3) | 16 (+3) | 20 (+5) | 14 (+2) | 16 (+3) |
-
-**Saving Throws** Con +10, Int +12, Wis +9
-
-**Skills** Arcana +18, History +12, Insight +9, Perception +9
 
 **Damage Resistances** cold, lightning, necrotic
 
-**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical weapons
-
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
-
-**Senses** truesight 120 ft.
-
-**Languages** Deep Speech, Undercommon, telepathy 120 ft.
-
-**Challenge** 22 (41,000 XP)
 
 ***Legendary Resistance (3/Day).*** If the illithilich fails a saving throw, it can choose to succeed instead.
 
@@ -68,7 +61,7 @@ At will: detect thoughts, levitate
 
 1/day each: dominate monster, plane shift (self only)
 
-**Actions**
+### Actions
 
 ***Paralyzing Touch.*** Melee Spell Attack: +12 to hit, reach 5 ft., one creature. Hit: 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
@@ -80,7 +73,7 @@ At will: detect thoughts, levitate
 
 ***Mind Blast (Recharge 5-6).*** The illithilich magically emits psychic energy in a 60-foot cone. Each creature in that area must succeed on a DC 18 Intelligence saving throw or take 27 (5d8+5) psychic damage and be stunned for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**Legendary Actions**
+### Legendary Actions
 
 The illithilich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The illithilich regains spent legendary actions at the start of its turn.
 
@@ -91,4 +84,3 @@ The illithilich can take 3 legendary actions, choosing from the options below. O
 ***Mind Blast (Costs 3 Actions).*** The illithilich recharges its Mind Blast and uses it.
 
 ***Cast Spell (Costs 1-3 Actions).*** The illithilich uses a spell slot to cast a 1st-, 2nd-, or 3rd-level spell that it has prepared. Doing so costs 1 legendary action per level of the spell.
-

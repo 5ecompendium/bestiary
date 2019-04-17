@@ -3,35 +3,28 @@ layout: creature
 name: "Moloch"
 tags: [large, fiend, cr21, mordenkainens-tome-of-foes]
 page_number: 177
+cha: 23 (+6)
+wis: 18 (+4)
+int: 21 (+5)
+con: 22 (+6)
+dex: 19 (+4)
+str: 26 (+8)
+size: Large fiend (devil)
+alignment: lawful evil
+challenge: "21 (33,000 XP)"
+languages: "all, telepathy 120 ft."
+senses: "darkvision 120 ft., passive Perception 21"
+skills: "Deception +13, Intimidation +13, Perception +11"
+damage_immunities: "fire, poison"
+saving_throws: "Dex +11, Con +13, Wis +11, Cha +13"
+speed: "30 ft."
+hit_points: "253  (22d10 + 132)"
+armor_class: "19 (natural armor)"
 ---
-
-**Large fiend (devil), lawful evil**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 253  (22d10 + 132)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 26 (+8) | 19 (+4) | 22 (+6) | 21 (+5) | 18 (+4) | 23 (+6) |
-
-**Saving Throws** Dex +11, Con +13, Wis +11, Cha +13
-
-**Skills** Deception +13, Intimidation +13, Perception +11
 
 **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** fire, poison
-
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
-
-**Senses** darkvision 120 ft., passive Perception 21
-
-**Languages** all, telepathy 120 ft.
-
-**Challenge** 21 (33,000 XP)
 
 ***Innate Spellcasting.*** Moloch's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
 * At will: alter self (can become Medium when changing his appearance), animate dead, burning hands (as a 7th-level spell), confusion, detect magic, fly, geas, major image, stinking cloud, suggestion, wall of fire
@@ -45,7 +38,7 @@ page_number: 177
 
 ***Regeneration.*** Moloch regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Moloch dies only if he starts his turn with 0 hit points and doesn't regenerate.
 
-**Actions**
+### Actions
 
 ***Multiattack*** Moloch makes three attacks: one with his bite, one with his claw, and one with his whip.
 
@@ -59,7 +52,7 @@ page_number: 177
 
 ***Teleport*** Moloch magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 
-**Legendary Actions**
+### Legendary Actions
 
 Moloch can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Moloch regains spent legendary actions at the start of his turn.
 

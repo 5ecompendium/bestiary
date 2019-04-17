@@ -2,39 +2,33 @@
 layout: creature
 name: "Erinyes"
 tags: [medium, fiend, cr12, monster-manual]
+cha: 18 (+4)
+wis: 14 (+2)
+int: 14 (+2)
+con: 18 (+4)
+dex: 16 (+3)
+str: 18 (+4)
+size: Medium fiend (devil)
+alignment: lawful evil
+challenge: "12 (8,400 XP)"
+languages: "Infernal, telepathy 120 ft."
+senses: "truesight 120 ft."
+damage_immunities: "fire, poison"
+saving_throws: "Dex +7, Con +8, Wis +6, Cha +8"
+speed: "30 ft., fly 60 ft."
+hit_points: "153 (18d8+72)"
+armor_class: "18 (plate)"
 ---
-
-**Medium fiend (devil), lawful evil**
-
-**Armor Class** 18 (plate)
-
-**Hit Points** 153 (18d8+72)
-
-**Speed** 30 ft., fly 60 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 16 (+3) | 18 (+4) | 14 (+2) | 14 (+2) | 18 (+4) |
-
-**Saving Throws** Dex +7, Con +8, Wis +6, Cha +8
 
 **Damage Resistances** cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered
 
-**Damage Immunities** fire, poison
-
 **Condition Immunities** poisoned
-
-**Senses** truesight 120 ft.
-
-**Languages** Infernal, telepathy 120 ft.
-
-**Challenge** 12 (8,400 XP)
 
 ***Hellish Weapons.*** The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).
 
 ***Magic Resistance.*** The erinyes has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The erinyes makes three attacks
 
@@ -44,7 +38,6 @@ tags: [medium, fiend, cr12, monster-manual]
 
 ***Variant: Rope of Entanglement.*** Some erinyes carry a rope of entanglement (detailed in the Dungeon Master's Guide). When such an erinyes uses its Multiattack, the erinyes can use the rope in place of two of the attacks.
 
-**Reactions**
+### Reactions
 
 ***Parry.*** The erinyes adds 4 to its AC against one melee attack that would hit it. To do so, the erinyes must see the attacker and be wielding a melee weapon.
-

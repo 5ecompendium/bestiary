@@ -3,33 +3,27 @@ layout: creature
 name: "Sacred Statue"
 tags: [large, construct, cr0, mordenkainens-tome-of-foes]
 page_number: 194
+cha: 16 (+3)
+wis: 19 (+4)
+int: 14 (+2)
+con: 19 (+4)
+dex: 8 (-1)
+str: 19 (+4)
+size: Large construct
+alignment: as the eidolon's alignment
+challenge: "0 (0 XP)"
+languages: "the languages the eidolon knew in life"
+senses: "darkvision 60 ft., passive Perception 14"
+damage_immunities: "cold, necrotic, poison"
+saving_throws: "Wis +8"
+speed: "25 ft."
+hit_points: "95  (10d10 + 40)"
+armor_class: "19 (natural armor)"
 ---
-
-**Large construct, as the eidolon's alignment**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 95  (10d10 + 40)
-
-**Speed** 25 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 19 (+4) | 8 (-1) | 19 (+4) | 14 (+2) | 19 (+4) | 16 (+3) |
-
-**Saving Throws** Wis +8
 
 **Damage Resistances** acid, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** cold, necrotic, poison
-
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-
-**Senses** darkvision 60 ft., passive Perception 14
-
-**Languages** the languages the eidolon knew in life
-
-**Challenge** 0 (0 XP)
 
 ***False Appearance.*** While the statue remains motionless, it is indistinguishable from a normal statue.
 
@@ -37,7 +31,7 @@ page_number: 194
 
 ***Inert.*** When not inhabited by an eidolon, the statue is an object.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The statue makes two slam attacks.
 

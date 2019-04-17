@@ -2,25 +2,21 @@
 layout: creature
 name: "Zi Liang"
 tags: [medium, humanoid, cr0, storm-kings-thunder]
+cha: 11 (0)
+wis: 16 (+3)
+int: 14 (+2)
+con: 11 (0)
+dex: 15 (+2)
+str: 12 (+1)
+size: Medium humanoid (shou human)
+alignment: chaotic good
+challenge: "0 (10 XP)"
+languages: "Common, Elvish, Goblin"
+skills: "Acrobatics +4, Athletics +3, Perception +5, Stealth +4"
+speed: "30 ft."
+hit_points: "22 (5d8)"
+armor_class: "15"
 ---
-
-**Medium humanoid (shou human), chaotic good**
-
-**Armor Class** 15
-
-**Hit Points** 22 (5d8)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 12 (+1) | 15 (+2) | 11 (0) | 14 (+2) | 16 (+3) | 11 (0) |
-
-**Skills** Acrobatics +4, Athletics +3, Perception +5, Stealth +4
-
-**Languages** Common, Elvish, Goblin
-
-**Challenge** 0 (10 XP)
 
 ***Unarmored Defense.*** While Zi is wearing no armor and wielding no shield, her AC includes her Wisdom modifier.
 
@@ -32,11 +28,10 @@ Bond: "Goldenfields is the breadbasket of the North. People depend on its safety
 
 Flaw: "I don't trust authority. I do what my heart says is right."
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Zi makes two melee attacks.
 
 ***Quarterstaff.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6+1) bludgeoning damage, or 5 (1d8+1) bludgeoning damage if used with both hands.
 
 ***Sling.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4+2) bludgeoning damage. Zi carries twenty sling stones.
-

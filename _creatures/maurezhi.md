@@ -3,39 +3,33 @@ layout: creature
 name: "Maurezhi"
 tags: [medium, fiend, cr7, mordenkainens-tome-of-foes]
 page_number: 133
+cha: 15 (+2)
+wis: 12 (+1)
+int: 11 (0)
+con: 12 (+1)
+dex: 17 (+3)
+str: 14 (+2)
+size: Medium fiend (demon)
+alignment: chaotic evil
+challenge: "7 (2900 XP)"
+languages: "Abyssal, Elvish, telepathy 120 ft."
+senses: "darkvision 120 ft., passive Perception 11"
+skills: "Deception +5"
+damage_immunities: "poison"
+speed: "30 ft."
+hit_points: "88  (16d8 + 16)"
+armor_class: "15 (natural armor)"
 ---
-
-**Medium fiend (demon), chaotic evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 88  (16d8 + 16)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 14 (+2) | 17 (+3) | 12 (+1) | 11 (0) | 12 (+1) | 15 (+2) |
-
-**Skills** Deception +5
 
 **Damage Resistances** cold, fire, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** poison
-
 **Condition Immunities** charmed, exhaustion, poisoned
-
-**Senses** darkvision 120 ft., passive Perception 11
-
-**Languages** Abyssal, Elvish, telepathy 120 ft.
-
-**Challenge** 7 (2900 XP)
 
 ***Assume Form.*** The maurezhi can assume the appearance of any Medium humanoid it has eaten. It remains in this form for 1d6 days, during which time the form gradually decays until, when the effect ends, the form sloughs from the demon's body.
 
 ***Magic Resistance.*** The maurezhi has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The maurezhi makes two attacks: one with its bite and one with its claws.
 

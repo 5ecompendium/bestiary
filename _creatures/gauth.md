@@ -2,37 +2,31 @@
 layout: creature
 name: "Gauth"
 tags: [medium, aberration, cr6, volos-guide]
+cha: 13 (+1)
+wis: 15 (+2)
+int: 15 (+2)
+con: 16 (+3)
+dex: 14 (+2)
+str: 10 (0)
+size: Medium aberration
+alignment: lawful evil
+challenge: "6 (2,300 XP)"
+languages: "Deep Speech, Undercommon"
+senses: "darkvision 120 ft."
+skills: "Perception +5"
+saving_throws: "Int +5, Wis +5, Cha +4"
+speed: "0 ft., fly 20 ft. (hover)"
+hit_points: "67 (9d8+27)"
+armor_class: "15 (natural armor)"
 ---
 
-**Medium aberration, lawful evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 67 (9d8+27)
-
-**Speed** 0 ft., fly 20 ft. (hover)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 10 (0) | 14 (+2) | 16 (+3) | 15 (+2) | 15 (+2) | 13 (+1) |
-
-**Saving Throws** Int +5, Wis +5, Cha +4
-
-**Skills** Perception +5
-
 **Condition Immunities** prone
-
-**Senses** darkvision 120 ft.
-
-**Languages** Deep Speech, Undercommon
-
-**Challenge** 6 (2,300 XP)
 
 ***Stunning Gaze.*** When a creature that can see the gauth's central eye starts its turn within 30 feet of the gauth, the gauth can force it to make a DC 14 Wisdom saving throw if the gauth isn't incapacitated and can see the creature. A creature that fails the save is stunned until the start of its next turn, when it can avert its eyes again. If the creature looks at the gauth in the meantime, it must immediately make the save.
 
 ***Death Throes.*** When the gauth dies, the magical energy within it explodes, and each creature within 10 feet of it must make a DC 14 Dexterity saving throw, taking 13 (3d8) force damage on a failed save, or half as much damage on a successful one.
 
-**Actions**
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (2d8) piercing damage.
 
@@ -49,4 +43,3 @@ tags: [medium, aberration, cr6, volos-guide]
 5. Paralyzing Ray: The targeted creature must succeed on a DC 14 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 6. Sleep Ray: The targeted creature must succeed on a DC 14 Wisdom saving throw or fall asleep and remain unconscious for 1 minute. The target awakens if it takes damage or another creature takes an action to wake it. This ray has no effect on constructs and undead.
-

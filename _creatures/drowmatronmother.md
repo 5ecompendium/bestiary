@@ -3,31 +3,25 @@ layout: creature
 name: "Drow Matron Mother"
 tags: [medium, humanoid, cr20, mordenkainens-tome-of-foes]
 page_number: 186
+cha: 22 (+6)
+wis: 21 (+5)
+int: 17 (+3)
+con: 16 (+3)
+dex: 18 (+4)
+str: 12 (+1)
+size: Medium humanoid (elf)
+alignment: neutral evil
+challenge: "20 (25,000 XP)"
+languages: "Elvish, Undercommon"
+senses: "darkvision 120 ft., passive Perception 21"
+skills: "Insight +11, Perception +11, Religion +9, Stealth +10"
+saving_throws: "Con +9, Wis +11, Cha +12"
+speed: "30 ft."
+hit_points: "262  (35d8 + 105)"
+armor_class: "17 (half plate)"
 ---
 
-**Medium humanoid (elf), neutral evil**
-
-**Armor Class** 17 (half plate)
-
-**Hit Points** 262  (35d8 + 105)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 12 (+1) | 18 (+4) | 16 (+3) | 17 (+3) | 21 (+5) | 22 (+6) |
-
-**Saving Throws** Con +9, Wis +11, Cha +12
-
-**Skills** Insight +11, Perception +11, Religion +9, Stealth +10
-
 **Condition Immunities** charmed, frightened, poisoned
-
-**Senses** darkvision 120 ft., passive Perception 21
-
-**Languages** Elvish, Undercommon
-
-**Challenge** 20 (25,000 XP)
 
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
@@ -53,7 +47,7 @@ page_number: 186
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The matron mother makes two demon staff attacks or three tentacle rod attacks.
 
@@ -63,7 +57,7 @@ page_number: 186
 
 ***Summon Servant (1/Day)*** The drow magically summons a retriever or a yochlol. The summoned creature appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
 
-**Legendary Actions**
+### Legendary Actions
 
 The drow can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The drow regains spent legendary actions at the start of her turn.
 

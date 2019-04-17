@@ -3,37 +3,32 @@ layout: creature
 name: "Scaladar"
 tags: [huge, construct, cr8, dungeon-of-the-mad-mage]
 page_number: 315
+cha: 1 (-5)
+wis: 12 (+1)
+int: 1 (-5)
+con: 25 (+7)
+dex: 10 (0)
+str: 19 (+4)
+size: Huge construct
+alignment: unaligned
+challenge: "8 (8,900 XP)"
+languages: "—"
+senses: "darkvision 60 ft., passive Perception 11"
+damage_immunities: "force, lightning, poison"
+speed: "30 ft., clmb 20 ft."
+hit_points: "94 (7d12 + 49)"
+armor_class: "19 (natural armor)"
 ---
-
-**Huge construct, unaligned**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 94 (7d12 + 49)
-
-**Speed** 30 ft., clmb 20 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 19 (+4) | 10 (0) | 25 (+7) | 1 (-5) | 12 (+1) | 1 (-5) |
 
 **Damage Resistances** fire; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** force, lightning, poison
-
 **Condition Immunities** charmed, paralyzed, poisoned
-
-**Senses** darkvision 60 ft., passive Perception 11
-
-**Languages** —
-
-**Challenge** 8 (8,900 XP)
 
 ***Lightning Absorption.*** Whenever the scaladar is subjected to lightning damage, it takes no damage, and its sting deals an extra 11 (2d10) lightning damage until the end of its next turn.
 
 ***Scaladar Link.*** The scaladar knows the location of other scaladar within 100 feet of it, and it can sense when any of them take damage.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The scaladar makes three attacks: two with its claws and one with its sting.
 

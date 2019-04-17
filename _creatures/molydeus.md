@@ -3,35 +3,28 @@ layout: creature
 name: "Molydeus"
 tags: [huge, fiend, cr21, mordenkainens-tome-of-foes]
 page_number: 134
+cha: 24 (+7)
+wis: 24 (+7)
+int: 21 (+5)
+con: 25 (+7)
+dex: 22 (+6)
+str: 28 (+9)
+size: Huge fiend (demon)
+alignment: chaotic evil
+challenge: "21 (33,000 XP)"
+languages: "Abyssal, telepathy 120 ft."
+senses: "truesight 120 ft., passive Perception 31"
+skills: "Perception +21"
+damage_immunities: "poison"
+saving_throws: "Str +16, Con +14, Wis +14, Cha +14"
+speed: "40 ft."
+hit_points: "216  (16d12 + 112)"
+armor_class: "19 (natural armor)"
 ---
-
-**Huge fiend (demon), chaotic evil**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 216  (16d12 + 112)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 28 (+9) | 22 (+6) | 25 (+7) | 21 (+5) | 24 (+7) | 24 (+7) |
-
-**Saving Throws** Str +16, Con +14, Wis +14, Cha +14
-
-**Skills** Perception +21
 
 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** poison
-
 **Condition Immunities** blinded, charmed, deafened, frightened, poisoned, stunned
-
-**Senses** truesight 120 ft., passive Perception 31
-
-**Languages** Abyssal, telepathy 120 ft.
-
-**Challenge** 21 (33,000 XP)
 
 ***Innate Spellcasting.*** The molydeus's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 * At will: dispel magic, polymorph, telekinesis, teleport
@@ -44,7 +37,7 @@ page_number: 134
 
 ***Magic Weapons.*** The molydeus's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The molydeus makes three attacks: one with its weapon, one with its wolf bite, and one with its snakebite.
 
@@ -54,7 +47,7 @@ page_number: 134
 
 ***Snakebite*** Melee Weapon Attack: +16 to hit, reach 15 ft., one creature. Hit: 12 (1d6 + 9) piercing damage, and the target must succeed on a DC 22 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target transforms into a manes if this reduces its hit point maximum to 0. This transformation can be ended only by a wish spell.
 
-**Legendary Actions**
+### Legendary Actions
 
 The molydeus can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The molydeus regains spent legendary actions at the start of its turn.
 

@@ -3,29 +3,23 @@ layout: creature
 name: "Githzerai Enlightened"
 tags: [medium, humanoid, cr10, mordenkainens-tome-of-foes]
 page_number: 208
+cha: 13 (+1)
+wis: 19 (+4)
+int: 17 (+3)
+con: 16 (+3)
+dex: 19 (+4)
+str: 14 (+2)
+size: Medium humanoid (gith)
+alignment: lawful neutral
+challenge: "10 (5900 XP)"
+languages: "Gith"
+senses: "passive Perception 18"
+skills: "Arcana +7, Insight +8, Perception +8"
+saving_throws: "Str +6, Dex +8, Int +7, Wis +8"
+speed: "30 ft."
+hit_points: "112  (15d8 + 45)"
+armor_class: "18"
 ---
-
-**Medium humanoid (gith), lawful neutral**
-
-**Armor Class** 18
-
-**Hit Points** 112  (15d8 + 45)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 14 (+2) | 19 (+4) | 16 (+3) | 17 (+3) | 19 (+4) | 13 (+1) |
-
-**Saving Throws** Str +6, Dex +8, Int +7, Wis +8
-
-**Skills** Arcana +7, Insight +8, Perception +8
-
-**Senses** passive Perception 18
-
-**Languages** Gith
-
-**Challenge** 10 (5900 XP)
 
 ***Innate Spellcasting (Psionics).*** The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
 * At will: mage hand (the hand is invisible)
@@ -34,7 +28,7 @@ page_number: 208
 
 ***Psychic Defense.*** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The githzerai makes three unarmed strikes.
 

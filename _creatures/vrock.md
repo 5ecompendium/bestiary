@@ -2,37 +2,31 @@
 layout: creature
 name: "Vrock"
 tags: [large, fiend, cr6, monster-manual]
+cha: 8 (-1)
+wis: 13 (+1)
+int: 8 (-1)
+con: 18 (+4)
+dex: 15 (+2)
+str: 17 (+3)
+size: Large fiend (demon)
+alignment: chaotic evil
+challenge: "6 (2,300 XP)"
+languages: "Abyssal, telepathy 120 ft."
+senses: "darkvision 120 ft."
+damage_immunities: "poison"
+saving_throws: "Dex +5, Wis +4, Cha +2"
+speed: "40 ft., fly 60 ft."
+hit_points: "104 (11d10+44)"
+armor_class: "15 (natural armor)"
 ---
-
-**Large fiend (demon), chaotic evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 104 (11d10+44)
-
-**Speed** 40 ft., fly 60 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 17 (+3) | 15 (+2) | 18 (+4) | 8 (-1) | 13 (+1) | 8 (-1) |
-
-**Saving Throws** Dex +5, Wis +4, Cha +2
 
 **Damage Resistances** cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
 
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 120 ft.
-
-**Languages** Abyssal, telepathy 120 ft.
-
-**Challenge** 6 (2,300 XP)
 
 ***Magic Resistance.*** The vrock has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The vrock makes two attacks: one with its beak and one with its talons.
 
@@ -49,4 +43,3 @@ tags: [large, fiend, cr6, monster-manual]
 A vrock has a 30 percent chance of summoning 2d4 dretches or one vrock.
 
 A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
-

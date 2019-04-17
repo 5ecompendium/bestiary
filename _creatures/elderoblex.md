@@ -3,31 +3,25 @@ layout: creature
 name: "Elder Oblex"
 tags: [huge, ooze, cr10, mordenkainens-tome-of-foes]
 page_number: 219
+cha: 18 (+4)
+wis: 13 (+1)
+int: 22 (+6)
+con: 21 (+5)
+dex: 16 (+3)
+str: 15 (+2)
+size: Huge ooze
+alignment: lawful evil
+challenge: "10 (5900 XP)"
+languages: "Common plus six more"
+senses: "blindsight 60 ft. (blind beyond this distance), passive Perception 15"
+skills: "Arcana +10, Deception +8, History +10, Nature +10, Perception +5, Religion +10"
+saving_throws: "Int +10, Cha +8"
+speed: "20 ft."
+hit_points: "115  (10d12 + 50)"
+armor_class: "16"
 ---
 
-**Huge ooze, lawful evil**
-
-**Armor Class** 16
-
-**Hit Points** 115  (10d12 + 50)
-
-**Speed** 20 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 15 (+2) | 16 (+3) | 21 (+5) | 22 (+6) | 13 (+1) | 18 (+4) |
-
-**Saving Throws** Int +10, Cha +8
-
-**Skills** Arcana +10, Deception +8, History +10, Nature +10, Perception +5, Religion +10
-
 **Condition Immunities** blinded, charmed, deafened, exhaustion, prone
-
-**Senses** blindsight 60 ft. (blind beyond this distance), passive Perception 15
-
-**Languages** Common plus six more
-
-**Challenge** 10 (5900 XP)
 
 ***Amorphous.*** The oblex can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -39,7 +33,7 @@ At will: charm person (as 5th-level spell), detect thoughts, hold person
 
 ***Sulfurous Impersonation.*** As a bonus action, the oblex can extrude a piece of itself that assumes the appearance of one Medium or smaller creature whose memories it has stolen. This simulacrum appears, feels, and sounds exactly like the creature it impersonates, though it smells faintly of sulfur. The oblex can impersonate 2d6 + 1 different creatures, each one tethered to its body by a strand of slime that can extend up to 120 feet away. For all practical purposes, the simulacrum is the oblex, meaning the oblex occupies its space and the simulacrum's space simultaneously. The slimy tether is immune to damage, but it is severed if there is no opening at least 1 inch wide between the oblex's main body and the simulacrum. The simulacrum disappears if the tether is severed.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The elder oblex makes two pseudopod attacks and uses Eat Memories.
 

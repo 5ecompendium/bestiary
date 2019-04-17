@@ -3,31 +3,26 @@ layout: creature
 name: "Meazel"
 tags: [medium, humanoid, cr1, mordenkainens-tome-of-foes]
 page_number: 214
+cha: 10 (0)
+wis: 13 (+1)
+int: 14 (+2)
+con: 9 (0)
+dex: 17 (+3)
+str: 8 (-1)
+size: Medium humanoid (meazel)
+alignment: neutral evil
+challenge: "1 (200 XP)"
+languages: "Common"
+senses: "darkvision 120 ft., passive Perception 13"
+skills: "Perception +3, Stealth +5"
+speed: "30 ft."
+hit_points: "35  (10d8 - 10)"
+armor_class: "13"
 ---
-
-**Medium humanoid (meazel), neutral evil**
-
-**Armor Class** 13
-
-**Hit Points** 35  (10d8 - 10)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 8 (-1) | 17 (+3) | 9 (0) | 14 (+2) | 13 (+1) | 10 (0) |
-
-**Skills** Perception +3, Stealth +5
-
-**Senses** darkvision 120 ft., passive Perception 13
-
-**Languages** Common
-
-**Challenge** 1 (200 XP)
 
 ***Shadow Stealth.*** While in dim light or darkness, the meazel can take the Hide action as a bonus action.
 
-**Actions**
+### Actions
 
 ***Garrote*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target of the meazel's size or smaller. Hit: 6 (1d6 + 3) bludgeoning damage, and the target is grappled (escape DC 13 with disadvantage). Until the grapple ends, the target takes 10 (2d6 + 3) bludgeoning damage at the start of each of the meazel's turns. The meazel can't make weapon attacks while grappling a creature in this way.
 

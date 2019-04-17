@@ -3,35 +3,28 @@ layout: creature
 name: "Black Abishai"
 tags: [medium, fiend, cr7, mordenkainens-tome-of-foes]
 page_number: 160
+cha: 11 (0)
+wis: 16 (+3)
+int: 13 (+1)
+con: 14 (+2)
+dex: 17 (+3)
+str: 14 (+2)
+size: Medium fiend (devil)
+alignment: lawful evil
+challenge: "7 (2900 XP)"
+languages: "Draconic, Infernal, telepathy 120 ft."
+senses: "darkvision 120 ft., passive Perception 16"
+skills: "Perception +6, Stealth +6"
+damage_immunities: "acid, fire, poison"
+saving_throws: "Dex +6, Wis +6"
+speed: "30 ft., fly 40 ft."
+hit_points: "58  (9d8 + 18)"
+armor_class: "15 (natural armor)"
 ---
-
-**Medium fiend (devil), lawful evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 58  (9d8 + 18)
-
-**Speed** 30 ft., fly 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 14 (+2) | 17 (+3) | 14 (+2) | 13 (+1) | 16 (+3) | 11 (0) |
-
-**Saving Throws** Dex +6, Wis +6
-
-**Skills** Perception +6, Stealth +6
 
 **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** acid, fire, poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 120 ft., passive Perception 16
-
-**Languages** Draconic, Infernal, telepathy 120 ft.
-
-**Challenge** 7 (2900 XP)
 
 ***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
 
@@ -41,7 +34,7 @@ page_number: 160
 
 ***Shadow Stealth.*** While in dim light or darkness, the abishai can take the Hide action as a bonus action.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The abishai makes three attacks: two with its scimitar and one with its bite.
 

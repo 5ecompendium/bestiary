@@ -2,27 +2,22 @@
 layout: creature
 name: "Troll"
 tags: [large, giant, cr5, monster-manual]
+cha: 7 (-2)
+wis: 9 (-1)
+int: 7 (-2)
+con: 20 (+5)
+dex: 13 (+1)
+str: 18 (+4)
+size: Large giant
+alignment: chaotic evil
+challenge: "5 (1,800 XP)"
+languages: "Giant"
+senses: "darkvision 60 ft."
+skills: "Perception +2"
+speed: "30 ft."
+hit_points: "84 (8d10+40)"
+armor_class: "15 (natural armor)"
 ---
-
-**Large giant, chaotic evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 84 (8d10+40)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 13 (+1) | 20 (+5) | 7 (-2) | 9 (-1) | 7 (-2) |
-
-**Skills** Perception +2
-
-**Senses** darkvision 60 ft.
-
-**Languages** Giant
-
-**Challenge** 5 (1,800 XP)
 
 ***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -48,11 +43,10 @@ If its head is severed, the troll loses its bite attack and its body is blinded 
 
 The troll's speed is halved if it's missing a leg. If it loses both legs, it falls prone. If it has both arms, it can crawl. With only one arm, it can still crawl, but its speed is halved. With no arms or legs, its speed is 0, and it can't benefit from bonuses to speed.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The troll makes three attacks: one with its bite and two with its claws.
 
 ***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 7 (1d6 + 4) piercing damage.
 
 ***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
-

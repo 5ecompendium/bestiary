@@ -2,27 +2,22 @@
 layout: creature
 name: "Firenewt Warlock of Imix"
 tags: [medium, humanoid, cr1, volos-guide]
+cha: 14 (+2)
+wis: 11 (0)
+int: 9 (-1)
+con: 12 (+1)
+dex: 11 (0)
+str: 13 (+1)
+size: Medium humanoid (firenewt)
+alignment: neutral evil
+challenge: "1 (200 XP)"
+languages: "Draconic, Ignan"
+senses: "darkvision 120 ft. (penetrates magical darkness)"
+damage_immunities: "fire"
+speed: "30 ft."
+hit_points: "33 (6d8+6)"
+armor_class: "10 (13 with mage armor)"
 ---
-
-**Medium humanoid (firenewt), neutral evil**
-
-**Armor Class** 10 (13 with mage armor)
-
-**Hit Points** 33 (6d8+6)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 13 (+1) | 11 (0) | 12 (+1) | 9 (-1) | 11 (0) | 14 (+2) |
-
-**Damage Immunities** fire
-
-**Senses** darkvision 120 ft. (penetrates magical darkness)
-
-**Languages** Draconic, Ignan
-
-**Challenge** 1 (200 XP)
 
 ***Amphibious.*** The firenewt can breathe air and water.
 
@@ -36,7 +31,6 @@ Cantrips (at will): fire bolt, guidance, light, mage hand, prestidigitation
 
 ***Imix's Blessing.*** When the firenewt reduces an enemy to 0 hit points, the firenewt gains 5 temporary hit points.
 
-**Actions**
+### Actions
 
 ***Morningstar.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8+1) piercing damage.
-

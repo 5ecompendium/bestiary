@@ -2,27 +2,22 @@
 layout: creature
 name: "Cloaker"
 tags: [large, aberration, cr8, monster-manual]
+cha: 14 (+2)
+wis: 12 (+1)
+int: 13 (+1)
+con: 12 (+1)
+dex: 15 (+2)
+str: 17 (+3)
+size: Large aberration
+alignment: chaotic neutral
+challenge: "8 (3,900 XP)"
+languages: "Deep Speech, Undercommon"
+senses: "darkvision 60 ft."
+skills: "Stealth +5"
+speed: "10 ft., fly 40 ft."
+hit_points: "78 (12d10+12)"
+armor_class: "14 (natural armor)"
 ---
-
-**Large aberration, chaotic neutral**
-
-**Armor Class** 14 (natural armor)
-
-**Hit Points** 78 (12d10+12)
-
-**Speed** 10 ft., fly 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 17 (+3) | 15 (+2) | 12 (+1) | 13 (+1) | 12 (+1) | 14 (+2) |
-
-**Skills** Stealth +5
-
-**Senses** darkvision 60 ft.
-
-**Languages** Deep Speech, Undercommon
-
-**Challenge** 8 (3,900 XP)
 
 ***Damage Transfer.*** While attached to a creature, the cloaker takes only half the damage dealt to it (rounded down). and that creature takes the other half.
 
@@ -30,7 +25,7 @@ tags: [large, aberration, cr8, monster-manual]
 
 ***Light Sensitivity.*** While in bright light, the cloaker has disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The cloaker makes two attacks: one with its bite and one with its tail.
 
@@ -45,4 +40,3 @@ tags: [large, aberration, cr8, monster-manual]
 Whenever any creature targets the cloaker with an attack or a harmful spell while a duplicate remains, that creature rolls randomly to determine whether it targets the cloaker or one of the duplicates. A creature is unaffected by this magical effect if it can't see or if it relies on senses other than sight.
 
 A duplicate has the cloaker's AC and uses its saving throws. If an attack hits a duplicate, or if a duplicate fails a saving throw against an effect that deals damage, the duplicate disappears.
-

@@ -3,35 +3,28 @@ layout: creature
 name: "Hutijin"
 tags: [large, fiend, cr21, mordenkainens-tome-of-foes]
 page_number: 175
+cha: 25 (+7)
+wis: 19 (+4)
+int: 23 (+6)
+con: 25 (+7)
+dex: 15 (+2)
+str: 27 (+8)
+size: Large fiend (devil)
+alignment: lawful evil
+challenge: "21 (33,000 XP)"
+languages: "all, telepathy 120 ft."
+senses: "truesight 120 ft., passive Perception 21"
+skills: "Intimidation +14, Perception +11"
+damage_immunities: "fire, poison"
+saving_throws: "Dex +9, Con +14, Wis +11"
+speed: "30 ft., fly 60 ft."
+hit_points: "200  (16d10 + 112)"
+armor_class: "19 (natural armor)"
 ---
-
-**Large fiend (devil), lawful evil**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 200  (16d10 + 112)
-
-**Speed** 30 ft., fly 60 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 27 (+8) | 15 (+2) | 25 (+7) | 23 (+6) | 19 (+4) | 25 (+7) |
-
-**Saving Throws** Dex +9, Con +14, Wis +11
-
-**Skills** Intimidation +14, Perception +11
 
 **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** fire, poison
-
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
-
-**Senses** truesight 120 ft., passive Perception 21
-
-**Languages** all, telepathy 120 ft.
-
-**Challenge** 21 (33,000 XP)
 
 ***Infernal Despair.*** Each creature within 15 feet of Hutijin that isn't a devil makes saving throws with disadvantage.
 
@@ -48,7 +41,7 @@ page_number: 175
 
 ***Regeneration.*** Hutijin regains 20 hit points at the start of his turn. If he takes radiant damage, this trait doesn't function at the start of his next turn. Hutijin dies only if he starts his turn with 0 hit points and doesn't regenerate.
 
-**Actions**
+### Actions
 
 ***Multiattack*** Hutijin makes four attacks: one with his bite, one with his claw, one with his mace, and one with his tail.
 
@@ -62,7 +55,7 @@ page_number: 175
 
 ***Teleport*** Hutijin magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 
-**Legendary Actions**
+### Legendary Actions
 
 Hutijin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Hutijin regains spent legendary actions at the start of his turn.
 

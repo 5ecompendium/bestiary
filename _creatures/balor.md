@@ -2,33 +2,27 @@
 layout: creature
 name: "Balor"
 tags: [huge, fiend, cr19, monster-manual]
+cha: 22 (+6)
+wis: 16 (+3)
+int: 20 (+5)
+con: 22 (+6)
+dex: 15 (+2)
+str: 26 (+8)
+size: Huge fiend (demon)
+alignment: chaotic evil
+challenge: "19 (22,000 XP)"
+languages: "Abyssal, telepathy 120 ft."
+senses: "truesight 120 ft."
+damage_immunities: "fire, poison"
+saving_throws: "Str +14, Con +12, Wis +9, Cha +12"
+speed: "40 ft., fly 80 ft."
+hit_points: "262 (21d12+126)"
+armor_class: "19 (natural armor)"
 ---
-
-**Huge fiend (demon), chaotic evil**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 262 (21d12+126)
-
-**Speed** 40 ft., fly 80 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 26 (+8) | 15 (+2) | 22 (+6) | 20 (+5) | 16 (+3) | 22 (+6) |
-
-**Saving Throws** Str +14, Con +12, Wis +9, Cha +12
 
 **Damage Resistances** cold, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
 
-**Damage Immunities** fire, poison
-
 **Condition Immunities** poisoned
-
-**Senses** truesight 120 ft.
-
-**Languages** Abyssal, telepathy 120 ft.
-
-**Challenge** 19 (22,000 XP)
 
 ***Death Throes.*** When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.
 
@@ -38,7 +32,7 @@ tags: [huge, fiend, cr19, monster-manual]
 
 ***Magic Weapons.*** The balor's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The balor makes two attacks: one with its longsword and one with its whip.
 
@@ -53,4 +47,3 @@ tags: [huge, fiend, cr19, monster-manual]
 A balor has a 50 percent chance of summoning 1d8 vrocks, 1d6 hezrous, 1d4 glabrezus, 1d3 nalfeshnees, 1d2 mariliths, or one goristro.
 
 A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
-

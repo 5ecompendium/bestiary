@@ -2,39 +2,32 @@
 layout: creature
 name: "Death Tyrant"
 tags: [large, undead, cr14, monster-manual]
+cha: 19 (+4)
+wis: 15 (+2)
+int: 19 (+4)
+con: 14 (+2)
+dex: 14 (+2)
+str: 10 (0)
+size: Large undead
+alignment: lawful evil
+challenge: "14 (11,500 XP)"
+languages: "Deep Speech, Undercommon"
+senses: "darkvision 120 ft."
+skills: "Perception +12"
+damage_immunities: "poison"
+saving_throws: "Str +5, Con +7, Int +9, Wis +7, Cha +9"
+speed: "0 ft., fly 20 ft. (hover)"
+hit_points: "187 (25d10+50)"
+armor_class: "19 (natural armor)"
 ---
 
-**Large undead, lawful evil**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 187 (25d10+50)
-
-**Speed** 0 ft., fly 20 ft. (hover)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 10 (0) | 14 (+2) | 14 (+2) | 19 (+4) | 15 (+2) | 19 (+4) |
-
-**Saving Throws** Str +5, Con +7, Int +9, Wis +7, Cha +9
-
-**Skills** Perception +12
-
-**Damage Immunities** poison
-
 **Condition Immunities** charmed, exhaustion, paralyzed, petrified, poisoned, prone
-
-**Senses** darkvision 120 ft.
-
-**Languages** Deep Speech, Undercommon
-
-**Challenge** 14 (11,500 XP)
 
 ***Negative Energy Cone.*** The death tyrant's central eye emits an invisible, magical 150-foot cone of negative energy. At the start of each of its turns, the tyrant decides which way the cone faces and whether the cone is active.
 
 Any creature in that area can't regain hit points. Any humanoid that dies there becomes a zombie under the tyrant's command. The dead humanoid retains its place in the initiative order and animates at the start of its next turn, provided that its body hasn't been completely destroyed.
 
-**Actions**
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (4d6) piercing damage.
 
@@ -64,9 +57,8 @@ Any creature in that area can't regain hit points. Any humanoid that dies there 
 
 10. Death Ray. The targeted creature must succeed on a DC 17 Dexterity saving throw or take 55 (10d10) necrotic damage. The target dies if the ray reduces it to 0 hit points.
 
-**Legendary Actions**
+### Legendary Actions
 
 The death tyrant can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The death tyrant regains spent legendary actions at the start of its turn.
 
 ***Eye Ray.*** The death tyrant uses one random eye ray.
-

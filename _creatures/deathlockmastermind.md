@@ -3,35 +3,28 @@ layout: creature
 name: "Deathlock Mastermind"
 tags: [medium, undead, cr8, mordenkainens-tome-of-foes]
 page_number: 129
+cha: 17 (+3)
+wis: 12 (+1)
+int: 15 (+2)
+con: 12 (+1)
+dex: 16 (+3)
+str: 11 (0)
+size: Medium undead
+alignment: neutral evil
+challenge: "8 (3900 XP)"
+languages: "the languages it knew in life"
+senses: "darkvision 120 ft. (including magical darkness), passive Perception 14"
+skills: "Arcana +5, History +5, Perception +4"
+damage_immunities: "poison"
+saving_throws: "Int +5, Cha +6"
+speed: "30 ft."
+hit_points: "110  (20d8 + 20)"
+armor_class: "13 (16 with mage armor)"
 ---
-
-**Medium undead, neutral evil**
-
-**Armor Class** 13 (16 with mage armor)
-
-**Hit Points** 110  (20d8 + 20)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 11 (0) | 16 (+3) | 12 (+1) | 15 (+2) | 12 (+1) | 17 (+3) |
-
-**Saving Throws** Int +5, Cha +6
-
-**Skills** Arcana +5, History +5, Perception +4
 
 **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** poison
-
 **Condition Immunities** exhaustion, poisoned
-
-**Senses** darkvision 120 ft. (including magical darkness), passive Perception 14
-
-**Languages** the languages it knew in life
-
-**Challenge** 8 (3900 XP)
 
 ***Innate Spellcasting.*** The deathlock's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 * At will: detect magic, disguise self, mage armor
@@ -42,7 +35,7 @@ page_number: 129
 
 ***Turn Resistance.*** The deathlock has advantage on saving throws against any effect that turns undead.
 
-**Actions**
+### Actions
 
 ***Deathly Claw*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (3d6 + 3 necrotic damage).
 

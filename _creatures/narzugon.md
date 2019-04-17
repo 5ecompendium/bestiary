@@ -3,35 +3,28 @@ layout: creature
 name: "Narzugon"
 tags: [medium, fiend, cr13, mordenkainens-tome-of-foes]
 page_number: 167
+cha: 19 (+4)
+wis: 14 (+2)
+int: 16 (+3)
+con: 17 (+3)
+dex: 10 (0)
+str: 20 (+5)
+size: Medium fiend (devil)
+alignment: lawful evil
+challenge: "13 (10,000 XP)"
+languages: "Common, Infernal, telepathy 120 ft."
+senses: "darkvision 120 ft., passive Perception 17"
+skills: "Perception +7"
+damage_immunities: "fire, poison"
+saving_throws: "Dex +5, Con +8, Cha +9"
+speed: "30 ft."
+hit_points: "112  (15d8 + 45)"
+armor_class: "20 (plate armor, shield)"
 ---
-
-**Medium fiend (devil), lawful evil**
-
-**Armor Class** 20 (plate armor, shield)
-
-**Hit Points** 112  (15d8 + 45)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 20 (+5) | 10 (0) | 17 (+3) | 16 (+3) | 14 (+2) | 19 (+4) |
-
-**Saving Throws** Dex +5, Con +8, Cha +9
-
-**Skills** Perception +7
 
 **Damage Resistances** acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** fire, poison
-
 **Condition Immunities** charmed, frightened, poisoned
-
-**Senses** darkvision 120 ft., passive Perception 17
-
-**Languages** Common, Infernal, telepathy 120 ft.
-
-**Challenge** 13 (10,000 XP)
 
 ***Diabolical Sense.*** The narzugon has advantage on Wisdom (Perception) checks made to perceive good-aligned creatures.
 
@@ -39,7 +32,7 @@ page_number: 167
 
 ***Magic Resistance.*** The narzugon has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The narzugon uses its Infernal Command or Terrifying Command. It also makes three hellfire lance attacks.
 

@@ -2,35 +2,28 @@
 layout: creature
 name: "Solar"
 tags: [large, celestial, cr21, monster-manual]
+cha: 30 (+10)
+wis: 25 (+7)
+int: 25 (+7)
+con: 26 (+8)
+dex: 22 (+6)
+str: 26 (+8)
+size: Large celestial
+alignment: lawful good
+challenge: "21 (33,000 XP)"
+languages: "all, telepathy 120 ft."
+senses: "truesight 120 ft."
+skills: "Perception +14"
+damage_immunities: "necrotic, poison"
+saving_throws: "Int +14, Wis +14, Cha +17"
+speed: "50 ft., fly 150 ft."
+hit_points: "243 (18d10+144)"
+armor_class: "21 (natural armor)"
 ---
-
-**Large celestial, lawful good**
-
-**Armor Class** 21 (natural armor)
-
-**Hit Points** 243 (18d10+144)
-
-**Speed** 50 ft., fly 150 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 26 (+8) | 22 (+6) | 26 (+8) | 25 (+7) | 25 (+7) | 30 (+10) |
-
-**Saving Throws** Int +14, Wis +14, Cha +17
-
-**Skills** Perception +14
 
 **Damage Resistances** radiant, bludgeoning, piercing, and slashing from nonmagical weapons
 
-**Damage Immunities** necrotic, poison
-
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
-
-**Senses** truesight 120 ft.
-
-**Languages** all, telepathy 120 ft.
-
-**Challenge** 21 (33,000 XP)
 
 ***Angelic Weapons.*** The solar's weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).
 
@@ -46,7 +39,7 @@ At will: detect evil and good, invisibility (self only)
 
 ***Magic Resistance.*** The solar has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The solar makes two greatsword attacks.
 
@@ -58,7 +51,7 @@ At will: detect evil and good, invisibility (self only)
 
 ***Healing Touch (4/Day).*** The solar touches another creature. The target magically regains 40 (8d8 + 4) hit points and is freed from any curse, disease, poison, blindness, or deafness.
 
-**Legendary Actions**
+### Legendary Actions
 
 The solar can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The solar regains spent legendary actions at the start of its turn.
 
@@ -67,4 +60,3 @@ The solar can take 3 legendary actions, choosing from the options below. Only on
 ***Searing Burst (Costs 2 Actions).*** The solar emits magical, divine energy. Each creature of its choice in a 10 -foot radius must make a DC 23 Dexterity saving throw, taking 14 (4d6) fire damage plus 14 (4d6) radiant damage on a failed save, or half as much damage on a successful one.
 
 ***Blinding Gaze (Costs 3 Actions).*** The solar targets one creature it can see within 30 ft. of it. If the target can see it, the target must succeed on a DC 15 Constitution saving throw or be blinded until magic such as the lesser restoration spell removes the blindness.
-

@@ -2,27 +2,22 @@
 layout: creature
 name: "Kobold Scale Sorcerer"
 tags: [small, humanoid, cr1, volos-guide]
+cha: 14 (+2)
+wis: 9 (-1)
+int: 10 (0)
+con: 14 (+2)
+dex: 15 (+2)
+str: 7 (-2)
+size: Small humanoid (kobold)
+alignment: lawful evil
+challenge: "1 (200 XP)"
+languages: "Common, Draconic"
+senses: "darkvision 60 ft."
+skills: "Arcana +2, Medicine +1"
+speed: "30 ft."
+hit_points: "27 (5d6+10)"
+armor_class: "15 (natural armor)"
 ---
-
-**Small humanoid (kobold), lawful evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 27 (5d6+10)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 7 (-2) | 15 (+2) | 14 (+2) | 10 (0) | 9 (-1) | 14 (+2) |
-
-**Skills** Arcana +2, Medicine +1
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 1 (200 XP)
 
 ***Spellcasting.*** The kobold is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following sorcerer spells prepared:
 
@@ -42,7 +37,6 @@ Subtle Spell: When the kobold casts a spell, it can spend 1 sorcery point to cas
 
 ***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 it, one target. Hit: 4 (1d4+2) piercing damage.
-

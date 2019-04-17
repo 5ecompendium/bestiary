@@ -2,35 +2,28 @@
 layout: creature
 name: "Tarul Var"
 tags: [medium, undead, cr13, tales-from-the-yawning-portal]
+cha: 16 (+3)
+wis: 14 (+2)
+int: 19 (+4)
+con: 16 (+3)
+dex: 16 (+3)
+str: 11 (0)
+size: Medium undead
+alignment: neutral evil
+challenge: "13 (10,000 XP)"
+languages: "Abyssal, Common, Infernal, Primordial, Thayan"
+senses: "darkvision 60 ft."
+skills: "Arcana +9, History +9, Insight +7, Perception +7"
+damage_immunities: "poison"
+saving_throws: "Con +8, Int +9, Wis +7"
+speed: "30 ft."
+hit_points: "105 (14d8+42)"
+armor_class: "16 (natural armor)"
 ---
-
-**Medium undead, neutral evil**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 105 (14d8+42)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 11 (0) | 16 (+3) | 16 (+3) | 19 (+4) | 14 (+2) | 16 (+3) |
-
-**Saving Throws** Con +8, Int +9, Wis +7
-
-**Skills** Arcana +9, History +9, Insight +7, Perception +7
 
 **Damage Resistances** cold, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** poison
-
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
-
-**Senses** darkvision 60 ft.
-
-**Languages** Abyssal, Common, Infernal, Primordial, Thayan
-
-**Challenge** 13 (10,000 XP)
 
 ***Source.*** tales from the yawning portal,  page 244
 
@@ -62,13 +55,13 @@ Cantrips (at will):.fire bolt, mage hand, minor illusion, prestidigitation, ray 
 
 ***Turn Resistance.*** Var has advantage on saving throws against any effect that turns undead .
 
-**Actions**
+### Actions
 
 ***Paralyzing Touch.*** Melee Spell Attack: +9 to hit, reach 5 ft., one creature. Hit: 10 (3d6) cold damage. The target must succeed on a DC 17 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
 ***Benign Transposition.*** Var teleports up to 30 feet to an unoccupied space he can see. Alternatively, he can choose a space within range that is occupied by a Small or Medium creature. If that creature is willing, both creatures teleport, swapping places. Var can use this feature again only after he finishes a long rest or casts a conjuration spell of 1st level or higher.
 
-**Legendary Actions**
+### Legendary Actions
 
 Var can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Var regains spent legendary actions at the start of his turn.
 
@@ -77,4 +70,3 @@ Var can take 3 legendary actions, choosing from the options below. Only one lege
 ***Paralyzing Touch (Costs 2 Actions).*** Var uses Paralyzing Touch .
 
 ***Frightening Gaze (Costs 2 Actions).*** Var fixes his gaze on one creature he can see within 10 feet of him . The target must succeed on a DC 17 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to Var's gaze for the next 24 hours.
-

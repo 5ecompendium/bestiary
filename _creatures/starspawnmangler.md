@@ -3,41 +3,34 @@ layout: creature
 name: "Star Spawn Mangler"
 tags: [medium, aberration, cr5, mordenkainens-tome-of-foes]
 page_number: 236
+cha: 7 (-1)
+wis: 12 (+1)
+int: 11 (0)
+con: 12 (+1)
+dex: 18 (+4)
+str: 8 (-1)
+size: Medium aberration
+alignment: chaotic evil
+challenge: "5 (1800 XP)"
+languages: "Deep Speech"
+senses: "darkvision 60 ft., passive Perception 11"
+skills: "Stealth +7"
+damage_immunities: "psychic"
+saving_throws: "Dex +7, Con +4"
+speed: "40 ft., climb 40 ft."
+hit_points: "71  (13d8 + 13)"
+armor_class: "14"
 ---
-
-**Medium aberration, chaotic evil**
-
-**Armor Class** 14
-
-**Hit Points** 71  (13d8 + 13)
-
-**Speed** 40 ft., climb 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 8 (-1) | 18 (+4) | 12 (+1) | 11 (0) | 12 (+1) | 7 (-1) |
-
-**Saving Throws** Dex +7, Con +4
-
-**Skills** Stealth +7
 
 **Damage Resistances** cold
 
-**Damage Immunities** psychic
-
 **Condition Immunities** charmed, frightened, prone
-
-**Senses** darkvision 60 ft., passive Perception 11
-
-**Languages** Deep Speech
-
-**Challenge** 5 (1800 XP)
 
 ***Ambush.*** On the first round of each combat, the mangler has advantage on attack rolls against a creature that hasn't taken a turn yet.
 
 ***Shadow Stealth.*** While in dim light or darkness, the mangler can take the Hide action as a bonus action.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The mangler makes two claw attacks.
 

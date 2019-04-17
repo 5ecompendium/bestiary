@@ -3,33 +3,28 @@ layout: creature
 name: "Male Steeder"
 tags: [medium, monstrosity, cr1/4, mordenkainens-tome-of-foes]
 page_number: 238
+cha: 3 (-3)
+wis: 10 (0)
+int: 2 (-4)
+con: 14 (+2)
+dex: 12 (+1)
+str: 15 (+2)
+size: Medium monstrosity
+alignment: unaligned
+challenge: "1/4 (50 XP)"
+languages: "-"
+senses: "darkvision 120 ft., passive Perception 14"
+skills: "Stealth +5, Perception +4"
+speed: "30 ft., climb 30 ft."
+hit_points: "13  (2d8 + 4)"
+armor_class: "12 (natural armor)"
 ---
-
-**Medium monstrosity, unaligned**
-
-**Armor Class** 12 (natural armor)
-
-**Hit Points** 13  (2d8 + 4)
-
-**Speed** 30 ft., climb 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 15 (+2) | 12 (+1) | 14 (+2) | 2 (-4) | 10 (0) | 3 (-3) |
-
-**Skills** Stealth +5, Perception +4
-
-**Senses** darkvision 120 ft., passive Perception 14
-
-**Languages** -
-
-**Challenge** 1/4 (50 XP)
 
 ***Spider Climb.*** The steeder can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
 ***Extraordinary Leap.*** The distance of the steeder's long jumps is tripled; every foot of its walking speed that it spends on the jump allows it to jump 3 feet.
 
-**Actions**
+### Actions
 
 ***Bite*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 4 (1d8) poison damage.
 

@@ -3,31 +3,25 @@ layout: creature
 name: "Strahd von Zarovich"
 tags: [medium, undead, cr15, curse-of-strahd]
 page_number: 239
+cha: 18 (+4)
+wis: 15 (+2)
+int: 20 (+5)
+con: 18 (+4)
+dex: 18 (+4)
+str: 18 (+4)
+size: Medium undead (shapechanger)
+alignment: lawful evil
+challenge: "15 (13,000 XP)"
+languages: "Abyssal, Common, Draconic, Elvish, Giant, Infernal"
+senses: "darkvision 120 ft."
+skills: "Arcana +15, Perception +12, Religion +10, Stealth +14"
+saving_throws: "Dex +9, Wis +7, Cha +9"
+speed: "30 ft."
+hit_points: "144 (17d8+68)"
+armor_class: "16 (natural armor)"
 ---
 
-**Medium undead (shapechanger), lawful evil**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 144 (17d8+68)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 18 (+4) | 18 (+4) | 20 (+5) | 15 (+2) | 18 (+4) |
-
-**Saving Throws** Dex +9, Wis +7, Cha +9
-
-**Skills** Arcana +15, Perception +12, Religion +10, Stealth +14
-
 **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Senses** darkvision 120 ft.
-
-**Languages** Abyssal, Common, Draconic, Elvish, Giant, Infernal
-
-**Challenge** 15 (13,000 XP)
 
 ***Shapechanger.*** If Strahd isn't in running water or sunlight, he can use his action to polymorph into a Tiny bat, a Medium wolf, or a Medium cloud of mist, or back into his true form.
 
@@ -69,7 +63,7 @@ page_number: 239
 
 >Sunlight Hypersensitivity: While in sunlight, Strahd takes 20 radiant damage at the start of his turn, and he has disadvantage on attack rolls and ability checks.
 
-**Actions**
+### Actions
 
 ***Multiattack (Vampire Form Only).*** Strahd makes two attacks, only one of which can be a bite attack.
 
@@ -83,7 +77,7 @@ page_number: 239
 
 ***Children of the Night (1/day).*** Strahd magically calls 2d4 swarms of bats or swarms rats, provided that the sun isn't up. While outdoors, Strahd can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of Strahd and obeying his spoken commands. The beasts remain for 1 hour, until Strahd dies, or until he dismisses them as a bonus action.
 
-**Legendary Actions**
+### Legendary Actions
 
 Strahd can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. Strahd regains spent legendary actions at the start of his turn.
 
@@ -92,4 +86,3 @@ Strahd can take 3 legendary actions, choosing from the options below. Only one l
 ***Unarmed Strike.*** Strahd makes one unarmed strike.
 
 ***Bite (Costs 2 Actions).*** Strahd makes one bite attack.
-

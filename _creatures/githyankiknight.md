@@ -3,34 +3,29 @@ layout: creature
 name: "Githyanki Knight"
 tags: [medium, humanoid, cr8, monster-manual]
 page_number: 160
+cha: 15 (+2)
+wis: 14 (+2)
+int: 14 (+2)
+con: 15 (+2)
+dex: 14 (+2)
+str: 16 (+3)
+size: Medium humanoid (gith)
+alignment: lawful evil
+challenge: "8 (3900 XP)"
+languages: "Gith"
+senses: "passive Perception 12"
+saving_throws: "Con +5, Int +5, Wis +5"
+speed: "30 ft."
+hit_points: "91  (14d8 + 28)"
+armor_class: "18 (plate)"
 ---
-
-**Medium humanoid (gith), lawful evil**
-
-**Armor Class** 18 (plate)
-
-**Hit Points** 91  (14d8 + 28)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 16 (+3) | 14 (+2) | 15 (+2) | 14 (+2) | 14 (+2) | 15 (+2) |
-
-**Saving Throws** Con +5, Int +5, Wis +5
-
-**Senses** passive Perception 12
-
-**Languages** Gith
-
-**Challenge** 8 (3900 XP)
 
 ***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
 * At will: mage hand (the hand is invisible)
 * 3/day each: jump, misty step, nondetection (self only), tongues
 * 1/day each: plane shift, telekinesis
 
-**Actions**
+### Actions
 
 ***Multiattack*** The githyanki makes two silver greatsword attacks.
 

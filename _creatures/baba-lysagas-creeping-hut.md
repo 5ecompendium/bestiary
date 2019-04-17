@@ -3,31 +3,25 @@ layout: creature
 name: "Baba Lysaga's Creeping Hut"
 tags: [gargantuan, construct, cr11, curse-of-strahd]
 page_number: 226
+cha: 3 (-4)
+wis: 3 (-4)
+int: 1 (-5)
+con: 20 (+5)
+dex: 7 (-2)
+str: 26 (+8)
+size: Gargantuan construct
+alignment: unaligned
+challenge: "11 (7,200 XP)"
+languages: "-"
+senses: "blindsight 120 ft. (blind beyond this radius)"
+damage_immunities: "poison, psychic"
+saving_throws: "Con +9, Wis +0, Cha +0"
+speed: "30 ft."
+hit_points: "263 (17d10+85)"
+armor_class: "16 (natural armor)"
 ---
 
-**Gargantuan construct, unaligned**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 263 (17d10+85)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 26 (+8) | 7 (-2) | 20 (+5) | 1 (-5) | 3 (-4) | 3 (-4) |
-
-**Saving Throws** Con +9, Wis +0, Cha +0
-
-**Damage Immunities** poison, psychic
-
 **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, prone
-
-**Senses** blindsight 120 ft. (blind beyond this radius)
-
-**Languages** -
-
-**Challenge** 11 (7,200 XP)
 
 ***Constructed Nature.*** An animated object doesn't require air, food, drink, or sleep.
 
@@ -37,11 +31,10 @@ page_number: 226
 
 ***Siege Monster.*** The hut deals double damage to objects and structures.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The hut makes three attacks with its roots. It can replace one of these attacks with a rock attack.
 
 ***Root.*** Melee Weapon Attack: +12 to hit, reach 60 ft., one target. Hit: 30 (4d10+8) bludgeoning damage.
 
 ***Rock.*** Ranged Weapon Attack: +12 to hit, range 120 ft., one target. Hit: 21 (3d8+8) bludegoning damage.
-

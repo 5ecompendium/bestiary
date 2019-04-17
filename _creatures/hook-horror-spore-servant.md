@@ -2,33 +2,28 @@
 layout: creature
 name: "Hook Horror Spore Servant"
 tags: [medium, plant, cr3, out-of-the-abyss]
+cha: 1 (-5)
+wis: 6 (-2)
+int: 2 (-4)
+con: 15 (+2)
+dex: 10 (0)
+str: 18 (+4)
+size: Medium plant
+alignment: unaligned
+challenge: "3 (700 XP)"
+languages: "-"
+senses: "blindsight 30 ft. (blind beyond this radius)"
+speed: "20 ft., climb 20 ft."
+hit_points: "75 (10d10+20)"
+armor_class: "15 (natural armor)"
 ---
-
-**Medium plant, unaligned**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 75 (10d10+20)
-
-**Speed** 20 ft., climb 20 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 10 (0) | 15 (+2) | 2 (-4) | 6 (-2) | 1 (-5) |
 
 **Damage Resistances** poison
 
 **Condition Immunities** blinded, charmed, frightened, paralyzed
 
-**Senses** blindsight 30 ft. (blind beyond this radius)
-
-**Languages** -
-
-**Challenge** 3 (700 XP)
-
-**Actions**
+### Actions
 
 ***Multiattack.*** The spore servant makes two hyook attacks.
 
 ***Hook.*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 11 (2d6 + 4) piercing damage.
-

@@ -2,31 +2,26 @@
 layout: creature
 name: "Otyugh"
 tags: [large, aberration, cr5, monster-manual]
+cha: 6 (-2)
+wis: 13 (+1)
+int: 6 (-2)
+con: 19 (+4)
+dex: 11 (0)
+str: 16 (+3)
+size: Large aberration
+alignment: neutral
+challenge: "5 (1,800 XP)"
+languages: "Otyugh"
+senses: "darkvision 120 ft."
+saving_throws: "Con +7"
+speed: "30 ft."
+hit_points: "114 (12d10+48)"
+armor_class: "14 (natural armor)"
 ---
-
-**Large aberration, neutral**
-
-**Armor Class** 14 (natural armor)
-
-**Hit Points** 114 (12d10+48)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 16 (+3) | 11 (0) | 19 (+4) | 6 (-2) | 13 (+1) | 6 (-2) |
-
-**Saving Throws** Con +7
-
-**Senses** darkvision 120 ft.
-
-**Languages** Otyugh
-
-**Challenge** 5 (1,800 XP)
 
 ***Limited Telepathy.*** The otyugh can magically transmit simple messages and images to any creature within 120 ft. of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The otyugh makes three attacks: one with its bite and two with its tentacles.
 
@@ -35,4 +30,3 @@ tags: [large, aberration, cr5, monster-manual]
 ***Tentacle.*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the target is Medium or smaller, it is grappled (escape DC 13) and restrained until the grapple ends. The otyugh has two tentacles, each of which can grapple one target.
 
 ***Tentacle Slam.*** The otyugh slams creatures grappled by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (2d6 + 3) bludgeoning damage and be stunned until the end of the otyugh's next turn. On a successful save, the target takes half the bludgeoning damage and isn't stunned.
-

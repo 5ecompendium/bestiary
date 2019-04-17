@@ -2,29 +2,23 @@
 layout: creature
 name: "Efreeti"
 tags: [large, elemental, cr11, monster-manual]
+cha: 16 (+3)
+wis: 15 (+2)
+int: 16 (+3)
+con: 24 (+7)
+dex: 12 (+1)
+str: 22 (+6)
+size: Large elemental
+alignment: lawful evil
+challenge: "11 (7,200 XP)"
+languages: "Ignan"
+senses: "darkvision 120 ft."
+damage_immunities: "fire"
+saving_throws: "Int +7, Wis +6, Cha +7"
+speed: "40 ft., fly 60 ft."
+hit_points: "200 (16d10+112)"
+armor_class: "17 (natural armor)"
 ---
-
-**Large elemental, lawful evil**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 200 (16d10+112)
-
-**Speed** 40 ft., fly 60 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 22 (+6) | 12 (+1) | 24 (+7) | 16 (+3) | 15 (+2) | 16 (+3) |
-
-**Saving Throws** Int +7, Wis +6, Cha +7
-
-**Damage Immunities** fire
-
-**Senses** darkvision 120 ft.
-
-**Languages** Ignan
-
-**Challenge** 11 (7,200 XP)
 
 ***Elemental Demise.*** If the efreeti dies, its body disintegrates in a flash of fire and puff of smoke, leaving behind only equipment the djinni was wearing or carrying.
 
@@ -48,11 +42,10 @@ The genie power to grant wishes is legendary among mortals. Only the most potent
 
 To be granted a wish, a creature within 60 feet of the genie states a desired effect to it. The genie can then cast the wish spell on the creature's behalf to bring about the effect. Depending on the genie's nature, the genie might try to pervert the intent of the wish by exploiting the wish's poor wording. The perversion of the wording is usually crafted to be to the genie's benefit.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
 
 ***Scimitar.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage plus 7 (2d6) fire damage.
 
 ***Hurl Flame.*** Ranged Spell Attack: +7 to hit, range 120 ft., one target. Hit: 17 (5d6) fire damage.
-

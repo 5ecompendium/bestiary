@@ -3,31 +3,26 @@ layout: creature
 name: "Tortle"
 tags: [medium, humanoid, cr1/4, mordenkainens-tome-of-foes]
 page_number: 242
+cha: 12 (+1)
+wis: 13 (+1)
+int: 11 (0)
+con: 12 (+1)
+dex: 10 (0)
+str: 15 (+2)
+size: Medium humanoid (tortle)
+alignment: lawful good
+challenge: "1/4 (50 XP)"
+languages: "Aquan, Common"
+senses: "passive Perception 11"
+skills: "Athletics +4, Survival +3"
+speed: "30 ft."
+hit_points: "22  (4d8 + 4)"
+armor_class: "17 (natural)"
 ---
-
-**Medium humanoid (tortle), lawful good**
-
-**Armor Class** 17 (natural)
-
-**Hit Points** 22  (4d8 + 4)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 15 (+2) | 10 (0) | 12 (+1) | 11 (0) | 13 (+1) | 12 (+1) |
-
-**Skills** Athletics +4, Survival +3
-
-**Senses** passive Perception 11
-
-**Languages** Aquan, Common
-
-**Challenge** 1/4 (50 XP)
 
 ***Hold Breath.*** The tortle can hold its breath for 1 hour.
 
-**Actions**
+### Actions
 
 ***Claws*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
 

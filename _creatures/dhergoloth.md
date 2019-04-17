@@ -3,33 +3,27 @@ layout: creature
 name: "Dhergoloth"
 tags: [medium, fiend, cr7, mordenkainens-tome-of-foes]
 page_number: 248
+cha: 9 (0)
+wis: 10 (0)
+int: 7 (-1)
+con: 19 (+4)
+dex: 10 (0)
+str: 17 (+3)
+size: Medium fiend (yugoloth)
+alignment: neutral evil
+challenge: "7 (2900 XP)"
+languages: "Abyssal, Infernal, telepathy 60 ft."
+senses: "blindsight 60 ft., darkvision 60 ft., passive Perception 10"
+damage_immunities: "acid, poison"
+saving_throws: "Str +6"
+speed: "30 ft."
+hit_points: "119  (14d8 +56)"
+armor_class: "15 (natural armor)"
 ---
-
-**Medium fiend (yugoloth), neutral evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 119  (14d8 +56)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 17 (+3) | 10 (0) | 19 (+4) | 7 (-1) | 10 (0) | 9 (0) |
-
-**Saving Throws** Str +6
 
 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** acid, poison
-
 **Condition Immunities** poisoned
-
-**Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 10
-
-**Languages** Abyssal, Infernal, telepathy 60 ft.
-
-**Challenge** 7 (2900 XP)
 
 ***Innate Spellcasting.*** The dhergoloth's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 * At will: darkness, fear
@@ -39,7 +33,7 @@ page_number: 248
 
 ***Magic Weapons.*** The dhergoloth's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The dhergoloth makes two claw attacks.
 

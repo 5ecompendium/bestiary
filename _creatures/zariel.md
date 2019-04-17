@@ -3,35 +3,28 @@ layout: creature
 name: "Zariel"
 tags: [large, fiend, cr26, mordenkainens-tome-of-foes]
 page_number: 180
+cha: 30 (+10)
+wis: 27 (+8)
+int: 26 (+8)
+con: 28 (+9)
+dex: 24 (+7)
+str: 27 (+8)
+size: Large fiend (devil)
+alignment: lawful evil
+challenge: "26 (90,000 XP)"
+languages: "all, telepathy 120 ft."
+senses: "darkvision 120 ft., passive Perception 26"
+skills: "Intimidation +18, Perception +16"
+damage_immunities: "necrotic, poison"
+saving_throws: "Int +16, Wis +16, Cha +18"
+speed: "50 ft., fly 150 ft."
+hit_points: "580  (40d10 + 360)"
+armor_class: "21 (natural armor)"
 ---
-
-**Large fiend (devil), lawful evil**
-
-**Armor Class** 21 (natural armor)
-
-**Hit Points** 580  (40d10 + 360)
-
-**Speed** 50 ft., fly 150 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 27 (+8) | 24 (+7) | 28 (+9) | 26 (+8) | 27 (+8) | 30 (+10) |
-
-**Saving Throws** Int +16, Wis +16, Cha +18
-
-**Skills** Intimidation +18, Perception +16
 
 **Damage Resistances** cold, fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** necrotic, poison
-
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
-
-**Senses** darkvision 120 ft., passive Perception 26
-
-**Languages** all, telepathy 120 ft.
-
-**Challenge** 26 (90,000 XP)
 
 ***Devil's Sight.*** Magical darkness doesn't impede Zariel's darkvision.
 
@@ -47,7 +40,7 @@ page_number: 180
 
 ***Regeneration.*** Zariel regains 20 hit points at the start of her turn. If she takes radiant damage, this trait doesn't function at the start of her next turn. Zariel dies only if she starts her turn with 0 hit points and doesn't regenerate.
 
-**Actions**
+### Actions
 
 ***Multiattack*** Zariel attacks twice with her longsword or with her javelins. She can substitute Horrid Touch for one of these attacks.
 
@@ -59,7 +52,7 @@ page_number: 180
 
 ***Teleport*** Zariel magically teleports, along with any equipment she is wearing and carrying, up to 120 feet to an unoccupied space she can see.
 
-**Legendary Actions**
+### Legendary Actions
 
 Zariel can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Zariel regains spent legendary actions at the start of her turn.
 

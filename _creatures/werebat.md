@@ -3,29 +3,23 @@ layout: creature
 name: "Werebat"
 tags: [small, humanoid, cr2, dungeon-of-the-mad-mage]
 page_number: 317
+cha: 8 (-1)
+wis: 12 (+1)
+int: 10 (0)
+con: 10 (0)
+dex: 17 (+3)
+str: 8 (-1)
+size: Small humanoid (goblin
+alignment: shapechanger)
+challenge: "2 (450 XP)"
+languages: "Goblin (can’t speak in bat form)"
+senses: "darkvision 60 ft., passive Perception 13"
+skills: "Perception +3, Stealth +5"
+damage_immunities: "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
+speed: "30 ft. (climb 30 ft., fly 60 ft. in bat or hybrid form)"
+hit_points: "24 (7d6)"
+armor_class: "13"
 ---
-
-**Small humanoid (goblin, shapechanger), neutral evil**
-
-**Armor Class** 13
-
-**Hit Points** 24 (7d6)
-
-**Speed** 30 ft. (climb 30 ft., fly 60 ft. in bat or hybrid form)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 8 (-1) | 17 (+3) | 10 (0) | 10 (0) | 12 (+1) | 8 (-1) |
-
-**Skills** Perception +3, Stealth +5
-
-**Damage Immunities** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
-
-**Senses** darkvision 60 ft., passive Perception 13
-
-**Languages** Goblin (can’t speak in bat form)
-
-**Challenge** 2 (450 XP)
 
 ***Shapechanger.*** The werebat can use its action to polymorph into a Medium bat-humanoid hybrid, or into a Large giant bat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn’t transformed. It reverts to its true form if it dies.
 
@@ -37,7 +31,7 @@ page_number: 317
 
 ***Sunlight Sensitivity.*** While in sunlight, the werebat has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack (Humanoid or Hybrid Form Only).*** In humanoid form, the werebat makes two scimitar attacks or two shortbow attacks. In hybrid form, it can make one bite attack and one scimitar attack.
 

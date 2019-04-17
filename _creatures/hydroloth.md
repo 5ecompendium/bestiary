@@ -3,33 +3,27 @@ layout: creature
 name: "Hydroloth"
 tags: [medium, fiend, cr9, mordenkainens-tome-of-foes]
 page_number: 249
+cha: 14 (+2)
+wis: 10 (0)
+int: 19 (+4)
+con: 16 (+3)
+dex: 21 (+5)
+str: 12 (+1)
+size: Medium fiend (yugoloth)
+alignment: neutral evil
+challenge: "9 (5,000 XP)"
+languages: "Abyssal, Infernal, telepathy 60 ft."
+senses: "blindsight 60 ft., darkvision 60 ft., passive Perception 14"
+skills: "Insight +4, Perception +4"
+damage_immunities: "acid, poison"
+speed: "20 ft., swim 40 ft."
+hit_points: "135  (18d8 + 54)"
+armor_class: "15"
 ---
-
-**Medium fiend (yugoloth), neutral evil**
-
-**Armor Class** 15
-
-**Hit Points** 135  (18d8 + 54)
-
-**Speed** 20 ft., swim 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 12 (+1) | 21 (+5) | 16 (+3) | 19 (+4) | 10 (0) | 14 (+2) |
-
-**Skills** Insight +4, Perception +4
 
 **Damage Resistances** cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** acid, poison
-
 **Condition Immunities** poisoned
-
-**Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 14
-
-**Languages** Abyssal, Infernal, telepathy 60 ft.
-
-**Challenge** 9 (5,000 XP)
 
 ***Amphibious.*** The hydroloth can breathe air and water.
 
@@ -45,7 +39,7 @@ page_number: 249
 
 ***Watery Advantage.*** While submerged in liquid, the hydroloth has advantage on attack rolls.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The hydroloth makes two melee attacks. In place of one of these attacks, it can cast one spell that takes 1 action to cast.
 

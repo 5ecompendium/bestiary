@@ -2,31 +2,25 @@
 layout: creature
 name: "Yuan-ti Malison Type 3"
 tags: [medium, monstrosity, cr3, monster-manual]
+cha: 16 (+3)
+wis: 12 (+1)
+int: 14 (+2)
+con: 13 (+1)
+dex: 14 (+2)
+str: 16 (+3)
+size: Medium monstrosity (shapechanger
+alignment: yuan-ti)
+challenge: "3 (700 XP)"
+languages: "Abyssal, Common, Draconic"
+senses: "darkvision 60 ft."
+skills: "Deception +5, Stealth +4"
+damage_immunities: "poison"
+speed: "30 ft."
+hit_points: "66 (12d8+12)"
+armor_class: "12"
 ---
 
-**Medium monstrosity (shapechanger, yuan-ti), neutral evil**
-
-**Armor Class** 12
-
-**Hit Points** 66 (12d8+12)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 16 (+3) | 14 (+2) | 13 (+1) | 14 (+2) | 12 (+1) | 16 (+3) |
-
-**Skills** Deception +5, Stealth +4
-
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 60 ft.
-
-**Languages** Abyssal, Common, Draconic
-
-**Challenge** 3 (700 XP)
 
 ***Shapechanger.*** The yuan-ti can use its action to polymorph into a Medium snake, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It doesn't change form if it dies.
 
@@ -46,7 +40,7 @@ Type 2: Human head and body with snakes for arms
 
 Type 3: Human head and upper body with a serpentine lower body instead of legs
 
-**Actions**
+### Actions
 
 ***Multiattack (Yuan_ti Form Only).*** The yuan_ti makes two ranged attacks or two melee attacks, but can constrict only once.
 
@@ -57,4 +51,3 @@ Type 3: Human head and upper body with a serpentine lower body instead of legs
 ***Scimitar (Yuan_ti Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
 
 ***Longbow (Yuan_ti Form Only).*** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage.
-

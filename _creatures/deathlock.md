@@ -3,35 +3,28 @@ layout: creature
 name: "Deathlock"
 tags: [medium, undead, cr4, mordenkainens-tome-of-foes]
 page_number: 128
+cha: 16 (+3)
+wis: 12 (+1)
+int: 14 (+2)
+con: 10 (0)
+dex: 15 (+2)
+str: 11 (0)
+size: Medium undead
+alignment: neutral evil
+challenge: "4 (1100 XP)"
+languages: "the languages it knew in life"
+senses: "darkvision 60 ft., passive Perception 11"
+skills: "Arcana +4, History +4"
+damage_immunities: "poison"
+saving_throws: "Int +4, Cha +5"
+speed: "30 ft."
+hit_points: "36  (8d8)"
+armor_class: "12 (15 with mage armor)"
 ---
-
-**Medium undead, neutral evil**
-
-**Armor Class** 12 (15 with mage armor)
-
-**Hit Points** 36  (8d8)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 11 (0) | 15 (+2) | 10 (0) | 14 (+2) | 12 (+1) | 16 (+3) |
-
-**Saving Throws** Int +4, Cha +5
-
-**Skills** Arcana +4, History +4
 
 **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** poison
-
 **Condition Immunities** exhaustion, poisoned
-
-**Senses** darkvision 60 ft., passive Perception 11
-
-**Languages** the languages it knew in life
-
-**Challenge** 4 (1100 XP)
 
 ***Innate Spellcasting.*** The deathlock's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 * At will: detect magic, disguise self, mage armor
@@ -42,6 +35,6 @@ page_number: 128
 
 ***Turn Resistance.*** The deathlock has advantage on saving throws against any effect that turns undead.
 
-**Actions**
+### Actions
 
 ***Deathly Claw*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) necrotic damage.

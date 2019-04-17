@@ -2,33 +2,27 @@
 layout: creature
 name: "Barghest"
 tags: [large, fiend, cr4, volos-guide]
+cha: 14 (+2)
+wis: 12 (+1)
+int: 13 (+1)
+con: 14 (+2)
+dex: 15 (+2)
+str: 19 (+4)
+size: Large fiend (shapechanger)
+alignment: neutral evil
+challenge: "4 (1,100 XP)"
+languages: "Abyssal, Common, Goblin, Infernal, telepathy 60 ft."
+senses: "blindsight 60 ft., darkvision 60 ft."
+skills: "Deception +4, Intimidation +4, Perception +5, Stealth +4"
+damage_immunities: "acid, poison"
+speed: "60 ft. (30 ft.in goblin form)"
+hit_points: "90 (12d10+24)"
+armor_class: "17 (natural armor)"
 ---
-
-**Large fiend (shapechanger), neutral evil**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 90 (12d10+24)
-
-**Speed** 60 ft. (30 ft.in goblin form)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 19 (+4) | 15 (+2) | 14 (+2) | 13 (+1) | 12 (+1) | 14 (+2) |
-
-**Skills** Deception +4, Intimidation +4, Perception +5, Stealth +4
 
 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons
 
-**Damage Immunities** acid, poison
-
 **Condition Immunities** poisoned
-
-**Senses** blindsight 60 ft., darkvision 60 ft.
-
-**Languages** Abyssal, Common, Goblin, Infernal, telepathy 60 ft.
-
-**Challenge** 4 (1,100 XP)
 
 ***Shapechanger.*** The barghest can use its action to polymorph into a Small goblin or back into its true form. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. The barghest reverts to its true form if it dies.
 
@@ -46,9 +40,8 @@ tags: [large, fiend, cr4, volos-guide]
 
 >While a humanoid's soul is trapped in a barghest, any form of revival that could work has only a 50 percent chance of doing so, freeing the soul from the barghest if it is successful. Once a creature's soul is digested, however, no mortal magic can return that humanoid to life.
 
-**Actions**
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8+4) piercing damage.
 
 ***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8+4) slashing damage.
-

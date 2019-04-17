@@ -3,35 +3,28 @@ layout: creature
 name: "Baphomet"
 tags: [huge, fiend, cr23, mordenkainens-tome-of-foes]
 page_number: 143
+cha: 16 (+3)
+wis: 24 (+7)
+int: 18 (+4)
+con: 26 (+8)
+dex: 14 (+2)
+str: 30 (+10)
+size: Huge fiend (demon)
+alignment: chaotic evil
+challenge: "23 (50,000 XP)"
+languages: "all, telepathy 120 ft."
+senses: "truesight 120 ft., passive Perception 24"
+skills: "Intimidation +17, Perception +14"
+damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks"
+saving_throws: "Dex +9, Con +15, Wis +14"
+speed: "40 ft."
+hit_points: "275  (19d12 + 152)"
+armor_class: "22 (natural armor)"
 ---
-
-**Huge fiend (demon), chaotic evil**
-
-**Armor Class** 22 (natural armor)
-
-**Hit Points** 275  (19d12 + 152)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 30 (+10) | 14 (+2) | 26 (+8) | 18 (+4) | 24 (+7) | 16 (+3) |
-
-**Saving Throws** Dex +9, Con +15, Wis +14
-
-**Skills** Intimidation +17, Perception +14
 
 **Damage Resistances** cold, fire, lightning
 
-**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
-
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
-
-**Senses** truesight 120 ft., passive Perception 24
-
-**Languages** all, telepathy 120 ft.
-
-**Challenge** 23 (50,000 XP)
 
 ***Charge.*** If Baphomet moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 16 (3d10) piercing damage. If the target is a creature, it must succeed on a DC 25 Strength saving throw or be pushed up to 10 feet away and knocked prone.
 
@@ -50,7 +43,7 @@ page_number: 143
 
 ***Reckless.*** At the start of his turn, Baphomet can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against him have advantage until the start of his next turn.
 
-**Actions**
+### Actions
 
 ***Multiattack*** Baphomet makes three attacks: one with Heartcleaver, one with his bite, and one with his gore attack.
 
@@ -63,7 +56,7 @@ page_number: 143
 ***Frightful Presence*** Each creature of Baphomet's choice within 120 feet of him and aware of him must succeed on a DC 18 Wisdom saving throw or become frightened for 1 minute. A frightened creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. These later saves have disadvantage if Baphomet is within line of sight of the creature.
 If a creature succeeds on any of these saves or the effect ends on it, the creature is immune to Baphomet's Frightful Presence for the next 24 hours.
 
-**Legendary Actions**
+### Legendary Actions
 
 Baphomet can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Baphomet regains spent legendary actions at the start of his turn.
 

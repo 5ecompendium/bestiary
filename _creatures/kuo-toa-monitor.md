@@ -2,27 +2,22 @@
 layout: creature
 name: "Kuo-Toa Monitor"
 tags: [medium, humanoid, cr2, monster-manual]
+cha: 11 (0)
+wis: 14 (+2)
+int: 12 (+1)
+con: 14 (+2)
+dex: 10 (0)
+str: 14 (+2)
+size: Medium humanoid (kuo-toa)
+alignment: neutral evil
+challenge: "2 (450 XP)"
+languages: "Undercommon"
+senses: "darkvision 120 ft."
+skills: "Perception +6, Religion +4"
+speed: "33 ft., swim 30 ft."
+hit_points: "65 (10d8+20)"
+armor_class: "13 (natural armor, unarmored defense)"
 ---
-
-**Medium humanoid (kuo-toa), neutral evil**
-
-**Armor Class** 13 (natural armor, unarmored defense)
-
-**Hit Points** 65 (10d8+20)
-
-**Speed** 33 ft., swim 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 14 (+2) | 10 (0) | 14 (+2) | 12 (+1) | 14 (+2) | 11 (0) |
-
-**Skills** Perception +6, Religion +4
-
-**Senses** darkvision 120 ft.
-
-**Languages** Undercommon
-
-**Challenge** 2 (450 XP)
 
 ***Amphibious.*** The kuo-toa can breathe air and water.
 
@@ -34,11 +29,10 @@ tags: [medium, humanoid, cr2, monster-manual]
 
 ***Unarmored Defense.*** The kuo-toa adds its Wisdom modifier to its armor class.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The kuo-toa makes one bite attack and two unarmed strikes.
 
 ***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
 
 ***Unarmed Strike.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage plus 3 (1d6) lightning damage, and the target can't take reactions until the end of the kuo-toa's next turn.
-

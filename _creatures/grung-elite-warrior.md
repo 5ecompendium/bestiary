@@ -2,31 +2,25 @@
 layout: creature
 name: "Grung Elite Warrior"
 tags: [small, humanoid, cr2, volos-guide]
+cha: 12 (+1)
+wis: 11 (0)
+int: 10 (0)
+con: 15 (+2)
+dex: 16 (+3)
+str: 7 (-2)
+size: Small humanoid (grung)
+alignment: lawful evil
+challenge: "2 (450 XP)"
+languages: "Grung"
+skills: "Athletics +2, Perception +2, Stealth +5, Survival +2"
+damage_immunities: "poison"
+saving_throws: "Dex +5"
+speed: "25 ft., climb 25 ft."
+hit_points: "49 (9d6+18)"
+armor_class: "13"
 ---
 
-**Small humanoid (grung), lawful evil**
-
-**Armor Class** 13
-
-**Hit Points** 49 (9d6+18)
-
-**Speed** 25 ft., climb 25 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 7 (-2) | 16 (+3) | 15 (+2) | 10 (0) | 11 (0) | 12 (+1) |
-
-**Saving Throws** Dex +5
-
-**Skills** Athletics +2, Perception +2, Stealth +5, Survival +2
-
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Languages** Grung
-
-**Challenge** 2 (450 XP)
 
 ***Amphibious.*** The grung can breathe air and water.
 
@@ -42,11 +36,10 @@ Orange. The poisoned creature is frightened of its allies.
 
 Gold. The poisoned creature is charmed and can speak Grung.
 
-**Actions**
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 it, one target. Hit: 5 (1d4+3) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.
 
 ***Shortbow.*** Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6+3) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.
 
 ***Mesmerizing Chirr (Recharge 6).*** The grung makes a chirring noise to which grungs are immune. Each humanoid or beast that is within 15 feet of the grung and able to hear it must succeed on a DC 12 Wisdom saving throw or be stunned until the end of the grung's next turn.
-

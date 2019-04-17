@@ -2,29 +2,23 @@
 layout: creature
 name: "Talis the White"
 tags: [medium, humanoid, cr5, tyranny-of-dragons]
+cha: 16 (+3)
+wis: 16 (+3)
+int: 10 (0)
+con: 14 (+2)
+dex: 12 (+1)
+str: 14 (+2)
+size: Medium humanoid (half-elf)
+alignment: lawful evil
+challenge: "5 (1,800 XP)"
+languages: "Common, Draconic, Elvish, Infernal"
+senses: "darkvision 60 ft."
+skills: "Deception +6, Insight +6, Perception +6, Persuasion +6"
+saving_throws: "Wis +6, Cha +6"
+speed: "30 ft."
+hit_points: "58 (9d8+18)"
+armor_class: "18 (scale mail +1, shield)"
 ---
-
-**Medium humanoid (half-elf), lawful evil**
-
-**Armor Class** 18 (scale mail +1, shield)
-
-**Hit Points** 58 (9d8+18)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 14 (+2) | 12 (+1) | 14 (+2) | 10 (0) | 16 (+3) | 16 (+3) |
-
-**Saving Throws** Wis +6, Cha +6
-
-**Skills** Deception +6, Insight +6, Perception +6, Persuasion +6
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Draconic, Elvish, Infernal
-
-**Challenge** 5 (1,800 XP)
 
 ***Special Equipment.*** Talis has +1 scale mail and a wand of winter.
 
@@ -46,7 +40,6 @@ tags: [medium, humanoid, cr5, tyranny-of-dragons]
 
 ***Winter Strike (3/Day).*** Once per turn, when Talis hits with a melee attack, she can expend a use of this trait to deal an extra 9 (2d8) cold damage.
 
-**Actions**
+### Actions
 
 ***Spear.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or ranged 20 ft./60 ft., one target. Hit: 6 (1d6 + 2) piercing damage.
-

@@ -2,33 +2,27 @@
 layout: creature
 name: "Ultroloth"
 tags: [medium, fiend, cr13, monster-manual]
+cha: 19 (+4)
+wis: 15 (+2)
+int: 18 (+4)
+con: 18 (+4)
+dex: 16 (+3)
+str: 16 (+3)
+size: Medium fiend (yugoloth)
+alignment: neutral evil
+challenge: "13 (10,000 XP)"
+languages: "Abyssal, Infernal, telepathy 120 ft."
+senses: "truesight 120 ft."
+skills: "Intimidation +9, Perception +7, Stealth +8"
+damage_immunities: "acid, poison"
+speed: "30 ft., fly 60 ft."
+hit_points: "153 (18d8+72)"
+armor_class: "19 (natural armor)"
 ---
-
-**Medium fiend (yugoloth), neutral evil**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 153 (18d8+72)
-
-**Speed** 30 ft., fly 60 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 16 (+3) | 16 (+3) | 18 (+4) | 18 (+4) | 15 (+2) | 19 (+4) |
-
-**Skills** Intimidation +9, Perception +7, Stealth +8
 
 **Damage Resistances** cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
 
-**Damage Immunities** acid, poison
-
 **Condition Immunities** charmed, frightened, poisoned
-
-**Senses** truesight 120 ft.
-
-**Languages** Abyssal, Infernal, telepathy 120 ft.
-
-**Challenge** 13 (10,000 XP)
 
 ***Innate Spellcasting.*** The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:
 
@@ -42,7 +36,7 @@ At will: alter self, clairvoyance, darkness, detect magic, detect thoughts, disp
 
 ***Magic Weapons.*** The ultroloth's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The ultroloth can use its Hypnotic Gaze and makes three melee attacks.
 
@@ -57,4 +51,3 @@ At will: alter self, clairvoyance, darkness, detect magic, detect thoughts, disp
 An ultroloth has a 50 percent chance of summoning 1d6 mezzoloths, 1d4 nycaloths, or one ultroloth.
 
 A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other yugoloths. The summoned yugoloth remains for 1 minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it.
-

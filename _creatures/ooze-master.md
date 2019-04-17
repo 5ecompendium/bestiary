@@ -2,35 +2,28 @@
 layout: creature
 name: "Ooze Master"
 tags: [huge, undead, cr10, tales-from-the-yawning-portal]
+cha: 16 (+3)
+wis: 10 (0)
+int: 17 (+3)
+con: 20 (+5)
+dex: 1 (-5)
+str: 16 (+3)
+size: Huge undead
+alignment: lawful evil
+challenge: "10 (5,900 XP)"
+languages: "Common, Primordial, Thayan"
+senses: "blindsight 120 ft."
+skills: "Arcana +7, Insight +4"
+damage_immunities: "acid, cold, poison"
+saving_throws: "Int +7, Wis +4"
+speed: "30 ft., climb 30 ft."
+hit_points: "138 (12d12+60)"
+armor_class: "9 (natural armor)"
 ---
-
-**Huge undead, lawful evil**
-
-**Armor Class** 9 (natural armor)
-
-**Hit Points** 138 (12d12+60)
-
-**Speed** 30 ft., climb 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 16 (+3) | 1 (-5) | 20 (+5) | 17 (+3) | 10 (0) | 16 (+3) |
-
-**Saving Throws** Int +7, Wis +4
-
-**Skills** Arcana +7, Insight +4
 
 **Damage Resistances** lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** acid, cold, poison
-
 **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, poisoned, prone
-
-**Senses** blindsight 120 ft.
-
-**Languages** Common, Primordial, Thayan
-
-**Challenge** 10 (5,900 XP)
 
 ***Source.*** tales from the yawning portal,  page 241
 
@@ -58,11 +51,10 @@ Cantrips (at will): acid splash, friends, mage hand, poison spray
 
 ***Spider Climb.*** The Ooze Master can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-**Actions**
+### Actions
 
 ***Pseudopod.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 13 (3d6 + 3) bludgeoning damage plus 10 (3d6) acid damage.
 
-**Reactions**
+### Reactions
 
 ***Instinctive Charm.*** If a creature the Ooze Master can see makes an attack roll against it while within 30 feet of it, the Ooze Master can use a reaction to divert the attack if another creature is within the attack's range. The attacker must make a DC 15 Wisdom saving throw. On a failed save, the attacker targets the creature that is closest to it, not including itself or the Ooze Master. If multiple creatures are closest, the attacker chooses which one to target. On a successful save, the attacker is immune to this Instinctive Charm for 24 hours. Creatures that can't be charmed are immune to this effect.
-

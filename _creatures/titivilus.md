@@ -3,35 +3,28 @@ layout: creature
 name: "Titivilus"
 tags: [medium, fiend, cr16, mordenkainens-tome-of-foes]
 page_number: 179
+cha: 26 (+8)
+wis: 22 (+6)
+int: 24 (+7)
+con: 17 (+3)
+dex: 22 (+6)
+str: 19 (+4)
+size: Medium fiend (devil)
+alignment: lawful evil
+challenge: "16 (15,000 XP)"
+languages: "all, telepathy 120 ft."
+senses: "darkvision 120 ft., passive Perception 16"
+skills: "Deception +13, Insight +11, Intimidation +13, Persuasion +13"
+damage_immunities: "fire, poison"
+saving_throws: "Dex +11, Con +8, Wis +11, Cha +13"
+speed: "40 ft., fly 60 ft."
+hit_points: "127  (17d8 + 51)"
+armor_class: "20 (natural armor)"
 ---
-
-**Medium fiend (devil), lawful evil**
-
-**Armor Class** 20 (natural armor)
-
-**Hit Points** 127  (17d8 + 51)
-
-**Speed** 40 ft., fly 60 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 19 (+4) | 22 (+6) | 17 (+3) | 24 (+7) | 22 (+6) | 26 (+8) |
-
-**Saving Throws** Dex +11, Con +8, Wis +11, Cha +13
-
-**Skills** Deception +13, Insight +11, Intimidation +13, Persuasion +13
 
 **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** fire, poison
-
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
-
-**Senses** darkvision 120 ft., passive Perception 16
-
-**Languages** all, telepathy 120 ft.
-
-**Challenge** 16 (15,000 XP)
 
 ***Innate Spellcasting.*** Titivilus's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
 * At will: alter self, animate dead, bestow curse, confusion, major image, modify memory, nondetection, sending, suggestion
@@ -45,7 +38,7 @@ page_number: 179
 
 ***Regeneration.*** Titivilus regains 10 hit points at the start of his turn. If he takes cold or radiant damage, this trait doesn't function at the start of his next turn. Titivilus dies only if he starts his turn with 0 hit points and doesn't regenerate. Ventriloquism. Whenever Titivilus speaks, he can choose a point within 60 feet; his voice emanates from that point.
 
-**Actions**
+### Actions
 
 ***Multiattack*** Titivilus makes one sword attack and uses his Frightful Word once.
 
@@ -57,7 +50,7 @@ page_number: 179
 
 ***Twisting Words*** Titivilus targets one creature he can see within 60 feet of him. The target must make a DC 21 Charisma saving throw. On a failure the target is charmed for 1 minute. The charmed target can repeat the saving throw if Titivilus deals any damage to it. A creature that succeeds on the saving throw is immune to Titivilus's Twisting Words for 24 hours.
 
-**Legendary Actions**
+### Legendary Actions
 
 Titivilus can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Titivilus regains spent legendary actions at the start of his turn.
 

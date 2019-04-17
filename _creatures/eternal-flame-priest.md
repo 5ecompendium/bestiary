@@ -2,27 +2,23 @@
 layout: creature
 name: "Eternal Flame Priest"
 tags: [medium, humanoid, cr3, elemental-evil]
+cha: 16 (+3)
+wis: 11 (0)
+int: 10 (0)
+con: 14 (+2)
+dex: 15 (+2)
+str: 12 (+1)
+size: Medium humanoid (human)
+alignment: neutral evil
+challenge: "3 (700 XP)"
+languages: "Common, Ignan"
+skills: "Deception +5, Intimidation +5, Religion +2"
+speed: "30 ft."
+hit_points: "52 (8d8+16)"
+armor_class: "12 (15 with mage armor)"
 ---
 
-**Medium humanoid (human), neutral evil**
-
-**Armor Class** 12 (15 with mage armor)
-
-**Hit Points** 52 (8d8+16)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 12 (+1) | 15 (+2) | 14 (+2) | 10 (0) | 11 (0) | 16 (+3) |
-
-**Skills** Deception +5, Intimidation +5, Religion +2
-
 **Damage Resistances** fire
-
-**Languages** Common, Ignan
-
-**Challenge** 3 (700 XP)
 
 ***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
@@ -34,7 +30,6 @@ tags: [medium, humanoid, cr3, elemental-evil]
 
 * 3rd level (2 slots): fireball
 
-**Actions**
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
-

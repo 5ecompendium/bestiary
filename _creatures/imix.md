@@ -2,33 +2,27 @@
 layout: creature
 name: "Imix"
 tags: [huge, elemental, cr19, elemental-evil]
+cha: 23 (+6)
+wis: 16 (+3)
+int: 15 (+2)
+con: 22 (+6)
+dex: 24 (+7)
+str: 19 (+4)
+size: Huge elemental
+alignment: neutral evil
+challenge: "19 (22,000 XP)"
+languages: "Common, Ignan"
+senses: "blindsight 120 ft."
+damage_immunities: "fire, poison"
+saving_throws: "Dex +14, Con +13, Cha +13"
+speed: "50 ft., fly 50 ft."
+hit_points: "325 (26d12+156)"
+armor_class: "17"
 ---
-
-**Huge elemental, neutral evil**
-
-**Armor Class** 17
-
-**Hit Points** 325 (26d12+156)
-
-**Speed** 50 ft., fly 50 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 19 (+4) | 24 (+7) | 22 (+6) | 15 (+2) | 16 (+3) | 23 (+6) |
-
-**Saving Throws** Dex +14, Con +13, Cha +13
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons
 
-**Damage Immunities** fire, poison
-
 **Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned, prone, restrained
-
-**Senses** blindsight 120 ft.
-
-**Languages** Common, Ignan
-
-**Challenge** 19 (22,000 XP)
 
 ***Empowered Attacks.*** Imix's slam attacks are treated as magical for the purpose of bypassing resistance and immunity to nonmagical weapons.
 
@@ -48,7 +42,7 @@ tags: [huge, elemental, cr19, elemental-evil]
 
 ***Magic Resistance.*** Imix has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Imix makes two slam attacks or two flame blast attacks.
 
@@ -58,7 +52,7 @@ tags: [huge, elemental, cr19, elemental-evil]
 
 ***Summon Elementals (1/Day).*** Imix summons up to three fire elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Imix, and disappear if Imix is reduced to 0 hit points.
 
-**Legendary Actions**
+### Legendary Actions
 
 The imix can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The imix regains spent legendary actions at the start of its turn.
 
@@ -67,4 +61,3 @@ The imix can take 3 legendary actions, choosing from the options below. Only one
 ***Teleport (Costs 2 Actions).*** Imix magically teleports up to 120 feet to an unoccupied space he can see. Anything Imix is wearing or carrying isn't teleported with him.
 
 ***Combustion (Costs 3 Actions).*** Imix causes one creature he can see within 30 feet of him to burst into flames. The target must make a DC 21 Constitution saving throw. On a failed save, the target takes 70 (20d6) fire damage and catches fire. A target on fire takes 10 (3d6) fire damage when it starts its turn, and remains on fire until it or another creature takes an action to douse the flames. On a successful save, the target takes half as much damage and doesn't catch fire.
-

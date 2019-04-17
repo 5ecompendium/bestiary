@@ -2,25 +2,21 @@
 layout: creature
 name: "Naxene Drathkala"
 tags: [medium, humanoid, cr0, storm-kings-thunder]
+cha: 11 (0)
+wis: 12 (+1)
+int: 17 (+3)
+con: 11 (0)
+dex: 11 (0)
+str: 8 (-1)
+size: Medium humanoid (turami human)
+alignment: neutral good
+challenge: "0 (10 XP)"
+languages: "Common, Draconic, Dwarvish, Elvish"
+skills: "Arcana +5, History +5"
+speed: "30 ft."
+hit_points: "27 (6d8)"
+armor_class: "10 (13 with mage armor)"
 ---
-
-**Medium humanoid (turami human), neutral good**
-
-**Armor Class** 10 (13 with mage armor)
-
-**Hit Points** 27 (6d8)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 8 (-1) | 11 (0) | 11 (0) | 17 (+3) | 12 (+1) | 11 (0) |
-
-**Skills** Arcana +5, History +5
-
-**Languages** Common, Draconic, Dwarvish, Elvish
-
-**Challenge** 0 (10 XP)
 
 ***Spellcasting.*** Naxene is a 6th level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13; +5 to hit with spell attacks). She has the following wizard spells prepared:
 
@@ -40,7 +36,6 @@ Bond: "I have great respect for Lady Laeral Silverhand of Waterdeep. She and the
 
 Flaw: "I'm too smart to be wrong about anything."
 
-**Actions**
+### Actions
 
 ***Staff.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one creature. Hit: 2 (1d6-1) bludgeoning damage, or 3 (1d8-1) bludgeoning damage if used with two hands.
-

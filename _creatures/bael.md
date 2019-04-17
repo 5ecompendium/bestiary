@@ -3,35 +3,28 @@ layout: creature
 name: "Bael"
 tags: [large, fiend, cr19, mordenkainens-tome-of-foes]
 page_number: 170
+cha: 24 (+7)
+wis: 24 (+7)
+int: 21 (+5)
+con: 20 (+5)
+dex: 17 (+3)
+str: 24 (+7)
+size: Large fiend (devil)
+alignment: lawful evil
+challenge: "19 (22,000 XP)"
+languages: "all, telepathy 120 ft."
+senses: "truesight 120 ft., passive Perception 23"
+skills: "Intimidation +13, Perception +13, Persuasion +13"
+damage_immunities: "fire, poison"
+saving_throws: "Dex +9, Con +11, Int +11, Cha +13"
+speed: "30 ft."
+hit_points: "189  (18d10 + 90)"
+armor_class: "18 (plate)"
 ---
-
-**Large fiend (devil), lawful evil**
-
-**Armor Class** 18 (plate)
-
-**Hit Points** 189  (18d10 + 90)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 24 (+7) | 17 (+3) | 20 (+5) | 21 (+5) | 24 (+7) | 24 (+7) |
-
-**Saving Throws** Dex +9, Con +11, Int +11, Cha +13
-
-**Skills** Intimidation +13, Perception +13, Persuasion +13
 
 **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** fire, poison
-
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
-
-**Senses** truesight 120 ft., passive Perception 23
-
-**Languages** all, telepathy 120 ft.
-
-**Challenge** 19 (22,000 XP)
 
 ***Dreadful.*** Bael can use a bonus action to appear dreadful until the start of his next turn. Each creature, other than a devil, that starts its turn within 10 feet of Bael must succeed on a DC 22 Wisdom saving throw or be frightened until the start of the creature's next turn.
 
@@ -48,7 +41,7 @@ page_number: 170
 
 ***Regeneration.*** Bael regains 20 hit points at the start of his turn. If he takes cold or radiant damage, this trait doesn't function at the start of his next turn. Bael dies only if he starts his turn with 0 hit points and doesn't regenerate.
 
-**Actions**
+### Actions
 
 ***Multiattack*** Bael makes two melee attacks.
 
@@ -56,7 +49,7 @@ page_number: 170
 
 ***Infernal Command*** Each ally of Bael's within 60 feet of him can't be charmed or frightened until the end of his next turn. Teleport. Bael magically teleports, along with any equipment he is wearing and carrying, up to 120 feet to an unoccupied space he can see.
 
-**Legendary Actions**
+### Legendary Actions
 
 Bael can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Bael regains spent legendary actions at the start of his turn.
 

@@ -2,29 +2,24 @@
 layout: creature
 name: "Duergar Spy"
 tags: [medium, humanoid, cr2, tales-from-the-yawning-portal]
+cha: 13 (+1)
+wis: 10 (0)
+int: 12 (+1)
+con: 12 (+1)
+dex: 16 (+3)
+str: 10 (0)
+size: Medium humanoid (dwarf)
+alignment: lawful evil
+challenge: "2 (450 XP)"
+languages: "Dwarvish, Undercommon"
+senses: "darkvision 120 ft."
+skills: "Deception +5, Insight +2, Investigation +5, Perception +4, Persuasion +3, Sleight of Hand +5, Stealth +7"
+speed: "25 ft."
+hit_points: "33 (6d8+6)"
+armor_class: "15 (studded leather)"
 ---
 
-**Medium humanoid (dwarf), lawful evil**
-
-**Armor Class** 15 (studded leather)
-
-**Hit Points** 33 (6d8+6)
-
-**Speed** 25 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 10 (0) | 16 (+3) | 12 (+1) | 12 (+1) | 10 (0) | 13 (+1) |
-
-**Skills** Deception +5, Insight +2, Investigation +5, Perception +4, Persuasion +3, Sleight of Hand +5, Stealth +7
-
 **Damage Resistances** poison
-
-**Senses** darkvision 120 ft.
-
-**Languages** Dwarvish, Undercommon
-
-**Challenge** 2 (450 XP)
 
 ***Source.*** tales from the yawning portal,  page 234
 
@@ -36,7 +31,7 @@ tags: [medium, humanoid, cr2, tales-from-the-yawning-portal]
 
 ***Sunlight Sensitivity.*** While in sunlight, the spy has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The spy makes two shortsword attacks.
 
@@ -47,4 +42,3 @@ tags: [medium, humanoid, cr2, tales-from-the-yawning-portal]
 ***Hand Crossbow.*** Ranged Weapon Attack: +5 to hit, range 30/120 ft ., one target. Hit: 6 (1d6 + 3) piercing damage.
 
 ***Invisibility (Recharges after a Short or Long Rest).*** The spy magically turns invisible until it attacks, deals damage, casts a spell, or uses its Enlarge, or until its concentration is broken, up to 1 hour (as if concentrating on a spell). Any equipment the spy wears or carries is invisible with it.
-

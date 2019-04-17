@@ -3,35 +3,28 @@ layout: creature
 name: "Nabassu"
 tags: [medium, fiend, cr15, mordenkainens-tome-of-foes]
 page_number: 135
+cha: 17 (+3)
+wis: 15 (+2)
+int: 14 (+2)
+con: 21 (+5)
+dex: 14 (+2)
+str: 22 (+6)
+size: Medium fiend (demon)
+alignment: chaotic evil
+challenge: "15 (13,000 XP)"
+languages: "Abyssal, telepathy 120 ft."
+senses: "darkvision 60 ft., passive Perception 17"
+skills: "Perception +7"
+damage_immunities: "poison"
+saving_throws: "Str +11, Dex +7"
+speed: "40 ft., fly 60 ft."
+hit_points: "190  (20d8 + 100)"
+armor_class: "18 (natural armor)"
 ---
-
-**Medium fiend (demon), chaotic evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 190  (20d8 + 100)
-
-**Speed** 40 ft., fly 60 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 22 (+6) | 14 (+2) | 21 (+5) | 14 (+2) | 15 (+2) | 17 (+3) |
-
-**Saving Throws** Str +11, Dex +7
-
-**Skills** Perception +7
 
 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 60 ft., passive Perception 17
-
-**Languages** Abyssal, telepathy 120 ft.
-
-**Challenge** 15 (13,000 XP)
 
 ***Demonic Shadows.*** The nabassu darkens the area around its body in a 10-foot radius. Nonmagical light can't illuminate this area of dim light.
 
@@ -41,7 +34,7 @@ page_number: 135
 
 ***Magic Weapons.*** The nabassu's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The nabassu uses its Soul-Stealing Gaze and makes two attacks: one with its claws and one with its bite.
 

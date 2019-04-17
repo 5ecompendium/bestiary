@@ -3,33 +3,26 @@ layout: creature
 name: "Skulk"
 tags: [medium, humanoid, cr1/2, mordenkainens-tome-of-foes]
 page_number: 227
+cha: 1 (-4)
+wis: 7 (-1)
+int: 10 (0)
+con: 10 (0)
+dex: 19 (+4)
+str: 6 (-2)
+size: Medium humanoid
+alignment: chaotic neutral
+challenge: "1/2 (100 XP)"
+languages: "understands Common but can't speak"
+senses: "darkvision 120 ft., passive Perception 8"
+skills: "Stealth +8"
+damage_immunities: "radiant"
+saving_throws: "Con +2"
+speed: "30 ft."
+hit_points: "18  (4d8)"
+armor_class: "14"
 ---
 
-**Medium humanoid, chaotic neutral**
-
-**Armor Class** 14
-
-**Hit Points** 18  (4d8)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 6 (-2) | 19 (+4) | 10 (0) | 10 (0) | 7 (-1) | 1 (-4) |
-
-**Saving Throws** Con +2
-
-**Skills** Stealth +8
-
-**Damage Immunities** radiant
-
 **Condition Immunities** blinded
-
-**Senses** darkvision 120 ft., passive Perception 8
-
-**Languages** understands Common but can't speak
-
-**Challenge** 1/2 (100 XP)
 
 ***Fallible Invisibility.*** The skulk is invisible. This invisibility can be circumvented by three things:
 > The skulk appears as a drab, smooth-skinned humanoid if its reflection can be seen in a mirror or on another surface.
@@ -38,6 +31,6 @@ page_number: 227
 
 ***Trackless.*** The skulk leaves no tracks to indicate where it has been or where it's headed.
 
-**Actions**
+### Actions
 
 ***Claws*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d4 + 4) slashing damage. If the skulk has advantage on the attack roll, the target also takes 7 (2d6) necrotic damage.

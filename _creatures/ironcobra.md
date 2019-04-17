@@ -3,35 +3,29 @@ layout: creature
 name: "Iron Cobra"
 tags: [medium, construct, cr4, mordenkainens-tome-of-foes]
 page_number: 125
+cha: 1 (-4)
+wis: 10 (0)
+int: 3 (-3)
+con: 14 (+2)
+dex: 16 (+3)
+str: 12 (+1)
+size: Medium construct
+alignment: unaligned
+challenge: "4 (1100 XP)"
+languages: "understands one language of its creator but can't speak"
+senses: "darkvision 60 ft., passive Perception 10"
+skills: "Stealth +7"
+damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
+speed: "30 ft."
+hit_points: "45  (7d8 + 14)"
+armor_class: "13"
 ---
-
-**Medium construct, unaligned**
-
-**Armor Class** 13
-
-**Hit Points** 45  (7d8 + 14)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 12 (+1) | 16 (+3) | 14 (+2) | 3 (-3) | 10 (0) | 1 (-4) |
-
-**Skills** Stealth +7
-
-**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
-**Senses** darkvision 60 ft., passive Perception 10
-
-**Languages** understands one language of its creator but can't speak
-
-**Challenge** 4 (1100 XP)
-
 ***Magic Resistance.*** The iron cobra has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Bite*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage. If the target is a creature, it must succeed on a DC 13 Constitution saving throw or suffer one random poison effect:
 * 1. Poison Damage: The target takes 13 (3d8) poison damage.

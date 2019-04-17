@@ -3,35 +3,28 @@ layout: creature
 name: "Graz'zt"
 tags: [large, fiend, cr24, mordenkainens-tome-of-foes]
 page_number: 149
+cha: 26 (+8)
+wis: 21 (+5)
+int: 23 (+6)
+con: 21 (+5)
+dex: 15 (+2)
+str: 22 (+6)
+size: Large fiend (demon
+alignment: shapechanger)
+challenge: "24 (62,000 XP)"
+languages: "all, telepathy 120 ft."
+senses: "truesight 120 ft., passive Perception 22"
+skills: "Deception +15, Insight +12, Perception +12, Persuasion +15"
+damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks"
+saving_throws: "Dex +9, Con +12, Wis +12"
+speed: "40 ft."
+hit_points: "346  (33d10 + 165)"
+armor_class: "20 (natural armor)"
 ---
-
-**Large fiend (demon, shapechanger), chaotic evil**
-
-**Armor Class** 20 (natural armor)
-
-**Hit Points** 346  (33d10 + 165)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 22 (+6) | 15 (+2) | 21 (+5) | 23 (+6) | 21 (+5) | 26 (+8) |
-
-**Saving Throws** Dex +9, Con +12, Wis +12
-
-**Skills** Deception +15, Insight +12, Perception +12, Persuasion +15
 
 **Damage Resistances** cold, fire, lightning
 
-**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
-
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
-
-**Senses** truesight 120 ft., passive Perception 22
-
-**Languages** all, telepathy 120 ft.
-
-**Challenge** 24 (62,000 XP)
 
 ***Shapechanger.*** Graz'zt can use his action to polymorph into a form that resembles a Medium humanoid, or back into his true form. Aside from his size, his statistics are the same in each form. Any equipment he is wearing or carrying isn't transformed.
 
@@ -46,7 +39,7 @@ page_number: 149
 
 ***Magic Weapons.*** Graz'zt's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack*** Graz'zt attacks twice with Wave of Sorrow.
 
@@ -54,7 +47,7 @@ page_number: 149
 
 ***Teleport*** Graz'zt magically teleports, along with any equipment he is wearing or carrying, up to 120 feet to an unoccupied space he can see.
 
-**Legendary Actions**
+### Legendary Actions
 
 Graz'zt can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Graz'zt regains spent legendary actions at the start of his turn.
 

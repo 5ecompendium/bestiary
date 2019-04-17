@@ -3,29 +3,25 @@ layout: creature
 name: "Ogre Battering Ram"
 tags: [large, giant, cr4, mordenkainens-tome-of-foes]
 page_number: 220
+cha: 7 (-1)
+wis: 7 (-1)
+int: 5 (-2)
+con: 16 (+3)
+dex: 8 (-1)
+str: 19 (+4)
+size: Large giant
+alignment: chaotic evil
+challenge: "4 (1100 XP)"
+languages: "Common, Giant"
+senses: "darkvision 60 ft., passive Perception 8"
+speed: "40 ft."
+hit_points: "59  (7d10 + 21)"
+armor_class: "14 (ring mail)"
 ---
-
-**Large giant, chaotic evil**
-
-**Armor Class** 14 (ring mail)
-
-**Hit Points** 59  (7d10 + 21)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 19 (+4) | 8 (-1) | 16 (+3) | 5 (-2) | 7 (-1) | 7 (-1) |
-
-**Senses** darkvision 60 ft., passive Perception 8
-
-**Languages** Common, Giant
-
-**Challenge** 4 (1100 XP)
 
 ***Siege Monster.*** The ogre deals double damage to objects and structures.
 
-**Actions**
+### Actions
 
 ***Bash*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) bludgeoning damage, and the ogre can push the target 5 feet away if the target is Huge or smaller.
 

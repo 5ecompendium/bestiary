@@ -3,37 +3,30 @@ layout: creature
 name: "Shadow Assassin"
 tags: [medium, undead, cr9, dungeon-of-the-mad-mage]
 page_number: 316
+cha: 14 (+2)
+wis: 12 (+1)
+int: 13 (+1)
+con: 14 (+2)
+dex: 19 (+4)
+str: 6 (-2)
+size: Medium undead
+alignment: chaotic evil
+challenge: "9 (5,000 XP)"
+languages: "understands the languages it knew in life but can’t speak"
+senses: "darkvision 60 ft., passive Perception 19"
+skills: "Perception +9, Stealth +12"
+damage_immunities: "necrotic, poison"
+saving_throws: "Dex +8, Int +5"
+speed: "40 ft."
+hit_points: "78 (12d8 + 24)"
+armor_class: "14"
 ---
-
-**Medium undead, chaotic evil**
-
-**Armor Class** 14
-
-**Hit Points** 78 (12d8 + 24)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 6 (-2) | 19 (+4) | 14 (+2) | 13 (+1) | 12 (+1) | 14 (+2) |
-
-**Saving Throws** Dex +8, Int +5
-
-**Skills** Perception +9, Stealth +12
 
 **Damage Vulnerabilities** radiant
 
 **Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** necrotic, poison
-
 **Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
-
-**Senses** darkvision 60 ft., passive Perception 19
-
-**Languages** understands the languages it knew in life but can’t speak
-
-**Challenge** 9 (5,000 XP)
 
 ***Amorphous.*** The assassin can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -41,7 +34,7 @@ page_number: 316
 
 ***Sunlight Weakness.*** While in sunlight, the assassin has disadvantage on attack rolls, ability checks, and saving throws.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The assassin makes two Shadow Blade attacks.
 

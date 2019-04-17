@@ -2,29 +2,23 @@
 layout: creature
 name: "Jamna Gleamsilver"
 tags: [small, humanoid, cr1, tyranny-of-dragons]
+cha: 12 (+1)
+wis: 10 (0)
+int: 15 (+2)
+con: 14 (+2)
+dex: 17 (+3)
+str: 8 (-1)
+size: Small humanoid (gnome)
+alignment: neutral
+challenge: "1 (200 XP)"
+languages: "Common, Gnomish, Goblin, Sylvan"
+senses: "darkvision 60 ft."
+skills: "Acrobatics +5, Deception +3, Insight +2, Perception +4, Persuasion +3, Stealth +7"
+saving_throws: "Dex +5, Int +4"
+speed: "25 ft."
+hit_points: "22 (4d6+8)"
+armor_class: "15 (leather armor)"
 ---
-
-**Small humanoid (gnome), neutral**
-
-**Armor Class** 15 (leather armor)
-
-**Hit Points** 22 (4d6+8)
-
-**Speed** 25 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 8 (-1) | 17 (+3) | 14 (+2) | 15 (+2) | 10 (0) | 12 (+1) |
-
-**Saving Throws** Dex +5, Int +4
-
-**Skills** Acrobatics +5, Deception +3, Insight +2, Perception +4, Persuasion +3, Stealth +7
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Gnomish, Goblin, Sylvan
-
-**Challenge** 1 (200 XP)
 
 ***Cunning Action.*** Jamna can take a bonus action to take the Dash, Disengage, or Hide action.
 
@@ -36,9 +30,8 @@ tags: [small, humanoid, cr1, tyranny-of-dragons]
 
 * 1st level (3 slots): charm person, color spray, disguise self, longstrider
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Jamna attacks twice with her shortswords.
 
 ***Shortsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, or 9 (1d6 + 3) plus (1d6) piercing damage if the target is Medium or larger.
-

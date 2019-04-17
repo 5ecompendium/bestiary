@@ -2,35 +2,28 @@
 layout: creature
 name: "Lich"
 tags: [medium, undead, cr21, monster-manual]
+cha: 16 (+3)
+wis: 14 (+2)
+int: 20 (+5)
+con: 16 (+3)
+dex: 16 (+3)
+str: 11 (0)
+size: Medium undead
+alignment: any evil alignment
+challenge: "21 (33,000 XP)"
+languages: "Common plus up to five other languages"
+senses: "truesight 120 ft."
+skills: "Arcana +18, History +12, Insight +9, Perception +9"
+damage_immunities: "poison, bludgeoning, piercing, and slashing from nonmagical weapons"
+saving_throws: "Con +10, Int +12, Wis +9"
+speed: "30 ft."
+hit_points: "135 (18d8+54)"
+armor_class: "17 (natural armor)"
 ---
-
-**Medium undead, any evil alignment**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 135 (18d8+54)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 11 (0) | 16 (+3) | 16 (+3) | 20 (+5) | 14 (+2) | 16 (+3) |
-
-**Saving Throws** Con +10, Int +12, Wis +9
-
-**Skills** Arcana +18, History +12, Insight +9, Perception +9
 
 **Damage Resistances** cold, lightning, necrotic
 
-**Damage Immunities** poison, bludgeoning, piercing, and slashing from nonmagical weapons
-
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
-
-**Senses** truesight 120 ft.
-
-**Languages** Common plus up to five other languages
-
-**Challenge** 21 (33,000 XP)
 
 ***Legendary Resistance (3/Day).*** If the lich fails a saving throw, it can choose to succeed instead.
 
@@ -60,11 +53,11 @@ tags: [medium, undead, cr21, monster-manual]
 
 ***Turn Resistance.*** The lich has advantage on saving throws against any effect that turns undead.
 
-**Actions**
+### Actions
 
 ***Paralyzing Touch.*** Melee Spell Attack: +12 to hit, reach 5 ft., one creature. Hit: 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**Legendary Actions**
+### Legendary Actions
 
 The lich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The lich regains spent legendary actions at the start of its turn.
 
@@ -75,4 +68,3 @@ The lich can take 3 legendary actions, choosing from the options below. Only one
 ***Frightening Gaze (Costs 2 Actions).*** The lich fixes its gaze on one creature it can see within 10 feet of it. The target must succeed on a DC 18 Wisdom saving throw against this magic or become frightened for 1 minute. The frightened target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a target's saving throw is successful or the effect ends for it, the target is immune to the lich's gaze for the next 24 hours.
 
 ***Disrupt Life (Costs 3 Actions).*** Each non-undead creature within 20 feet of the lich must make a DC 18 Constitution saving throw against this magic, taking 21 (6d6) necrotic damage on a failed save, or half as much damage on a successful one.
-

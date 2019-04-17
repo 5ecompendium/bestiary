@@ -2,25 +2,21 @@
 layout: creature
 name: "Killer Whale"
 tags: [huge, beast, cr3, monster-manual]
+cha: 7 (-2)
+wis: 12 (+1)
+int: 3 (-4)
+con: 13 (+1)
+dex: 10 (0)
+str: 19 (+4)
+size: Huge beast
+alignment: unaligned
+challenge: "3 (700 XP)"
+senses: "blindsight 120 ft."
+skills: "Perception +3"
+speed: "swim 60 ft."
+hit_points: "90 (12d12+12)"
+armor_class: "12 (natural armor)"
 ---
-
-**Huge beast, unaligned**
-
-**Armor Class** 12 (natural armor)
-
-**Hit Points** 90 (12d12+12)
-
-**Speed** swim 60 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 19 (+4) | 10 (0) | 13 (+1) | 3 (-4) | 12 (+1) | 7 (-2) |
-
-**Skills** Perception +3
-
-**Senses** blindsight 120 ft.
-
-**Challenge** 3 (700 XP)
 
 ***Echolocation.*** The whale can't use its blindsight while deafened.
 
@@ -28,7 +24,6 @@ tags: [huge, beast, cr3, monster-manual]
 
 ***Keen Hearing.*** The whale has advantage on Wisdom (Perception) checks that rely on hearing.
 
-**Actions**
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 21 (5d6 + 4) piercing damage.
-

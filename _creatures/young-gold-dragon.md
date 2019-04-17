@@ -2,35 +2,28 @@
 layout: creature
 name: "Young Gold Dragon"
 tags: [large, dragon, cr10, monster-manual]
+cha: 20 (+5)
+wis: 13 (+1)
+int: 16 (+3)
+con: 21 (+5)
+dex: 14 (+2)
+str: 23 (+6)
+size: Large dragon
+alignment: lawful good
+challenge: "10 (5,900 XP)"
+languages: "Common, Draconic"
+senses: "blindsight 30 ft., darkvision 120 ft."
+skills: "Insight +5, Perception +9, Persuasion +9, Stealth +6"
+damage_immunities: "fire"
+saving_throws: "Dex +6, Con +9, Wis +5, Cha +9"
+speed: "40 ft., fly 80 ft., swim 40 ft."
+hit_points: "178 (17d10+85)"
+armor_class: "18 (natural armor)"
 ---
-
-**Large dragon, lawful good**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 178 (17d10+85)
-
-**Speed** 40 ft., fly 80 ft., swim 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 23 (+6) | 14 (+2) | 21 (+5) | 16 (+3) | 13 (+1) | 20 (+5) |
-
-**Saving Throws** Dex +6, Con +9, Wis +5, Cha +9
-
-**Skills** Insight +5, Perception +9, Persuasion +9, Stealth +6
-
-**Damage Immunities** fire
-
-**Senses** blindsight 30 ft., darkvision 120 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 10 (5,900 XP)
 
 ***Amphibious.*** The dragon can breathe air and water.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The dragon makes three attacks: one with its bite and two with its claws.
 
@@ -43,4 +36,3 @@ tags: [large, dragon, cr10, monster-manual]
 Fire Breath. The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 55 (10d10) fire damage on a failed save, or half as much damage on a successful one.
 
 Weakening Breath. The dragon exhales gas in a 30-foot cone. Each creature in that area must succeed on a DC 17 Strength saving throw or have disadvantage on Strength-based attack rolls, Strength checks, and Strength saving throws for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
-

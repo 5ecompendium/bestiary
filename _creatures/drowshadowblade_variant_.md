@@ -3,29 +3,23 @@ layout: creature
 name: "Drow Shadowblade (variant)"
 tags: [medium, humanoid, cr11, mordenkainens-tome-of-foes]
 page_number: 187
+cha: 13 (+1)
+wis: 14 (+2)
+int: 12 (+1)
+con: 16 (+3)
+dex: 21 (+5)
+str: 14 (+2)
+size: Medium humanoid (elf)
+alignment: neutral evil
+challenge: "11 (7200 XP)"
+languages: "Elvish, Undercommon"
+senses: "darkvision 120 ft., passive Perception 16"
+skills: "Perception +6, Stealth +9"
+saving_throws: "Dex +9, Con +7, Wis +6"
+speed: "30 ft."
+hit_points: "150  (20d8 + 60)"
+armor_class: "17 (studded leather)"
 ---
-
-**Medium humanoid (elf), neutral evil**
-
-**Armor Class** 17 (studded leather)
-
-**Hit Points** 150  (20d8 + 60)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 14 (+2) | 21 (+5) | 16 (+3) | 12 (+1) | 14 (+2) | 13 (+1) |
-
-**Saving Throws** Dex +9, Con +7, Wis +6
-
-**Skills** Perception +6, Stealth +9
-
-**Senses** darkvision 120 ft., passive Perception 16
-
-**Languages** Elvish, Undercommon
-
-**Challenge** 11 (7200 XP)
 
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
@@ -37,7 +31,7 @@ page_number: 187
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The drow makes two attacks with its shadow sword. If either attack hits and the target is within 10 feet of a 5-foot cube of darkness created by the shadow sword on a previous turn, the drow can dismiss that darkness and cause the target to take 21 (6d6) necrotic damage. The drow can dismiss darkness in this way no more than once per turn.
 

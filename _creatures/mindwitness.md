@@ -2,35 +2,29 @@
 layout: creature
 name: "Mindwitness"
 tags: [large, aberration, cr5, volos-guide]
+cha: 10 (0)
+wis: 15 (+2)
+int: 15 (+2)
+con: 14 (+2)
+dex: 14 (+2)
+str: 10 (0)
+size: Large aberration
+alignment: lawful evil
+challenge: "5 (1,800 XP)"
+languages: "Deep Speech, Undercommon, telepathy 600 ft."
+senses: "darkvision 120 ft."
+skills: "Perception +8"
+saving_throws: "Int +5, Wis +5"
+speed: "0 ft., fly 20 ft. (hover)"
+hit_points: "75 (10d10+20)"
+armor_class: "15 (natural armor)"
 ---
-
-**Large aberration, lawful evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 75 (10d10+20)
-
-**Speed** 0 ft., fly 20 ft. (hover)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 10 (0) | 14 (+2) | 14 (+2) | 15 (+2) | 15 (+2) | 10 (0) |
-
-**Saving Throws** Int +5, Wis +5
-
-**Skills** Perception +8
 
 **Condition Immunities** prone
 
-**Senses** darkvision 120 ft.
-
-**Languages** Deep Speech, Undercommon, telepathy 600 ft.
-
-**Challenge** 5 (1,800 XP)
-
 ***Telepathic Hub.*** When the mindwitness receives a telepathic message, it can telepathically share that message with up to seven other creatures within 600 feet of it that it can see.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The mindwitness makes two attacks: one with its tentacles and one with its bite.
 
@@ -53,4 +47,3 @@ tags: [large, aberration, cr5, volos-guide]
 6. Telekinetic Ray: If the target is a creature, it must make a DC 13 Strength saving throw. On a failed save, the mindwitness moves it up to 30 feet in any direction, and it is restrained by the ray's telekinetic grip until the start of the mindwitness's next turn or until the mindwitness is incapacitated.
 
 >If the target is an object weighing 300 pounds or less that isn't being worn or carried, it is telekinetically moved up to 30 feet in any direction. The mindwitness can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a door or a container.
-

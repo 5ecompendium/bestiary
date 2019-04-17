@@ -2,33 +2,27 @@
 layout: creature
 name: "Nycaloth"
 tags: [large, fiend, cr9, monster-manual]
+cha: 15 (+2)
+wis: 10 (0)
+int: 12 (+1)
+con: 19 (+4)
+dex: 11 (0)
+str: 20 (+5)
+size: Large fiend (yugoloth)
+alignment: neutral evil
+challenge: "9 (5,000 XP)"
+languages: "Abyssal, Infernal, telepathy 60 ft."
+senses: "blindsight 60 ft., darkvision 60 ft."
+skills: "Intimidation +6, Perception +4, Stealth +4"
+damage_immunities: "acid, poison"
+speed: "40 ft., fly 60 ft."
+hit_points: "123 (13d10+52)"
+armor_class: "18 (natural armor)"
 ---
-
-**Large fiend (yugoloth), neutral evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 123 (13d10+52)
-
-**Speed** 40 ft., fly 60 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 20 (+5) | 11 (0) | 19 (+4) | 12 (+1) | 10 (0) | 15 (+2) |
-
-**Skills** Intimidation +6, Perception +4, Stealth +4
 
 **Damage Resistances** cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
 
-**Damage Immunities** acid, poison
-
 **Condition Immunities** poisoned
-
-**Senses** blindsight 60 ft., darkvision 60 ft.
-
-**Languages** Abyssal, Infernal, telepathy 60 ft.
-
-**Challenge** 9 (5,000 XP)
 
 ***Innate Spellcasting.*** The nycaloth's innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components:
 
@@ -38,7 +32,7 @@ At will: darkness, detect magic, dispel magic, invisibility (self only), mirror 
 
 ***Magic Weapons.*** The nycaloth's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The nycaloth makes two melee attacks, or it makes one melee attack and teleports before or after the attack.
 
@@ -53,4 +47,3 @@ At will: darkness, detect magic, dispel magic, invisibility (self only), mirror 
 A nycaloth has a 50 percent chance of summoning 1d4 mezzoloths or one nycaloth.
 
 A summoned yugoloth appears in an unoccupied space within 60 feet of its summoner, does as it pleases, and can't summon other yugoloths. The summoned yugoloth remains for 1 minute, until it or its summoner dies, or until its summoner takes a bonus action to dismiss it.
-

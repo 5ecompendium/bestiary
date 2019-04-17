@@ -2,25 +2,21 @@
 layout: creature
 name: "Ettercap"
 tags: [medium, monstrosity, cr2, monster-manual]
+cha: 8 (-1)
+wis: 12 (+1)
+int: 7 (-2)
+con: 13 (+1)
+dex: 15 (+2)
+str: 14 (+2)
+size: Medium monstrosity
+alignment: neutral evil
+challenge: "2 (450 XP)"
+senses: "darkvision 60 ft."
+skills: "Perception +3, Stealth +4, Survival +3"
+speed: "30 ft., climb 30 ft."
+hit_points: "44 (8d8+8)"
+armor_class: "13 (natural armor)"
 ---
-
-**Medium monstrosity, neutral evil**
-
-**Armor Class** 13 (natural armor)
-
-**Hit Points** 44 (8d8+8)
-
-**Speed** 30 ft., climb 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 14 (+2) | 15 (+2) | 13 (+1) | 7 (-2) | 12 (+1) | 8 (-1) |
-
-**Skills** Perception +3, Stealth +4, Survival +3
-
-**Senses** darkvision 60 ft.
-
-**Challenge** 2 (450 XP)
 
 ***Spider Climb.*** The ettercap can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -28,7 +24,7 @@ tags: [medium, monstrosity, cr2, monster-manual]
 
 ***Web Walker.*** The ettercap ignores movement restrictions caused by webbing.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The ettercap makes two attacks: one with its bite and one with its claws.
 
@@ -39,4 +35,3 @@ tags: [medium, monstrosity, cr2, monster-manual]
 ***Web (Recharge 5-6).*** Ranged Weapon Attack: +4 to hit, range 30/60 ft., one Large or smaller creature. Hit: The creature is restrained by webbing. As an action, the restrained creature can make a DC 11 Strength check, escaping from the webbing on a success. The effect ends if the webbing is destroyed. The webbing has AC 10, 5 hit points, is vulnerable to fire damage and immune to bludgeoning damage.
 
 ***Variant: Web Garrote.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one Medium or Small creature against which the ettercap has advantage on the attack roll. Hit: 4 (1d4 + 2) bludgeoning damage, and the target is grappled (escape DC 12). Until this grapple ends, the target can't breathe, and the ettercap has advantage on attack rolls against it.
-

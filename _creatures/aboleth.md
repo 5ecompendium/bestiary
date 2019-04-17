@@ -2,29 +2,23 @@
 layout: creature
 name: "Aboleth"
 tags: [large, aberration, cr10, monster-manual]
+cha: 18 (+4)
+wis: 15 (+2)
+int: 18 (+4)
+con: 15 (+2)
+dex: 9 (-1)
+str: 21 (+5)
+size: Large aberration
+alignment: lawful evil
+challenge: "10 (5,900 XP)"
+languages: "Deep Speech, telepathy 120 ft."
+senses: "darkvision 120 ft."
+skills: "History +12, Perception +10"
+saving_throws: "Con +6, Int +8, Wis +6"
+speed: "10 ft., swim 40 ft."
+hit_points: "135 (18d10+36)"
+armor_class: "17 (natural armor)"
 ---
-
-**Large aberration, lawful evil**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 135 (18d10+36)
-
-**Speed** 10 ft., swim 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 21 (+5) | 9 (-1) | 15 (+2) | 18 (+4) | 15 (+2) | 18 (+4) |
-
-**Saving Throws** Con +6, Int +8, Wis +6
-
-**Skills** History +12, Perception +10
-
-**Senses** darkvision 120 ft.
-
-**Languages** Deep Speech, telepathy 120 ft.
-
-**Challenge** 10 (5,900 XP)
 
 ***Amphibious.*** The aboleth can breathe air and water.
 
@@ -32,7 +26,7 @@ tags: [large, aberration, cr10, monster-manual]
 
 ***Probing Telepathy.*** If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The aboleth makes three tentacle attacks.
 
@@ -44,7 +38,7 @@ tags: [large, aberration, cr10, monster-manual]
 
 Whenever the charmed target takes damage, the target can repeat the saving throw. On a success, the effect ends. No more than once every 24 hours, the target can also repeat the saving throw when it is at least 1 mile away from the aboleth.
 
-**Legendary Actions**
+### Legendary Actions
 
 The aboleth can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The aboleth regains spent legendary actions at the start of its turn.
 
@@ -53,4 +47,3 @@ The aboleth can take 3 legendary actions, choosing from the options below. Only 
 ***Tail Swipe.*** The aboleth makes one tail attack.
 
 ***Psychic Drain (Costs 2 Actions).*** One creature charmed by the aboleth takes 10 (3d6) psychic damage, and the aboleth regains hit points equal to the damage the creature takes.
-

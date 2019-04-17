@@ -3,35 +3,28 @@ layout: creature
 name: "Yagnoloth"
 tags: [large, fiend, cr11, mordenkainens-tome-of-foes]
 page_number: 252
+cha: 18 (+4)
+wis: 15 (+2)
+int: 16 (+3)
+con: 21 (+5)
+dex: 14 (+2)
+str: 19 (+4)
+size: Large fiend (yugoloth)
+alignment: neutral evil
+challenge: "11 (7200 XP)"
+languages: "Abyssal, Infernal, telepathy 60 ft."
+senses: "blindsight 60 ft., darkvision 60 ft., passive Perception 16"
+skills: "Deception +8, Insight +6, Perception +6, Persuasion +8"
+damage_immunities: "acid, poison"
+saving_throws: "Dex +6, Int +7, Wis +6, Cha +8"
+speed: "40 ft."
+hit_points: "147  (14d10 + 70)"
+armor_class: "17 (natural armor)"
 ---
-
-**Large fiend (yugoloth), neutral evil**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 147  (14d10 + 70)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 19 (+4) | 14 (+2) | 21 (+5) | 16 (+3) | 15 (+2) | 18 (+4) |
-
-**Saving Throws** Dex +6, Int +7, Wis +6, Cha +8
-
-**Skills** Deception +8, Insight +6, Perception +6, Persuasion +8
 
 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** acid, poison
-
 **Condition Immunities** poisoned
-
-**Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 16
-
-**Languages** Abyssal, Infernal, telepathy 60 ft.
-
-**Challenge** 11 (7200 XP)
 
 ***Innate Spellcasting.*** The yagnoloth's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 * At will: darkness, detect magic, dispel magic, invisibility (self only), suggestion
@@ -41,7 +34,7 @@ page_number: 252
 
 ***Magic Weapons.*** The yagnoloth's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The yagnoloth makes one massive arm attack and one electrified touch attack, or it makes one massive arm attack and teleports before or after the attack.
 

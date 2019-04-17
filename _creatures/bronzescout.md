@@ -3,37 +3,31 @@ layout: creature
 name: "Bronze Scout"
 tags: [medium, construct, cr1, mordenkainens-tome-of-foes]
 page_number: 125
+cha: 1 (-4)
+wis: 14 (+2)
+int: 3 (-3)
+con: 11 (0)
+dex: 16 (+3)
+str: 10 (0)
+size: Medium construct
+alignment: unaligned
+challenge: "1 (200 XP)"
+languages: "understands one language of its creator but can't speak"
+senses: "darkvision 60 ft., passive Perception 16"
+skills: "Perception +6, Stealth +7"
+damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
+speed: "30 ft., burrow 30 ft."
+hit_points: "18  (4d8)"
+armor_class: "13"
 ---
 
-**Medium construct, unaligned**
-
-**Armor Class** 13
-
-**Hit Points** 18  (4d8)
-
-**Speed** 30 ft., burrow 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 10 (0) | 16 (+3) | 11 (0) | 3 (-3) | 14 (+2) | 1 (-4) |
-
-**Skills** Perception +6, Stealth +7
-
-**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
-
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-
-**Senses** darkvision 60 ft., passive Perception 16
-
-**Languages** understands one language of its creator but can't speak
-
-**Challenge** 1 (200 XP)
 
 ***Earth Armor.*** The bronze scout doesn't provoke opportunity attacks when it burrows.
 
 ***Magic Resistance.*** The bronze scout has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Bite*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage plus 3 (1d6) lightning damage.
 

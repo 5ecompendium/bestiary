@@ -3,35 +3,30 @@ layout: creature
 name: "Water Elemental Myrmidon"
 tags: [medium, elemental, cr7, mordenkainens-tome-of-foes]
 page_number: 203
+cha: 10 (0)
+wis: 10 (0)
+int: 8 (-1)
+con: 15 (+2)
+dex: 14 (+2)
+str: 18 (+4)
+size: Medium elemental
+alignment: neutral
+challenge: "7 (2900 XP)"
+languages: "Aquan, one language of its creator's choice"
+senses: "darkvision 60 ft., passive Perception 10"
+damage_immunities: "poison"
+speed: "40 ft., swim 40 ft."
+hit_points: "127  (17d8 + 51)"
+armor_class: "18 (plate)"
 ---
-
-**Medium elemental, neutral**
-
-**Armor Class** 18 (plate)
-
-**Hit Points** 127  (17d8 + 51)
-
-**Speed** 40 ft., swim 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 18 (+4) | 14 (+2) | 15 (+2) | 8 (-1) | 10 (0) | 10 (0) |
 
 **Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** poison
-
 **Condition Immunities** paralyzed, petrified, poisoned, prone
-
-**Senses** darkvision 60 ft., passive Perception 10
-
-**Languages** Aquan, one language of its creator's choice
-
-**Challenge** 7 (2900 XP)
 
 ***Magic Weapons.*** The myrmidon's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The myrmidon makes three trident attacks.
 

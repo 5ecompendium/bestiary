@@ -3,31 +3,26 @@ layout: creature
 name: "Fire Elemental Myrmidon"
 tags: [medium, elemental, cr7, mordenkainens-tome-of-foes]
 page_number: 203
+cha: 10 (0)
+wis: 10 (0)
+int: 9 (0)
+con: 15 (+2)
+dex: 18 (+4)
+str: 13 (+1)
+size: Medium elemental
+alignment: neutral
+challenge: "7 (2900 XP)"
+languages: "Ignan, one language of its creator's choice"
+senses: "darkvision 60 ft., passive Perception 10"
+damage_immunities: "fire, poison"
+speed: "40 ft."
+hit_points: "123  (19d8 + 38)"
+armor_class: "18 (plate)"
 ---
-
-**Medium elemental, neutral**
-
-**Armor Class** 18 (plate)
-
-**Hit Points** 123  (19d8 + 38)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 13 (+1) | 18 (+4) | 15 (+2) | 9 (0) | 10 (0) | 10 (0) |
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** fire, poison
-
 **Condition Immunities** paralyzed, petrified, poisoned, prone
-
-**Senses** darkvision 60 ft., passive Perception 10
-
-**Languages** Ignan, one language of its creator's choice
-
-**Challenge** 7 (2900 XP)
 
 ***Illumination.*** The myrmidon sheds bright light in a 20-foot radius and dim light in a 40-foot radius.
 
@@ -35,7 +30,7 @@ page_number: 203
 
 ***Water Susceptibility.*** For every 5 feet the myrmidon moves in 1 foot or more of water, it takes 2 (1d4) cold damage.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The myrmidon makes three scimitar attacks.
 

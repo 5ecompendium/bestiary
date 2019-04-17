@@ -3,29 +3,24 @@ layout: creature
 name: "Spring Eladrin"
 tags: [medium, fey, cr10, mordenkainens-tome-of-foes]
 page_number: 196
+cha: 18 (+4)
+wis: 11 (0)
+int: 18 (+4)
+con: 16 (+3)
+dex: 16 (+3)
+str: 14 (+2)
+size: Medium fey (elf)
+alignment: chaotic neutral
+challenge: "10 (5900 XP)"
+languages: "Common, Elvish, Sylvan"
+senses: "darkvision 60 ft., passive Perception 10"
+skills: "Deception +8, Persuasion +8"
+speed: "30 ft."
+hit_points: "127  (17d8 + 51)"
+armor_class: "19 (natural armor)"
 ---
 
-**Medium fey (elf), chaotic neutral**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 127  (17d8 + 51)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 14 (+2) | 16 (+3) | 16 (+3) | 18 (+4) | 11 (0) | 18 (+4) |
-
-**Skills** Deception +8, Persuasion +8
-
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Senses** darkvision 60 ft., passive Perception 10
-
-**Languages** Common, Elvish, Sylvan
-
-**Challenge** 10 (5900 XP)
 
 ***Fey Step (Recharge 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
 
@@ -39,7 +34,7 @@ Whenever the eladrin deals damage to the charmed creature, it can repeat the sav
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The eladrin makes two weapon attacks. The eladrin can cast one spell in place of one of these attacks.
 

@@ -3,29 +3,23 @@ layout: creature
 name: "Berbalang"
 tags: [medium, aberration, cr2, mordenkainens-tome-of-foes]
 page_number: 120
+cha: 10 (0)
+wis: 11 (0)
+int: 17 (+3)
+con: 9 (0)
+dex: 16 (+3)
+str: 9 (0)
+size: Medium aberration
+alignment: neutral evil
+challenge: "2 (450 XP)"
+languages: "all, but rarely speaks"
+senses: "truesight 120 ft., passive Perception 12"
+skills: "Arcana +5, History +5, Insight +2, Perception +2, Religion +5"
+saving_throws: "Dex +5, Int +5"
+speed: "30 ft., fly 40 ft."
+hit_points: "38  (11d8 - 11)"
+armor_class: "14 (natural armor)"
 ---
-
-**Medium aberration, neutral evil**
-
-**Armor Class** 14 (natural armor)
-
-**Hit Points** 38  (11d8 - 11)
-
-**Speed** 30 ft., fly 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 9 (0) | 16 (+3) | 9 (0) | 17 (+3) | 11 (0) | 10 (0) |
-
-**Saving Throws** Dex +5, Int +5
-
-**Skills** Arcana +5, History +5, Insight +2, Perception +2, Religion +5
-
-**Senses** truesight 120 ft., passive Perception 12
-
-**Languages** all, but rarely speaks
-
-**Challenge** 2 (450 XP)
 
 ***Spectral Duplicate (Recharges after a Short or Long Rest).*** As a bonus action, the berbalang creates one spectral duplicate of itself in an unoccupied space it can see within 60 feet of it. While the duplicate exists, the berbalang is unconscious. A berbalang can have only one duplicate at a time. The duplicate disappears when it or the berbalang drops to 0 hit points or when the berbalang dismisses it (no action required).
 The duplicate has the same statistics and knowledge as the berbalang, and everything experienced by the duplicate is known by the berbalang. All damage dealt by the duplicate's attacks is psychic damage.
@@ -34,7 +28,7 @@ The duplicate has the same statistics and knowledge as the berbalang, and everyt
 * At will: speak with dead
 * 1/day: plane shift (self only)
 
-**Actions**
+### Actions
 
 ***Multiattack*** The berbalang makes two attacks: one with its bite and one with its claws.
 

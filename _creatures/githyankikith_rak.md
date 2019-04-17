@@ -3,29 +3,23 @@ layout: creature
 name: "Githyanki Kith'rak"
 tags: [medium, humanoid, cr12, mordenkainens-tome-of-foes]
 page_number: 205
+cha: 17 (+3)
+wis: 15 (+2)
+int: 16 (+3)
+con: 17 (+3)
+dex: 16 (+3)
+str: 18 (+4)
+size: Medium humanoid (gith)
+alignment: lawful evil
+challenge: "12 (8400 XP)"
+languages: "Gith"
+senses: "passive Perception 16"
+skills: "Intimidation +7, Perception +6"
+saving_throws: "Con +7, Int +7, Wis +6"
+speed: "30 ft."
+hit_points: "180  (24d8 + 72)"
+armor_class: "18 (plate)"
 ---
-
-**Medium humanoid (gith), lawful evil**
-
-**Armor Class** 18 (plate)
-
-**Hit Points** 180  (24d8 + 72)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 18 (+4) | 16 (+3) | 17 (+3) | 16 (+3) | 15 (+2) | 17 (+3) |
-
-**Saving Throws** Con +7, Int +7, Wis +6
-
-**Skills** Intimidation +7, Perception +6
-
-**Senses** passive Perception 16
-
-**Languages** Gith
-
-**Challenge** 12 (8400 XP)
 
 ***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
 * At will: mage hand (the hand is invisible)
@@ -34,7 +28,7 @@ page_number: 205
 
 ***Rally the Troops.*** As a bonus action, the githyanki can magically end the charmed and frightened conditions on itself and each creature of its choice that it can see within 30 feet of it.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The githyanki makes three greatsword attacks.
 

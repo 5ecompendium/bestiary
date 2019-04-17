@@ -3,35 +3,29 @@ layout: creature
 name: "Pidlwick II"
 tags: [small, construct, cr1/4, curse-of-strahd]
 page_number: 235
+cha: 10 (0)
+wis: 13 (+1)
+int: 8 (-1)
+con: 11 (0)
+dex: 14 (+2)
+str: 10 (0)
+size: Small construct
+alignment: neutral evil
+challenge: "1/4 (50 XP)"
+languages: "understands Common but doesn't speak and can't read or write"
+skills: "Performance +3"
+damage_immunities: "poison"
+speed: "30 ft."
+hit_points: "10 (3d6)"
+armor_class: "14 (natural armor)"
 ---
-
-**Small construct, neutral evil**
-
-**Armor Class** 14 (natural armor)
-
-**Hit Points** 10 (3d6)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 10 (0) | 14 (+2) | 11 (0) | 8 (-1) | 13 (+1) | 10 (0) |
-
-**Skills** Performance +3
-
-**Damage Immunities** poison
 
 **Condition Immunities** paralyzed, petrified, poisoned
 
-**Languages** understands Common but doesn't speak and can't read or write
-
-**Challenge** 1/4 (50 XP)
-
 ***Ambusher.*** During the first round of combat, Pidlwick II has advantage on attack rolls against any creature that hasn't had a turn yet.
 
-**Actions**
+### Actions
 
 ***Club.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.
 
 ***Dart.*** Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 4 (1d4+2) piercing damage.
-

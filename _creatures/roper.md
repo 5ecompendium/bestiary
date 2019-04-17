@@ -2,25 +2,21 @@
 layout: creature
 name: "Roper"
 tags: [large, monstrosity, cr5, monster-manual]
+cha: 6 (-2)
+wis: 16 (+3)
+int: 7 (-2)
+con: 17 (+3)
+dex: 8 (-1)
+str: 18 (+4)
+size: Large monstrosity
+alignment: neutral evil
+challenge: "5 (1,800 XP)"
+senses: "darkvision 60 ft."
+skills: "Perception +6, Stealth +5"
+speed: "10 ft., climb 10 ft."
+hit_points: "93 (11d10+33)"
+armor_class: "20 (natural armor)"
 ---
-
-**Large monstrosity, neutral evil**
-
-**Armor Class** 20 (natural armor)
-
-**Hit Points** 93 (11d10+33)
-
-**Speed** 10 ft., climb 10 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 8 (-1) | 17 (+3) | 7 (-2) | 16 (+3) | 6 (-2) |
-
-**Skills** Perception +6, Stealth +5
-
-**Senses** darkvision 60 ft.
-
-**Challenge** 5 (1,800 XP)
 
 ***False Appearance.*** While the roper remains motionless, it is indistinguishable from a normal cave formation, such as a stalagmite.
 
@@ -28,7 +24,7 @@ tags: [large, monstrosity, cr5, monster-manual]
 
 ***Spider Climb.*** The roper can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The roper makes four attacks with its tendrils, uses Reel, and makes one attack with its bite.
 
@@ -37,4 +33,3 @@ tags: [large, monstrosity, cr5, monster-manual]
 ***Tendril.*** Melee Weapon Attack: +7 to hit, reach 50 ft., one creature. Hit: The target is grappled (escape DC 15). Until the grapple ends, the target is restrained and has disadvantage on Strength checks and Strength saving throws, and the roper can't use the same tendril on another target.
 
 ***Reel.*** The roper pulls each creature grappled by it up to 25 ft. straight toward it.
-

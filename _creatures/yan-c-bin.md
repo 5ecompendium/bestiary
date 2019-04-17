@@ -2,33 +2,27 @@
 layout: creature
 name: "Yan-C-Bin"
 tags: [huge, elemental, cr18, elemental-evil]
+cha: 23 (+6)
+wis: 21 (+5)
+int: 16 (+3)
+con: 24 (+7)
+dex: 24 (+7)
+str: 18 (+4)
+size: Huge elemental
+alignment: neutral evil
+challenge: "18 (20,000 XP)"
+languages: "Auran"
+senses: "blindsight 120 ft."
+damage_immunities: "lightning, poison, thunder"
+saving_throws: "Dex +13, Wis +11, Cha +12"
+speed: "50 ft., fly 150 ft."
+hit_points: "283 (21d12+147)"
+armor_class: "22 (natural armor)"
 ---
-
-**Huge elemental, neutral evil**
-
-**Armor Class** 22 (natural armor)
-
-**Hit Points** 283 (21d12+147)
-
-**Speed** 50 ft., fly 150 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 24 (+7) | 24 (+7) | 16 (+3) | 21 (+5) | 23 (+6) |
-
-**Saving Throws** Dex +13, Wis +11, Cha +12
 
 **Damage Resistances** cold, fire;  bludgeoning, piercing, and slashing from nonmagical weapons
 
-**Damage Immunities** lightning, poison, thunder
-
 **Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned, prone, restrained
-
-**Senses** blindsight 120 ft.
-
-**Languages** Auran
-
-**Challenge** 18 (20,000 XP)
 
 ***Air Form.*** Yan-C-Bin can enter a hostile creature's space and stop there. He can move through a space as narrow as 1 inch wide without squeezing if air could pass through that space.
 
@@ -44,7 +38,7 @@ tags: [huge, elemental, cr18, elemental-evil]
 
 ***Magic Resistance.*** Yan-C-Bin has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Yan-C-Bin makes two slam attacks.
 
@@ -56,7 +50,7 @@ tags: [huge, elemental, cr18, elemental-evil]
 
 ***Summon Elementals (1/Day).*** Yan-C-Bin summons up to three air elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Yan-C-Bin, and disappear if Yan-C-Bin is reduced to 0 hit points.
 
-**Legendary Actions**
+### Legendary Actions
 
 The yan-c-bin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The yan-c-bin regains spent legendary actions at the start of its turn.
 
@@ -65,4 +59,3 @@ The yan-c-bin can take 3 legendary actions, choosing from the options below. Onl
 ***Teleport (Costs 2 Actions).*** Yan-C-Bin magically teleports up to 120 feet to an unoccupied space he can see. Anything Yan-C-Bin is wearing or carrying is teleported with him.
 
 ***Suffocate (Costs 3 Actions).*** Yan-C-Bin steals the air of one breathing creature he can see within 60 feet of him. The target must make a DC 21 Constitution saving throw. On a failed save, the target drops to 0 hit points and is dying. On a successful save, the target can't breathe or speak until the start of its next turn.
-

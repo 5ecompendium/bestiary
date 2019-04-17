@@ -2,25 +2,21 @@
 layout: creature
 name: "Hurricane"
 tags: [medium, humanoid, cr2, elemental-evil]
+cha: 10 (0)
+wis: 12 (+1)
+int: 10 (0)
+con: 13 (+1)
+dex: 16 (+3)
+str: 12 (+1)
+size: Medium humanoid (human)
+alignment: lawful evil
+challenge: "2 (450 XP)"
+languages: "Auran, Common"
+skills: "Acrobatics +5"
+speed: "45 ft."
+hit_points: "33 (6d8+6)"
+armor_class: "14"
 ---
-
-**Medium humanoid (human), lawful evil**
-
-**Armor Class** 14
-
-**Hit Points** 33 (6d8+6)
-
-**Speed** 45 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 12 (+1) | 16 (+3) | 13 (+1) | 10 (0) | 12 (+1) | 10 (0) |
-
-**Skills** Acrobatics +5
-
-**Languages** Auran, Common
-
-**Challenge** 2 (450 XP)
 
 ***Spellcasting.*** The hurricane is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It knows the following sorcerer spells:
 
@@ -34,13 +30,12 @@ tags: [medium, humanoid, cr2, elemental-evil]
 
 ***Unarmored Movement.*** While the hurricane is wearing no armor and wielding no shield, its walking speed increases by 15 feet (included in its speed).
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The hurricane makes two melee attacks.
 
 ***Unarmed Strike.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.
 
-**Reactions**
+### Reactions
 
 ***Deflect Missiles.*** When the hurricane is hit by a ranged weapon attack, it reduces the damage from the attack by 1d10 + 9. If the damage is reduced to 0, the hurricane can catch the missile if it is small enough to hold in one hand and the hurricane has at least one hand free.
-

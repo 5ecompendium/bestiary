@@ -2,29 +2,23 @@
 layout: creature
 name: "Vanifer"
 tags: [medium, humanoid, cr9, elemental-evil]
+cha: 19 (+4)
+wis: 13 (+1)
+int: 12 (+1)
+con: 17 (+3)
+dex: 16 (+3)
+str: 11 (0)
+size: Medium humanoid (tiefling)
+alignment: neutral evil
+challenge: "9 (5,000 XP)"
+languages: "Common, Ignan, Infernal"
+senses: "darkvision 60 ft."
+skills: "Arcana +5, Deception +8, Performance +8"
+damage_immunities: "fire"
+speed: "30 ft."
+hit_points: "112 (15d8+45)"
+armor_class: "15 (studded leather)"
 ---
-
-**Medium humanoid (tiefling), neutral evil**
-
-**Armor Class** 15 (studded leather)
-
-**Hit Points** 112 (15d8+45)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 11 (0) | 16 (+3) | 17 (+3) | 12 (+1) | 13 (+1) | 19 (+4) |
-
-**Skills** Arcana +5, Deception +8, Performance +8
-
-**Damage Immunities** fire
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Ignan, Infernal
-
-**Challenge** 9 (5,000 XP)
 
 ***Funeral Pyre.*** When Vanifer drops to 0 hit points, her body is consumed in a flash of fire and smoke. Anything she was wearing or carrying is left behind among ashes.
 
@@ -44,9 +38,8 @@ tags: [medium, humanoid, cr9, elemental-evil]
 
 * 5th level (2 slots): dominate person
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Vanifer makes two attacks.
 
 ***Tinderstrike.*** Melee or Ranged Weapon Attack: +9 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 7 (1d4 + 5) piercing damage plus 7 (2d6) fire damage.
-

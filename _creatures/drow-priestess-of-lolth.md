@@ -2,29 +2,23 @@
 layout: creature
 name: "Drow Priestess of Lolth"
 tags: [medium, humanoid, cr8, monster-manual]
+cha: 18 (+4)
+wis: 17 (+3)
+int: 13 (+1)
+con: 12 (+1)
+dex: 14 (+2)
+str: 10 (0)
+size: Medium humanoid (elf)
+alignment: neutral evil
+challenge: "8 (3,900 XP)"
+languages: "Elvish, Undercommon"
+senses: "darkvision 120 ft."
+skills: "Insight +6, Perception +6, Religion +4, Stealth +5"
+saving_throws: "Con +4, Wis +6, Cha +7"
+speed: "30 ft."
+hit_points: "71 (13d8+13)"
+armor_class: "15 (scale mail)"
 ---
-
-**Medium humanoid (elf), neutral evil**
-
-**Armor Class** 15 (scale mail)
-
-**Hit Points** 71 (13d8+13)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 10 (0) | 14 (+2) | 12 (+1) | 13 (+1) | 17 (+3) | 18 (+4) |
-
-**Saving Throws** Con +4, Wis +6, Cha +7
-
-**Skills** Insight +6, Perception +6, Religion +4, Stealth +5
-
-**Senses** darkvision 120 ft.
-
-**Languages** Elvish, Undercommon
-
-**Challenge** 8 (3,900 XP)
 
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
@@ -50,11 +44,10 @@ At will: dancing lights
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The drow makes two scourge attacks.
 
 ***Scourge.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 17 (5d6) poison damage.
 
 ***Summon Demon (1/Day).*** The drow attempts to magically summon a yochlol with a 30 percent chance of success. If the attempt fails, the drow takes 5 (1d10) psychic damage. Otherwise, the summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 10 minutes, until it or its summoner dies, or until its summoner dismisses it as an action.
-

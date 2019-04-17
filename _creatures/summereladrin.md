@@ -3,29 +3,24 @@ layout: creature
 name: "Summer Eladrin"
 tags: [medium, fey, cr10, mordenkainens-tome-of-foes]
 page_number: 196
+cha: 18 (+4)
+wis: 12 (+1)
+int: 14 (+2)
+con: 16 (+3)
+dex: 21 (+5)
+str: 19 (+4)
+size: Medium fey (elf)
+alignment: chaotic neutral
+challenge: "10 (5900 XP)"
+languages: "Common, Elvish, Sylvan"
+senses: "darkvision 60 ft., passive Perception 9"
+skills: "Athletics +8, Intimidation +8"
+speed: "50 ft."
+hit_points: "127  (17d8 + 51)"
+armor_class: "19 (natural armor)"
 ---
 
-**Medium fey (elf), chaotic neutral**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 127  (17d8 + 51)
-
-**Speed** 50 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 19 (+4) | 21 (+5) | 16 (+3) | 14 (+2) | 12 (+1) | 18 (+4) |
-
-**Skills** Athletics +8, Intimidation +8
-
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Senses** darkvision 60 ft., passive Perception 9
-
-**Languages** Common, Elvish, Sylvan
-
-**Challenge** 10 (5900 XP)
 
 ***Fearsome Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to any eladrin's Fearsome Presence for the next 24 hours.
 
@@ -33,7 +28,7 @@ page_number: 196
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The eladrin makes two weapon attacks.
 

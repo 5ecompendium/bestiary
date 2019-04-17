@@ -3,29 +3,23 @@ layout: creature
 name: "Drow House Captain"
 tags: [medium, humanoid, cr9, mordenkainens-tome-of-foes]
 page_number: 184
+cha: 13 (+1)
+wis: 14 (+2)
+int: 12 (+1)
+con: 15 (+2)
+dex: 19 (+4)
+str: 14 (+2)
+size: Medium humanoid (elf)
+alignment: neutral evil
+challenge: "9 (5,000 XP)"
+languages: "Elvish, Undercommon"
+senses: "darkvision 120 ft., passive Perception 16"
+skills: "Perception +6, Stealth +8"
+saving_throws: "Dex +8, Con +6, Wis +6"
+speed: "30 ft."
+hit_points: "162  (25d8 + 50)"
+armor_class: "16 (chain mail)"
 ---
-
-**Medium humanoid (elf), neutral evil**
-
-**Armor Class** 16 (chain mail)
-
-**Hit Points** 162  (25d8 + 50)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 14 (+2) | 19 (+4) | 15 (+2) | 12 (+1) | 14 (+2) | 13 (+1) |
-
-**Saving Throws** Dex +8, Con +6, Wis +6
-
-**Skills** Perception +6, Stealth +8
-
-**Senses** darkvision 120 ft., passive Perception 16
-
-**Languages** Elvish, Undercommon
-
-**Challenge** 9 (5,000 XP)
 
 ***Battle Command.*** As a bonus action, the drow targets one ally he can see within 30 feet of him. If the target can see or hear the drow, the target can use its reaction to make one melee attack or to take the Dodge or Hide action.
 
@@ -37,7 +31,7 @@ page_number: 184
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The drow makes three attacks: two with his scimitar and one with his whip or his hand crossbow.
 

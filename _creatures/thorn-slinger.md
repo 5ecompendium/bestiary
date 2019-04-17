@@ -2,25 +2,22 @@
 layout: creature
 name: "Thorn Slinger"
 tags: [large, plant, cr1/2, tales-from-the-yawning-portal]
+cha: 1 (-5)
+wis: 10 (0)
+int: 1 (-5)
+con: 12 (+1)
+dex: 12 (+1)
+str: 13 (+1)
+size: Large plant
+alignment: unaligned
+challenge: "1/2 (100 XP)"
+senses: "blindsight 60 ft. (blind beyond this radius)"
+speed: "10 ft."
+hit_points: "32 (5d10+5)"
+armor_class: "11"
 ---
 
-**Large plant, unaligned**
-
-**Armor Class** 11
-
-**Hit Points** 32 (5d10+5)
-
-**Speed** 10 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 13 (+1) | 12 (+1) | 12 (+1) | 1 (-5) | 10 (0) | 1 (-5) |
-
 **Condition Immunities** blinded, deafened, frightened
-
-**Senses** blindsight 60 ft. (blind beyond this radius)
-
-**Challenge** 1/2 (100 XP)
 
 ***Source.*** tales from the yawning portal,  page 246
 
@@ -30,7 +27,6 @@ tags: [large, plant, cr1/2, tales-from-the-yawning-portal]
 
 ***False Appearance.*** While the thorn slinger remains motionless, it is indistinguishable from an inanimate bush.
 
-**Actions**
+### Actions
 
 ***Thorns.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 30 ft., one target. Hit: 8 (2d6 + 1) piercing damage.
-

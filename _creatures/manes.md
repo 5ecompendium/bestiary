@@ -2,33 +2,27 @@
 layout: creature
 name: "Manes"
 tags: [small, fiend, cr1/8, monster-manual]
+cha: 4 (-3)
+wis: 8 (-1)
+int: 3 (-4)
+con: 13 (+1)
+dex: 9 (-1)
+str: 10 (0)
+size: Small fiend (demon)
+alignment: chaotic evil
+challenge: "1/8 (25 XP)"
+languages: "understands Abyssal but can't speak"
+senses: "darkvision 60 ft."
+damage_immunities: "poison"
+speed: "20 ft."
+hit_points: "9 (2d6+2)"
+armor_class: "9 (natural armor)"
 ---
-
-**Small fiend (demon), chaotic evil**
-
-**Armor Class** 9 (natural armor)
-
-**Hit Points** 9 (2d6+2)
-
-**Speed** 20 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 10 (0) | 9 (-1) | 13 (+1) | 3 (-4) | 8 (-1) | 4 (-3) |
 
 **Damage Resistances** cold, fire, lightning
 
-**Damage Immunities** poison
-
 **Condition Immunities** charmed, frightened, poisoned
 
-**Senses** darkvision 60 ft.
-
-**Languages** understands Abyssal but can't speak
-
-**Challenge** 1/8 (25 XP)
-
-**Actions**
+### Actions
 
 ***Claws.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 5 (2d4) slashing damage.
-

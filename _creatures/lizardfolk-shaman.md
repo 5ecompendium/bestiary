@@ -2,25 +2,21 @@
 layout: creature
 name: "Lizardfolk Shaman"
 tags: [medium, humanoid, cr2, monster-manual]
+cha: 8 (-1)
+wis: 15 (+2)
+int: 10 (0)
+con: 13 (+1)
+dex: 10 (0)
+str: 15 (+2)
+size: Medium humanoid (lizardfolk)
+alignment: neutral
+challenge: "2 (450 XP)"
+languages: "Draconic"
+skills: "Perception +4, Stealth +4, Survival +6"
+speed: "30 ft., swim 30 ft."
+hit_points: "27 (5d8+5)"
+armor_class: "13 (natural armor)"
 ---
-
-**Medium humanoid (lizardfolk), neutral**
-
-**Armor Class** 13 (natural armor)
-
-**Hit Points** 27 (5d8+5)
-
-**Speed** 30 ft., swim 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 15 (+2) | 10 (0) | 13 (+1) | 10 (0) | 15 (+2) | 8 (-1) |
-
-**Skills** Perception +4, Stealth +4, Survival +6
-
-**Languages** Draconic
-
-**Challenge** 2 (450 XP)
 
 ***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.
 
@@ -34,7 +30,7 @@ tags: [medium, humanoid, cr2, monster-manual]
 
 * 3rd Level (2 slots): conjure animals (reptiles only), plant growth
 
-**Actions**
+### Actions
 
 ***Multiattack (Lizardfolk Form Only).*** The lizardfolk makes two attacks: one with its bite and one with its claws.
 
@@ -43,4 +39,3 @@ tags: [medium, humanoid, cr2, monster-manual]
 ***Claws (Lizardfolk Form Only).*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
 
 ***Change Shape (Recharges after a Short or Long Rest).*** The lizardfolk magically polymorphs into a crocodile, remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
-

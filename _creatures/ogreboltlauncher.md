@@ -3,27 +3,23 @@ layout: creature
 name: "Ogre Bolt Launcher"
 tags: [large, giant, cr2, mordenkainens-tome-of-foes]
 page_number: 220
+cha: 7 (-1)
+wis: 7 (-1)
+int: 5 (-2)
+con: 16 (+3)
+dex: 12 (+1)
+str: 19 (+4)
+size: Large giant
+alignment: chaotic evil
+challenge: "2 (450 XP)"
+languages: "Common, Giant"
+senses: "darkvision 60 ft., passive Perception 8"
+speed: "40 ft."
+hit_points: "59  (7d10 + 21)"
+armor_class: "13 (hide armor)"
 ---
 
-**Large giant, chaotic evil**
-
-**Armor Class** 13 (hide armor)
-
-**Hit Points** 59  (7d10 + 21)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 19 (+4) | 12 (+1) | 16 (+3) | 5 (-2) | 7 (-1) | 7 (-1) |
-
-**Senses** darkvision 60 ft., passive Perception 8
-
-**Languages** Common, Giant
-
-**Challenge** 2 (450 XP)
-
-**Actions**
+### Actions
 
 ***Fist*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 9 (2d4 + 4) bludgeoning damage.
 

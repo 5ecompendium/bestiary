@@ -3,31 +3,27 @@ layout: creature
 name: "Giff"
 tags: [medium, humanoid, cr3, mordenkainens-tome-of-foes]
 page_number: 204
+cha: 12 (+1)
+wis: 12 (+1)
+int: 11 (0)
+con: 17 (+3)
+dex: 14 (+2)
+str: 18 (+4)
+size: Medium humanoid
+alignment: lawful neutral
+challenge: "3 (700 XP)"
+languages: "Common"
+senses: "passive Perception 11"
+speed: "30 ft."
+hit_points: "60  (8d8 + 24)"
+armor_class: "16 (breastplate)"
 ---
-
-**Medium humanoid, lawful neutral**
-
-**Armor Class** 16 (breastplate)
-
-**Hit Points** 60  (8d8 + 24)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 18 (+4) | 14 (+2) | 17 (+3) | 11 (0) | 12 (+1) | 12 (+1) |
-
-**Senses** passive Perception 11
-
-**Languages** Common
-
-**Challenge** 3 (700 XP)
 
 ***Headfirst Charge.*** The giff can try to knock a creature over; if the giff moves at least 20 feet in a straight line that ends within 5 feet of a Large or smaller creature, that creature must succeed on a DC 14 Strength saving throw or take 7 (2d6) bludgeoning damage and be knocked prone.
 
 ***Firearms Knowledge.*** The giff's mastery of its weapons enables it to ignore the loading property of muskets and pistols.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The giff makes two pistol attacks.
 

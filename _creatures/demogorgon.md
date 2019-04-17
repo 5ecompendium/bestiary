@@ -3,35 +3,28 @@ layout: creature
 name: "Demogorgon"
 tags: [huge, fiend, cr26, mordenkainens-tome-of-foes]
 page_number: 144
+cha: 25 (+7)
+wis: 17 (+3)
+int: 20 (+5)
+con: 26 (+8)
+dex: 14 (+2)
+str: 29 (+9)
+size: Huge fiend (demon)
+alignment: chaotic evil
+challenge: "26 (90,000 XP)"
+languages: "all, telepathy 120 ft."
+senses: "truesight 120 ft., passive Perception 29"
+skills: "Insight +11, Perception +19"
+damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks"
+saving_throws: "Dex +10, Con +16, Wis +11, Cha +15"
+speed: "50 ft., swim 50 ft."
+hit_points: "406  (28d12 +224)"
+armor_class: "22 (natural armor)"
 ---
-
-**Huge fiend (demon), chaotic evil**
-
-**Armor Class** 22 (natural armor)
-
-**Hit Points** 406  (28d12 +224)
-
-**Speed** 50 ft., swim 50 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 29 (+9) | 14 (+2) | 26 (+8) | 20 (+5) | 17 (+3) | 25 (+7) |
-
-**Saving Throws** Dex +10, Con +16, Wis +11, Cha +15
-
-**Skills** Insight +11, Perception +19
 
 **Damage Resistances** cold, fire, lightning
 
-**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
-
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
-
-**Senses** truesight 120 ft., passive Perception 29
-
-**Languages** all, telepathy 120 ft.
-
-**Challenge** 26 (90,000 XP)
 
 ***Innate Spellcasting.*** Demogorgon's spellcasting ability is Charisma. Demogorgon can innately cast the following spells, requiring no material components:
 * At will: detect magic, major image
@@ -46,7 +39,7 @@ page_number: 144
 
 ***Two Heads.*** Demogorgon has advantage on saving throws against being blinded, deafened, stunned, or knocked unconscious.
 
-**Actions**
+### Actions
 
 ***Multiattack*** Demogorgon makes two tentacle attacks.
 
@@ -58,7 +51,7 @@ If the target fails the save, the target suffers one of the following effects of
 2. Hypnotic Gaze. The target is charmed by Demogorgon until the start of Demogorgon's next turn. Demogorgon chooses how the charmed target uses its actions, reactions, and movement. Because this gaze requires Demogorgon to focus both heads on the target, he can't use his Maddening Gaze legendary action until the start of his next turn.
 3. Insanity Gaze. The target suffers the effect of the confusion spell without making a saving throw. The effect lasts until the start of Demogorgon's next turn. Demogorgon doesn't need to concentrate on the spell.
 
-**Legendary Actions**
+### Legendary Actions
 
 Demogorgon can take 2 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Demogorgon regains spent legendary actions at the start of his turn.
 

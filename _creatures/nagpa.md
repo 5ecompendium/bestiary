@@ -3,29 +3,23 @@ layout: creature
 name: "Nagpa"
 tags: [medium, humanoid, cr17, mordenkainens-tome-of-foes]
 page_number: 215
+cha: 21 (+5)
+wis: 18 (+4)
+int: 23 (+6)
+con: 12 (+1)
+dex: 15 (+2)
+str: 9 (0)
+size: Medium humanoid (nagpa)
+alignment: neutral evil
+challenge: "17 (18,000 XP)"
+languages: "Common plus up to five other languages"
+senses: "truesight 120 ft., passive Perception 20"
+skills: "Arcana +12, Deception +11, History +12, Insight +10, Perception +10"
+saving_throws: "Int +12, Wis +10, Cha +11"
+speed: "30 ft."
+hit_points: "187  (34d8 + 34)"
+armor_class: "19 (natural armor)"
 ---
-
-**Medium humanoid (nagpa), neutral evil**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 187  (34d8 + 34)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 9 (0) | 15 (+2) | 12 (+1) | 23 (+6) | 18 (+4) | 21 (+5) |
-
-**Saving Throws** Int +12, Wis +10, Cha +11
-
-**Skills** Arcana +12, Deception +11, History +12, Insight +10, Perception +10
-
-**Senses** truesight 120 ft., passive Perception 20
-
-**Languages** Common plus up to five other languages
-
-**Challenge** 17 (18,000 XP)
 
 ***Corruption.*** As a bonus action, the nagpa targets one creature it can see within 90 feet of it. The target must make a DC 20 Charisma saving throw. An evil creature makes the save with disadvantage. On a failed save, the target is charmed by the nagpa until the start of the nagpa's next turn. On a successful save, the target becomes immune to the nagpa's Corruption for the next 24 hours.
 
@@ -42,6 +36,6 @@ page_number: 215
 * 7th level (1 slot): etherealness, prismatic spray
 * 8th level (1 slot): feeblemind
 
-**Actions**
+### Actions
 
 ***Staff*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage.

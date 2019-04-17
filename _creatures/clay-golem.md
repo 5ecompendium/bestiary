@@ -2,29 +2,24 @@
 layout: creature
 name: "Clay Golem"
 tags: [large, construct, cr9, monster-manual]
+cha: 1 (-5)
+wis: 8 (-1)
+int: 3 (-4)
+con: 18 (+4)
+dex: 9 (-1)
+str: 20 (+5)
+size: Large construct
+alignment: unaligned
+challenge: "9 (5,000 XP)"
+languages: "understands the languages of its creator but can't speak"
+senses: "darkvision 60 ft."
+damage_immunities: "acid, poison, psychic, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
+speed: "20 ft."
+hit_points: "133 (14d10+56)"
+armor_class: "14 (natural armor)"
 ---
 
-**Large construct, unaligned**
-
-**Armor Class** 14 (natural armor)
-
-**Hit Points** 133 (14d10+56)
-
-**Speed** 20 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 20 (+5) | 9 (-1) | 18 (+4) | 3 (-4) | 8 (-1) | 1 (-5) |
-
-**Damage Immunities** acid, poison, psychic, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine
-
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-
-**Senses** darkvision 60 ft.
-
-**Languages** understands the languages of its creator but can't speak
-
-**Challenge** 9 (5,000 XP)
 
 ***Acid Absorption.*** Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.
 
@@ -36,11 +31,10 @@ tags: [large, construct, cr9, monster-manual]
 
 ***Magic Weapons.*** The golem's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The golem makes two slam attacks.
 
 ***Slam.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 16 (2d10 + 5) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw or have its hit point maximum reduced by an amount equal to the damage taken. The target dies if this attack reduces its hit point maximum to 0. The reduction lasts until removed by the greater restoration spell or other magic.
 
 ***Haste (Recharge 5-6).*** Until the end of its next turn, the golem magically gains a +2 bonus to its AC, has advantage on Dexterity saving throws, and can use its slam attack as a bonus action.
-

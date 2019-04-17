@@ -2,29 +2,24 @@
 layout: creature
 name: "Archmage"
 tags: [medium, humanoid, cr12, monster-manual]
+cha: 16 (+3)
+wis: 15 (+2)
+int: 20 (+5)
+con: 12 (+1)
+dex: 14 (+2)
+str: 10 (0)
+size: Medium humanoid (any race)
+alignment: any alignment
+challenge: "12 (8,400 XP)"
+languages: "any six languages"
+skills: "Arcana +13, History +13"
+saving_throws: "Int +9, Wis +6"
+speed: "30 ft."
+hit_points: "99 (18d8+18)"
+armor_class: "12 (15 with mage armor)"
 ---
 
-**Medium humanoid (any race), any alignment**
-
-**Armor Class** 12 (15 with mage armor)
-
-**Hit Points** 99 (18d8+18)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 10 (0) | 14 (+2) | 12 (+1) | 20 (+5) | 15 (+2) | 16 (+3) |
-
-**Saving Throws** Int +9, Wis +6
-
-**Skills** Arcana +13, History +13
-
 **Damage Resistances** damage from spells; non magical bludgeoning, piercing, and slashing (from stoneskin)
-
-**Languages** any six languages
-
-**Challenge** 12 (8,400 XP)
 
 ***Magic Resistance.*** The archmage has advantage on saving throws against spells and other magical effects.
 
@@ -52,7 +47,6 @@ tags: [medium, humanoid, cr12, monster-manual]
 
 * The archmage casts these spells on itself before combat.
 
-**Actions**
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
-

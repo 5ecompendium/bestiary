@@ -2,35 +2,28 @@
 layout: creature
 name: "Ancient Silver Dragon"
 tags: [gargantuan, dragon, cr23, monster-manual]
+cha: 23 (+6)
+wis: 15 (+2)
+int: 18 (+4)
+con: 29 (+9)
+dex: 10 (0)
+str: 30 (+10)
+size: Gargantuan dragon
+alignment: lawful good
+challenge: "23 (50,000 XP)"
+languages: "Common, Draconic"
+senses: "blindsight 60 ft., darkvision 120 ft."
+skills: "Arcana +11, History +11, Perception +16, Stealth +7"
+damage_immunities: "cold"
+saving_throws: "Dex +7, Con +16, Wis +9, Cha +13"
+speed: "40 ft., fly 80 ft."
+hit_points: "487 (25d20+225)"
+armor_class: "22 (natural armor)"
 ---
-
-**Gargantuan dragon, lawful good**
-
-**Armor Class** 22 (natural armor)
-
-**Hit Points** 487 (25d20+225)
-
-**Speed** 40 ft., fly 80 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 30 (+10) | 10 (0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
-
-**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
-
-**Skills** Arcana +11, History +11, Perception +16, Stealth +7
-
-**Damage Immunities** cold
-
-**Senses** blindsight 60 ft., darkvision 120 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 23 (50,000 XP)
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -52,7 +45,7 @@ Paralyzing Breath. The dragon exhales paralyzing gas in a 90- foot cone. Each cr
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-**Legendary Actions**
+### Legendary Actions
 
 The ancient silver dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The ancient silver dragon regains spent legendary actions at the start of its turn.
 
@@ -61,4 +54,3 @@ The ancient silver dragon can take 3 legendary actions, choosing from the option
 ***Tail Attack.*** The dragon makes a tail attack.
 
 ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-

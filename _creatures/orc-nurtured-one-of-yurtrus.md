@@ -2,25 +2,21 @@
 layout: creature
 name: "Orc Nurtured One of Yurtrus"
 tags: [medium, humanoid, cr1/2, volos-guide]
+cha: 7 (-2)
+wis: 11 (0)
+int: 7 (-2)
+con: 16 (+3)
+dex: 8 (-1)
+str: 15 (+2)
+size: Medium humanoid (orc)
+alignment: chaotic evil
+challenge: "1/2 (100 XP)"
+languages: "Common, Orc"
+senses: "darkvision 60 ft."
+speed: "30 ft."
+hit_points: "30 (4d8+12)"
+armor_class: "9"
 ---
-
-**Medium humanoid (orc), chaotic evil**
-
-**Armor Class** 9
-
-**Hit Points** 30 (4d8+12)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 15 (+2) | 8 (-1) | 16 (+3) | 7 (-2) | 11 (0) | 7 (-2) |
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Orc
-
-**Challenge** 1/2 (100 XP)
 
 ***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
@@ -28,9 +24,8 @@ tags: [medium, humanoid, cr1/2, volos-guide]
 
 ***Nurtured One of Yurtrus.*** The orc has advantage on saving throws against poison and disease.
 
-**Actions**
+### Actions
 
 ***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) slashing damage plus 2 (1d4) necrotic damage.
 
 ***Corrupted Vengeance.*** The orc reduces itself to 0 hit points, triggering its Corrupted Carrier trait.
-

@@ -3,35 +3,30 @@ layout: creature
 name: "Howler"
 tags: [large, fiend, cr8, mordenkainens-tome-of-foes]
 page_number: 210
+cha: 6 (-2)
+wis: 20 (+5)
+int: 5 (-2)
+con: 15 (+2)
+dex: 16 (+3)
+str: 17 (+3)
+size: Large fiend
+alignment: chaotic evil
+challenge: "8 (3900 XP)"
+languages: "understands Abyssal but can't speak"
+senses: "darkvision 60 ft., passive Perception 15"
+skills: "Perception +8"
+speed: "40 ft."
+hit_points: "90  (12d10 + 24)"
+armor_class: "16 (natural armor)"
 ---
-
-**Large fiend, chaotic evil**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 90  (12d10 + 24)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 17 (+3) | 16 (+3) | 15 (+2) | 5 (-2) | 20 (+5) | 6 (-2) |
-
-**Skills** Perception +8
 
 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
 **Condition Immunities** frightened
 
-**Senses** darkvision 60 ft., passive Perception 15
-
-**Languages** understands Abyssal but can't speak
-
-**Challenge** 8 (3900 XP)
-
 ***Pack Tactics.*** A howler has advantage on attack rolls against a creature if at least one of the howler's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The howler makes two bite attacks.
 

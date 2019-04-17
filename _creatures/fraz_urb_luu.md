@@ -3,35 +3,28 @@ layout: creature
 name: "Fraz-Urb'luu"
 tags: [large, fiend, cr23, mordenkainens-tome-of-foes]
 page_number: 146
+cha: 26 (+8)
+wis: 24 (+7)
+int: 26 (+8)
+con: 25 (+7)
+dex: 12 (+1)
+str: 29 (+9)
+size: Large fiend (demon)
+alignment: chaotic evil
+challenge: "23 (50,000 XP)"
+languages: "all, telepathy 120 ft."
+senses: "truesight 120 ft., passive Perception 24"
+skills: "Deception +15, Perception +14, Stealth +8"
+damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks"
+saving_throws: "Dex +8, Con +14, Int +15, Wis +14"
+speed: "40 ft., fly 40 ft."
+hit_points: "337  (27d10 + 189)"
+armor_class: "18 (natural armor)"
 ---
-
-**Large fiend (demon), chaotic evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 337  (27d10 + 189)
-
-**Speed** 40 ft., fly 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 29 (+9) | 12 (+1) | 25 (+7) | 26 (+8) | 24 (+7) | 26 (+8) |
-
-**Saving Throws** Dex +8, Con +14, Int +15, Wis +14
-
-**Skills** Deception +15, Perception +14, Stealth +8
 
 **Damage Resistances** cold, fire, lightning
 
-**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
-
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
-
-**Senses** truesight 120 ft., passive Perception 24
-
-**Languages** all, telepathy 120 ft.
-
-**Challenge** 23 (50,000 XP)
 
 ***Innate Spellcasting.*** Fraz-Urb'luu's spellcasting ability is Charisma. Fraz-Urb'luu can innately cast the following spells, requiring no material components:
 * At will: alter self (can become Medium when changing his appearance), detect magic, dispel magic, phantasmal force
@@ -46,7 +39,7 @@ page_number: 146
 
 ***Undetectable.*** Fraz-Urb'luu can't be targeted by divination magic, perceived through magical scrying sensors, or detected by abilities that sense demons or fiends.
 
-**Actions**
+### Actions
 
 ***Multiattack*** Fraz-Urb'luu makes three attacks: one with his bite and two with his fists.
 
@@ -54,7 +47,7 @@ page_number: 146
 
 ***Fist*** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) bludgeoning damage.
 
-**Legendary Actions**
+### Legendary Actions
 
 Fraz-Urb'luu can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. FrazUrb'luu regains spent legendary actions at the start of his turn.
 

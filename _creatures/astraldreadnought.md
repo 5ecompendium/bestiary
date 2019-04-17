@@ -3,33 +3,27 @@ layout: creature
 name: "Astral Dreadnought"
 tags: [gargantuan, monstrosity, cr21, mordenkainens-tome-of-foes]
 page_number: 117
+cha: 18 (+4)
+wis: 14 (+2)
+int: 5 (-2)
+con: 25 (+7)
+dex: 7 (-1)
+str: 28 (+9)
+size: Gargantuan monstrosity (titan)
+alignment: unaligned
+challenge: "21 (33,000 XP)"
+languages: "-"
+senses: "darkvision 120 ft., passive Perception 19"
+skills: "Perception +9"
+saving_throws: "Dex +5, Wis +9"
+speed: "15 ft., fly 80 ft. (hover)"
+hit_points: "297  (17d20 + 119)"
+armor_class: "20 (natural armor)"
 ---
-
-**Gargantuan monstrosity (titan), unaligned**
-
-**Armor Class** 20 (natural armor)
-
-**Hit Points** 297  (17d20 + 119)
-
-**Speed** 15 ft., fly 80 ft. (hover)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 28 (+9) | 7 (-1) | 25 (+7) | 5 (-2) | 14 (+2) | 18 (+4) |
-
-**Saving Throws** Dex +5, Wis +9
-
-**Skills** Perception +9
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned
-
-**Senses** darkvision 120 ft., passive Perception 19
-
-**Languages** -
-
-**Challenge** 21 (33,000 XP)
 
 ***Antimagic Cone.*** The astral dreadnought's opened eye creates an area of antimagic, as in the antimagic field spell, in a 150foot cone. At the start of each of its turns, the dreadnought decides which way the cone faces. The cone doesn't function while the dreadnought's eye is closed or while the dreadnought is blinded.
 
@@ -44,7 +38,7 @@ The dreadnought can't be harmed from within the demiplane. If the dreadnought di
 
 ***Sever Silver Cord.*** If the astral dreadnought scores a critical hit against a creature traveling through the Astral Plane by means of the astral projection spell, the dreadnought can cut the target's silver cord instead of dealing damage.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The astral dreadnought makes three attacks: one with its bite and two with its claws.
 
@@ -52,7 +46,7 @@ The dreadnought can't be harmed from within the demiplane. If the dreadnought di
 
 ***Claw*** Melee Weapon Attack: +16 to hit, reach 20 ft., one target. Hit: 19 (3d6 + 9) slashing damage.
 
-**Legendary Actions**
+### Legendary Actions
 
 The astral dreadnought can take 3 legendary actions, choosing from the options below. Only one legendary option can be used at a time and only at the end of another creature's turn. The dreadnought regains spent legendary actions at the start of its turn.
 

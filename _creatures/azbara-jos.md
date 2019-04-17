@@ -2,27 +2,22 @@
 layout: creature
 name: "Azbara Jos"
 tags: [medium, humanoid, cr4, tyranny-of-dragons]
+cha: 11 (0)
+wis: 13 (+1)
+int: 16 (+3)
+con: 14 (+2)
+dex: 16 (+3)
+str: 9 (-1)
+size: Medium humanoid (human)
+alignment: lawful evil
+challenge: "4 (1,100 XP)"
+languages: "Common, Draconic, Infernal, Primordial, Thayan"
+skills: "Arcana +5, Deception +2, Insight +3, Stealth +5"
+saving_throws: "Int +5, Wis +3"
+speed: "30 ft."
+hit_points: "39 (6d8+12)"
+armor_class: "13 (16 with mage armor)"
 ---
-
-**Medium humanoid (human), lawful evil**
-
-**Armor Class** 13 (16 with mage armor)
-
-**Hit Points** 39 (6d8+12)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 9 (-1) | 16 (+3) | 14 (+2) | 16 (+3) | 13 (+1) | 11 (0) |
-
-**Saving Throws** Int +5, Wis +3
-
-**Skills** Arcana +5, Deception +2, Insight +3, Stealth +5
-
-**Languages** Common, Draconic, Infernal, Primordial, Thayan
-
-**Challenge** 4 (1,100 XP)
 
 ***Special Equipment.*** Azbara has two scrolls of mage armor.
 
@@ -40,7 +35,6 @@ tags: [medium, humanoid, cr4, tyranny-of-dragons]
 
 * 3rd level (3 slots): counterspell, dispel magic, fireball
 
-**Actions**
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or ranged 20 ft./60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.
-

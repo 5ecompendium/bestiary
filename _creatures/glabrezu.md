@@ -2,33 +2,27 @@
 layout: creature
 name: "Glabrezu"
 tags: [large, fiend, cr9, monster-manual]
+cha: 16 (+3)
+wis: 17 (+3)
+int: 19 (+4)
+con: 21 (+5)
+dex: 15 (+2)
+str: 20 (+5)
+size: Large fiend (demon)
+alignment: chaotic evil
+challenge: "9 (5,000 XP)"
+languages: "Abyssal, telepathy 120 ft."
+senses: "truesight 120 ft."
+damage_immunities: "poison"
+saving_throws: "Str +9, Con +9, Wis +7, Cha +7"
+speed: "40 ft."
+hit_points: "157 (15d10+75)"
+armor_class: "17 (natural armor)"
 ---
-
-**Large fiend (demon), chaotic evil**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 157 (15d10+75)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 20 (+5) | 15 (+2) | 21 (+5) | 19 (+4) | 17 (+3) | 16 (+3) |
-
-**Saving Throws** Str +9, Con +9, Wis +7, Cha +7
 
 **Damage Resistances** cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
 
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** truesight 120 ft.
-
-**Languages** Abyssal, telepathy 120 ft.
-
-**Challenge** 9 (5,000 XP)
 
 ***Innate Spellcasting.*** The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
 
@@ -38,7 +32,7 @@ At will: darkness, detect magic, dispel magic
 
 ***Magic Resistance.*** The glabrezu has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
 
@@ -51,4 +45,3 @@ At will: darkness, detect magic, dispel magic
 A glabrezu has a 30 percent chance of summoning 1d3 vrocks, 1d2 hezrous, or one glabrezu.
 
 A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
-

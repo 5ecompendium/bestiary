@@ -2,23 +2,20 @@
 layout: creature
 name: "Axe Beak"
 tags: [large, beast, cr1/4, monster-manual]
+cha: 5 (-3)
+wis: 10 (0)
+int: 2 (-4)
+con: 12 (+1)
+dex: 12 (+1)
+str: 14 (+2)
+size: Large beast
+alignment: unaligned
+challenge: "1/4 (50 XP)"
+speed: "50 ft."
+hit_points: "19 (3d10+3)"
+armor_class: "11"
 ---
 
-**Large beast, unaligned**
-
-**Armor Class** 11
-
-**Hit Points** 19 (3d10+3)
-
-**Speed** 50 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 14 (+2) | 12 (+1) | 12 (+1) | 2 (-4) | 10 (0) | 5 (-3) |
-
-**Challenge** 1/4 (50 XP)
-
-**Actions**
+### Actions
 
 ***Beak.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8 + 2) slashing damage.
-

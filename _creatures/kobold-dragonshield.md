@@ -2,27 +2,22 @@
 layout: creature
 name: "Kobold Dragonshield"
 tags: [small, humanoid, cr1, volos-guide]
+cha: 10 (0)
+wis: 9 (-1)
+int: 8 (-1)
+con: 14 (+2)
+dex: 15 (+2)
+str: 12 (+1)
+size: Small humanoid (kobold)
+alignment: lawful evil
+challenge: "1 (200 XP)"
+languages: "Common, Draconic"
+senses: "darkvision 60 ft."
+skills: "Perception +1"
+speed: "20 ft."
+hit_points: "44 (8d6+16)"
+armor_class: "15 (leather armor, shield)"
 ---
-
-**Small humanoid (kobold), lawful evil**
-
-**Armor Class** 15 (leather armor, shield)
-
-**Hit Points** 44 (8d6+16)
-
-**Speed** 20 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 12 (+1) | 15 (+2) | 14 (+2) | 8 (-1) | 9 (-1) | 10 (0) |
-
-**Skills** Perception +1
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 1 (200 XP)
 
 ***Dragon's Resistance.*** The kobold has resistance to a type of damage based on the color of dragon that invested it with power (choose or roll a d10): 1-2, acid (black); 3-4, cold (white); 5-6, fire (red); 7-8, lightning (blue); 9-10, poison (green).
 
@@ -32,9 +27,8 @@ tags: [small, humanoid, cr1, volos-guide]
 
 ***Sunlight Sensitivity.*** While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The kobold makes two melee attacks.
 
 ***Spear.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 it, one target. Hit: 4 (ld6+l) piercing damage, or 5 (ld8+l) piercing damage if used with two hands to make a melee attack.
-

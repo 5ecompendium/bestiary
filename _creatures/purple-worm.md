@@ -2,29 +2,25 @@
 layout: creature
 name: "Purple Worm"
 tags: [gargantuan, monstrosity, cr15, monster-manual]
+cha: 4 (-3)
+wis: 8 (-1)
+int: 1 (-5)
+con: 22 (+6)
+dex: 7 (-2)
+str: 28 (+9)
+size: Gargantuan monstrosity
+alignment: unaligned
+challenge: "15 (13,000 XP)"
+senses: "blindsight 30 ft., tremorsense 60 ft."
+saving_throws: "Con +11, Wis +4"
+speed: "50 ft., burrow 30 ft."
+hit_points: "247 (15d20+90)"
+armor_class: "18 (natural armor)"
 ---
-
-**Gargantuan monstrosity, unaligned**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 247 (15d20+90)
-
-**Speed** 50 ft., burrow 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 28 (+9) | 7 (-2) | 22 (+6) | 1 (-5) | 8 (-1) | 4 (-3) |
-
-**Saving Throws** Con +11, Wis +4
-
-**Senses** blindsight 30 ft., tremorsense 60 ft.
-
-**Challenge** 15 (13,000 XP)
 
 ***Tunneler.*** The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The worm makes two attacks: one with its bite and one with its stinger.
 
@@ -33,4 +29,3 @@ tags: [gargantuan, monstrosity, cr15, monster-manual]
 If the worm takes 30 damage or more on a single turn from a creature inside it, the worm must succeed on a DC 21 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the worm. If the worm dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 20 feet of movement, exiting prone.
 
 ***Tail Stinger.*** Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.
-

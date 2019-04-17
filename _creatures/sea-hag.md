@@ -2,25 +2,21 @@
 layout: creature
 name: "Sea Hag"
 tags: [medium, fey, cr2, monster-manual]
+cha: 13 (+1)
+wis: 12 (+1)
+int: 12 (+1)
+con: 16 (+3)
+dex: 13 (+1)
+str: 16 (+3)
+size: Medium fey
+alignment: chaotic evil
+challenge: "2 (450 XP)"
+languages: "Aquan, Common, Giant"
+senses: "darkvision 60 ft."
+speed: "30 ft., swim 40 ft."
+hit_points: "52 (7d8+21)"
+armor_class: "14 (natural armor)"
 ---
-
-**Medium fey, chaotic evil**
-
-**Armor Class** 14 (natural armor)
-
-**Hit Points** 52 (7d8+21)
-
-**Speed** 30 ft., swim 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 16 (+3) | 13 (+1) | 16 (+3) | 12 (+1) | 12 (+1) | 13 (+1) |
-
-**Senses** darkvision 60 ft.
-
-**Languages** Aquan, Common, Giant
-
-**Challenge** 2 (450 XP)
 
 ***Amphibious.*** The hag can breathe air and water.
 
@@ -52,7 +48,7 @@ For casting these spells, each hag is a 12th-level spellcaster that uses Intelli
 
 A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 
-**Actions**
+### Actions
 
 ***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.
 
@@ -61,4 +57,3 @@ A hag coven can have only one hag eye at a time, and creating a new one requires
 ***Illusory Appearance.*** The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like an ugly creature of her general size and humanoid shape. The effect ends if the hag takes a bonus action to end it or if she dies.
 
 The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have no claws, but someone touching her hand might feel the claws. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 16 Intelligence (Investigation) check to discern that the hag is disguised.
-

@@ -2,29 +2,24 @@
 layout: creature
 name: "Boggle"
 tags: [small, fey, cr1/8, volos-guide]
+cha: 7 (-2)
+wis: 12 (+1)
+int: 6 (-2)
+con: 13 (+1)
+dex: 18 (+4)
+str: 8 (-1)
+size: Small fey
+alignment: chaotic neutral
+challenge: "1/8 (25 XP)"
+languages: "Sylvan"
+senses: "darkvision 60 ft."
+skills: "Perception +3, Sleight of Hand +6, Stealth +6"
+speed: "30 ft., climb 30 ft."
+hit_points: "18 (4d6+4)"
+armor_class: "14"
 ---
 
-**Small fey, chaotic neutral**
-
-**Armor Class** 14
-
-**Hit Points** 18 (4d6+4)
-
-**Speed** 30 ft., climb 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 8 (-1) | 18 (+4) | 13 (+1) | 6 (-2) | 12 (+1) | 7 (-2) |
-
-**Skills** Perception +3, Sleight of Hand +6, Stealth +6
-
 **Damage Resistances** fire
-
-**Senses** darkvision 60 ft.
-
-**Languages** Sylvan
-
-**Challenge** 1/8 (25 XP)
 
 ***Boggle Oil.*** The boggle excretes nonflammable oil from its pores. The boggle chooses whether the oil is slippery or sticky and can change the oil on its skin from one consistency to another as a bonus action.
 
@@ -36,7 +31,7 @@ Sticky Oil: While coated in sticky oil, the boggle gains advantage on Strength (
 
 ***Uncanny Smell.*** The boggle has advantage on Wisdom (Perception) checks that rely on smell.
 
-**Actions**
+### Actions
 
 ***Pummel.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6-1) bludgeoning damage.
 
@@ -45,4 +40,3 @@ Sticky Oil: While coated in sticky oil, the boggle gains advantage on Strength (
 >If the oil is slippery, any creature that enters the puddle's area or starts its turn there must succeed on a DC 11 Dexterity saving throw or fall prone.
 
 >If the oil is sticky, any creature that enters the puddle's area or starts its turn there must succeed on a DC 11 Strength saving throw or be restrained. On its turn. a creature can use an action to try to extricate itself from the sticky puddle, ending the effect and moving into the nearest safe unoccupied space with a successful DC 11 Strength check.
-
