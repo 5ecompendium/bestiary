@@ -32,8 +32,6 @@ tags: [medium, fiend, cr4, monster-manual]
 
 **Actions**
 
-***Thunderous Stomp (Recharge 6).*** The storm giant stomps the ground, triggering a thunderclap. All other creatures within 15 feet of the giant must succeed on a DC 17 Constitution saving throw or take 33 (6d10) thunder damage and be deafened until the start of the giant's next turn. On a successful save, a creature takes half as much damage and isn't deafened. The thunderclap can be heard out to a range of 1,200 feet.
-
 ***Claw (Fiend Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.
 
 ***Charm.*** One humanoid the fiend can see within 30 feet of it must succeed on a DC 15 Wisdom saving throw or be magically charmed for 1 day. The charmed target obeys the fiend's verbal or telepathic commands. If the target suffers any harm or receives a suicidal command, it can repeat the saving throw, ending the effect on a success. If the target successfully saves against the effect, or if the effect on it ends, the target is immune to this fiend's Charm for the next 24 hours.
