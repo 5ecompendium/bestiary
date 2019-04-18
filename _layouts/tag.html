@@ -5,5 +5,14 @@ layout: default
   <h1 class="page-heading">{{ page.name }}</h1>
   <p id="creatureSearch">Search by name: <input type="search" id="jetsSearch"></p>
   {% assign all_creatures = site.creatures | where: 'tags', page.tag %}
+  {% assign cr-tags = "" | split: "" %}
+  {% for cr in site.data.challenge_ratings %}
+  {% assign tag = "cr" | append: cr %}
+  {% assign creatures = all_creatures | where: 'tags', tag %}
+  {% if creatures.size > 0 %}
+  {% assign tmp = cr | split: " " %}
+  {% assign cr-tags = cr-tags | concat: tmp %}
+  {% endif %}
+  {% endfor %}
   {% include challenge_rating.html %}
 </div>

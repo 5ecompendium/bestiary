@@ -6,6 +6,7 @@ layout: default
   <p id="creatureSearch">Search by name: <input type="search" id="jetsSearch"></p>
   <p id="sortBy">Sort By: <a href="{{ site.baseurl }}/cr">CR</a> <a href="{{ site.baseurl }}/">name</a></p>
   {% assign all_creatures = site.creatures %}
+  {% assign cr-tags = site.data.challenge_ratings %}
   {% include challenge_rating.html %}
   <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>
