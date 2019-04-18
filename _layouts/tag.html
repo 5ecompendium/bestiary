@@ -7,7 +7,8 @@ layout: default
   {% assign all_creatures = site.creatures | where: 'tags', page.tag %}
   {% assign cr-tags = "" | split: "" %}
   {% for cr in site.data.challenge_ratings %}
-  {% assign creatures = all_creatures | where: 'tags', cr %}
+  {% assign tag = "cr" | append: cr %}
+  {% assign creatures = all_creatures | where: 'tags', tag %}
   {% if creatures.size > 0 %}
   {% assign tmp = cr | split: " " %}
   {% assign cr-tags = cr-tags | concat: tmp %}

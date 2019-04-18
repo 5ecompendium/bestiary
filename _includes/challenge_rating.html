@@ -2,14 +2,15 @@
   <dt class="spacing">Challenge Rating:</dt>
   {% for cr in cr-tags %}
     <dd class="spacing">
-      <a href="#{{ cr }}">{{ cr }}</a>
+      <a href="#cr{{ cr }}">{{ cr }}</a>
     </dd>
   {% endfor %}
 </dl>
 {% for cr in cr-tags %}
-  {% assign creatures = all_creatures | where: 'tags', cr %}
+  {% assign tag = "cr" | append: cr %}
+  {% assign creatures = all_creatures | where: 'tags', tag %}
   {% if creatures.size > 0 %}
-    <a id="{{ cr }}"></a>
+    <a id="{{ tag }}"></a>
     <h2 class="post-list-head jetsHide">Challenge {{ cr }}</h2>
     <ul class="post-list jetsContent">
       {% for creature in creatures | sort: 'name %}
