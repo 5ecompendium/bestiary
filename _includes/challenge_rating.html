@@ -1,22 +1,23 @@
 <dl class="tag-list">
   <dt class="spacing">Challenge Rating:</dt>
-  {% for cr in site.data.challenge_ratings %}
-  <dd class="spacing">
-    <a href="#cr{{ cr.level }}">{{ cr.level }}</a>
-  </dd>
+  {% for cr in cr-tags %}
+    <dd class="spacing">
+      <a href="#{{ cr }}">{{ cr }}</a>
+    </dd>
   {% endfor %}
 </dl>
-{% for cr in site.data.challenge_ratings %}
-{% assign tag = 'cr' | append: cr.level %}
-{% assign creatures = all_creatures | where: 'tags', tag %}
-<a id="cr{{ cr.level }}"></a>
-<h2 class="post-list-head jetsHide">Challenge {{ cr.level }}</h2>
-<ul class="post-list jetsContent">
-  {% for creature in creatures | sort: 'name %}
-  <li>
-    <a class="post-link" href="{{ creature.url | prepend: site.baseurl }}">{{ creature.name }}</a>
-  </li>
-  {% endfor %}
-</ul>
-<a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+{% for cr in cr-tags %}
+  {% assign creatures = all_creatures | where: 'tags', cr %}
+  {% if creatures.size > 0 %}
+    <a id="{{ cr }}"></a>
+    <h2 class="post-list-head jetsHide">Challenge {{ cr }}</h2>
+    <ul class="post-list jetsContent">
+      {% for creature in creatures | sort: 'name %}
+        <li>
+          <a class="post-link" href="{{ creature.url | prepend: site.baseurl }}">{{ creature.name }}</a>
+        </li>
+      {% endfor %}
+    </ul>
+    <a class="post-meta jetsHide" href="#top">Back to top &#8593;</a>
+  {% endif %}
 {% endfor %}
