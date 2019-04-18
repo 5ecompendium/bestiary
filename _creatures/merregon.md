@@ -3,37 +3,32 @@ layout: creature
 name: "Merregon"
 tags: [medium, fiend, cr4, mordenkainens-tome-of-foes]
 page_number: 166
+cha: 8 (-1)
+wis: 12 (+1)
+int: 6 (-2)
+con: 17 (+3)
+dex: 14 (+2)
+str: 18 (+4)
+size: Medium fiend (devil)
+alignment: lawful evil
+challenge: "4 (1100 XP)"
+languages: "understands Infernal but can't speak, telepathy 120 ft."
+senses: "darkvision 60 ft., passive Perception 11"
+damage_immunities: "fire, poison"
+speed: "30 ft."
+hit_points: "45  (6d8 + 18)"
+armor_class: "16 (natural armor)"
 ---
-
-**Medium fiend (devil), lawful evil**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 45  (6d8 + 18)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 18 (+4) | 14 (+2) | 17 (+3) | 6 (-2) | 12 (+1) | 8 (-1) |
 
 **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** fire, poison
-
 **Condition Immunities** frightened, poisoned
-
-**Senses** darkvision 60 ft., passive Perception 11
-
-**Languages** understands Infernal but can't speak, telepathy 120 ft.
-
-**Challenge** 4 (1100 XP)
 
 ***Devil's Sight.*** Magical darkness doesn't impede the merregon's darkvision.
 
 ***Magic Resistance.*** The merregon has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The merregon makes two halberd attacks, or if an allied fiend of challenge rating 6 or higher is within 60 feet of it, the merregon makes three halberd attacks.
 

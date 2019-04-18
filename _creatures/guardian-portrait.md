@@ -3,29 +3,24 @@ layout: creature
 name: "Guardian Portrait"
 tags: [medium, construct, cr1, curse-of-strahd]
 page_number: 227
+cha: 10 (0)
+wis: 10 (0)
+int: 14 (+2)
+con: 10 (0)
+dex: 1 (-5)
+str: 1 (-5)
+size: Medium construct
+alignment: unaligned
+challenge: "1 (200 XP)"
+languages: "Common, plus up to two other languages"
+senses: "darkvision 60 ft."
+damage_immunities: "poison"
+speed: "0 ft."
+hit_points: "22 (5d8)"
+armor_class: "5 (natural armor)"
 ---
 
-**Medium construct, unaligned**
-
-**Armor Class** 5 (natural armor)
-
-**Hit Points** 22 (5d8)
-
-**Speed** 0 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1 (-5) | 1 (-5) | 10 (0) | 14 (+2) | 10 (0) | 10 (0) |
-
-**Damage Immunities** poison
-
 **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, plus up to two other languages
-
-**Challenge** 1 (200 XP)
 
 ***Constructed Nature.*** An animated object doesn't require air, food, drink, or sleep.
 
@@ -38,4 +33,3 @@ page_number: 227
 >3/day each: counterspell, crown of madness, hypnotic pattern, telekinesis
 
 ***False Appearance.*** While the figure in the portrait remains motionless, it is indistinguishable from a normal painting.
-

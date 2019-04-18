@@ -2,29 +2,23 @@
 layout: creature
 name: "Djinni"
 tags: [large, elemental, cr11, monster-manual]
+cha: 20 (+5)
+wis: 16 (+3)
+int: 15 (+2)
+con: 22 (+6)
+dex: 15 (+2)
+str: 21 (+5)
+size: Large elemental
+alignment: chaotic good
+challenge: "11 (7,200 XP)"
+languages: "Auran"
+senses: "darkvision 120 ft."
+damage_immunities: "lightning, thunder"
+saving_throws: "Dex +6, Wis +7, Cha +9"
+speed: "30 ft., fly 90 ft."
+hit_points: "161 (14d10+84)"
+armor_class: "17 (natural armor)"
 ---
-
-**Large elemental, chaotic good**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 161 (14d10+84)
-
-**Speed** 30 ft., fly 90 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 21 (+5) | 15 (+2) | 22 (+6) | 15 (+2) | 16 (+3) | 20 (+5) |
-
-**Saving Throws** Dex +6, Wis +7, Cha +9
-
-**Damage Immunities** lightning, thunder
-
-**Senses** darkvision 120 ft.
-
-**Languages** Auran
-
-**Challenge** 11 (7,200 XP)
 
 ***Elemental Demise.*** If the djinni dies, its body disintegrates into a warm breeze, leaving behind only equipment the djinni was wearing or carrying.
 
@@ -46,7 +40,7 @@ The genie power to grant wishes is legendary among mortals. Only the most potent
 
 To be granted a wish, a creature within 60 feet of the genie states a desired effect to it. The genie can then cast the wish spell on the creature's behalf to bring about the effect. Depending on the genie's nature, the genie might try to pervert the intent of the wish by exploiting the wish's poor wording. The perversion of the wording is usually crafted to be to the genie's benefit.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The djinni makes three scimitar attacks.
 
@@ -55,4 +49,3 @@ To be granted a wish, a creature within 60 feet of the genie states a desired ef
 ***Create Whirlwind.*** A 5-foot-radius, 30-foot-tall cylinder of swirling air magically forms on a point the djinni can see within 120 feet of it. The whirlwind lasts as long as the djinni maintains concentration (as if concentrating on a spell). Any creature but the djinni that enters the whirlwind must succeed on a DC 18 Strength saving throw or be restrained by it. The djinni can move the whirlwind up to 60 feet as an action, and creatures restrained by the whirlwind move with it. The whirlwind ends if the djinni loses sight of it.
 
 A creature can use its action to free a creature restrained by the whirlwind, including itself, by succeeding on a DC 18 Strength check. If the check succeeds, the creature is no longer restrained and moves to the nearest space outside the whirlwind.
-

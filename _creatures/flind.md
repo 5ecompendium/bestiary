@@ -2,33 +2,27 @@
 layout: creature
 name: "Flind"
 tags: [medium, humanoid, cr9, volos-guide]
+cha: 12 (+1)
+wis: 13 (+1)
+int: 11 (0)
+con: 19 (+4)
+dex: 10 (0)
+str: 20 (+5)
+size: Medium humanoid (gnoll)
+alignment: chaotic evil
+challenge: "9 (5,000 XP)"
+languages: "Abyssal, Gnoll"
+senses: "darkvision 60 ft."
+skills: "Intimidation +5, Perception +5"
+saving_throws: "Con +8, Wis +5"
+speed: "30 ft."
+hit_points: "127 (15d8+60)"
+armor_class: "16 (chain mail)"
 ---
-
-**Medium humanoid (gnoll), chaotic evil**
-
-**Armor Class** 16 (chain mail)
-
-**Hit Points** 127 (15d8+60)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 20 (+5) | 10 (0) | 19 (+4) | 11 (0) | 13 (+1) | 12 (+1) |
-
-**Saving Throws** Con +8, Wis +5
-
-**Skills** Intimidation +5, Perception +5
-
-**Senses** darkvision 60 ft.
-
-**Languages** Abyssal, Gnoll
-
-**Challenge** 9 (5,000 XP)
 
 ***Aura of Blood Thirst.*** If the flind isn't incapacitated, any creature with the Rampage trait can make a bite attack as a bonus action while within 10 feet of the flind.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The flind makes three attacks: one with each of its different flail attacks or three with its longbow.
 
@@ -39,4 +33,3 @@ tags: [medium, humanoid, cr9, volos-guide]
 ***Flail of Paralysis.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10+5) bludgeoning damage, and the target must succeed on a DC 16 Constitution saving throw or be paralyzed until the end of its next turn.
 
 ***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 4 (1d8) piercing damage.
-

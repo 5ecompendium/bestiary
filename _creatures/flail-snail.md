@@ -2,27 +2,23 @@
 layout: creature
 name: "Flail Snail"
 tags: [large, elemental, cr3, volos-guide]
+cha: 5 (-3)
+wis: 10 (0)
+int: 3 (-4)
+con: 20 (+5)
+dex: 5 (-3)
+str: 17 (+3)
+size: Large elemental
+alignment: unaligned
+challenge: "3 (700 XP)"
+senses: "darkvision 60 ft., tremorsense 60 ft."
+damage_immunities: "fire, poison"
+speed: "10 ft."
+hit_points: "52 (5d10+25)"
+armor_class: "16 (natural armor)"
 ---
 
-**Large elemental, unaligned**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 52 (5d10+25)
-
-**Speed** 10 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 17 (+3) | 5 (-3) | 20 (+5) | 3 (-4) | 10 (0) | 5 (-3) |
-
-**Damage Immunities** fire, poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 60 ft., tremorsense 60 ft.
-
-**Challenge** 3 (700 XP)
 
 ***Antimagic Shell.*** The snail has advantage on saving throws against spells, and any creature making a spell attack against the snail has disadvantage on the attack roll. If the snail succeeds on its saving throw against a spell or a spell attack misses it, an additional effect might occur, as determined by rolling a d6:
 
@@ -34,7 +30,7 @@ tags: [large, elemental, cr3, volos-guide]
 
 ***Flail Tentacles.*** The flail snail has five flail tentacles. Whenever the snail takes 10 damage or more on a single turn, one of its tentacles dies. If even one tentacle remains, the snail regrows all dead ones within 1d4 days. If all its tentacles die, the snail retracts into its shell, gaining total cover, and it begins wailing, a sound that can be heard for 600 feet, stopping only when it dies 5d6 minutes later. Healing magic that restores limbs, such as the regenerate spell, can halt this dying process.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The flail snail makes as many flail tentacle attacks as it has flail tentacles, all against the same target.
 
@@ -43,4 +39,3 @@ tags: [large, elemental, cr3, volos-guide]
 ***Scintillating Shell (Recharges after a Short or Long Rest).*** The snail's shell emits dazzling, colored light until the end of the snail's next turn. During this time, the shell sheds bright light in a 30-foot radius and dim light for an additional 30 feet, and creatures that can see the snail have disadvantage on attack rolls against it. In addition, any creature within the bright light and able to see the snail when this power is activated must succeed on a DC 15 Wisdom saving throw or be stunned until the light ends.
 
 ***Shell Defense.*** The flail snail withdraws into its shell, gaining a +4 bonus to AC until it emerges. It can emerge from its shell as a bonus action on its turn.
-

@@ -2,33 +2,28 @@
 layout: creature
 name: "Thri-kreen"
 tags: [medium, humanoid, cr1, monster-manual]
+cha: 7 (-2)
+wis: 12 (+1)
+int: 8 (-1)
+con: 13 (+1)
+dex: 15 (+2)
+str: 12 (+1)
+size: Medium humanoid (thri-kreen)
+alignment: chaotic neutral
+challenge: "1 (200 XP)"
+languages: "Thri-kreen"
+senses: "darkvision 60 ft."
+skills: "Perception +3, Stealth +4, Survival +3"
+speed: "40 ft."
+hit_points: "33 (6d8+6)"
+armor_class: "15 (natural armor)"
 ---
-
-**Medium humanoid (thri-kreen), chaotic neutral**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 33 (6d8+6)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 12 (+1) | 15 (+2) | 13 (+1) | 8 (-1) | 12 (+1) | 7 (-2) |
-
-**Skills** Perception +3, Stealth +4, Survival +3
-
-**Senses** darkvision 60 ft.
-
-**Languages** Thri-kreen
-
-**Challenge** 1 (200 XP)
 
 ***Chameleon Carapace.*** The thri-kreen can change the color of its carapace to match the color and texture of its surroundings. As a result, it has advantage on Dexterity (Stealth) checks made to hide.
 
 ***Standing Leap.*** The thri-kreen's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The thri-kreen makes two attacks: one with its bite and one with its claws.
 
@@ -41,4 +36,3 @@ tags: [medium, humanoid, cr1, monster-manual]
 ***Variant: Gythka.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage.
 
 ***Variant: Chatkcha.*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) slashing damage.
-

@@ -3,35 +3,28 @@ layout: creature
 name: "Marut"
 tags: [large, construct, cr25, mordenkainens-tome-of-foes]
 page_number: 213
+cha: 18 (+4)
+wis: 15 (+2)
+int: 19 (+4)
+con: 26 (+8)
+dex: 12 (+1)
+str: 28 (+9)
+size: Large construct (inevitable)
+alignment: lawful neutral
+challenge: "25 (75,000 XP)"
+languages: "all but rarely speaks"
+senses: "darkvision 60 ft., passive Perception 20"
+skills: "Insight +10, Intimidation +12, Perception +10"
+damage_immunities: "poison"
+saving_throws: "Int +12, Wis +10, Cha +12"
+speed: "40 ft., fly 30 ft. (hover)"
+hit_points: "432  (32d10 + 256)"
+armor_class: "22 (natural armor)"
 ---
-
-**Large construct (inevitable), lawful neutral**
-
-**Armor Class** 22 (natural armor)
-
-**Hit Points** 432  (32d10 + 256)
-
-**Speed** 40 ft., fly 30 ft. (hover)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 28 (+9) | 12 (+1) | 26 (+8) | 19 (+4) | 15 (+2) | 18 (+4) |
-
-**Saving Throws** Int +12, Wis +10, Cha +12
-
-**Skills** Insight +10, Intimidation +12, Perception +10
 
 **Damage Resistances** thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** poison
-
 **Condition Immunities** charmed, frightened, paralyzed, poisoned, unconscious
-
-**Senses** darkvision 60 ft., passive Perception 20
-
-**Languages** all but rarely speaks
-
-**Challenge** 25 (75,000 XP)
 
 ***Immutable Form.*** The marut is immune to any spell or effect that would alter its form.
 
@@ -42,7 +35,7 @@ At will: plane shift (self only)
 
 ***Magic Resistance.*** The marut has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The marut makes two slam attacks.
 

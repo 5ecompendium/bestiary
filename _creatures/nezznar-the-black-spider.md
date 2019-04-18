@@ -2,29 +2,23 @@
 layout: creature
 name: "Nezznar the Black Spider"
 tags: [medium, humanoid, cr2, lost-mine-of-phandelver]
+cha: 13 (+1)
+wis: 14 (+2)
+int: 16 (+3)
+con: 10 (0)
+dex: 13 (+1)
+str: 9 (-1)
+size: Medium humanoid (elf)
+alignment: neutral evil
+challenge: "2 (450 XP)"
+languages: "Elvish, Undercommon"
+senses: "darkvision 120 ft."
+skills: "Arcana +5, Perception +4, Stealth +3"
+saving_throws: "Int +5, Wis +4"
+speed: "30 ft."
+hit_points: "27 (6d8)"
+armor_class: "11 (14 with mage armor)"
 ---
-
-**Medium humanoid (elf), neutral evil**
-
-**Armor Class** 11 (14 with mage armor)
-
-**Hit Points** 27 (6d8)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 9 (-1) | 13 (+1) | 10 (0) | 16 (+3) | 14 (+2) | 13 (+1) |
-
-**Saving Throws** Int +5, Wis +4
-
-**Skills** Arcana +5, Perception +4, Stealth +3
-
-**Senses** darkvision 120 ft.
-
-**Languages** Elvish, Undercommon
-
-**Challenge** 2 (450 XP)
 
 ***Special Equipment.*** Nezznar has a spider staff.
 
@@ -46,7 +40,6 @@ tags: [medium, humanoid, cr2, lost-mine-of-phandelver]
 
 * 2nd Level (3 slots): invisibility, suggestion
 
-**Actions**
+### Actions
 
 ***Spider Staff.*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6-1) bludgeoning damage plus 3 (1d6) poison damage.
-

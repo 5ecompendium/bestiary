@@ -3,31 +3,25 @@ layout: creature
 name: "Venom Troll"
 tags: [large, giant, cr7, mordenkainens-tome-of-foes]
 page_number: 245
+cha: 7 (-1)
+wis: 9 (0)
+int: 7 (-1)
+con: 20 (+5)
+dex: 13 (+1)
+str: 18 (+4)
+size: Large giant
+alignment: chaotic evil
+challenge: "7 (2900 XP)"
+languages: "Giant"
+senses: "darkvision 60 ft., passive Perception 12"
+skills: "Perception +2"
+damage_immunities: "poison"
+speed: "30 ft."
+hit_points: "94  (9d10 + 45)"
+armor_class: "15 (natural armor)"
 ---
 
-**Large giant, chaotic evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 94  (9d10 + 45)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 18 (+4) | 13 (+1) | 20 (+5) | 7 (-1) | 9 (0) | 7 (-1) |
-
-**Skills** Perception +2
-
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 60 ft., passive Perception 12
-
-**Languages** Giant
-
-**Challenge** 7 (2900 XP)
 
 ***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -35,7 +29,7 @@ page_number: 245
 
 ***Regeneration.*** The troll regains 10 hit points at the start of each of its turns. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The troll makes three attacks: one with its bite and two with its claws.
 

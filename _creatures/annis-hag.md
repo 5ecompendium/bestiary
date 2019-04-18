@@ -2,31 +2,25 @@
 layout: creature
 name: "Annis Hag"
 tags: [large, fey, cr6, volos-guide]
+cha: 15 (+2)
+wis: 14 (+2)
+int: 13 (+1)
+con: 14 (+2)
+dex: 12 (+1)
+str: 21 (+5)
+size: Large fey
+alignment: chaotic evil
+challenge: "6 (2,300 XP)"
+languages: "Common, Giant, Sylvan"
+senses: "darkvision 60 ft."
+skills: "Deception +5, Perception +5"
+saving_throws: "Con +5"
+speed: "40 ft."
+hit_points: "75 (10d10+20)"
+armor_class: "17 (natural armor)"
 ---
 
-**Large fey, chaotic evil**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 75 (10d10+20)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 21 (+5) | 12 (+1) | 14 (+2) | 13 (+1) | 14 (+2) | 15 (+2) |
-
-**Saving Throws** Con +5
-
-**Skills** Deception +5, Perception +5
-
 **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Giant, Sylvan
-
-**Challenge** 6 (2,300 XP)
 
 ***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 13). She can innately cast the following spells:
 
@@ -98,7 +92,7 @@ tags: [large, fey, cr6, volos-guide]
 
 6th level (1 slot): true seeing
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The annis makes three attacks: one with her bite and two with her claws.
 
@@ -107,4 +101,3 @@ tags: [large, fey, cr6, volos-guide]
 ***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 15 (3d6+5) slashing damage.
 
 ***Crushing Hug.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 36 (9d6+5) bludgeoning damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until the grapple ends, the target takes 36 (9d6+5) bludgeoning damage at the start of each of the hag's turns. The hag can't make attacks while grappling a creature in this way.
-

@@ -2,29 +2,24 @@
 layout: creature
 name: "Death Slaad"
 tags: [medium, aberration, cr10, monster-manual]
+cha: 16 (+3)
+wis: 10 (0)
+int: 15 (+2)
+con: 19 (+4)
+dex: 15 (+2)
+str: 20 (+5)
+size: Medium aberration (shapechanger)
+alignment: chaotic evil
+challenge: "10 (5,900 XP)"
+languages: "Slaad, telepathy 60 ft."
+senses: "blindsight 60 ft., darkvision 60 ft."
+skills: "Arcana +6, Perception +8"
+speed: "30 ft."
+hit_points: "170 (20d8+80)"
+armor_class: "18 (natural armor)"
 ---
 
-**Medium aberration (shapechanger), chaotic evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 170 (20d8+80)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 20 (+5) | 15 (+2) | 19 (+4) | 15 (+2) | 10 (0) | 16 (+3) |
-
-**Skills** Arcana +6, Perception +8
-
 **Damage Resistances** acid, cold, fire, lightning, thunder
-
-**Senses** blindsight 60 ft., darkvision 60 ft.
-
-**Languages** Slaad, telepathy 60 ft.
-
-**Challenge** 10 (5,900 XP)
 
 ***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -50,7 +45,7 @@ A greater restoration spell cast on the slaad destroys the gem without harming t
 
 Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapacitated slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom (Medicine) check. Each failed attempt deals 22 (4d10) psychic damage to the slaad.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws or greatsword.
 
@@ -59,4 +54,3 @@ Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapa
 ***Claws (Slaad Form Only).*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d10 + 5) slashing damage plus 7 (2d6) necrotic damage.
 
 ***Greatsword.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage plus 7 (2d6) necrotic damage.
-

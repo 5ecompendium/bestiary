@@ -2,35 +2,28 @@
 layout: creature
 name: "Adult Silver Dragon"
 tags: [huge, dragon, cr16, monster-manual]
+cha: 21 (+5)
+wis: 13 (+1)
+int: 16 (+3)
+con: 25 (+7)
+dex: 10 (0)
+str: 27 (+8)
+size: Huge dragon
+alignment: lawful good
+challenge: "16 (15,000 XP)"
+languages: "Common, Draconic"
+senses: "blindsight 60 ft., darkvision 120 ft."
+skills: "Arcana +8, History +8, Perception +11, Stealth +5"
+damage_immunities: "cold"
+saving_throws: "Dex +5, Con +12, Wis +6, Cha +10"
+speed: "40 ft., fly 80 ft."
+hit_points: "243 (18d12+126)"
+armor_class: "19 (natural armor)"
 ---
-
-**Huge dragon, lawful good**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 243 (18d12+126)
-
-**Speed** 40 ft., fly 80 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 27 (+8) | 10 (0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
-
-**Saving Throws** Dex +5, Con +12, Wis +6, Cha +10
-
-**Skills** Arcana +8, History +8, Perception +11, Stealth +5
-
-**Damage Immunities** cold
-
-**Senses** blindsight 60 ft., darkvision 120 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 16 (15,000 XP)
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -48,7 +41,7 @@ Cold Breath. The dragon exhales an icy blast in a 60-foot cone. Each creature in
 
 Paralyzing Breath. The dragon exhales paralyzing gas in a 60-foot cone. Each creature in that area must succeed on a DC 20 Constitution saving throw or be paralyzed for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-**Legendary Actions**
+### Legendary Actions
 
 The adult silver dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The adult silver dragon regains spent legendary actions at the start of its turn.
 
@@ -57,4 +50,3 @@ The adult silver dragon can take 3 legendary actions, choosing from the options 
 ***Tail Attack.*** The dragon makes a tail attack.
 
 ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-

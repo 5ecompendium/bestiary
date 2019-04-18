@@ -2,37 +2,30 @@
 layout: creature
 name: "Adult White Dragon"
 tags: [huge, dragon, cr13, monster-manual]
+cha: 12 (+1)
+wis: 12 (+1)
+int: 8 (-1)
+con: 22 (+6)
+dex: 10 (0)
+str: 22 (+6)
+size: Huge dragon
+alignment: chaotic evil
+challenge: "13 (10,000 XP)"
+languages: "Common, Draconic"
+senses: "blindsight 60 ft., darkvision 120 ft."
+skills: "Perception +11, Stealth +5"
+damage_immunities: "cold"
+saving_throws: "Dex +5, Con +11, Wis +6, Cha +6"
+speed: "40 ft., burrow 30 ft., fly 80 ft., swim 40 ft."
+hit_points: "200 (16d12+96)"
+armor_class: "18 (natural armor)"
 ---
-
-**Huge dragon, chaotic evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 200 (16d12+96)
-
-**Speed** 40 ft., burrow 30 ft., fly 80 ft., swim 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 22 (+6) | 10 (0) | 22 (+6) | 8 (-1) | 12 (+1) | 12 (+1) |
-
-**Saving Throws** Dex +5, Con +11, Wis +6, Cha +6
-
-**Skills** Perception +11, Stealth +5
-
-**Damage Immunities** cold
-
-**Senses** blindsight 60 ft., darkvision 120 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 13 (10,000 XP)
 
 ***Ice Walk.*** The dragon can move across and climb icy surfaces without needing to make an ability check. Additionally, difficult terrain composed of ice or snow doesn't cost it extra moment.
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -46,7 +39,7 @@ tags: [huge, dragon, cr13, monster-manual]
 
 ***Cold Breath (Recharge 5-6).*** The dragon exhales an icy blast in a 60-foot cone. Each creature in that area must make a DC 19 Constitution saving throw, taking 54 (12d8) cold damage on a failed save, or half as much damage on a successful one.
 
-**Legendary Actions**
+### Legendary Actions
 
 The adult white dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The adult white dragon regains spent legendary actions at the start of its turn.
 
@@ -55,4 +48,3 @@ The adult white dragon can take 3 legendary actions, choosing from the options b
 ***Tail Attack.*** The dragon makes a tail attack.
 
 ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-

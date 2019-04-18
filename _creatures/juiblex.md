@@ -3,35 +3,28 @@ layout: creature
 name: "Juiblex"
 tags: [huge, fiend, cr23, mordenkainens-tome-of-foes]
 page_number: 151
+cha: 16 (+3)
+wis: 20 (+5)
+int: 20 (+5)
+con: 23 (+6)
+dex: 10 (0)
+str: 24 (+7)
+size: Huge fiend (demon)
+alignment: chaotic evil
+challenge: "23 (50,000 XP)"
+languages: "all, telepathy 120 ft."
+senses: "truesight 120 ft., passive Perception 22"
+skills: "Perception +12"
+damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks"
+saving_throws: "Dex +7, Con +13, Wis +12"
+speed: "30 ft."
+hit_points: "350  (28d12 + 168)"
+armor_class: "18 (natural armor)"
 ---
-
-**Huge fiend (demon), chaotic evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 350  (28d12 + 168)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 24 (+7) | 10 (0) | 23 (+6) | 20 (+5) | 20 (+5) | 16 (+3) |
-
-**Saving Throws** Dex +7, Con +13, Wis +12
-
-**Skills** Perception +12
 
 **Damage Resistances** cold, fire, lightning
 
-**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
-
 **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious
-
-**Senses** truesight 120 ft., passive Perception 22
-
-**Languages** all, telepathy 120 ft.
-
-**Challenge** 23 (50,000 XP)
 
 ***Foul.*** Any creature, other than an ooze, that starts its turn within 10 feet of Juiblex must succeed on a DC 21 Constitution saving throw or be poisoned until the start of the creature's next turn.
 
@@ -49,7 +42,7 @@ page_number: 151
 
 ***Spider Climb.*** Juiblex can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-**Actions**
+### Actions
 
 ***Multiattack*** Juiblex makes three acid lash attacks.
 
@@ -57,7 +50,7 @@ page_number: 151
 
 ***Eject Slime (Recharge 5-6)*** Juiblex spews out a corrosive slime, targeting one creature that it can see within 60 feet of it. The target must make a DC 21 Dexterity saving throw. On a failure, the target takes 55 (10d10) acid damage. Unless the target avoids taking any of this damage, any metal armor worn by the target takes a permanent -1 penalty to the AC it offers, and any metal weapon it is carrying or wearing takes a permanent -1 penalty to damage rolls. The penalty worsens each time a target is subjected to this effect. If the penalty on an object drops to -5, the object is destroyed.
 
-**Legendary Actions**
+### Legendary Actions
 
 Juiblex can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Juiblex regains spent legendary actions at the start of its turn.
 

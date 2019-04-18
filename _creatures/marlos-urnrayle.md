@@ -2,29 +2,24 @@
 layout: creature
 name: "Marlos Urnrayle"
 tags: [medium, monstrosity, cr8, elemental-evil]
+cha: 17 (+3)
+wis: 13 (+1)
+int: 12 (+1)
+con: 18 (+4)
+dex: 11 (0)
+str: 17 (+3)
+size: Medium monstrosity
+alignment: neutral evil
+challenge: "8 (3,900 XP)"
+languages: "Common, Terran"
+senses: "darkvision 60 ft., tremorsense 60 ft."
+skills: "Arcana +4, Deception +6, Perception +4"
+speed: "30 ft."
+hit_points: "136 (16d8+64)"
+armor_class: "15 (natural armor)"
 ---
 
-**Medium monstrosity, neutral evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 136 (16d8+64)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 17 (+3) | 11 (0) | 18 (+4) | 12 (+1) | 13 (+1) | 17 (+3) |
-
-**Skills** Arcana +4, Deception +6, Perception +4
-
 **Damage Resistances** acid
-
-**Senses** darkvision 60 ft., tremorsense 60 ft.
-
-**Languages** Common, Terran
-
-**Challenge** 8 (3,900 XP)
 
 ***Earthen Defeat.*** When Marlos drops to 0 hit points, his body transforms into mud and collapses into a pool. Anything he is wearing or carrying is left behind.
 
@@ -38,11 +33,10 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 
 If Marlos sees himself reflected on a polished surface within 30 feet of him and in an area of bright light, Marlos is, due to his curse, affected by his own gaze.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Marlos makes three melee attacks, one with his snake hair and two with Ironfang.
 
 ***Snake Hair.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 14 (4d6) poison damage.
 
 ***Ironfang.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) thunder damage.
-

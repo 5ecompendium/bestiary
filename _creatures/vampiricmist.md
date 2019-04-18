@@ -3,33 +3,27 @@ layout: creature
 name: "Vampiric Mist"
 tags: [medium, undead, cr3, mordenkainens-tome-of-foes]
 page_number: 246
+cha: 7 (-1)
+wis: 12 (+1)
+int: 6 (-2)
+con: 16 (+3)
+dex: 16 (+3)
+str: 6 (-2)
+size: Medium undead
+alignment: chaotic evil
+challenge: "3 (700 XP)"
+languages: "-"
+senses: "darkvision 60 ft., passive Perception 11"
+damage_immunities: "poison"
+saving_throws: "Wis +3"
+speed: "0 ft., fly 30 ft. (hover)"
+hit_points: "30  (4d8 + 12)"
+armor_class: "13"
 ---
-
-**Medium undead, chaotic evil**
-
-**Armor Class** 13
-
-**Hit Points** 30  (4d8 + 12)
-
-**Speed** 0 ft., fly 30 ft. (hover)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 6 (-2) | 16 (+3) | 16 (+3) | 6 (-2) | 12 (+1) | 7 (-1) |
-
-**Saving Throws** Wis +3
 
 **Damage Resistances** acid, cold, lightning, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** poison
-
 **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
-
-**Senses** darkvision 60 ft., passive Perception 11
-
-**Languages** -
-
-**Challenge** 3 (700 XP)
 
 ***Life Sense.*** The mist can sense the location of any creature within 60 feet of it, unless that creature's type is construct or undead.
 
@@ -39,6 +33,6 @@ page_number: 246
 
 ***Sunlight Hypersensitivity.*** The mist takes 10 radiant damage whenever it starts its turn in sunlight. While in sunlight, the mist has disadvantage on attack rolls and ability checks.
 
-**Actions**
+### Actions
 
 ***Life Drain*** The mist touches one creature in its space. The target must succeed on a DC 13 Constitution saving throw (undead and constructs automatically succeed), or it takes 10 (2d6 + 3) necrotic damage, the mist regains 10 hit points, and the target's hit point maximum is reduced by an amount equal to the necrotic damage taken. This reduction lasts until the target finishes a long rest. The target dies if its hit point maximum is reduced to 0.

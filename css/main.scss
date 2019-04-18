@@ -18,7 +18,7 @@ $spacing-unit-line: 7px;
 $text-color:       #333;
 $background-color: #fdfdfd;
 $brand-color: #4D96B9;
-$brand-color-secondary: #1E9100;
+$brand-color-secondary: #109269;
 $brand-color-light: lighten($brand-color-secondary, 5%);
 $brand-color-dark: darken($brand-color-secondary, 5%);
 
@@ -28,6 +28,10 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 $on-palm:          750px;
 $on-laptop:        800px;
+
+$statblock-main-color: #7A200D;
+$statblock-secondary-color: #922610;
+$statblock-background-color: #FDF1DC;
 
 
 
@@ -50,6 +54,7 @@ $on-laptop:        800px;
 @import
         "base",
         "layout",
+        "statblock",
         "syntax-highlighting"
 ;
 

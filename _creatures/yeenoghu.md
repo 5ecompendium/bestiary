@@ -3,35 +3,28 @@ layout: creature
 name: "Yeenoghu"
 tags: [huge, fiend, cr24, mordenkainens-tome-of-foes]
 page_number: 155
+cha: 15 (+2)
+wis: 24 (+7)
+int: 15 (+2)
+con: 23 (+6)
+dex: 16 (+3)
+str: 29 (+9)
+size: Huge fiend (demon)
+alignment: chaotic evil
+challenge: "24 (62,000 XP)"
+languages: "all, telepathy 120 ft."
+senses: "truesight 120 ft., passive Perception 24"
+skills: "Intimidation +9, Perception +14"
+damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks"
+saving_throws: "Dex +10, Con +15, Wis +14"
+speed: "50 ft."
+hit_points: "333  (23d12 + 184)"
+armor_class: "20 (natural armor)"
 ---
-
-**Huge fiend (demon), chaotic evil**
-
-**Armor Class** 20 (natural armor)
-
-**Hit Points** 333  (23d12 + 184)
-
-**Speed** 50 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 29 (+9) | 16 (+3) | 23 (+6) | 15 (+2) | 24 (+7) | 15 (+2) |
-
-**Saving Throws** Dex +10, Con +15, Wis +14
-
-**Skills** Intimidation +9, Perception +14
 
 **Damage Resistances** cold, fire, lightning
 
-**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
-
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
-
-**Senses** truesight 120 ft., passive Perception 24
-
-**Languages** all, telepathy 120 ft.
-
-**Challenge** 24 (62,000 XP)
 
 ***Innate Spellcasting.*** Yeenoghu's spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). He can innately cast the following spells, requiring no material components:
 * At will: detect magic
@@ -46,7 +39,7 @@ page_number: 155
 
 ***Rampage.*** When Yeenoghu reduces a creature to 0 hit points with a melee attack on his turn, Yeenoghu can take a bonus action to move up to half his speed and make a bite attack.
 
-**Actions**
+### Actions
 
 ***Multiattack*** Yeenoghu makes three flail attacks. If an attack hits, he can cause it to create an additional effect of his choice or at random (each effect can be used only once per Multiattack):
 1. The attack deals an extra 13 (2d12) bludgeoning damage.
@@ -57,7 +50,7 @@ page_number: 155
 
 ***Bite*** Melee Weapon Attack: +16 to hit, reach 10 ft., one target. Hit: 14 (1d10 + 9) piercing damage.
 
-**Legendary Actions**
+### Legendary Actions
 
 Yeenoghu can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Yeenoghu regains spent legendary actions at the start of his turn.
 

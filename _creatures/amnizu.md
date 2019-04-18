@@ -3,35 +3,28 @@ layout: creature
 name: "Amnizu"
 tags: [medium, fiend, cr18, mordenkainens-tome-of-foes]
 page_number: 164
+cha: 18 (+4)
+wis: 12 (+1)
+int: 20 (+5)
+con: 16 (+3)
+dex: 13 (+1)
+str: 11 (0)
+size: Medium fiend (devil)
+alignment: lawful evil
+challenge: "18 (20,000 XP)"
+languages: "Common, Infernal, telepathy 1,000 ft."
+senses: "darkvision 120 ft., passive Perception 17"
+skills: "Perception +7"
+damage_immunities: "fire, poison"
+saving_throws: "Dex +7, Con +9, Wis +7, Cha +10"
+speed: "30 ft., fly 40 ft."
+hit_points: "202  (27d8 + 81)"
+armor_class: "21 (natural armor)"
 ---
-
-**Medium fiend (devil), lawful evil**
-
-**Armor Class** 21 (natural armor)
-
-**Hit Points** 202  (27d8 + 81)
-
-**Speed** 30 ft., fly 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 11 (0) | 13 (+1) | 16 (+3) | 20 (+5) | 12 (+1) | 18 (+4) |
-
-**Saving Throws** Dex +7, Con +9, Wis +7, Cha +10
-
-**Skills** Perception +7
 
 **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** fire, poison
-
 **Condition Immunities** charmed, poisoned
-
-**Senses** darkvision 120 ft., passive Perception 17
-
-**Languages** Common, Infernal, telepathy 1,000 ft.
-
-**Challenge** 18 (20,000 XP)
 
 ***Devil's Sight.*** Magical darkness doesn't impede the amnizu's darkvision.
 
@@ -42,7 +35,7 @@ page_number: 164
 
 ***Magic Resistance.*** The amnizu has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The amnizu uses Poison Mind. It also makes two attacks: one with its whip and one with its Disruptive Touch.
 

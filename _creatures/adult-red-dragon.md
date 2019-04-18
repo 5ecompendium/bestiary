@@ -2,35 +2,28 @@
 layout: creature
 name: "Adult Red Dragon"
 tags: [huge, dragon, cr17, monster-manual]
+cha: 21 (+5)
+wis: 13 (+1)
+int: 16 (+3)
+con: 25 (+7)
+dex: 10 (0)
+str: 27 (+8)
+size: Huge dragon
+alignment: chaotic evil
+challenge: "17 (18,000 XP)"
+languages: "Common, Draconic"
+senses: "blindsight 60 ft., darkvision 120 ft."
+skills: "Perception +13, Stealth +6"
+damage_immunities: "fire"
+saving_throws: "Dex +6, Con +13, Wis +7, Cha +11"
+speed: "40 ft., climb 40 ft., fly 80 ft."
+hit_points: "256 (19d12+133)"
+armor_class: "19 (natural armor)"
 ---
-
-**Huge dragon, chaotic evil**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 256 (19d12+133)
-
-**Speed** 40 ft., climb 40 ft., fly 80 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 27 (+8) | 10 (0) | 25 (+7) | 16 (+3) | 13 (+1) | 21 (+5) |
-
-**Saving Throws** Dex +6, Con +13, Wis +7, Cha +11
-
-**Skills** Perception +13, Stealth +6
-
-**Damage Immunities** fire
-
-**Senses** blindsight 60 ft., darkvision 120 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 17 (18,000 XP)
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -52,7 +45,7 @@ tags: [huge, dragon, cr17, monster-manual]
 
 >* Volcanic gases form a cloud in a 20-foot-radius sphere centered on a point the dragon can see within 120 feet of it. The sphere spreads around corners, and its area is lightly obscured. It lasts until initiative count 20 on the next round. Each creature that starts its turn in the cloud must succeed on a DC 13 Constitution saving throw or be poisoned until the end of its turn. While poisoned in this way, a creature is incapacitated.
 
-**Legendary Actions**
+### Legendary Actions
 
 The adult red dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The adult red dragon regains spent legendary actions at the start of its turn.
 
@@ -61,4 +54,3 @@ The adult red dragon can take 3 legendary actions, choosing from the options bel
 ***Tail Attack.*** The dragon makes a tail attack.
 
 ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 22 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-

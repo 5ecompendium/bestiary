@@ -3,33 +3,29 @@ layout: creature
 name: "Duergar Xarrorn"
 tags: [medium, humanoid, cr2, mordenkainens-tome-of-foes]
 page_number: 193
+cha: 9 (0)
+wis: 10 (0)
+int: 11 (0)
+con: 14 (+2)
+dex: 11 (0)
+str: 16 (+3)
+size: Medium humanoid (dwarf)
+alignment: lawful evil
+challenge: "2 (450 XP)"
+languages: "Dwarvish, Undercommon"
+senses: "darkvision 120 ft., passive Perception 10"
+speed: "25 ft."
+hit_points: "26  (4d8 + 8)"
+armor_class: "18 (plate mail)"
 ---
 
-**Medium humanoid (dwarf), lawful evil**
-
-**Armor Class** 18 (plate mail)
-
-**Hit Points** 26  (4d8 + 8)
-
-**Speed** 25 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 16 (+3) | 11 (0) | 14 (+2) | 11 (0) | 10 (0) | 9 (0) |
-
 **Damage Resistances** poison
-
-**Senses** darkvision 120 ft., passive Perception 10
-
-**Languages** Dwarvish, Undercommon
-
-**Challenge** 2 (450 XP)
 
 ***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Fire Lance*** Melee Weapon Attack: +5 to hit (with disadvantage if the target is within 5 feet of the duergar), reach 10 ft., one target. Hit: 9 (1d12 + 3) piercing damage plus 3 (1d6) fire damage, or 16 (2d12 + 3) piercing damage plus 3 (1d6) fire damage while enlarged.
 

@@ -2,35 +2,28 @@
 layout: creature
 name: "Adult Blue Dragon"
 tags: [huge, dragon, cr16, monster-manual]
+cha: 19 (+4)
+wis: 15 (+2)
+int: 16 (+3)
+con: 23 (+6)
+dex: 10 (0)
+str: 25 (+7)
+size: Huge dragon
+alignment: lawful evil
+challenge: "16 (15,000 XP)"
+languages: "Common, Draconic"
+senses: "blindsight 60 ft., darkvision 120 ft."
+skills: "Perception +12, Stealth +5"
+damage_immunities: "lightning"
+saving_throws: "Dex +5, Con +11, Wis +7, Cha +9"
+speed: "40 ft., burrow 30 ft., fly 80 ft."
+hit_points: "225 (18d12+108)"
+armor_class: "19"
 ---
-
-**Huge dragon, lawful evil**
-
-**Armor Class** 19
-
-**Hit Points** 225 (18d12+108)
-
-**Speed** 40 ft., burrow 30 ft., fly 80 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 25 (+7) | 10 (0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
-
-**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
-
-**Skills** Perception +12, Stealth +5
-
-**Damage Immunities** lightning
-
-**Senses** blindsight 60 ft., darkvision 120 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 16 (15,000 XP)
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -44,7 +37,7 @@ tags: [huge, dragon, cr16, monster-manual]
 
 ***Lightning Breath (Recharge 5-6).*** The dragon exhales lightning in a 90-foot line that is 5 ft. wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-**Legendary Actions**
+### Legendary Actions
 
 The adult blue dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The adult blue dragon regains spent legendary actions at the start of its turn.
 
@@ -53,4 +46,3 @@ The adult blue dragon can take 3 legendary actions, choosing from the options be
 ***Tail Attack.*** The dragon makes a tail attack.
 
 ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-

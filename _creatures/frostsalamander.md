@@ -3,35 +3,28 @@ layout: creature
 name: "Frost Salamander"
 tags: [huge, elemental, cr9, mordenkainens-tome-of-foes]
 page_number: 223
+cha: 7 (-1)
+wis: 11 (0)
+int: 7 (-1)
+con: 18 (+4)
+dex: 12 (+1)
+str: 20 (+5)
+size: Huge elemental
+alignment: unaligned
+challenge: "9 (5,000 XP)"
+languages: "Primordial"
+senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 14"
+skills: "Perception +4"
+damage_immunities: "cold"
+saving_throws: "Con +8, Wis +4"
+speed: "60 ft., burrow 40 ft., climb 40 ft."
+hit_points: "168  (16d12 + 64)"
+armor_class: "17 (natural armor)"
 ---
-
-**Huge elemental, unaligned**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 168  (16d12 + 64)
-
-**Speed** 60 ft., burrow 40 ft., climb 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 20 (+5) | 12 (+1) | 18 (+4) | 7 (-1) | 11 (0) | 7 (-1) |
-
-**Saving Throws** Con +8, Wis +4
-
-**Skills** Perception +4
-
-**Damage Immunities** cold
-
-**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 14
-
-**Languages** Primordial
-
-**Challenge** 9 (5,000 XP)
 
 ***Burning Fury.*** When the salamander takes fire damage, its Freezing Breath automatically recharges.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The salamander makes five attacks: four with its claws and one with its bite.
 

@@ -2,29 +2,23 @@
 layout: creature
 name: "Dralmorrer Borngray"
 tags: [medium, humanoid, cr3, tyranny-of-dragons]
+cha: 8 (-1)
+wis: 10 (0)
+int: 16 (+3)
+con: 14 (+2)
+dex: 14 (+2)
+str: 18 (+4)
+size: Medium humanoid (high elf)
+alignment: neutral evil
+challenge: "3 (700 XP)"
+languages: "Common, Bullywug, Draconic, Elvish, Goblin, Sylvan"
+senses: "darkvision 60 ft."
+skills: "Arcana +5, Deception +1, Insight +2, Perception +2, Religion +5"
+saving_throws: "Str +6, Con +4"
+speed: "30 ft."
+hit_points: "52 (7d10+14)"
+armor_class: "16 (studded leather, shield)"
 ---
-
-**Medium humanoid (high elf), neutral evil**
-
-**Armor Class** 16 (studded leather, shield)
-
-**Hit Points** 52 (7d10+14)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 14 (+2) | 14 (+2) | 16 (+3) | 10 (0) | 8 (-1) |
-
-**Saving Throws** Str +6, Con +4
-
-**Skills** Arcana +5, Deception +1, Insight +2, Perception +2, Religion +5
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Bullywug, Draconic, Elvish, Goblin, Sylvan
-
-**Challenge** 3 (700 XP)
 
 ***Fey Ancestry.*** Dralmorrer has advantage on saving throws against being charmed, and magic can't put him to sleep.
 
@@ -40,11 +34,10 @@ tags: [medium, humanoid, cr3, tyranny-of-dragons]
 
 ***Weapon Bond.*** Provided his longsword is on the same plane Dralmorrer can take a bonus action to teleport it to his hand.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Dralmorrer attacks twice, either with his longsword or dagger.
 
 ***Longsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or ranged 20 ft./60 ft., one target. Hit: 6 (1d4 + 4) piercing damage.
-

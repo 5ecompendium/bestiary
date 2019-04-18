@@ -2,27 +2,22 @@
 layout: creature
 name: "Faerie Dragon (Violet)"
 tags: [tiny, dragon, cr2, monster-manual]
+cha: 16 (+3)
+wis: 12 (+1)
+int: 14 (+2)
+con: 13 (+1)
+dex: 20 (+5)
+str: 3 (-4)
+size: Tiny dragon
+alignment: chaotic good
+challenge: "2 (450 XP)"
+languages: "Draconic, Sylvan"
+senses: "darkvision 60 ft."
+skills: "Arcana +4, Perception +3, Stealth +7"
+speed: "10 ft., fly 60 ft."
+hit_points: "14 (4d4+4)"
+armor_class: "15"
 ---
-
-**Tiny dragon, chaotic good**
-
-**Armor Class** 15
-
-**Hit Points** 14 (4d4+4)
-
-**Speed** 10 ft., fly 60 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 3 (-4) | 20 (+5) | 13 (+1) | 14 (+2) | 12 (+1) | 16 (+3) |
-
-**Skills** Arcana +4, Perception +3, Stealth +7
-
-**Senses** darkvision 60 ft.
-
-**Languages** Draconic, Sylvan
-
-**Challenge** 2 (450 XP)
 
 ***The Colors of Age.*** A faerie dragon's scales change hue as it ages, moving through all the colors of the rainbow. All faerie dragons have innate spellcasting ability, gaining new spells as they mature.
 
@@ -52,7 +47,7 @@ A green or older faerie dragon's CR increases to 2.
 
 1/day each: color spray, dancing lights, hallucinatory terrain, mage hand, major image, minor illusion, mirror image, polymorph, suggestion
 
-**Actions**
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 1 piercing damage.
 
@@ -61,4 +56,3 @@ A green or older faerie dragon's CR increases to 2.
 1-4. The target takes no action or bonus action and uses all of its movement to move in a random direction.
 
 5-6. The target doesn't move, and the only thing it can do on its turn is make a DC 11 Wisdom saving throw, ending the effect on itself on a success.
-

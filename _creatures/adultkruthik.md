@@ -3,25 +3,21 @@ layout: creature
 name: "Adult Kruthik"
 tags: [medium, monstrosity, cr2, mordenkainens-tome-of-foes]
 page_number: 212
+cha: 8 (-1)
+wis: 12 (+1)
+int: 7 (-1)
+con: 15 (+2)
+dex: 16 (+3)
+str: 15 (+2)
+size: Medium monstrosity
+alignment: unaligned
+challenge: "2 (450 XP)"
+languages: "Kruthik"
+senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 11"
+speed: "40 ft., burrow 20 ft., climb 40 ft."
+hit_points: "39  (6d8 + 12)"
+armor_class: "18 (natural armor)"
 ---
-
-**Medium monstrosity, unaligned**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 39  (6d8 + 12)
-
-**Speed** 40 ft., burrow 20 ft., climb 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 15 (+2) | 16 (+3) | 15 (+2) | 7 (-1) | 12 (+1) | 8 (-1) |
-
-**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 11
-
-**Languages** Kruthik
-
-**Challenge** 2 (450 XP)
 
 ***Keen Smell.*** The kruthik has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -29,7 +25,7 @@ page_number: 212
 
 ***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 5-foot-diameter tunnel in its wake.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The kruthik makes two stab attacks or two spike attacks.
 

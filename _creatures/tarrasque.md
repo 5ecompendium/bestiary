@@ -2,29 +2,24 @@
 layout: creature
 name: "Tarrasque"
 tags: [gargantuan, monstrosity, cr30, monster-manual]
+cha: 11 (0)
+wis: 11 (0)
+int: 3 (-4)
+con: 30 (+10)
+dex: 11 (0)
+str: 30 (+10)
+size: Gargantuan monstrosity (titan)
+alignment: unaligned
+challenge: "30 (155,000 XP)"
+senses: "blindsight 120 ft."
+damage_immunities: "fire, poison, bludgeoning, piercing, and slashing from nonmagical weapons"
+saving_throws: "Int +5, Wis +9, Cha +9"
+speed: "40 ft."
+hit_points: "676 (33d20+330)"
+armor_class: "25 (natural armor)"
 ---
 
-**Gargantuan monstrosity (titan), unaligned**
-
-**Armor Class** 25 (natural armor)
-
-**Hit Points** 676 (33d20+330)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 30 (+10) | 11 (0) | 30 (+10) | 3 (-4) | 11 (0) | 11 (0) |
-
-**Saving Throws** Int +5, Wis +9, Cha +9
-
-**Damage Immunities** fire, poison, bludgeoning, piercing, and slashing from nonmagical weapons
-
 **Condition Immunities** charmed, frightened, paralyzed, poisoned
-
-**Senses** blindsight 120 ft.
-
-**Challenge** 30 (155,000 XP)
 
 ***Legendary Resistance (3/Day).*** If the tarrasque fails a saving throw, it can choose to succeed instead.
 
@@ -34,7 +29,7 @@ tags: [gargantuan, monstrosity, cr30, monster-manual]
 
 ***Siege Monster.*** The tarrasque deals double damage to objects and structures.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tai l. It can use its Swallow instead of its bite.
 
@@ -52,7 +47,7 @@ tags: [gargantuan, monstrosity, cr30, monster-manual]
 
 If the tarrasque takes 60 damage or more on a single turn from a creature inside it, the tarrasque must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the tarrasque. If the tarrasque dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 30 feet of movement, exiting prone.
 
-**Legendary Actions**
+### Legendary Actions
 
 The tarrasque can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The tarrasque regains spent legendary actions at the start of its turn.
 
@@ -61,4 +56,3 @@ The tarrasque can take 3 legendary actions, choosing from the options below. Onl
 ***Move.*** The tarrasque moves up to half its speed.
 
 ***Chomp (Costs 2 Actions).*** The tarrasque makes one bite attack or uses its Swallow.
-

@@ -2,33 +2,27 @@
 layout: creature
 name: "Draegloth"
 tags: [large, fiend, cr7, volos-guide]
+cha: 11 (0)
+wis: 11 (0)
+int: 13 (+1)
+con: 18 (+4)
+dex: 15 (+2)
+str: 20 (+5)
+size: Large fiend (demon)
+alignment: chaotic evil
+challenge: "7 (2,900 XP)"
+languages: "Abyssal, Elvish, Undercommon"
+senses: "darkvision 120 ft."
+skills: "Perception +3, Stealth +5"
+damage_immunities: "poison"
+speed: "30 ft."
+hit_points: "123 (13d10+52)"
+armor_class: "15 (natural armor)"
 ---
-
-**Large fiend (demon), chaotic evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 123 (13d10+52)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 20 (+5) | 15 (+2) | 18 (+4) | 13 (+1) | 11 (0) | 11 (0) |
-
-**Skills** Perception +3, Stealth +5
 
 **Damage Resistances** cold, fire, lightning
 
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 120 ft.
-
-**Languages** Abyssal, Elvish, Undercommon
-
-**Challenge** 7 (2,900 XP)
 
 ***Fey Ancestry.*** The draegloth has advantage on saving throws against being charmed, and magic can't put it to sleep.
 
@@ -38,11 +32,10 @@ At will: darkness
 
 1/day each: confusion, dancing lights, faerie fire
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The draegloth makes three attacks: one with its bite and two with its claws.
 
 ***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one creature. Hit: 16 (2d10+5) piercing damage.
 
 ***Claws.*** Melee Weapon Attack: +8 to hit, reach 10 ft, one target. Hit: 16 (2d10+5) slashing damage.
-

@@ -3,25 +3,21 @@ layout: creature
 name: "Mongrelfolk"
 tags: [medium, humanoid, cr1/4, curse-of-strahd]
 page_number: 234
+cha: 6 (-2)
+wis: 10 (0)
+int: 9 (-1)
+con: 15 (+2)
+dex: 9 (-1)
+str: 12 (+1)
+size: Medium humanoid (mongrelfolk)
+alignment: any alignment
+challenge: "1/4 (50 XP)"
+languages: "Common"
+skills: "Deception +2, Perception +2, Stealth +3"
+speed: "20 ft."
+hit_points: "26 (4d8+8)"
+armor_class: "11 (natural armor)"
 ---
-
-**Medium humanoid (mongrelfolk), any alignment**
-
-**Armor Class** 11 (natural armor)
-
-**Hit Points** 26 (4d8+8)
-
-**Speed** 20 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 12 (+1) | 9 (-1) | 15 (+2) | 9 (-1) | 10 (0) | 6 (-2) |
-
-**Skills** Deception +2, Perception +2, Stealth +3
-
-**Languages** Common
-
-**Challenge** 1/4 (50 XP)
 
 ***Extraordinary Feature.*** The mongrelfolk has one of the following extraordinary features, determined randomly by rolling a d20 or chosen by the DM:
 
@@ -41,7 +37,7 @@ page_number: 234
 
 ***Mimicry.*** The mongrelfolk can mimic any sounds it has beard, including voices. A creature that hears the sounds can tell they are imitations with a successful DC 12 Wisdom (Insight) check.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The mongrelfolk makes two attacks: one with its bite and one with its claw or dagger.
 
@@ -50,4 +46,3 @@ page_number: 234
 ***Claw.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4+1) slashing damage.
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d4+1) piercing damage.
-

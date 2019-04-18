@@ -2,27 +2,22 @@
 layout: creature
 name: "Xvart Warlock of Raxivort"
 tags: [small, humanoid, cr1, volos-guide]
+cha: 12 (+1)
+wis: 11 (0)
+int: 8 (-1)
+con: 12 (+1)
+dex: 14 (+2)
+str: 8 (-1)
+size: Small humanoid (xvart)
+alignment: chaotic evil
+challenge: "1 (200 XP)"
+languages: "Abyssal"
+senses: "darkvision 30 ft."
+skills: "Stealth +3"
+speed: "30 ft."
+hit_points: "22 (5d6+5)"
+armor_class: "12 (15 with mage armor)"
 ---
-
-**Small humanoid (xvart), chaotic evil**
-
-**Armor Class** 12 (15 with mage armor)
-
-**Hit Points** 22 (5d6+5)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 8 (-1) | 14 (+2) | 12 (+1) | 8 (-1) | 11 (0) | 12 (+1) |
-
-**Skills** Stealth +3
-
-**Senses** darkvision 30 ft.
-
-**Languages** Abyssal
-
-**Challenge** 1 (200 XP)
 
 ***Innate Spellcasting.*** The xvart's innate spellcasting ability is Charisma. it can innately cast the following spells, requiring no material components:
 
@@ -40,7 +35,6 @@ Cantrips (at will): eldritch blast, mage hand, minor illusion, poison spray, pre
 
 ***Raxivort's Tongue.*** The xvart can communicate with ordinary bats and rats, as well as giant bats and giant rats.
 
-**Actions**
+### Actions
 
 ***Scimitar.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage.
-

@@ -3,35 +3,30 @@ layout: creature
 name: "Dwarf Knight"
 tags: [medium, humanoid, cr3, unofficial]
 page_number: 999
+cha: 15 (+2)
+wis: 11 (0)
+int: 11 (0)
+con: 14 (+2)
+dex: 11 (0)
+str: 16 (+3)
+size: Medium humanoid (dwarf)
+alignment: any alignment
+challenge: "3 (700 XP)"
+languages: "any one language (usually Common)"
+senses: "darkvision, passive Perception 10"
+saving_throws: "Con +4, Wis +2"
+speed: "30 ft."
+hit_points: "52  (8d8 + 16)"
+armor_class: "18 (plate)"
 ---
 
-**Medium humanoid (dwarf), any alignment**
-
-**Armor Class** 18 (plate)
-
-**Hit Points** 52  (8d8 + 16)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 16 (+3) | 11 (0) | 14 (+2) | 11 (0) | 11 (0) | 15 (+2) |
-
-**Saving Throws** Con +4, Wis +2
-
 **Damage Resistances** poison
-
-**Senses** darkvision, passive Perception 10
-
-**Languages** any one language (usually Common)
-
-**Challenge** 3 (700 XP)
 
 ***Brave.*** The knight has advantage on saving throws against being frightened.
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 
-**Actions**
+### Actions
 
 ***Multiattack*** The knight makes two melee attacks.
 

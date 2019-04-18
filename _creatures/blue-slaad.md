@@ -2,29 +2,24 @@
 layout: creature
 name: "Blue Slaad"
 tags: [large, aberration, cr7, monster-manual]
+cha: 9 (-1)
+wis: 7 (-2)
+int: 7 (-2)
+con: 18 (+4)
+dex: 15 (+2)
+str: 20 (+5)
+size: Large aberration
+alignment: chaotic neutral
+challenge: "7 (2,900 XP)"
+languages: "Slaad, telepathy 60 ft."
+senses: "darkvision 60 ft."
+skills: "Perception +1"
+speed: "30 ft."
+hit_points: "123 (13d10+52)"
+armor_class: "15 (natural armor)"
 ---
 
-**Large aberration, chaotic neutral**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 123 (13d10+52)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 20 (+5) | 15 (+2) | 18 (+4) | 7 (-2) | 7 (-2) | 9 (-1) |
-
-**Skills** Perception +1
-
 **Damage Resistances** acid, cold, fire, lightning, thunder
-
-**Senses** darkvision 60 ft.
-
-**Languages** Slaad, telepathy 60 ft.
-
-**Challenge** 7 (2,900 XP)
 
 ***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects
 
@@ -38,11 +33,10 @@ A greater restoration spell cast on the slaad destroys the gem without harming t
 
 Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapacitated slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom (Medicine) check. Each failed attempt deals 22 (4d10) psychic damage to the slaad.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws.
 
 ***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) piercing damage.
 
 ***Claw.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 12 (2d6 + 5) slashing damage. If the target is a humanoid, it must succeed on a DC 15 Constitution saving throw or be infected with a disease called chaos phage. While infected, the target can't regain hit points, and its hit point maximum is reduced by 10 (3d6) every 24 hours. If the disease reduces the target's hit point maximum to 0, the target instantly transforms into a red slaad or, if it has the ability to cast spells of 3rd level or higher, a green slaad. Only a wish spell can reverse the transformation.
-

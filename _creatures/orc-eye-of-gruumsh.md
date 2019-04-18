@@ -2,27 +2,22 @@
 layout: creature
 name: "Orc Eye of Gruumsh"
 tags: [medium, humanoid, cr2, monster-manual]
+cha: 12 (+1)
+wis: 13 (+1)
+int: 9 (-1)
+con: 17 (+3)
+dex: 12 (+1)
+str: 16 (+3)
+size: Medium humanoid (orc)
+alignment: chaotic evil
+challenge: "2 (450 XP)"
+languages: "Common, Orc"
+senses: "darkvision 60 ft."
+skills: "Intimidation +3, Religion +1"
+speed: "30 ft."
+hit_points: "45 (6d8+18)"
+armor_class: "16 (ring mail, shield)"
 ---
-
-**Medium humanoid (orc), chaotic evil**
-
-**Armor Class** 16 (ring mail, shield)
-
-**Hit Points** 45 (6d8+18)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 16 (+3) | 12 (+1) | 17 (+3) | 9 (-1) | 13 (+1) | 12 (+1) |
-
-**Skills** Intimidation +3, Religion +1
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Orc
-
-**Challenge** 2 (450 XP)
 
 ***Aggressive.*** As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
@@ -36,7 +31,6 @@ tags: [medium, humanoid, cr2, monster-manual]
 
 * 2nd level (2 slots): augury, spiritual weapon (spear)
 
-**Actions**
+### Actions
 
 ***Spear.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 11 (1d6 + 3 plus 1d8) piercing damage, or 12 (2d8 + 3) piercing damage if used with two hands to make a melee attack.
-

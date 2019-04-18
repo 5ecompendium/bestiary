@@ -2,31 +2,25 @@
 layout: creature
 name: "Vampire Spellcaster"
 tags: [medium, undead, cr15, monster-manual]
+cha: 18 (+4)
+wis: 15 (+2)
+int: 17 (+3)
+con: 18 (+4)
+dex: 18 (+4)
+str: 18 (+4)
+size: Medium undead (shapechanger)
+alignment: lawful evil
+challenge: "15 (13,000 XP)"
+languages: "the languages it knew in life"
+senses: "darkvision 120 ft."
+skills: "Perception +7, Stealth +9"
+saving_throws: "Dex +9, Wis +7, Cha +9"
+speed: "30 ft."
+hit_points: "144 (17d8+68)"
+armor_class: "16 (natural armor)"
 ---
 
-**Medium undead (shapechanger), lawful evil**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 144 (17d8+68)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 18 (+4) | 18 (+4) | 17 (+3) | 15 (+2) | 18 (+4) |
-
-**Saving Throws** Dex +9, Wis +7, Cha +9
-
-**Skills** Perception +7, Stealth +9
-
 **Damage Resistances** necrotic, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Senses** darkvision 120 ft.
-
-**Languages** the languages it knew in life
-
-**Challenge** 15 (13,000 XP)
 
 ***Shapechanger.*** If the vampire isn't in sun light or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.
 
@@ -68,7 +62,7 @@ Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts it
 
 * 5th level (1 slot): dominate person
 
-**Actions**
+### Actions
 
 ***Multiattack (Vampire Form Only).*** The vampire makes two attacks, only one of which can be a bite attack.
 
@@ -81,4 +75,3 @@ Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts it
 Each time the vampire or the vampire's companions do anything harmful to the target, it can repeat the saving throw, ending the effect on itself on a success. Otherwise, the effect lasts 24 hours or until the vampire is destroyed, is on a different plane of existence than the target, or takes a bonus action to end the effect.
 
 ***Children of the Night (1/Day).*** The vampire magically calls 2d4 swarms of bats or rats, provided that the sun isn't up. While outdoors, the vampire can call 3d6 wolves instead. The called creatures arrive in 1d4 rounds, acting as allies of the vampire and obeying its spoken commands. The beasts remain for 1 hour, until the vampire dies, or until the vampire dismisses them as a bonus action.
-

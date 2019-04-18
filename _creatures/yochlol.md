@@ -2,35 +2,28 @@
 layout: creature
 name: "Yochlol"
 tags: [medium, fiend, cr10, monster-manual]
+cha: 15 (+2)
+wis: 15 (+2)
+int: 13 (+1)
+con: 18 (+4)
+dex: 14 (+2)
+str: 15 (+2)
+size: Medium fiend (demon)
+alignment: chaotic evil
+challenge: "10 (5,900 XP)"
+languages: "Abyssal, Elvish, Undercommon"
+senses: "darkvision 120 ft."
+skills: "Deception +10, Insight +6"
+damage_immunities: "poison"
+saving_throws: "Dex +6, Int +5, Wis +6, Cha +6"
+speed: "30 ft., climb 30 ft."
+hit_points: "136 (16d8+64)"
+armor_class: "15 (natural armor)"
 ---
-
-**Medium fiend (demon), chaotic evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 136 (16d8+64)
-
-**Speed** 30 ft., climb 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 15 (+2) | 14 (+2) | 18 (+4) | 13 (+1) | 15 (+2) | 15 (+2) |
-
-**Saving Throws** Dex +6, Int +5, Wis +6, Cha +6
-
-**Skills** Deception +10, Insight +6
 
 **Damage Resistances** cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
 
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 120 ft.
-
-**Languages** Abyssal, Elvish, Undercommon
-
-**Challenge** 10 (5,900 XP)
 
 ***Shapechanger.*** The yochlol can use its action to polymorph into a form that resembles a female drow or giant spider, or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -46,7 +39,7 @@ At will: detect thoughts, web
 
 ***Web Walker.*** The yochlol ignores movement restrictions caused by webbing.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The yochlol makes two melee attacks.
 
@@ -63,4 +56,3 @@ While in mist form, the yochlol can enter a creature's space and stop there. Eac
 A yochlol has a 50 percent chance of summoning one yochlol.
 
 A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
-

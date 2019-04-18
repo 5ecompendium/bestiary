@@ -2,35 +2,28 @@
 layout: creature
 name: "Barlgura"
 tags: [large, fiend, cr5, monster-manual]
+cha: 9 (-1)
+wis: 14 (+2)
+int: 7 (-2)
+con: 16 (+3)
+dex: 15 (+2)
+str: 18 (+4)
+size: Large fiend (demon)
+alignment: chaotic evil
+challenge: "5 (1,800 XP)"
+languages: "Abyssal, telepathy 120 ft."
+senses: "blindsight 30 ft., darkvision 120 ft."
+skills: "Perception +5, Stealth +5"
+damage_immunities: "poison"
+saving_throws: "Dex +5, Con +6"
+speed: "40 ft., climb 40 ft."
+hit_points: "68 (8d10+24)"
+armor_class: "15 (natural armor)"
 ---
-
-**Large fiend (demon), chaotic evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 68 (8d10+24)
-
-**Speed** 40 ft., climb 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 15 (+2) | 16 (+3) | 7 (-2) | 14 (+2) | 9 (-1) |
-
-**Saving Throws** Dex +5, Con +6
-
-**Skills** Perception +5, Stealth +5
 
 **Damage Resistances** cold, fire, lightning
 
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** blindsight 30 ft., darkvision 120 ft.
-
-**Languages** Abyssal, telepathy 120 ft.
-
-**Challenge** 5 (1,800 XP)
 
 ***Innate Spellcasting.*** The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components:
 
@@ -42,7 +35,7 @@ tags: [large, fiend, cr5, monster-manual]
 
 ***Running Leap.*** The barlgura's long jump is up to 40 feet and its high jump is up to 20 feet when it has a running start.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The barlgura makes three attacks: one with its bite and two with its fists.
 
@@ -55,4 +48,3 @@ tags: [large, fiend, cr5, monster-manual]
 A barlgura has a 30 percent chance of summoning one barlgura.
 
 A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
-

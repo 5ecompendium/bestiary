@@ -3,29 +3,24 @@ layout: creature
 name: "Dwarf Priest"
 tags: [medium, humanoid, cr2, unofficial]
 page_number: 999
+cha: 13 (+1)
+wis: 16 (+3)
+int: 13 (+1)
+con: 12 (+1)
+dex: 10 (0)
+str: 10 (0)
+size: Medium humanoid (dwarf)
+alignment: any alignment
+challenge: "2 (450 XP)"
+languages: "any two languages"
+senses: "darkvision, passive Perception 13"
+skills: "Medicine +7, Persuasion +3, Religion +4"
+speed: "25 ft."
+hit_points: "27  (5d8 + 5)"
+armor_class: "13 (chain shirt)"
 ---
 
-**Medium humanoid (dwarf), any alignment**
-
-**Armor Class** 13 (chain shirt)
-
-**Hit Points** 27  (5d8 + 5)
-
-**Speed** 25 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 10 (0) | 10 (0) | 12 (+1) | 13 (+1) | 16 (+3) | 13 (+1) |
-
-**Skills** Medicine +7, Persuasion +3, Religion +4
-
 **Damage Resistances** poison
-
-**Senses** darkvision, passive Perception 13
-
-**Languages** any two languages
-
-**Challenge** 2 (450 XP)
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 
@@ -37,6 +32,6 @@ page_number: 999
 * 2nd level (3 slots): lesser restoration, spiritual weapon
 * 3rd level (2 slots): dispel magic, spirit guardians
 
-**Actions**
+### Actions
 
 ***Mace*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage.

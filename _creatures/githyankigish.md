@@ -3,29 +3,23 @@ layout: creature
 name: "Githyanki Gish"
 tags: [medium, humanoid, cr10, mordenkainens-tome-of-foes]
 page_number: 205
+cha: 16 (+3)
+wis: 15 (+2)
+int: 16 (+3)
+con: 14 (+2)
+dex: 15 (+2)
+str: 17 (+3)
+size: Medium humanoid (gith)
+alignment: lawful evil
+challenge: "10 (5900 XP)"
+languages: "Gith"
+senses: "passive Perception 16"
+skills: "Insight +6, Perception +6, Stealth +6"
+saving_throws: "Con +6, Int +7, Wis +6"
+speed: "30 ft."
+hit_points: "123  (19d8 + 38)"
+armor_class: "17 (half plate)"
 ---
-
-**Medium humanoid (gith), lawful evil**
-
-**Armor Class** 17 (half plate)
-
-**Hit Points** 123  (19d8 + 38)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 17 (+3) | 15 (+2) | 14 (+2) | 16 (+3) | 15 (+2) | 16 (+3) |
-
-**Saving Throws** Con +6, Int +7, Wis +6
-
-**Skills** Insight +6, Perception +6, Stealth +6
-
-**Senses** passive Perception 16
-
-**Languages** Gith
-
-**Challenge** 10 (5900 XP)
 
 ***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
 * At will: mage hand (the hand is invisible)
@@ -41,7 +35,7 @@ page_number: 205
 
 ***War Magic.*** When the githyanki uses its action to cast a spell, it can make one weapon attack as a bonus action
 
-**Actions**
+### Actions
 
 ***Multiattack*** The githyanki makes two longsword attacks.
 

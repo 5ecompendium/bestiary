@@ -2,41 +2,34 @@
 layout: creature
 name: "Adult Blue Dracolich"
 tags: [huge, undead, cr17, monster-manual]
+cha: 19 (+4)
+wis: 15 (+2)
+int: 16 (+3)
+con: 23 (+6)
+dex: 10 (0)
+str: 25 (+7)
+size: Huge undead
+alignment: lawful evil
+challenge: "17 (18,000 XP)"
+languages: "Common, Draconic"
+senses: "blindsight 60 ft., darkvision 120 ft."
+skills: "Perception +12, Stealth +5"
+damage_immunities: "lightning, poison"
+saving_throws: "Dex +5, Con +11, Wis +7, Cha +9"
+speed: "40 ft., burrow 30 ft., fly 80 ft."
+hit_points: "225 (18d12+108)"
+armor_class: "19 (natural armor)"
 ---
-
-**Huge undead, lawful evil**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 225 (18d12+108)
-
-**Speed** 40 ft., burrow 30 ft., fly 80 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 25 (+7) | 10 (0) | 23 (+6) | 16 (+3) | 15 (+2) | 19 (+4) |
-
-**Saving Throws** Dex +5, Con +11, Wis +7, Cha +9
-
-**Skills** Perception +12, Stealth +5
 
 **Damage Resistances** necrotic
 
-**Damage Immunities** lightning, poison
-
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
-
-**Senses** blindsight 60 ft., darkvision 120 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 17 (18,000 XP)
 
 ***Legendary Resistance (3/Day).*** If the dracolich fails a saving throw, it can choose to succeed instead.
 
 ***Magic Resistance.*** The dracolich has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The dracolich can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -50,7 +43,7 @@ tags: [huge, undead, cr17, monster-manual]
 
 ***Lightning Breath (Recharge 5-6).*** The dracolich exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 20 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.
 
-**Legendary Actions**
+### Legendary Actions
 
 The adult blue dracolich can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The adult blue dracolich regains spent legendary actions at the start of its turn.
 
@@ -59,4 +52,3 @@ The adult blue dracolich can take 3 legendary actions, choosing from the options
 ***Tail Attack.*** The dracolich makes a tail attack.
 
 ***Wing Attack (Costs 2 Actions).*** The dracolich beats its tattered wings. Each creature within 10 ft. of the dracolich must succeed on a DC 21 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. After beating its wings this way, the dracolich can fly up to half its flying speed.
-

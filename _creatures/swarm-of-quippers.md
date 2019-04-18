@@ -2,27 +2,24 @@
 layout: creature
 name: "Swarm of Quippers"
 tags: [medium, swarm, cr1, monster-manual]
+cha: 2 (-4)
+wis: 7 (-2)
+int: 1 (-5)
+con: 9 (-1)
+dex: 16 (+3)
+str: 13 (+1)
+size: Medium swarm
+alignment: unaligned
+challenge: "1 (200 XP)"
+senses: "darkvision 60 ft."
+speed: "0 ft., swim 40 ft."
+hit_points: "28 (8d8-8)"
+armor_class: "13"
 ---
-
-**Medium swarm, unaligned**
-
-**Armor Class** 13
-
-**Hit Points** 28 (8d8-8)
-
-**Speed** 0 ft., swim 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 13 (+1) | 16 (+3) | 9 (-1) | 1 (-5) | 7 (-2) | 2 (-4) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
 
 **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
-
-**Senses** darkvision 60 ft.
-
-**Challenge** 1 (200 XP)
 
 ***Blood Frenzy.*** The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 
@@ -30,7 +27,6 @@ tags: [medium, swarm, cr1, monster-manual]
 
 ***Water Breathing.*** The swarm can breathe only underwater.
 
-**Actions**
+### Actions
 
 ***Bites.*** Melee Weapon Attack: +5 to hit, reach 0 ft., one creature in the swarm's space. Hit: 14 (4d6) piercing damage, or 7 (2d6) piercing damage if the swarm has half of its hit points or fewer.
-

@@ -2,33 +2,26 @@
 layout: creature
 name: "Tiamat"
 tags: [gargantuan, fiend, cr30, tyranny-of-dragons]
+cha: 28 (+9)
+wis: 26 (+8)
+int: 26 (+8)
+con: 30 (+10)
+dex: 10 (0)
+str: 30 (+10)
+size: Gargantuan fiend
+alignment: chaotic evil
+challenge: "30 (155,000 XP)"
+languages: "Common, Draconic, Infernal"
+senses: "darkvision 240 ft., truesight 120 ft."
+skills: "Arcana +17, Perception +26, Religion +17"
+damage_immunities: "acid, cold, fire, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons"
+saving_throws: "Str +19, Dex +9, Wis +17"
+speed: "60 ft., fly 120 ft."
+hit_points: "615 (30d20+300)"
+armor_class: "25 (natural armor)"
 ---
 
-**Gargantuan fiend, chaotic evil**
-
-**Armor Class** 25 (natural armor)
-
-**Hit Points** 615 (30d20+300)
-
-**Speed** 60 ft., fly 120 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 30 (+10) | 10 (0) | 30 (+10) | 26 (+8) | 26 (+8) | 28 (+9) |
-
-**Saving Throws** Str +19, Dex +9, Wis +17
-
-**Skills** Arcana +17, Perception +26, Religion +17
-
-**Damage Immunities**  acid, cold, fire, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons
-
 **Condition Immunities** blinded, charmed, deafened, frightened, poisoned, stunned
-
-**Senses** darkvision 240 ft., truesight 120 ft.
-
-**Languages** Common, Draconic, Infernal
-
-**Challenge** 30 (155,000 XP)
 
 ***Discorporation.*** When Tiamat drops to 0 hit points or dies, her body is destroyed but her essence travels back to her domain in the Nine Hells, and she is unable to take physical form for a time.
 
@@ -44,7 +37,7 @@ tags: [gargantuan, fiend, cr30, tyranny-of-dragons]
 
 ***Regeneration.*** Tiamat regains 30 hit points at the start of her turn.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Tiamat can use her Frightful Presence. She then makes three attacks: two with her claws and one with her tail.
 
@@ -54,7 +47,7 @@ tags: [gargantuan, fiend, cr30, tyranny-of-dragons]
 
 ***Frightful Presence.*** Each creature of Tiamat's choice that is within 240 feet of Tiamat and aware of her must succeed on a DC 26 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to Tiamat's Frightful Presence for the next 24 hours.
 
-**Legendary Actions**
+### Legendary Actions
 
 The tiamat can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The tiamat regains spent legendary actions at the start of its turn.
 
@@ -73,4 +66,3 @@ Melee Weapon Attack: +19 to hit, reach 20 ft., one target. Hit: 32 (4d10 + 10) s
 ***Red Dragon Head: Fire Breath (Costs 2 Actions).*** Tiamat breathes fire in a 90-foot cone. Each creature in that area must make a DC 27 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
 
 ***White Dragon Head: Cold Breath (Costs 2 Actions).*** Tiamat breathes an icy blast in a 90-foot cone. Each creature in that area must make a DC 27 Dexterity saving throw, taking 72 (16d8) cold damage on a failed save, or half as much damage on a successful one.
-

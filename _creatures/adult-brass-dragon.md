@@ -2,35 +2,28 @@
 layout: creature
 name: "Adult Brass Dragon"
 tags: [huge, dragon, cr13, monster-manual]
+cha: 17 (+3)
+wis: 13 (+1)
+int: 14 (+2)
+con: 21 (+5)
+dex: 10 (0)
+str: 23 (+6)
+size: Huge dragon
+alignment: chaotic good
+challenge: "13 (10,000 XP)"
+languages: "Common, Draconic"
+senses: "blindsight 60 ft., darkvision 120 ft."
+skills: "History +7, Perception +11, Persuasion +8, Stealth +5"
+damage_immunities: "fire"
+saving_throws: "Dex +5, Con +10, Wis +6, Cha +8"
+speed: "40 ft., burrow 40 ft., fly 80 ft."
+hit_points: "172 (15d12+75)"
+armor_class: "18 (natural armor)"
 ---
-
-**Huge dragon, chaotic good**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 172 (15d12+75)
-
-**Speed** 40 ft., burrow 40 ft., fly 80 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 23 (+6) | 10 (0) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
-
-**Saving Throws** Dex +5, Con +10, Wis +6, Cha +8
-
-**Skills** History +7, Perception +11, Persuasion +8, Stealth +5
-
-**Damage Immunities** fire
-
-**Senses** blindsight 60 ft., darkvision 120 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 13 (10,000 XP)
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -47,4 +40,3 @@ tags: [huge, dragon, cr13, monster-manual]
 Fire Breath. The dragon exhales fire in an 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 45 (13d6) fire damage on a failed save, or half as much damage on a successful one.
 
 Sleep Breath. The dragon exhales sleep gas in a 60-foot cone. Each creature in that area must succeed on a DC 18 Constitution saving throw or fall unconscious for 10 minutes. This effect ends for a creature if the creature takes damage or someone uses an action to wake it.
-

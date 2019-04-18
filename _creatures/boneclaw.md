@@ -3,39 +3,33 @@ layout: creature
 name: "Boneclaw"
 tags: [large, undead, cr12, mordenkainens-tome-of-foes]
 page_number: 121
+cha: 9 (0)
+wis: 15 (+2)
+int: 13 (+1)
+con: 15 (+2)
+dex: 16 (+3)
+str: 19 (+4)
+size: Large undead
+alignment: chaotic evil
+challenge: "12 (8400 XP)"
+languages: "Common plus the main language of its master"
+senses: "darkvision 60 ft., passive Perception 16"
+skills: "Perception +6, Stealth +7"
+saving_throws: "Dex +7, Con +6, Wis +6"
+speed: "40 ft."
+hit_points: "127  (17d10 + 34)"
+armor_class: "16 (natural armor)"
 ---
-
-**Large undead, chaotic evil**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 127  (17d10 + 34)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 19 (+4) | 16 (+3) | 15 (+2) | 13 (+1) | 15 (+2) | 9 (0) |
-
-**Saving Throws** Dex +7, Con +6, Wis +6
-
-**Skills** Perception +6, Stealth +7
 
 **Damage Resistances** cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
-**Senses** darkvision 60 ft., passive Perception 16
-
-**Languages** Common plus the main language of its master
-
-**Challenge** 12 (8400 XP)
-
 ***Rejuvenation.*** While its master lives, a destroyed boneclaw gains a new body in 1d10 hours, with all its hit points. The new body appears within 1 mile of the boneclaw's master.
 
 ***Shadow Stealth.*** While in dim light or darkness, the boneclaw can take the Hide action as a bonus action.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The boneclaw makes two claw attacks.
 

@@ -3,37 +3,31 @@ layout: creature
 name: "Duergar Mind Master"
 tags: [medium, humanoid, cr2, mordenkainens-tome-of-foes]
 page_number: 189
+cha: 12 (+1)
+wis: 10 (0)
+int: 15 (+2)
+con: 14 (+2)
+dex: 17 (+3)
+str: 11 (0)
+size: Medium humanoid (dwarf)
+alignment: lawful evil
+challenge: "2 (450 XP)"
+languages: "Dwarvish, Undercommon"
+senses: "darkvision 120 ft., truesight 30 ft., passive Perception 12"
+skills: "Perception +2, Stealth +5"
+saving_throws: "Wis +2"
+speed: "25 ft."
+hit_points: "39  (6d8 + 12)"
+armor_class: "14 (leather armor)"
 ---
 
-**Medium humanoid (dwarf), lawful evil**
-
-**Armor Class** 14 (leather armor)
-
-**Hit Points** 39  (6d8 + 12)
-
-**Speed** 25 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 11 (0) | 17 (+3) | 14 (+2) | 15 (+2) | 10 (0) | 12 (+1) |
-
-**Saving Throws** Wis +2
-
-**Skills** Perception +2, Stealth +5
-
 **Damage Resistances** poison
-
-**Senses** darkvision 120 ft., truesight 30 ft., passive Perception 12
-
-**Languages** Dwarvish, Undercommon
-
-**Challenge** 2 (450 XP)
 
 ***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The duergar makes two melee attacks. It can replace one of those attacks with a use of Mind Mastery.
 

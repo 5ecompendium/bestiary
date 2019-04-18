@@ -2,27 +2,23 @@
 layout: creature
 name: "Shoalar Quanderil"
 tags: [medium, humanoid, cr4, elemental-evil]
+cha: 17 (+3)
+wis: 10 (0)
+int: 14 (+2)
+con: 16 (+3)
+dex: 12 (+1)
+str: 11 (0)
+size: Medium humanoid (water genasi)
+alignment: lawful evil
+challenge: "4 (1,100 XP)"
+languages: "Aquan, Common"
+skills: "Arcana +4, Deception +5, Insight +2, Persuasion +5"
+speed: "30 ft., swim 30 ft."
+hit_points: "60 (8d8+24)"
+armor_class: "10 (13 with mage armor)"
 ---
 
-**Medium humanoid (water genasi), lawful evil**
-
-**Armor Class** 10 (13 with mage armor)
-
-**Hit Points** 60 (8d8+24)
-
-**Speed** 30 ft., swim 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 11 (0) | 12 (+1) | 16 (+3) | 14 (+2) | 10 (0) | 17 (+3) |
-
-**Skills** Arcana +4, Deception +5, Insight +2, Persuasion +5
-
 **Damage Resistances** acid
-
-**Languages** Aquan, Common
-
-**Challenge** 4 (1,100 XP)
 
 ***Amphibious.*** Shoalar can breathe air and water.
 
@@ -42,7 +38,6 @@ tags: [medium, humanoid, cr4, elemental-evil]
 
 * 3rd level (2 slots): tidal wave
 
-**Actions**
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or ranged 20/60 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
-

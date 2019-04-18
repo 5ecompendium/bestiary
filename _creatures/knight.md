@@ -2,29 +2,25 @@
 layout: creature
 name: "Knight"
 tags: [medium, humanoid, cr3, monster-manual]
+cha: 15 (+2)
+wis: 11 (0)
+int: 11 (0)
+con: 14 (+2)
+dex: 11 (0)
+str: 16 (+3)
+size: Medium humanoid (any race)
+alignment: any alignment
+challenge: "3 (700 XP)"
+languages: "any one language (usually Common)"
+saving_throws: "Con +4, Wis +2"
+speed: "30 ft."
+hit_points: "52 (8d8+16)"
+armor_class: "18 (plate)"
 ---
-
-**Medium humanoid (any race), any alignment**
-
-**Armor Class** 18 (plate)
-
-**Hit Points** 52 (8d8+16)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 16 (+3) | 11 (0) | 14 (+2) | 11 (0) | 11 (0) | 15 (+2) |
-
-**Saving Throws** Con +4, Wis +2
-
-**Languages** any one language (usually Common)
-
-**Challenge** 3 (700 XP)
 
 ***Brave.*** The knight has advantage on saving throws against being frightened.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The knight makes two melee attacks.
 
@@ -34,7 +30,6 @@ tags: [medium, humanoid, cr3, monster-manual]
 
 ***Leadership (Recharges after a Short or Long Rest).*** For 1 minute, the knight can utter a special command or warning whenever a nonhostile creature that it can see within 30 ft. of it makes an attack roll or a saving throw. The creature can add a d4 to its roll provided it can hear and understand the knight. A creature can benefit from only one Leadership die at a time. This effect ends if the knight is incapacitated.
 
-**Reactions**
+### Reactions
 
 ***Parry.*** The knight adds 2 to its AC against one melee attack that would hit it. To do so, the knight must see the attacker and be wielding a melee weapon.
-

@@ -2,33 +2,27 @@
 layout: creature
 name: "Bodak"
 tags: [medium, undead, cr6, volos-guide]
+cha: 12 (+1)
+wis: 12 (+1)
+int: 7 (-2)
+con: 15 (+2)
+dex: 16 (+3)
+str: 15 (+2)
+size: Medium undead
+alignment: chaotic evil
+challenge: "6 (2,300 XP)"
+languages: "Abyssal, the languages it knew in life"
+senses: "darkvision 120 ft."
+skills: "Perception +4, Stealth +6"
+damage_immunities: "lightning, poison"
+speed: "30 ft."
+hit_points: "58 (9d8+18)"
+armor_class: "15 (natural armor)"
 ---
-
-**Medium undead, chaotic evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 58 (9d8+18)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 15 (+2) | 16 (+3) | 15 (+2) | 7 (-2) | 12 (+1) | 12 (+1) |
-
-**Skills** Perception +4, Stealth +6
 
 **Damage Resistances** cold, fire, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** lightning, poison
-
 **Condition Immunities** charmed, frightened, poisoned
-
-**Senses** darkvision 120 ft.
-
-**Languages** Abyssal, the languages it knew in life
-
-**Challenge** 6 (2,300 XP)
 
 ***Aura of Annihilation.*** The bodak can activate or deactivate this feature as a bonus action. While active, the aura deals 5 necrotic damage to any creature that ends its turn within 30 feet of the bodak. Undead and fiends ignore this effect.
 
@@ -38,9 +32,8 @@ tags: [medium, undead, cr6, volos-guide]
 
 ***Sunlight Hypersensitivity.*** The bodak takes 5 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-**Actions**
+### Actions
 
 ***Fist.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 4 (1d4+2) bludgeoning damage plus 9 (2d8) necrotic damage.
 
 ***Withering Gaze.*** One creature that the bodak can see within 60 feet of it must make a DC 13 Constitution saving throw, taking 22 (4d10) necrotic damage on a failed save, or half as much damage on a successful one.
-

@@ -3,35 +3,28 @@ layout: creature
 name: "Merrenoloth"
 tags: [medium, fiend, cr3, mordenkainens-tome-of-foes]
 page_number: 250
+cha: 11 (0)
+wis: 14 (+2)
+int: 17 (+3)
+con: 10 (0)
+dex: 17 (+3)
+str: 8 (-1)
+size: Medium fiend (yugoloth)
+alignment: neutral evil
+challenge: "3 (700 XP)"
+languages: "Abyssal, Infernal, telepathy 60 ft."
+senses: "blindsight 60 ft., darkvision 60 ft., passive Perception 14"
+skills: "History +5, Nature +5, Perception +4, Survival +4"
+damage_immunities: "acid, poison"
+saving_throws: "Dex +5, Int +5"
+speed: "30 ft., swim 40 ft."
+hit_points: "40  (9d8)"
+armor_class: "13"
 ---
-
-**Medium fiend (yugoloth), neutral evil**
-
-**Armor Class** 13
-
-**Hit Points** 40  (9d8)
-
-**Speed** 30 ft., swim 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 8 (-1) | 17 (+3) | 10 (0) | 17 (+3) | 14 (+2) | 11 (0) |
-
-**Saving Throws** Dex +5, Int +5
-
-**Skills** History +5, Nature +5, Perception +4, Survival +4
 
 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** acid, poison
-
 **Condition Immunities** poisoned
-
-**Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 14
-
-**Languages** Abyssal, Infernal, telepathy 60 ft.
-
-**Challenge** 3 (700 XP)
 
 ***Innate Spellcasting.*** The merrenoloth's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no material components:
 * At will: charm person, darkness, detect magic, dispel magic, gust of wind
@@ -44,7 +37,7 @@ page_number: 250
 
 ***Teleport.*** As a bonus action, the merrenoloth magically teleports, along with any equipment it is wearing or carrying, up to 60 feet to an unoccupied space it can see.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The merrenoloth uses Fear Gaze once and makes one oar attack.
 

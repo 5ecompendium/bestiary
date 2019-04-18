@@ -3,39 +3,33 @@ layout: creature
 name: "Hellfire Engine"
 tags: [huge, construct, cr16, mordenkainens-tome-of-foes]
 page_number: 165
+cha: 1 (-4)
+wis: 10 (0)
+int: 2 (-4)
+con: 24 (+7)
+dex: 16 (+3)
+str: 20 (+5)
+size: Huge construct
+alignment: lawful evil
+challenge: "16 (15,000 XP)"
+languages: "understands Infernal but can't speak"
+senses: "darkvision 120 ft., passive Perception 10"
+damage_immunities: "fire, poison"
+saving_throws: "Dex +8, Wis +5, Cha +0"
+speed: "40 ft."
+hit_points: "216  (16d12 + 112)"
+armor_class: "18 (natural armor)"
 ---
-
-**Huge construct, lawful evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 216  (16d12 + 112)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 20 (+5) | 16 (+3) | 24 (+7) | 2 (-4) | 10 (0) | 1 (-4) |
-
-**Saving Throws** Dex +8, Wis +5, Cha +0
 
 **Damage Resistances** cold, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** fire, poison
-
 **Condition Immunities** charmed, deafened, exhaustion, frightened, paralyzed, poisoned, unconscious
-
-**Senses** darkvision 120 ft., passive Perception 10
-
-**Languages** understands Infernal but can't speak
-
-**Challenge** 16 (15,000 XP)
 
 ***Immutable Form.*** The hellfire engine is immune to any spell or effect that would alter its form.
 
 ***Magic Resistance.*** The hellfire engine has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Flesh-Crushing Stride*** The hellfire engine moves up to its speed in a straight line. During this move, it can enter Large or smaller creatures' spaces. A creature whose space the hellfire engine enters must make a DC 18 Dexterity saving throw. On a successful save, the creature is pushed 5 feet to the nearest space out of the hellfire engine's path. On a failed save, the creature falls prone and takes 28 (8d6) bludgeoning damage.
 If the hellfire engine remains in the prone creature's space, the creature is also restrained until it's no longer in the same space as the hellfire engine. While restrained in this way, the creature, or another creature within 5 feet of it, can make a DC 18 Strength check. On a success, the creature is shunted to an unoccupied space of its choice within 5 feet of the hellfire engine and is no longer restrained.

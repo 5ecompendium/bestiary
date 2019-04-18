@@ -2,29 +2,24 @@
 layout: creature
 name: "Unicorn"
 tags: [large, celestial, cr5, monster-manual]
+cha: 16 (+3)
+wis: 17 (+3)
+int: 11 (0)
+con: 15 (+2)
+dex: 14 (+2)
+str: 18 (+4)
+size: Large celestial
+alignment: lawful good
+challenge: "5 (1,800 XP)"
+languages: "Celestial, Elvish, Sylvan, telepathy 60 ft."
+senses: "darkvision 60 ft."
+damage_immunities: "poison"
+speed: "50 ft."
+hit_points: "67 (9d10+18)"
+armor_class: "12"
 ---
 
-**Large celestial, lawful good**
-
-**Armor Class** 12
-
-**Hit Points** 67 (9d10+18)
-
-**Speed** 50 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 14 (+2) | 15 (+2) | 11 (0) | 17 (+3) | 16 (+3) |
-
-**Damage Immunities** poison
-
 **Condition Immunities** charmed, paralyzed, poisoned
-
-**Senses** darkvision 60 ft.
-
-**Languages** Celestial, Elvish, Sylvan, telepathy 60 ft.
-
-**Challenge** 5 (1,800 XP)
 
 ***Charge.*** If the unicorn moves at least 20 ft. straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
@@ -38,7 +33,7 @@ At will: detect evil and good, druidcraft, pass without trace
 
 ***Magic Weapons.*** The unicorn's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The unicorn makes two attacks: one with its hooves and one with its horn.
 
@@ -50,7 +45,7 @@ At will: detect evil and good, druidcraft, pass without trace
 
 ***Teleport (1/Day).*** The unicorn magically teleports itself and up to three willing creatures it can see within 5 ft. of it, along with any equipment they are wearing or carrying, to a location the unicorn is familiar with, up to 1 mile away.
 
-**Legendary Actions**
+### Legendary Actions
 
 The unicorn can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The unicorn regains spent legendary actions at the start of its turn.
 
@@ -59,4 +54,3 @@ The unicorn can take 3 legendary actions, choosing from the options below. Only 
 ***Shimmering Shield (Costs 2 Actions).*** The unicorn creates a shimmering, magical field around itself or another creature it can see within 60 ft. of it. The target gains a +2 bonus to AC until the end of the unicorn's next turn.
 
 ***Heal Self (Costs 3 Actions).*** The unicorn magically regains 11 (2d8 + 2) hit points.
-

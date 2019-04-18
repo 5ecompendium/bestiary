@@ -2,27 +2,23 @@
 layout: creature
 name: "Sprite"
 tags: [tiny, fey, cr1/4, monster-manual]
+cha: 11 (0)
+wis: 13 (+1)
+int: 14 (+2)
+con: 10 (0)
+dex: 18 (+4)
+str: 3 (-4)
+size: Tiny fey
+alignment: neutral good
+challenge: "1/4 (50 XP)"
+languages: "Common, Elvish, Sylvan"
+skills: "Perception +3, Stealth +8"
+speed: "10 ft., fly 40 ft."
+hit_points: "2 (1d4)"
+armor_class: "15 (leather armor)"
 ---
 
-**Tiny fey, neutral good**
-
-**Armor Class** 15 (leather armor)
-
-**Hit Points** 2 (1d4)
-
-**Speed** 10 ft., fly 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 3 (-4) | 18 (+4) | 10 (0) | 14 (+2) | 13 (+1) | 11 (0) |
-
-**Skills** Perception +3, Stealth +8
-
-**Languages** Common, Elvish, Sylvan
-
-**Challenge** 1/4 (50 XP)
-
-**Actions**
+### Actions
 
 ***Longsword.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
 
@@ -31,4 +27,3 @@ tags: [tiny, fey, cr1/4, monster-manual]
 ***Heart Sight.*** The sprite touches a creature and magically knows the creature's current emotional state. If the target fails a DC 10 Charisma saving throw, the sprite also knows the creature's alignment. Celestials, fiends, and undead automatically fail the saving throw.
 
 ***Invisibility.*** The sprite magically turns invisible until it attacks or casts a spell, or until its concentration ends (as if concentrating on a spell). Any equipment the sprite wears or carries is invisible with it.
-

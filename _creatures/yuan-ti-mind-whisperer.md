@@ -2,33 +2,26 @@
 layout: creature
 name: "Yuan-ti Mind Whisperer"
 tags: [medium, monstrosity, cr4, volos-guide]
+cha: 16 (+3)
+wis: 12 (+1)
+int: 14 (+2)
+con: 13 (+1)
+dex: 14 (+2)
+str: 16 (+3)
+size: Medium monstrosity (shapechanger
+alignment: yuan-ti)
+challenge: "4 (1,100 XP)"
+languages: "Abyssal, Common, Draconic"
+senses: "darkvision 120 ft. (penetrates magical darkness)"
+skills: "Deception +5, Stealth +4"
+damage_immunities: "poison"
+saving_throws: "Wis +4, Cha +5"
+speed: "30 ft."
+hit_points: "71 (13d8+13)"
+armor_class: "14 (natural armor)"
 ---
 
-**Medium monstrosity (shapechanger, yuan-ti), neutral evil**
-
-**Armor Class** 14 (natural armor)
-
-**Hit Points** 71 (13d8+13)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 16 (+3) | 14 (+2) | 13 (+1) | 14 (+2) | 12 (+1) | 16 (+3) |
-
-**Saving Throws** Wis +4, Cha +5
-
-**Skills** Deception +5, Stealth +4
-
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 120 ft. (penetrates magical darkness)
-
-**Languages** Abyssal, Common, Draconic
-
-**Challenge** 4 (1,100 XP)
 
 ***Shapechanger.*** The yuan-ti can use its action to polymorph into a Medium snake or back into its true form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. If it dies, it stays in its current form.
 
@@ -54,11 +47,10 @@ Cantrips (at will): eldritch blast (range 300 ft., +3 bonus to each damage roll)
 
 ***Variant: Shed Skin (1/Day).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
 
-**Actions**
+### Actions
 
 ***Multiattack (Yuan-ti Form Only).*** The yuan-ti makes one bite attack and one scimitar attack.
 
 ***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4+3) piercing damage plus 7 (2d6) poison damage.
 
 ***Scimitar (Yuan-ti Form Only).*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6+3) slashing damage.
-

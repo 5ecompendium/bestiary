@@ -2,27 +2,22 @@
 layout: creature
 name: "Frog"
 tags: [tiny, beast, cr0, monster-manual]
+cha: 3 (-4)
+wis: 8 (-1)
+int: 1 (-5)
+con: 8 (-1)
+dex: 13 (+1)
+str: 1 (-5)
+size: Tiny beast
+alignment: unaligned
+challenge: "0 (10 XP)"
+senses: "darkvision 30 ft."
+skills: "Perception +1, Stealth +3"
+speed: "20 ft., swim 20 ft."
+hit_points: "1 (1d4-1)"
+armor_class: "11"
 ---
-
-**Tiny beast, unaligned**
-
-**Armor Class** 11
-
-**Hit Points** 1 (1d4-1)
-
-**Speed** 20 ft., swim 20 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1 (-5) | 13 (+1) | 8 (-1) | 1 (-5) | 8 (-1) | 3 (-4) |
-
-**Skills** Perception +1, Stealth +3
-
-**Senses** darkvision 30 ft.
-
-**Challenge** 0 (10 XP)
 
 ***Amphibious.*** The frog can breathe air and water
 
 ***Standing Leap.*** The frog's long jump is up to 10 ft. and its high jump is up to 5 ft., with or without a running start.
-

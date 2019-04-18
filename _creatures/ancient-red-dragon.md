@@ -2,35 +2,28 @@
 layout: creature
 name: "Ancient Red Dragon"
 tags: [gargantuan, dragon, cr24, monster-manual]
+cha: 23 (+6)
+wis: 15 (+2)
+int: 18 (+4)
+con: 29 (+9)
+dex: 10 (0)
+str: 30 (+10)
+size: Gargantuan dragon
+alignment: chaotic evil
+challenge: "24 (62,000 XP)"
+languages: "Common, Draconic"
+senses: "blindsight 60 ft., darkvision 120 ft."
+skills: "Perception +16, Stealth +7"
+damage_immunities: "fire"
+saving_throws: "Dex +7, Con +16, Wis +9, Cha +13"
+speed: "40 ft., climb 40 ft., fly 80 ft."
+hit_points: "546 (28d20+252)"
+armor_class: "22 (natural armor)"
 ---
-
-**Gargantuan dragon, chaotic evil**
-
-**Armor Class** 22 (natural armor)
-
-**Hit Points** 546 (28d20+252)
-
-**Speed** 40 ft., climb 40 ft., fly 80 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 30 (+10) | 10 (0) | 29 (+9) | 18 (+4) | 15 (+2) | 23 (+6) |
-
-**Saving Throws** Dex +7, Con +16, Wis +9, Cha +13
-
-**Skills** Perception +16, Stealth +7
-
-**Damage Immunities** fire
-
-**Senses** blindsight 60 ft., darkvision 120 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 24 (62,000 XP)
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -44,7 +37,7 @@ tags: [gargantuan, dragon, cr24, monster-manual]
 
 ***Fire Breath (Recharge 5-6).*** The dragon exhales fire in a 90-foot cone. Each creature in that area must make a DC 24 Dexterity saving throw, taking 91 (26d6) fire damage on a failed save, or half as much damage on a successful one.
 
-**Legendary Actions**
+### Legendary Actions
 
 The ancient red dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The ancient red dragon regains spent legendary actions at the start of its turn.
 
@@ -53,4 +46,3 @@ The ancient red dragon can take 3 legendary actions, choosing from the options b
 ***Tail Attack.*** The dragon makes a tail attack.
 
 ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 25 Dexterity saving throw or take 17 (2d6 + 10) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-

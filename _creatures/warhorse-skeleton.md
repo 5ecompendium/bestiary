@@ -2,31 +2,26 @@
 layout: creature
 name: "Warhorse Skeleton"
 tags: [large, undead, cr1/2, monster-manual]
+cha: 5 (-3)
+wis: 8 (-1)
+int: 2 (-4)
+con: 15 (+2)
+dex: 12 (+1)
+str: 18 (+4)
+size: Large undead
+alignment: lawful evil
+challenge: "1/2 (100 XP)"
+senses: "darkvision 60 ft."
+damage_immunities: "poison"
+speed: "60 ft."
+hit_points: "22 (3d10+6)"
+armor_class: "13 (barding scraps)"
 ---
-
-**Large undead, lawful evil**
-
-**Armor Class** 13 (barding scraps)
-
-**Hit Points** 22 (3d10+6)
-
-**Speed** 60 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 12 (+1) | 15 (+2) | 2 (-4) | 8 (-1) | 5 (-3) |
 
 **Damage Vulnerabilities** bludgeoning
 
-**Damage Immunities** poison
-
 **Condition Immunities** exhaustion, poisoned
 
-**Senses** darkvision 60 ft.
-
-**Challenge** 1/2 (100 XP)
-
-**Actions**
+### Actions
 
 ***Hooves.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
-

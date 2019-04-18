@@ -3,9 +3,9 @@ layout: creature
 name: "Diabolical Cultist Template"
 tags: [medium, humanoid, cr0, mordenkainens-tome-of-foes, template]
 page_number: 18
+size: Medium humanoid (any race)
+alignment: any alignment
 ---
-
-**Medium humanoid (any race), any alignment**
 
 
 ***Demands of Nessus (Asmodeus).*** At the start of each of this creature's turns, this creature can choose one ally it can see within 30 feet of it. The chosen ally loses 10 hit points, and this creature regains the same number of hit points. If the creature is incapacitated, it makes no choice; instead, the closest ally within 30 feet is the chosen ally.
@@ -43,4 +43,3 @@ page_number: 18
 ***Infernal Tactics (Zariel).*** This creature has a keen eye for seizing a tactical advantage. Immediately after rolling initiative, it can choose itself and up to three allies it can see if it isn't incapacitated. It can swap the initiative results of the chosen creatures among them.
 
 ***Fury of the Nine (Gambion).*** As a bonus action, the cambion chooses an other creature that can see or hear it within 120 feet. That creature gains advantage on all attack rolls and saving throws for the next minute or until the cambion uses this ability again.
-

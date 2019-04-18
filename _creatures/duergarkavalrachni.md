@@ -3,27 +3,23 @@ layout: creature
 name: "Duergar Kavalrachni"
 tags: [medium, humanoid, cr2, mordenkainens-tome-of-foes]
 page_number: 189
+cha: 9 (0)
+wis: 10 (0)
+int: 11 (0)
+con: 14 (+2)
+dex: 11 (0)
+str: 14 (+2)
+size: Medium humanoid (dwarf)
+alignment: lawful evil
+challenge: "2 (450 XP)"
+languages: "Dwarvish, Undercommon"
+senses: "darkvision 120 ft., passive Perception 10"
+speed: "25 ft."
+hit_points: "26  (4d8 + 8)"
+armor_class: "16 (scale mail, shield)"
 ---
 
-**Medium humanoid (dwarf), lawful evil**
-
-**Armor Class** 16 (scale mail, shield)
-
-**Hit Points** 26  (4d8 + 8)
-
-**Speed** 25 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 14 (+2) | 11 (0) | 14 (+2) | 11 (0) | 10 (0) | 9 (0) |
-
 **Damage Resistances** poison
-
-**Senses** darkvision 120 ft., passive Perception 10
-
-**Languages** Dwarvish, Undercommon
-
-**Challenge** 2 (450 XP)
 
 ***Cavalry Training.*** When the duergar hits a target with a melee attack while mounted on a female steeder, the steeder can make one melee attack against the same target as a reaction.
 
@@ -31,7 +27,7 @@ page_number: 189
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The duergar makes two war pick attacks.
 

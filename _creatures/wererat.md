@@ -2,35 +2,29 @@
 layout: creature
 name: "Wererat"
 tags: [medium, humanoid, cr2, monster-manual]
+cha: 8 (-1)
+wis: 10 (0)
+int: 11 (0)
+con: 12 (+1)
+dex: 15 (+2)
+str: 10 (0)
+size: Medium humanoid (human
+alignment: shapechanger)
+challenge: "2 (450 XP)"
+languages: "Common (can't speak in rat form)"
+senses: "darkvision 60 ft. (rat form only)"
+skills: "Perception +2, Stealth +4"
+damage_immunities: "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
+speed: "30 ft."
+hit_points: "33 (6d8+6)"
+armor_class: "12"
 ---
-
-**Medium humanoid (human, shapechanger), lawful evil**
-
-**Armor Class** 12
-
-**Hit Points** 33 (6d8+6)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 10 (0) | 15 (+2) | 12 (+1) | 11 (0) | 10 (0) | 8 (-1) |
-
-**Skills** Perception +2, Stealth +4
-
-**Damage Immunities** bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered
-
-**Senses** darkvision 60 ft. (rat form only)
-
-**Languages** Common (can't speak in rat form)
-
-**Challenge** 2 (450 XP)
 
 ***Shapechanger.*** The wererat can use its action to polymorph into a rat-humanoid hybrid or into a giant rat, or back into its true form, which is humanoid. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
 ***Keen Smell.*** The wererat has advantage on Wisdom (Perception) checks that rely on smell.
 
-**Actions**
+### Actions
 
 ***Multiattack (Humanoid or Hybrid Form Only).*** The wererat makes two attacks, only one of which can be a bite.
 
@@ -39,4 +33,3 @@ tags: [medium, humanoid, cr2, monster-manual]
 ***Shortsword (Humanoid or Hybrid Form Only).*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
 
 ***Hand Crossbow (Humanoid or Hybrid Form Only).*** Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 5 (1d6 + 2) piercing damage.
-

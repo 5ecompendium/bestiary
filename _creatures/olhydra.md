@@ -2,33 +2,27 @@
 layout: creature
 name: "Olhydra"
 tags: [huge, elemental, cr18, elemental-evil]
+cha: 23 (+6)
+wis: 18 (+4)
+int: 17 (+3)
+con: 24 (+7)
+dex: 22 (+6)
+str: 21 (+5)
+size: Huge elemental
+alignment: neutral evil
+challenge: "18 (20,000 XP)"
+languages: "Aquan"
+senses: "blindsight 120 ft."
+damage_immunities: "acid, cold, poison"
+saving_throws: "Str +11, Con +13, Wis +10"
+speed: "50 ft., swim 100 ft."
+hit_points: "324 (24d12+168)"
+armor_class: "18 (natural armor)"
 ---
-
-**Huge elemental, neutral evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 324 (24d12+168)
-
-**Speed** 50 ft., swim 100 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 21 (+5) | 22 (+6) | 24 (+7) | 17 (+3) | 18 (+4) | 23 (+6) |
-
-**Saving Throws** Str +11, Con +13, Wis +10
 
 **Damage Resistances** lightning; bludgeoning, piercing, and slashing from nonmagical weapons
 
-**Damage Immunities** acid, cold, poison
-
 **Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned, prone, restrained
-
-**Senses** blindsight 120 ft.
-
-**Languages** Aquan
-
-**Challenge** 18 (20,000 XP)
 
 ***Empowered Attacks.*** Olhydra's slam attacks are treated as magical for the purpose of bypassing resistance and immunity to nonmagical weapons.
 
@@ -46,7 +40,7 @@ tags: [huge, elemental, cr18, elemental-evil]
 
 ***Water Form.*** Olhydra can enter a hostile creature's space and stop there. She can move through a space as narrow as 1 inch wide without squeezing.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Olhydra makes two slam attacks or two water jet attacks.
 
@@ -56,7 +50,7 @@ tags: [huge, elemental, cr18, elemental-evil]
 
 ***Summon Elementals (1/Day).*** Olhydra summons up to three water elementals and loses 30 hit points for each elemental she summons. Summoned elementals have maximum hit points, appear within 100 feet of Olhydra, and disappear if Olhydra is reduced to 0 hit points.
 
-**Legendary Actions**
+### Legendary Actions
 
 The olhydra can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The olhydra regains spent legendary actions at the start of its turn.
 
@@ -65,4 +59,3 @@ The olhydra can take 3 legendary actions, choosing from the options below. Only 
 ***Fling (Costs 2 Actions).*** Olhydra releases one creature she is grappling by flinging the creature up to 60 feet away from her, in a direction of her choice. If the flung creature comes into contact with a solid surface, such as a wall or floor, the creature takes 1d6 bludgeoning damage for every 10 feet it was flung.
 
 ***Water to Acid (Costs 3 Actions).*** Olhydra transforms her watery body into acid. This effect lasts until Olhydra's next turn. Any creature that comes into contact with Olhydra or hits her with a melee attack while standing within 5 feet of her takes 11 (2d10) acid damage. Any creature grappled by Olhydra takes 22 (4d10) acid damage at the start of its turn.
-

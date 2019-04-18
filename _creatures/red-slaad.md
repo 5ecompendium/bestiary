@@ -2,29 +2,24 @@
 layout: creature
 name: "Red Slaad"
 tags: [large, aberration, cr5, monster-manual]
+cha: 7 (-2)
+wis: 6 (-2)
+int: 6 (-2)
+con: 16 (+3)
+dex: 12 (+1)
+str: 16 (+3)
+size: Large aberration
+alignment: chaotic neutral
+challenge: "5 (1,800 XP)"
+languages: "Slaad, telepathy 60 ft."
+senses: "darkvision 60 ft."
+skills: "Perception +1"
+speed: "30 ft."
+hit_points: "93 (11d10+33)"
+armor_class: "14 (natural armor)"
 ---
 
-**Large aberration, chaotic neutral**
-
-**Armor Class** 14 (natural armor)
-
-**Hit Points** 93 (11d10+33)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 16 (+3) | 12 (+1) | 16 (+3) | 6 (-2) | 6 (-2) | 7 (-2) |
-
-**Skills** Perception +1
-
 **Damage Resistances** acid, cold, fire, lightning, thunder
-
-**Senses** darkvision 60 ft.
-
-**Languages** Slaad, telepathy 60 ft.
-
-**Challenge** 5 (1,800 XP)
 
 ***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects
 
@@ -38,7 +33,7 @@ A greater restoration spell cast on the slaad destroys the gem without harming t
 
 Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapacitated slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom (Medicine) check. Each failed attempt deals 22 (4d10) psychic damage to the slaad.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws.
 
@@ -51,4 +46,3 @@ Hit: 8 (2d4 + 3) piercing damage.
 A humanoid host can carry only one slaad egg to term at a time. Over three months, the egg moves to the chest cavity, gestates, and forms a slaad tadpole. In the 24-hour period before giving birth, the host starts to feel unwell, its speed is halved, and it has disadvantage on attack rolls, ability checks, and saving throws. At birth, the tadpole chews its way through vital organs and out of the host's chest in 1 round, killing the host in the process.
 
 If the disease is cured before the tadpole's emergence, the unborn slaad is disintegrated.
-

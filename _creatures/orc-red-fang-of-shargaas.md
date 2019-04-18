@@ -2,27 +2,22 @@
 layout: creature
 name: "Orc Red Fang of Shargaas"
 tags: [medium, humanoid, cr3, volos-guide]
+cha: 9 (-1)
+wis: 11 (0)
+int: 9 (-1)
+con: 15 (+2)
+dex: 16 (+3)
+str: 11 (0)
+size: Medium humanoid (orc)
+alignment: chaotic evil
+challenge: "3 (700 XP)"
+languages: "Common, Orc"
+senses: "darkvision 60 ft."
+skills: "Intimidation +1, Perception +2, Stealth +5"
+speed: "30 ft."
+hit_points: "52 (8d8+16)"
+armor_class: "15 (studded leather armor)"
 ---
-
-**Medium humanoid (orc), chaotic evil**
-
-**Armor Class** 15 (studded leather armor)
-
-**Hit Points** 52 (8d8+16)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 11 (0) | 16 (+3) | 15 (+2) | 9 (-1) | 11 (0) | 9 (-1) |
-
-**Skills** Intimidation +1, Perception +2, Stealth +5
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Orc
-
-**Challenge** 3 (700 XP)
 
 ***Cunning Action.*** On each of its turns, the orc can use a bonus action to take the Dash, Disengage, or Hide action.
 
@@ -32,7 +27,7 @@ tags: [medium, humanoid, cr3, volos-guide]
 
 ***Slayer.*** In the first round of a combat, the orc has advantage on attack rolls against any creature that hasn't taken a turn yet. If the orc hits a creature that round who was surprised, the hit is automatically a critical hit.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The orc makes two scimitar or dart attacks.
 
@@ -41,4 +36,3 @@ tags: [medium, humanoid, cr3, volos-guide]
 ***Dart.*** Ranged Weapon Attack: +5 to hit, range 20/60 ft., one target. Hit: 10 (3d4+3) piercing damage.
 
 ***Veil of Shargaas (Recharges after a Short or Long Rest).*** The orc casts darkness without any components. Wisdom is its spellcasting ability.
-

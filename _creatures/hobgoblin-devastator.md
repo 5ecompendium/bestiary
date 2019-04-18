@@ -2,27 +2,22 @@
 layout: creature
 name: "Hobgoblin Devastator"
 tags: [medium, humanoid, cr4, volos-guide]
+cha: 11 (0)
+wis: 13 (+1)
+int: 16 (+3)
+con: 14 (+2)
+dex: 12 (+1)
+str: 13 (+1)
+size: Medium humanoid (goblinoid)
+alignment: lawful evil
+challenge: "4 (1,100 XP)"
+languages: "Common, Goblin"
+senses: "darkvision 60 ft."
+skills: "Arcana +5"
+speed: "30 ft."
+hit_points: "45 (7d8+14)"
+armor_class: "13 (studded leather armor)"
 ---
-
-**Medium humanoid (goblinoid), lawful evil**
-
-**Armor Class** 13 (studded leather armor)
-
-**Hit Points** 45 (7d8+14)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 13 (+1) | 12 (+1) | 14 (+2) | 16 (+3) | 13 (+1) | 11 (0) |
-
-**Skills** Arcana +5
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Goblin
-
-**Challenge** 4 (1,100 XP)
 
 ***Source.*** Volo's Guide to Monsters, p. 161
 
@@ -42,7 +37,6 @@ Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
 
 4th level (1 slot): ice storm
 
-**Actions**
+### Actions
 
 ***Quarterstaff.*** Melee Weapon Attack: +3 to hit, reach 5 ft, one target. Hit: 4 (1d6+1) bludgeoning damage, or 5 (1d8+1) bludgeoning damage if used with two hands.
-

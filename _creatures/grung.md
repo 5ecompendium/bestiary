@@ -2,31 +2,25 @@
 layout: creature
 name: "Grung"
 tags: [small, humanoid, cr1/4, volos-guide]
+cha: 10 (0)
+wis: 11 (0)
+int: 10 (0)
+con: 15 (+2)
+dex: 14 (+2)
+str: 7 (-2)
+size: Small humanoid (grung)
+alignment: lawful evil
+challenge: "1/4 (50 XP)"
+languages: "Grung"
+skills: "Athletics +2, Perception +2, Stealth +4, Survival +2"
+damage_immunities: "poison"
+saving_throws: "Dex +4"
+speed: "25 ft., climb 25 ft."
+hit_points: "11 (2d6+4)"
+armor_class: "12"
 ---
 
-**Small humanoid (grung), lawful evil**
-
-**Armor Class** 12
-
-**Hit Points** 11 (2d6+4)
-
-**Speed** 25 ft., climb 25 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 7 (-2) | 14 (+2) | 15 (+2) | 10 (0) | 11 (0) | 10 (0) |
-
-**Saving Throws** Dex +4
-
-**Skills** Athletics +2, Perception +2, Stealth +4, Survival +2
-
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Languages** Grung
-
-**Challenge** 1/4 (50 XP)
 
 ***Amphibious.*** The grung can breathe air and water.
 
@@ -44,7 +38,6 @@ Blue. The poisoned creature must shout loudly or otherwise make a loud noise at 
 
 Purple. The poisoned creature feels a desperate need to soak itself in liquid or mud. It can't take actions or move except to do so or to reach a body of liquid or mud.
 
-**Actions**
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft, one target. Hit: 4 (1d4+2) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.
-

@@ -2,29 +2,24 @@
 layout: creature
 name: "Drannin Splithelm"
 tags: [medium, humanoid, cr7, elemental-evil]
+cha: 12 (+1)
+wis: 8 (-1)
+int: 11 (0)
+con: 18 (+4)
+dex: 10 (0)
+str: 19 (+4)
+size: Medium humanoid (shield dwarf)
+alignment: neutral evil
+challenge: "7 (2,900 XP)"
+languages: "Common, Dwarvish"
+senses: "darkvision 60 ft."
+skills: "Athletics +7, Intimidation +4"
+speed: "25 ft."
+hit_points: "93 (11d8+44)"
+armor_class: "18 (plate)"
 ---
 
-**Medium humanoid (shield dwarf), neutral evil**
-
-**Armor Class** 18 (plate)
-
-**Hit Points** 93 (11d8+44)
-
-**Speed** 25 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 19 (+4) | 10 (0) | 18 (+4) | 11 (0) | 8 (-1) | 12 (+1) |
-
-**Skills** Athletics +7, Intimidation +4
-
 **Damage Resistances** cold, poison
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Dwarvish
-
-**Challenge** 7 (2,900 XP)
 
 ***Action Surge (Recharges after a Short or Long Rest).*** Drannin takes an additional action on his turn.
 
@@ -38,9 +33,8 @@ tags: [medium, humanoid, cr7, elemental-evil]
 
 ***Special Equipment.*** Drannin wears a control amulet for his shield guardian (see the Monster Manual) and a ring of cold resistance. He also carries a potion of frost giant strength.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Drannin makes three attacks with his greataxe.
 
 ***Greataxe.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.
-

@@ -2,33 +2,26 @@
 layout: creature
 name: "Yuan-ti Broodguard"
 tags: [medium, humanoid, cr2, volos-guide]
+cha: 4 (-3)
+wis: 11 (0)
+int: 6 (-2)
+con: 14 (+2)
+dex: 14 (+2)
+str: 15 (+2)
+size: Medium humanoid (yuan-ti)
+alignment: neutral evil
+challenge: "2 (450 XP)"
+languages: "Abyssal, Common, Draconic"
+senses: "darkvision 60 ft."
+skills: "Perception +2"
+damage_immunities: "poison"
+saving_throws: "Str +4, Dex +4, Wis +2"
+speed: "30 ft."
+hit_points: "45 (7d8+14)"
+armor_class: "14 (natural armor)"
 ---
 
-**Medium humanoid (yuan-ti), neutral evil**
-
-**Armor Class** 14 (natural armor)
-
-**Hit Points** 45 (7d8+14)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 15 (+2) | 14 (+2) | 14 (+2) | 6 (-2) | 11 (0) | 4 (-3) |
-
-**Saving Throws** Str +4, Dex +4, Wis +2
-
-**Skills** Perception +2
-
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 60 ft.
-
-**Languages** Abyssal, Common, Draconic
-
-**Challenge** 2 (450 XP)
 
 ***Mental Resistance.*** The broodguard has advantage on saving throws against being charmed, and magic can't paralyze it.
 
@@ -38,11 +31,10 @@ tags: [medium, humanoid, cr2, volos-guide]
 
 ***Variant: Shed Skin (1/Day).*** The yuan-ti can shed its skin as a bonus action to free itself from a grapple, shackles, or other restraints. If the yuan-ti spends 1 minute eating its shed skin, it regains hit points equal to half its hit point maximum.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The broodguard makes three attacks: one with its bite and two with its claws.
 
 ***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8+2) piercing damage.
 
 ***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6+2) slashing damage.
-

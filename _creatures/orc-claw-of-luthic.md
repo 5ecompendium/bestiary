@@ -2,27 +2,22 @@
 layout: creature
 name: "Orc Claw of Luthic"
 tags: [medium, humanoid, cr2, volos-guide]
+cha: 11 (0)
+wis: 15 (+2)
+int: 10 (0)
+con: 16 (+3)
+dex: 15 (+2)
+str: 14 (+2)
+size: Medium humanoid (orc)
+alignment: chaotic evil
+challenge: "2 (450 XP)"
+languages: "Common, Orc"
+senses: "darkvision 60 ft."
+skills: "Intimidation +2, Medicine +4, Survival +4"
+speed: "30 ft."
+hit_points: "45 (6d8+18)"
+armor_class: "14 (hide armor)"
 ---
-
-**Medium humanoid (orc), chaotic evil**
-
-**Armor Class** 14 (hide armor)
-
-**Hit Points** 45 (6d8+18)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 14 (+2) | 15 (+2) | 16 (+3) | 10 (0) | 15 (+2) | 11 (0) |
-
-**Skills** Intimidation +2, Medicine +4, Survival +4
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Orc
-
-**Challenge** 2 (450 XP)
 
 ***Source.*** Volo's Guide to Monsters, p. 183
 
@@ -38,9 +33,8 @@ Cantrips (at will): guidance, mending, resistance, thaumaturgy
 
 3rd level (2 slots): bestow curse, create food and water
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The orc makes two claw attacks, or four claw attacks if it has fewer than half of its hit points remaining.
 
 ***Claw.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 6 (1d8+2) slashing damage.
-

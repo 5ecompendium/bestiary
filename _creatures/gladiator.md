@@ -2,33 +2,28 @@
 layout: creature
 name: "Gladiator"
 tags: [medium, humanoid, cr5, monster-manual]
+cha: 15 (+2)
+wis: 12 (+1)
+int: 10 (0)
+con: 16 (+3)
+dex: 15 (+2)
+str: 18 (+4)
+size: Medium humanoid (any race)
+alignment: any alignment
+challenge: "5 (1,800 XP)"
+languages: "any one language (usually Common)"
+skills: "Athletics +10, Intimidation +5"
+saving_throws: "Str +7, Dex +5, Con +6"
+speed: "30 ft."
+hit_points: "112 (15d8+45)"
+armor_class: "16 (studded leather, shield)"
 ---
-
-**Medium humanoid (any race), any alignment**
-
-**Armor Class** 16 (studded leather, shield)
-
-**Hit Points** 112 (15d8+45)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 15 (+2) | 16 (+3) | 10 (0) | 12 (+1) | 15 (+2) |
-
-**Saving Throws** Str +7, Dex +5, Con +6
-
-**Skills** Athletics +10, Intimidation +5
-
-**Languages** any one language (usually Common)
-
-**Challenge** 5 (1,800 XP)
 
 ***Brave.*** The gladiator has advantage on saving throws against being frightened.
 
 ***Brute.*** A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The gladiator makes three melee attacks or two ranged attacks.
 
@@ -36,7 +31,6 @@ tags: [medium, humanoid, cr5, monster-manual]
 
 ***Shield Bash.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one creature. Hit: 9 (2d4 + 4) bludgeoning damage. If the target is a Medium or smaller creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 
-**Reactions**
+### Reactions
 
 ***Parry.*** The gladiator adds 3 to its AC against one melee attack that would hit it. To do so, the gladiator must see the attacker and be wielding a melee weapon.
-

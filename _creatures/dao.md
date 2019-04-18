@@ -2,29 +2,24 @@
 layout: creature
 name: "Dao"
 tags: [large, elemental, cr11, monster-manual]
+cha: 14 (+2)
+wis: 13 (+1)
+int: 12 (+1)
+con: 24 (+7)
+dex: 12 (+1)
+str: 23 (+6)
+size: Large elemental
+alignment: neutral evil
+challenge: "11 (7,200 XP)"
+languages: "Terran"
+senses: "darkvision 120 ft."
+saving_throws: "Int +5, Wis +5, Cha +6"
+speed: "30 ft., burrow 30 ft., fly 30 ft."
+hit_points: "187 (15d10+105)"
+armor_class: "18 (natural armor)"
 ---
 
-**Large elemental, neutral evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 187 (15d10+105)
-
-**Speed** 30 ft., burrow 30 ft., fly 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 23 (+6) | 12 (+1) | 24 (+7) | 12 (+1) | 13 (+1) | 14 (+2) |
-
-**Saving Throws** Int +5, Wis +5, Cha +6
-
 **Condition Immunities** petrified
-
-**Senses** darkvision 120 ft.
-
-**Languages** Terran
-
-**Challenge** 11 (7,200 XP)
 
 ***Earth Glide.*** The dao can burrow through nonmagical, unworked earth and stone. While doing so, the dao doesn't disturb the material it moves through.
 
@@ -52,11 +47,10 @@ The genie power to grant wishes is legendary among mortals. Only the most potent
 
 To be granted a wish, a creature within 60 feet of the genie states a desired effect to it. The genie can then cast the wish spell on the creature's behalf to bring about the effect. Depending on the genie's nature, the genie might try to pervert the intent of the wish by exploiting the wish's poor wording. The perversion of the wording is usually crafted to be to the genie's benefit.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The Dao makes two fist attacks or two maul attacks.
 
 ***Fist.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.
 
 ***Maul.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 20 (4d6 + 6) bludgeoning damage. If the target is a Huge or smaller creature, it must succeed on a DC 18 Strength check or be knocked prone.
-

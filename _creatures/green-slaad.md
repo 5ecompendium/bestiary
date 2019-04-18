@@ -2,29 +2,24 @@
 layout: creature
 name: "Green Slaad"
 tags: [large, aberration, cr8, monster-manual]
+cha: 12 (+1)
+wis: 8 (-1)
+int: 11 (0)
+con: 16 (+3)
+dex: 15 (+2)
+str: 18 (+4)
+size: Large aberration (shapechanger)
+alignment: chaotic neutral
+challenge: "8 (3,900 XP)"
+languages: "Slaad, telepathy 60 ft."
+senses: "blindsight 30 ft., darkvision 60 ft."
+skills: "Arcana +3, Perception +2"
+speed: "30 ft."
+hit_points: "127 (15d10+45)"
+armor_class: "16 (natural armor)"
 ---
 
-**Large aberration (shapechanger), chaotic neutral**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 127 (15d10+45)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 15 (+2) | 16 (+3) | 11 (0) | 8 (-1) | 12 (+1) |
-
-**Skills** Arcana +3, Perception +2
-
 **Damage Resistances** acid, cold, fire, lightning, thunder
-
-**Senses** blindsight 30 ft., darkvision 60 ft.
-
-**Languages** Slaad, telepathy 60 ft.
-
-**Challenge** 8 (3,900 XP)
 
 ***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
@@ -48,7 +43,7 @@ A greater restoration spell cast on the slaad destroys the gem without harming t
 
 Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapacitated slaad. Each try requires 1 minute of uninterrupted work and a successful DC 20 Wisdom (Medicine) check. Each failed attempt deals 22 (4d10) psychic damage to the slaad.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws or staff. Alternatively, it uses its Hurl Flame twice.
 
@@ -59,4 +54,3 @@ Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapa
 ***Staff.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) bludgeoning damage.
 
 ***Hurl Flame.*** Ranged Spell Attack: +4 to hit, range 60 ft., one target. Hit: 10 (3d6) fire damage. The fire ignites flammable objects that aren 't being worn or carried.
-

@@ -3,27 +3,23 @@ layout: creature
 name: "Corpse Flower"
 tags: [large, plant, cr8, mordenkainens-tome-of-foes]
 page_number: 127
+cha: 3 (-3)
+wis: 15 (+2)
+int: 7 (-1)
+con: 16 (+3)
+dex: 14 (+2)
+str: 14 (+2)
+size: Large plant
+alignment: chaotic evil
+challenge: "8 (3900 XP)"
+languages: "-"
+senses: "blindsight 120 ft. (blind beyond this radius), passive Perception 12"
+speed: "20 ft., climb 20 ft."
+hit_points: "127  (15d10 + 45)"
+armor_class: "12"
 ---
 
-**Large plant, chaotic evil**
-
-**Armor Class** 12
-
-**Hit Points** 127  (15d10 + 45)
-
-**Speed** 20 ft., climb 20 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 14 (+2) | 14 (+2) | 16 (+3) | 7 (-1) | 15 (+2) | 3 (-3) |
-
 **Condition Immunities** blinded, deafened
-
-**Senses** blindsight 120 ft. (blind beyond this radius), passive Perception 12
-
-**Languages** -
-
-**Challenge** 8 (3900 XP)
 
 ***Corpses.*** When first encountered, a corpse flower contains the corpses of 1d6 + 3 humanoids. A corpse flower can hold the remains of up to nine dead humanoids. These remains have total cover against attacks and other effects outside the corpse flower. If the corpse flower dies, the corpses within it can be pulled free.
 While it has at least one humanoid corpse in its body, the corpse flower can use a bonus action to do one of the following:
@@ -34,7 +30,7 @@ While it has at least one humanoid corpse in its body, the corpse flower can use
 
 ***Stench of Death.*** Each creature that starts its turn within 10 feet of the corpse flower or one of its zombies must make a DC 14 Constitution saving throw, unless the creature is a construct or undead. On a failed save, the creature is incapacitated until the end of the turn. Creatures that are immune to poison damage or the poisoned condition automatically succeed on this saving throw. On a successful save, the creature is immune to the stench of all corpse flowers for 24 hours.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The corpse flower makes three tentacle attacks.
 

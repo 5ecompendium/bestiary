@@ -3,39 +3,32 @@ layout: creature
 name: "Allip"
 tags: [medium, undead, cr5, mordenkainens-tome-of-foes]
 page_number: 116
+cha: 16 (+3)
+wis: 15 (+2)
+int: 17 (+3)
+con: 10 (0)
+dex: 17 (+3)
+str: 6 (-2)
+size: Medium undead
+alignment: neutral evil
+challenge: "5 (1800 XP)"
+languages: "the languages it knew in life"
+senses: "darkvision 60 ft., passive Perception 15"
+skills: "Perception +5, Stealth +6"
+damage_immunities: "cold, necrotic, poison"
+saving_throws: "Int +6, Wis +5"
+speed: "0 ft., fly 40 ft. (hover)"
+hit_points: "40  (9d8)"
+armor_class: "13"
 ---
-
-**Medium undead, neutral evil**
-
-**Armor Class** 13
-
-**Hit Points** 40  (9d8)
-
-**Speed** 0 ft., fly 40 ft. (hover)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 6 (-2) | 17 (+3) | 10 (0) | 17 (+3) | 15 (+2) | 16 (+3) |
-
-**Saving Throws** Int +6, Wis +5
-
-**Skills** Perception +5, Stealth +6
 
 **Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** cold, necrotic, poison
-
 **Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
-
-**Senses** darkvision 60 ft., passive Perception 15
-
-**Languages** the languages it knew in life
-
-**Challenge** 5 (1800 XP)
 
 ***Incorporeal Movement.*** The allip can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-**Actions**
+### Actions
 
 ***Maddening Touch*** Melee Spell Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (4d6 + 3) psychic damage.
 

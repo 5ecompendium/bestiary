@@ -2,31 +2,26 @@
 layout: creature
 name: "Vampiric Mist"
 tags: [medium, undead, cr3, tales-from-the-yawning-portal]
+cha: 7 (-2)
+wis: 12 (+1)
+int: 6 (-2)
+con: 16 (+3)
+dex: 16 (+3)
+str: 6 (-2)
+size: Medium undead
+alignment: chaotic evil
+challenge: "3 (700 XP)"
+senses: "darkvision 60 ft."
+damage_immunities: "poison"
+saving_throws: "Wis +3"
+speed: "0 ft., fly 30 ft. (hover)"
+hit_points: "45 (6d8+18)"
+armor_class: "13"
 ---
-
-**Medium undead, chaotic evil**
-
-**Armor Class** 13
-
-**Hit Points** 45 (6d8+18)
-
-**Speed** 0 ft., fly 30 ft. (hover)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 6 (-2) | 16 (+3) | 16 (+3) | 6 (-2) | 12 (+1) | 7 (-2) |
-
-**Saving Throws** Wis +3
 
 **Damage Resistances** acid, cold, lightning, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** poison
-
 **Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
-
-**Senses** darkvision 60 ft.
-
-**Challenge** 3 (700 XP)
 
 ***Source.*** tales from the yawning portal,  page 247
 
@@ -40,9 +35,8 @@ tags: [medium, undead, cr3, tales-from-the-yawning-portal]
 
 ***Sunlight Hypersensitivity.*** The vampiric mist takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, the mist has disadvantage on attack rolls and ability checks.
 
-**Actions**
+### Actions
 
 ***Blood Drain.*** One creature in the vampiric mist's space must make a DC 13 Constitution saving throw (undead and constructs automatically succeed). On a failed save, the target takes 10 (2d6 + 3) necrotic damage, its hit point maximum is reduced by an amount equal to the necrotic damage taken, and the mist regains hit points equal to that amount.
 
 >This reduction to the target's hit point maximum lasts until the target finishes a long rest. It dies if this effect reduces its hit point maximum to 0.
-

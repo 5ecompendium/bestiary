@@ -2,25 +2,21 @@
 layout: creature
 name: "Pixie"
 tags: [tiny, fey, cr1/4, monster-manual]
+cha: 15 (+2)
+wis: 14 (+2)
+int: 10 (0)
+con: 8 (-1)
+dex: 20 (+5)
+str: 2 (-4)
+size: Tiny fey
+alignment: neutral good
+challenge: "1/4 (50 XP)"
+languages: "Sylvan"
+skills: "Perception +4, Stealth +7"
+speed: "10 ft., fly 30 ft."
+hit_points: "1 (1d4-1)"
+armor_class: "15"
 ---
-
-**Tiny fey, neutral good**
-
-**Armor Class** 15
-
-**Hit Points** 1 (1d4-1)
-
-**Speed** 10 ft., fly 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 2 (-4) | 20 (+5) | 8 (-1) | 10 (0) | 14 (+2) | 15 (+2) |
-
-**Skills** Perception +4, Stealth +7
-
-**Languages** Sylvan
-
-**Challenge** 1/4 (50 XP)
 
 ***Magic Resistance.*** The pixie has advantage on saving throws against spells and other magical effects.
 
@@ -30,7 +26,6 @@ At will: druidcraft
 
 1/day each: confusion, dancing lights, detect evil and good, detect thoughts, dispel magic, entangle, fly, phantasmal force, polymorph, sleep
 
-**Actions**
+### Actions
 
 ***Superior Invisibility.*** The pixie magically turns invisible until its concentration ends (as if concentrating on a spell). Any equipment the pixie wears or carries is invisible with it.
-

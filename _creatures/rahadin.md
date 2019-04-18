@@ -3,29 +3,23 @@ layout: creature
 name: "Rahadin"
 tags: [medium, humanoid, cr10, curse-of-strahd]
 page_number: 236
+cha: 18 (+4)
+wis: 16 (+3)
+int: 15 (+2)
+con: 17 (+3)
+dex: 22 (+6)
+str: 14 (+2)
+size: Medium humanoid (elf)
+alignment: lawful evil
+challenge: "10 (5,900 XP)"
+languages: "Common, Elvish"
+senses: "darkvision 60 ft."
+skills: "Deception +8, Insight +7, Intimidation +12, Perception +11, Stealth +14"
+saving_throws: "Con +7, Wis +7"
+speed: "35 ft."
+hit_points: "135 (18d8+54)"
+armor_class: "18 (studded leather)"
 ---
-
-**Medium humanoid (elf), lawful evil**
-
-**Armor Class** 18 (studded leather)
-
-**Hit Points** 135 (18d8+54)
-
-**Speed** 35 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 14 (+2) | 22 (+6) | 17 (+3) | 15 (+2) | 16 (+3) | 18 (+4) |
-
-**Saving Throws** Con +7, Wis +7
-
-**Skills** Deception +8, Insight +7, Intimidation +12, Perception +11, Stealth +14
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Elvish
-
-**Challenge** 10 (5,900 XP)
 
 ***Deathly Choir.*** Any creature within 10 feet of Rahadin that isn't protected by a mind blank spell hears in its mind the screams of the thousands of people Rahadin has killed. As a bonus action, Rahadin can force all creatures that can hear the screams to make a DC 16 Wisdom saving throw. Each creature takes 16 (3d10) psychic damage on a failed save, or half as much damage on a successful one.
 
@@ -39,11 +33,10 @@ page_number: 236
 
 ***Mask of the Wild.*** Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Rahadin attacks three times with his scimitar, or twice with his poisoned darts.
 
 ***Scimitar.*** Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 9 (1d6+6) slashing damage.
 
 ***Poisoned Dart.*** Ranged Weapon Attack: +10 to hit, range 20/60 ft., one target. Hit: 8 (1d4+6) piercing damage plus 5 (2d4) poison damage.
-

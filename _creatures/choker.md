@@ -3,27 +3,22 @@ layout: creature
 name: "Choker"
 tags: [small, aberration, cr1, mordenkainens-tome-of-foes]
 page_number: 123
+cha: 7 (-1)
+wis: 12 (+1)
+int: 4 (-3)
+con: 13 (+1)
+dex: 14 (+2)
+str: 16 (+3)
+size: Small aberration
+alignment: chaotic evil
+challenge: "1 (100 XP)"
+languages: "Deep Speech"
+senses: "darkvision 60 ft., passive Perception 11"
+skills: "Stealth +6"
+speed: "30 ft."
+hit_points: "13  (3d6 + 3)"
+armor_class: "16 (natural armor)"
 ---
-
-**Small aberration, chaotic evil**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 13  (3d6 + 3)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 16 (+3) | 14 (+2) | 13 (+1) | 4 (-3) | 12 (+1) | 7 (-1) |
-
-**Skills** Stealth +6
-
-**Senses** darkvision 60 ft., passive Perception 11
-
-**Languages** Deep Speech
-
-**Challenge** 1 (100 XP)
 
 ***Aberrant Quickness (Recharges after a Short or Long Rest).*** The choker can take an extra action on its turn.
 
@@ -31,7 +26,7 @@ page_number: 123
 
 ***Spider Climb.*** The choker can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The choker makes two tentacle attacks.
 

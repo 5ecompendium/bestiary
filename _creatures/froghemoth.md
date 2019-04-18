@@ -2,35 +2,30 @@
 layout: creature
 name: "Froghemoth"
 tags: [huge, monstrosity, cr10, volos-guide]
+cha: 5 (-3)
+wis: 12 (+1)
+int: 2 (-4)
+con: 20 (+5)
+dex: 13 (+1)
+str: 23 (+6)
+size: Huge monstrosity
+alignment: unaligned
+challenge: "10 (5,900 XP)"
+senses: "darkvision 60 ft."
+skills: "Perception +9, Stealth +5"
+saving_throws: "Con +9, Wis +5"
+speed: "50 ft., swim 30 ft."
+hit_points: "184 (16d12+80)"
+armor_class: "14 (natural armor)"
 ---
 
-**Huge monstrosity, unaligned**
-
-**Armor Class** 14 (natural armor)
-
-**Hit Points** 184 (16d12+80)
-
-**Speed** 50 ft., swim 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 23 (+6) | 13 (+1) | 20 (+5) | 2 (-4) | 12 (+1) | 5 (-3) |
-
-**Saving Throws** Con +9, Wis +5
-
-**Skills** Perception +9, Stealth +5
-
 **Damage Resistances** fire, lightning
-
-**Senses** darkvision 60 ft.
-
-**Challenge** 10 (5,900 XP)
 
 ***Amphibious.*** The froghemoth can breathe air and water.
 
 ***Shock Suscptibility.*** If the froghemoth takes lightning damage, it suffers several effects until the end of its next turn: its speed is halved, it takes a -2 penalty to AC and Dexterity saving throws, it can't use reactions or Multiattack, and on its turn, it can use either an action or a bonus action, not both.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The froghemoth makes two attacks with its tentacles. It can also use its tongue or bite.
 
@@ -41,4 +36,3 @@ tags: [huge, monstrosity, cr10, volos-guide]
 >The froghemoth's gullet can hold up to two creatures at a time. If the Froghemoth takes 20 damage or more on a single turn from a creature inside it, the Froghemoth must succeed on a DC 20 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, each of which falls prone in a space within 10 feet of the froghemoth. If the froghemoth dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 10 feet of movement, exiting prone.
 
 ***Tongue.*** The Froghemoth targets one Medium or smaller creature that it can see within 20 feet of it. The target must make a DC 18 Strength saving throw. On a failed save, the target is pulled into an unoccupied space within 5 feet of the froghemoth, and the froghemoth can make a bite attack against it as a bonus action.
-

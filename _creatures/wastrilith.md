@@ -3,33 +3,27 @@ layout: creature
 name: "Wastrilith"
 tags: [large, fiend, cr13, mordenkainens-tome-of-foes]
 page_number: 139
+cha: 14 (+2)
+wis: 12 (+1)
+int: 19 (+4)
+con: 21 (+5)
+dex: 18 (+4)
+str: 19 (+4)
+size: Large fiend (demon)
+alignment: chaotic evil
+challenge: "13 (10,000 XP)"
+languages: "Abyssal, telepathy 120 ft."
+senses: "darkvision 120 ft., passive Perception 11"
+damage_immunities: "poison"
+saving_throws: "Str +9, Con +10"
+speed: "30 ft., swim 80 ft."
+hit_points: "157  (15d10 + 75)"
+armor_class: "18 (natural armor)"
 ---
-
-**Large fiend (demon), chaotic evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 157  (15d10 + 75)
-
-**Speed** 30 ft., swim 80 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 19 (+4) | 18 (+4) | 21 (+5) | 19 (+4) | 12 (+1) | 14 (+2) |
-
-**Saving Throws** Str +9, Con +10
 
 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 120 ft., passive Perception 11
-
-**Languages** Abyssal, telepathy 120 ft.
-
-**Challenge** 13 (10,000 XP)
 
 ***Amphibious.*** The wastrilith can breathe air and water.
 
@@ -41,7 +35,7 @@ If another demon drinks the foul water as an action, it gains 11 (2d10) temporar
 
 ***Undertow.*** As a bonus action when the wastrilith is underwater, it can cause all water within 60 feet of it to be difficult terrain for other creatures until the start of its next turn.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The wastrilith uses Grasping Spout and makes three attacks: one with its bite and two with its claws.
 

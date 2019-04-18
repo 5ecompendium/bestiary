@@ -2,31 +2,25 @@
 layout: creature
 name: "Ki-rin"
 tags: [huge, celestial, cr12, volos-guide]
+cha: 20 (+5)
+wis: 20 (+5)
+int: 19 (+4)
+con: 16 (+3)
+dex: 16 (+3)
+str: 21 (+5)
+size: Huge celestial
+alignment: lawful good
+challenge: "12 (8,400 XP)"
+languages: "all, telepathy 120 ft."
+senses: "blindsight 30 ft., darkvision 120 ft."
+skills: "Insight +9, Perception +9, Religion +8"
+damage_immunities: "poison"
+speed: "60 ft., fly 120 ft. (hover)"
+hit_points: "152 (16d12+48)"
+armor_class: "20 (natural armor)"
 ---
 
-**Huge celestial, lawful good**
-
-**Armor Class** 20 (natural armor)
-
-**Hit Points** 152 (16d12+48)
-
-**Speed** 60 ft., fly 120 ft. (hover)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 21 (+5) | 16 (+3) | 16 (+3) | 19 (+4) | 20 (+5) | 20 (+5) |
-
-**Skills** Insight +9, Perception +9, Religion +8
-
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** blindsight 30 ft., darkvision 120 ft.
-
-**Languages** all, telepathy 120 ft.
-
-**Challenge** 12 (8,400 XP)
 
 ***Innate Spellcasting.*** The ki-rin's innate spellcasting ability is Charisma (spell save DC 17). The ki-rin can innately cast the following spells, requiring no material components:
 
@@ -62,7 +56,7 @@ Cantrips (at will): light, mending, sacred flame, spare the dying, thaumaturgy
 
 9th level (1 slot): true resurrection
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The ki-rin makes three attacks: two with its hooves and one with its horn.
 
@@ -70,7 +64,7 @@ Cantrips (at will): light, mending, sacred flame, spare the dying, thaumaturgy
 
 ***Horn.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 14 (2d8+5) piercing damage.
 
-**Legendary Actions**
+### Legendary Actions
 
 The ki-rin can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The ki-rin regains spent legendary actions at the start of its turn.
 
@@ -79,4 +73,3 @@ The ki-rin can take 3 legendary actions, choosing from the options below. Only o
 ***Smite.*** The ki-rin makes a hoof attack or casts sacred flame.
 
 ***Move.*** The ki-rin moves up to its half its speed without provoking opportunity attacks.
-

@@ -2,27 +2,23 @@
 layout: creature
 name: "Tressym"
 tags: [tiny, beast, cr0, storm-kings-thunder]
+cha: 12 (+1)
+wis: 12 (+1)
+int: 11 (0)
+con: 10 (0)
+dex: 15 (+2)
+str: 3 (-4)
+size: Tiny beast
+alignment: chaotic neutral
+challenge: "0 (10 XP)"
+skills: "Perception +5, Stealth +4"
+damage_immunities: "poison"
+speed: "40 ft., climb 30 ft., fly 40' ft."
+hit_points: "5 (2d4)"
+armor_class: "12"
 ---
 
-**Tiny beast, chaotic neutral**
-
-**Armor Class** 12
-
-**Hit Points** 5 (2d4)
-
-**Speed** 40 ft., climb 30 ft., fly 40' ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 3 (-4) | 15 (+2) | 10 (0) | 11 (0) | 12 (+1) | 12 (+1) |
-
-**Skills** Perception +5, Stealth +4
-
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Challenge** 0 (10 XP)
 
 ***Detect Invisibility.*** Within 50 feet of the tressym, magical invisibility fails to conceal anything from the tressym's sight
 
@@ -30,7 +26,6 @@ tags: [tiny, beast, cr0, storm-kings-thunder]
 
 ***Poison Sense.*** The tressym can detect whether a substance is poisonous by taste, touch, or smell.
 
-**Actions**
+### Actions
 
 ***Claws.*** Melee Weapon Attack: +0 to hit, reach 5 ft., one target. Hit: 1 slashing damage.
-

@@ -3,31 +3,25 @@ layout: creature
 name: "Gloom Weaver"
 tags: [medium, humanoid, cr9, mordenkainens-tome-of-foes]
 page_number: 224
+cha: 18 (+4)
+wis: 12 (+1)
+int: 15 (+2)
+con: 14 (+2)
+dex: 18 (+4)
+str: 11 (0)
+size: Medium humanoid (elf)
+alignment: neutral
+challenge: "9 (5,000 XP)"
+languages: "Common, Elvish"
+senses: "darkvision 60 ft., passive Perception 11"
+damage_immunities: "necrotic"
+saving_throws: "Dex +8, Con +6"
+speed: "30 ft."
+hit_points: "104  (16d8 + 32)"
+armor_class: "14 (17 with mage armor)"
 ---
 
-**Medium humanoid (elf), neutral**
-
-**Armor Class** 14 (17 with mage armor)
-
-**Hit Points** 104  (16d8 + 32)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 11 (0) | 18 (+4) | 14 (+2) | 15 (+2) | 12 (+1) | 18 (+4) |
-
-**Saving Throws** Dex +8, Con +6
-
-**Damage Immunities** necrotic
-
 **Condition Immunities** charmed, exhaustion
-
-**Senses** darkvision 60 ft., passive Perception 11
-
-**Languages** Common, Elvish
-
-**Challenge** 9 (5,000 XP)
 
 ***Burden of Time.*** Beasts and humanoids, other than shadar-kai, have disadvantage on saving throws while within 10 feet of the gloom weaver.
 
@@ -42,7 +36,7 @@ page_number: 224
 * 5th level (3 slots): armor of Agathys, blight, darkness, dream, invisibility, fear, hypnotic pattern, major image, contact other plane, vampiric touch, witch bolt
 
 
-**Actions**
+### Actions
 
 ***Multiattack*** The gloom weaver makes two spear attacks and casts one spell that takes 1 action to cast.
 

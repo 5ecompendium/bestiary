@@ -2,25 +2,21 @@
 layout: creature
 name: "Cult Fanatic"
 tags: [medium, humanoid, cr2, monster-manual]
+cha: 14 (+2)
+wis: 13 (+1)
+int: 10 (0)
+con: 12 (+1)
+dex: 14 (+2)
+str: 11 (0)
+size: Medium humanoid (any race)
+alignment: any non-good alignment
+challenge: "2 (450 XP)"
+languages: "any one language (usually Common)"
+skills: "Deception +4, Persuasion +4, Religion +2"
+speed: "30 ft."
+hit_points: "33 (6d8+6)"
+armor_class: "13 (leather armor)"
 ---
-
-**Medium humanoid (any race), any non-good alignment**
-
-**Armor Class** 13 (leather armor)
-
-**Hit Points** 33 (6d8+6)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 11 (0) | 14 (+2) | 12 (+1) | 10 (0) | 13 (+1) | 14 (+2) |
-
-**Skills** Deception +4, Persuasion +4, Religion +2
-
-**Languages** any one language (usually Common)
-
-**Challenge** 2 (450 XP)
 
 ***Dark Devotion.*** The fanatic has advantage on saving throws against being charmed or frightened.
 
@@ -32,9 +28,8 @@ Cantrips (at will): light, sacred flame, thaumaturgy
 
 * 2nd level (3 slots): hold person, spiritual weapon
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The fanatic makes two melee attacks.
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.
-

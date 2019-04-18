@@ -2,25 +2,21 @@
 layout: creature
 name: "Sir Braford"
 tags: [medium, humanoid, cr1/2, tales-from-the-yawning-portal]
+cha: 14 (+2)
+wis: 13 (+1)
+int: 10 (0)
+con: 14 (+2)
+dex: 9 (-1)
+str: 16 (+3)
+size: Medium humanoid (human)
+alignment: neutral evil
+challenge: "1/2 (100 XP)"
+languages: "Common"
+skills: "Athletics +S, Perception +3"
+speed: "30 ft."
+hit_points: "19 (3d8+6)"
+armor_class: "18 (chain mail, shield)"
 ---
-
-**Medium humanoid (human), neutral evil**
-
-**Armor Class** 18 (chain mail, shield)
-
-**Hit Points** 19 (3d8+6)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 16 (+3) | 9 (-1) | 14 (+2) | 10 (0) | 13 (+1) | 14 (+2) |
-
-**Skills** Athletics +S, Perception +3
-
-**Languages** Common
-
-**Challenge** 1/2 (100 XP)
 
 ***Source.*** tales from the yawning portal,  page 243
 
@@ -30,11 +26,10 @@ tags: [medium, humanoid, cr1/2, tales-from-the-yawning-portal]
 
 ***Tree Thrall.*** If the Gulthias Tree dies, Sir Braford dies 24 hours later.
 
-**Actions**
+### Actions
 
 ***Longsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage, or 9 (1dlO + 4) slashing damage if used with two hands.
 
-**Reactions**
+### Reactions
 
 ***Protection.*** When a creature Sir Braford can see attacks a target other than him that is within 5 feet of him, he can use a reaction to use his shield to impose disadvantage on the attack roll.
-

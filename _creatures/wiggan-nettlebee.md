@@ -2,25 +2,21 @@
 layout: creature
 name: "Wiggan Nettlebee"
 tags: [small, humanoid, cr2, elemental-evil]
+cha: 13 (+1)
+wis: 15 (+2)
+int: 14 (+2)
+con: 12 (+1)
+dex: 12 (+1)
+str: 8 (-1)
+size: Small humanoid (halfling)
+alignment: neutral evil
+challenge: "2 (450 XP)"
+languages: "Common, Halfling"
+skills: "Deception +3, Insight +4"
+speed: "30 ft."
+hit_points: "36 (8d6+8)"
+armor_class: "11 (16 with barkskin)"
 ---
-
-**Small humanoid (halfling), neutral evil**
-
-**Armor Class** 11 (16 with barkskin)
-
-**Hit Points** 36 (8d6+8)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 8 (-1) | 12 (+1) | 12 (+1) | 14 (+2) | 15 (+2) | 13 (+1) |
-
-**Skills** Deception +3, Insight +4
-
-**Languages** Common, Halfling
-
-**Challenge** 2 (450 XP)
 
 ***Brave Devotion.*** Wiggan has advantage on saving throws against being charmed or frightened.
 
@@ -32,9 +28,8 @@ tags: [small, humanoid, cr2, elemental-evil]
 
 * 2nd Level (3 slots): barkskin, spike growth, spiritual weapon
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Wiggan makes two attacks with his wooden cane.
 
 ***Wooden Cane.*** Melee Weapon Attack: +0 to hit (+4 to hit with shillelagh), reach 5 ft., one target. Hit: 1 (1d4-1) bludgeoning damage, or 6 (1d8 + 2) bludgeoning damage with shillelagh.
-

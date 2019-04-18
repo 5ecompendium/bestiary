@@ -3,33 +3,27 @@ layout: creature
 name: "Canoloth"
 tags: [medium, fiend, cr8, mordenkainens-tome-of-foes]
 page_number: 247
+cha: 12 (+1)
+wis: 17 (+3)
+int: 5 (-2)
+con: 17 (+3)
+dex: 10 (0)
+str: 18 (+4)
+size: Medium fiend (yugoloth)
+alignment: neutral evil
+challenge: "8 (3900 XP)"
+languages: "Abyssal, Infernal, telepathy 60 ft."
+senses: "darkvision 60 ft., truesight 120 ft., passive Perception 19"
+skills: "Investigation +3, Perception +9"
+damage_immunities: "acid, poison"
+speed: "50 ft."
+hit_points: "120  (16d8 + 48)"
+armor_class: "16 (natural armor)"
 ---
-
-**Medium fiend (yugoloth), neutral evil**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 120  (16d8 + 48)
-
-**Speed** 50 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 18 (+4) | 10 (0) | 17 (+3) | 5 (-2) | 17 (+3) | 12 (+1) |
-
-**Skills** Investigation +3, Perception +9
 
 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** acid, poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 60 ft., truesight 120 ft., passive Perception 19
-
-**Languages** Abyssal, Infernal, telepathy 60 ft.
-
-**Challenge** 8 (3900 XP)
 
 ***Dimensional Lock.*** Other creatures can't teleport to or from a space within 60 feet of the canoloth. Any attempt to do so is wasted.
 
@@ -39,7 +33,7 @@ page_number: 247
 
 ***Uncanny Senses.*** The canoloth can't be surprised while it isn't incapacitated.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The canoloth makes two attacks: one with its tongue or its bite and one with its claws.
 

@@ -3,33 +3,29 @@ layout: creature
 name: "Duergar Warlord"
 tags: [medium, humanoid, cr6, mordenkainens-tome-of-foes]
 page_number: 192
+cha: 14 (+2)
+wis: 12 (+1)
+int: 12 (+1)
+con: 17 (+3)
+dex: 11 (0)
+str: 18 (+4)
+size: Medium humanoid (dwarf)
+alignment: lawful evil
+challenge: "6 (2300 XP)"
+languages: "Dwarvish, Undercommon"
+senses: "darkvision 120 ft., passive Perception 11"
+speed: "25 ft."
+hit_points: "75  (10d8 + 30)"
+armor_class: "20 (plate mail, shield)"
 ---
 
-**Medium humanoid (dwarf), lawful evil**
-
-**Armor Class** 20 (plate mail, shield)
-
-**Hit Points** 75  (10d8 + 30)
-
-**Speed** 25 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 18 (+4) | 11 (0) | 17 (+3) | 12 (+1) | 12 (+1) | 14 (+2) |
-
 **Damage Resistances** poison
-
-**Senses** darkvision 120 ft., passive Perception 11
-
-**Languages** Dwarvish, Undercommon
-
-**Challenge** 6 (2300 XP)
 
 ***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The duergar makes three hammer or javelin attacks and uses Call to Attack, or Enlarge if it is available.
 

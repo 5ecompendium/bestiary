@@ -2,29 +2,23 @@
 layout: creature
 name: "Ice Toad"
 tags: [medium, monstrosity, cr1, tyranny-of-dragons]
+cha: 6 (-2)
+wis: 10 (0)
+int: 8 (-1)
+con: 14 (+2)
+dex: 10 (0)
+str: 13 (+1)
+size: Medium monstrosity
+alignment: neutral
+challenge: "1 (200 XP)"
+languages: "Ice Toad"
+senses: "darkvision 60 ft."
+skills: "Perception +2"
+damage_immunities: "cold"
+speed: "30 ft., swim 30 ft."
+hit_points: "32 (5d8+10)"
+armor_class: "12 (natural armor)"
 ---
-
-**Medium monstrosity, neutral**
-
-**Armor Class** 12 (natural armor)
-
-**Hit Points** 32 (5d8+10)
-
-**Speed** 30 ft., swim 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 13 (+1) | 10 (0) | 14 (+2) | 8 (-1) | 10 (0) | 6 (-2) |
-
-**Skills** Perception +2
-
-**Damage Immunities** cold
-
-**Senses** darkvision 60 ft.
-
-**Languages** Ice Toad
-
-**Challenge** 1 (200 XP)
 
 ***Amphibious.*** The toad can breathe air or water.
 
@@ -32,7 +26,6 @@ tags: [medium, monstrosity, cr1, tyranny-of-dragons]
 
 ***Standing Leap.*** The toad's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.
 
-**Actions**
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d8) cold damage. If the target is a Medium or smaller creature it is grappled (escape DC 11). Until this grapple ends, the toad can't bite another target.
-

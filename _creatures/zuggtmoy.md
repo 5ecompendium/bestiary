@@ -3,35 +3,28 @@ layout: creature
 name: "Zuggtmoy"
 tags: [large, fiend, cr23, mordenkainens-tome-of-foes]
 page_number: 157
+cha: 24 (+7)
+wis: 19 (+4)
+int: 20 (+5)
+con: 18 (+4)
+dex: 15 (+2)
+str: 22 (+6)
+size: Large fiend (demon)
+alignment: chaotic evil
+challenge: "23 (50,000 XP)"
+languages: "all, telepathy 120 ft."
+senses: "truesight 120 ft., passive Perception 21"
+skills: "Perception +11"
+damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks"
+saving_throws: "Dex +9, Con +11, Wis +11"
+speed: "30 ft."
+hit_points: "304  (32d10 + 128)"
+armor_class: "18 (natural armor)"
 ---
-
-**Large fiend (demon), chaotic evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 304  (32d10 + 128)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 22 (+6) | 15 (+2) | 18 (+4) | 20 (+5) | 19 (+4) | 24 (+7) |
-
-**Saving Throws** Dex +9, Con +11, Wis +11
-
-**Skills** Perception +11
 
 **Damage Resistances** cold, fire, lightning
 
-**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks
-
 **Condition Immunities** charmed, exhaustion, frightened, poisoned
-
-**Senses** truesight 120 ft., passive Perception 21
-
-**Languages** all, telepathy 120 ft.
-
-**Challenge** 23 (50,000 XP)
 
 ***Innate Spellcasting.*** Zuggtmoy's spellcasting ability is Charisma. She can innately cast the following spells, requiring no material components:
 * At will: detect magic, locate animals or plants, ray of sickness
@@ -44,7 +37,7 @@ page_number: 157
 
 ***Magic Weapons.*** Zuggtmoy's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack*** Zuggtmoy makes three pseudopod attacks.
 
@@ -54,7 +47,7 @@ page_number: 157
 
 ***Mind Control Spores (Recharge 5-6)*** Zuggtmoy releases spores that burst out in a cloud that fills a 20-foot-radius sphere centered on her, and it lingers for 1 minute. Humanoids and beasts in the cloud when it appears, or that enter it later, must make a DC 19 Wisdom saving throw. On a successful save, the creature can't be infected by these spores for 24 hours. On a failed save, the creature is infected with a disease called the influence of Zuggtmoy for 24 hours. While infected in this way, the creature is charmed by her and can't be reinfected by these spores.
 
-**Legendary Actions**
+### Legendary Actions
 
 Zuggtmoy can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. Zuggtmoy regains spent legendary actions at the start of her turn.
 

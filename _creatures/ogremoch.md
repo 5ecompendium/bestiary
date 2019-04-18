@@ -2,33 +2,27 @@
 layout: creature
 name: "Ogremoch"
 tags: [gargantuan, elemental, cr20, elemental-evil]
+cha: 22 (+6)
+wis: 15 (+2)
+int: 11 (0)
+con: 28 (+9)
+dex: 11 (0)
+str: 26 (+8)
+size: Gargantuan elemental
+alignment: neutral evil
+challenge: "20 (25,000 XP)"
+languages: "Common, Terran"
+senses: "blindsight 120 ft., tremorsense 120 ft."
+damage_immunities: "poison"
+saving_throws: "Str +14, Con +15, Wis +8"
+speed: "50 ft., burrow 50 ft."
+hit_points: "526 (27d20+243)"
+armor_class: "20 (natural armor)"
 ---
-
-**Gargantuan elemental, neutral evil**
-
-**Armor Class** 20 (natural armor)
-
-**Hit Points** 526 (27d20+243)
-
-**Speed** 50 ft., burrow 50 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 26 (+8) | 11 (0) | 28 (+9) | 11 (0) | 15 (+2) | 22 (+6) |
-
-**Saving Throws** Str +14, Con +15, Wis +8
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons
 
-**Damage Immunities** poison
-
 **Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned, prone
-
-**Senses** blindsight 120 ft., tremorsense 120 ft.
-
-**Languages** Common, Terran
-
-**Challenge** 20 (25,000 XP)
 
 ***Empowered Attacks.*** Ogremoch's slam attacks are treated as magical and adamantine for the purpose of bypassing resistance and immunity to nonmagical weapons.
 
@@ -44,7 +38,7 @@ tags: [gargantuan, elemental, cr20, elemental-evil]
 
 ***Siege Monster.*** Ogremoch deals double damage to objects and structures with his melee and ranged weapon attacks.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Ogremoch makes two slam attacks.
 
@@ -54,7 +48,7 @@ tags: [gargantuan, elemental, cr20, elemental-evil]
 
 ***Summon Elementals (1/Day).*** Ogremoch summons up to three earth elementals and loses 30 hit points for each elemental he summons. Summoned elementals have maximum hit points, appear within 100 feet of Ogremoch, and disappear if Ogremoch is reduced to 0 hit points.
 
-**Legendary Actions**
+### Legendary Actions
 
 The ogremoch can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The ogremoch regains spent legendary actions at the start of its turn.
 
@@ -63,4 +57,3 @@ The ogremoch can take 3 legendary actions, choosing from the options below. Only
 ***Stomp (Costs 2 Actions).*** Ogremoch stomps the ground, creating an earth tremor that extends in a 30-foot radius. Other creatures standing on the ground in that radius must succeed on a DC 23 Dexterity saving throw or fall prone.
 
 ***Create Gargoyle (Costs 3 Actions).*** Ogremoch's hit points are reduced by 50 as he breaks off a chunk of his body and places it on the ground in an unoccupied space within 15 feet of him. The chunk of rock instantly transforms into a gargoyle and acts on the same initiative count as Ogremoch. Ogremoch can't use this action if he has 50 hit points or fewer. The gargoyle obeys Ogremoch's commands and fights until destroyed.
-

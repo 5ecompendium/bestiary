@@ -2,27 +2,22 @@
 layout: creature
 name: "War Priest"
 tags: [medium, humanoid, cr9, volos-guide]
+cha: 13 (+1)
+wis: 17 (+3)
+int: 11 (0)
+con: 14 (+2)
+dex: 10 (0)
+str: 16 (+3)
+size: Medium humanoid (any race)
+alignment: any alignment
+challenge: "9 (5,000 XP)"
+languages: "any two languages"
+skills: "Intimidation +5, Religion +4"
+saving_throws: "Con +6, Wis +7"
+speed: "30 ft."
+hit_points: "117 (18d8+36)"
+armor_class: "18 (plate)"
 ---
-
-**Medium humanoid (any race), any alignment**
-
-**Armor Class** 18 (plate)
-
-**Hit Points** 117 (18d8+36)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 16 (+3) | 10 (0) | 14 (+2) | 11 (0) | 17 (+3) | 13 (+1) |
-
-**Saving Throws** Con +6, Wis +7
-
-**Skills** Intimidation +5, Religion +4
-
-**Languages** any two languages
-
-**Challenge** 9 (5,000 XP)
 
 ***Spellcasting.*** The priest is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared:
 
@@ -38,13 +33,12 @@ Cantrips (at will): light, mending, sacred flame, spare the dying
 
 5th level (1 slot): flame strike, mass cure wounds, hold monster
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The priest makes two melee attacks.
 
 ***Maul.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (2d6 +3) bludgeoning damage.
 
-**Reactions**
+### Reactions
 
 ***Guided Strike (Recharges after a Short or Long Rest).*** The priest grants a +10 bonus to an attack roll made by itself or another creature within 30 feet of it. The priest can make this choice after the roll is made but before it hits or misses.
-

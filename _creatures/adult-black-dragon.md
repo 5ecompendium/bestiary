@@ -2,37 +2,30 @@
 layout: creature
 name: "Adult Black Dragon"
 tags: [huge, dragon, cr14, monster-manual]
+cha: 17 (+3)
+wis: 13 (+1)
+int: 14 (+2)
+con: 21 (+5)
+dex: 14 (+2)
+str: 23 (+6)
+size: Huge dragon
+alignment: chaotic evil
+challenge: "14 (11,500 XP)"
+languages: "Common, Draconic"
+senses: "blindsight 60 ft., darkvision 120 ft."
+skills: "Perception +11, Stealth +7"
+damage_immunities: "acid"
+saving_throws: "Dex +7, Con +10, Wis +6, Cha +8"
+speed: "40 ft., fly 80 ft., swim 40 ft."
+hit_points: "195 (17d12+85)"
+armor_class: "19 (natural armor)"
 ---
-
-**Huge dragon, chaotic evil**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 195 (17d12+85)
-
-**Speed** 40 ft., fly 80 ft., swim 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 23 (+6) | 14 (+2) | 21 (+5) | 14 (+2) | 13 (+1) | 17 (+3) |
-
-**Saving Throws** Dex +7, Con +10, Wis +6, Cha +8
-
-**Skills** Perception +11, Stealth +7
-
-**Damage Immunities** acid
-
-**Senses** blindsight 60 ft., darkvision 120 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 14 (11,500 XP)
 
 ***Amphibious.*** The dragon can breathe air and water.
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -46,7 +39,7 @@ tags: [huge, dragon, cr14, monster-manual]
 
 ***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.
 
-**Legendary Actions**
+### Legendary Actions
 
 The adult black dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The adult black dragon regains spent legendary actions at the start of its turn.
 
@@ -55,4 +48,3 @@ The adult black dragon can take 3 legendary actions, choosing from the options b
 ***Tail Attack.*** The dragon makes a tail attack.
 
 ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 10 ft. of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-

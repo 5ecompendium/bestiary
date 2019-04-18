@@ -3,35 +3,28 @@ layout: creature
 name: "Oinoloth"
 tags: [medium, fiend, cr12, mordenkainens-tome-of-foes]
 page_number: 251
+cha: 19 (+4)
+wis: 16 (+3)
+int: 17 (+3)
+con: 18 (+4)
+dex: 17 (+3)
+str: 19 (+4)
+size: Medium fiend (yugoloth)
+alignment: neutral evil
+challenge: "12 (8400 XP)"
+languages: "Abyssal, Infernal, telepathy 60 ft."
+senses: "blindsight 60 ft., darkvision 60 ft., passive Perception 17"
+skills: "Deception +8, Intimidation +8, Perception +7"
+damage_immunities: "acid, poison"
+saving_throws: "Con +8, Wis +7"
+speed: "40 ft."
+hit_points: "126  (12d10 + 60)"
+armor_class: "17 (natural armor)"
 ---
-
-**Medium fiend (yugoloth), neutral evil**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 126  (12d10 + 60)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 19 (+4) | 17 (+3) | 18 (+4) | 17 (+3) | 16 (+3) | 19 (+4) |
-
-**Saving Throws** Con +8, Wis +7
-
-**Skills** Deception +8, Intimidation +8, Perception +7
 
 **Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** acid, poison
-
 **Condition Immunities** poisoned
-
-**Senses** blindsight 60 ft., darkvision 60 ft., passive Perception 17
-
-**Languages** Abyssal, Infernal, telepathy 60 ft.
-
-**Challenge** 12 (8400 XP)
 
 ***Bringer of Plagues (Recharge 5-6).*** As a bonus action, the oinoloth blights the area within 30 feet of it. The blight lasts for 24 hours. While blighted, all normal plants in the area wither and die, and the number of hit points restored by a spell to a creature in that area is halved.
 Furthermore, when a creature moves into the blighted area or starts its turn there, that creature must make a DC 16 Constitution saving throw. On a successful save, the creature is immune to the oinoloth's Bringer of Plagues for the next 24 hours. On a failed save, the creature takes 14 (4d6) necrotic damage and is poisoned.
@@ -45,7 +38,7 @@ The poisoned creature can't regain hit points. After every 24 hours that elapse,
 
 ***Magic Weapons.*** The oinoloth's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The oinoloth uses its Transfixing Gaze and makes two claw attacks.
 

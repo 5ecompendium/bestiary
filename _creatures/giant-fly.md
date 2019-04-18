@@ -2,21 +2,17 @@
 layout: creature
 name: "Giant Fly"
 tags: [large, beast, cr0, monster-manual]
+cha: 3 (-4)
+wis: 10 (0)
+int: 2 (-4)
+con: 13 (+1)
+dex: 13 (+1)
+str: 14 (+2)
+size: Large beast
+alignment: unaligned
+challenge: "0 (10 XP)"
+senses: "darkvision 60 ft."
+speed: "30 ft., fly 60 ft."
+hit_points: "19 (3d10+3)"
+armor_class: "11"
 ---
-
-**Large beast, unaligned**
-
-**Armor Class** 11
-
-**Hit Points** 19 (3d10+3)
-
-**Speed** 30 ft., fly 60 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 14 (+2) | 13 (+1) | 13 (+1) | 2 (-4) | 10 (0) | 3 (-4) |
-
-**Senses** darkvision 60 ft.
-
-**Challenge** 0 (10 XP)
-

@@ -2,29 +2,24 @@
 layout: creature
 name: "Mimic"
 tags: [medium, monstrosity, cr2, monster-manual]
+cha: 8 (-1)
+wis: 13 (+1)
+int: 5 (-3)
+con: 15 (+2)
+dex: 12 (+1)
+str: 17 (+3)
+size: Medium monstrosity (shapechanger)
+alignment: neutral
+challenge: "2 (450 XP)"
+senses: "darkvision 60 ft."
+skills: "Stealth +5"
+damage_immunities: "acid"
+speed: "15 ft."
+hit_points: "58 (9d8+18)"
+armor_class: "12 (natural armor)"
 ---
 
-**Medium monstrosity (shapechanger), neutral**
-
-**Armor Class** 12 (natural armor)
-
-**Hit Points** 58 (9d8+18)
-
-**Speed** 15 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 17 (+3) | 12 (+1) | 15 (+2) | 5 (-3) | 13 (+1) | 8 (-1) |
-
-**Skills** Stealth +5
-
-**Damage Immunities** acid
-
 **Condition Immunities** prone
-
-**Senses** darkvision 60 ft.
-
-**Challenge** 2 (450 XP)
 
 ***Shapechanger.*** The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn 't transformed. It reverts to its true form if it dies.
 
@@ -34,9 +29,8 @@ tags: [medium, monstrosity, cr2, monster-manual]
 
 ***Grappler.*** The mimic has advantage on attack rolls against any creature grappled by it.
 
-**Actions**
+### Actions
 
 ***Pseudopod.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.
 
 ***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.
-

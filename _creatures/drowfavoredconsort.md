@@ -3,29 +3,23 @@ layout: creature
 name: "Drow Favored Consort"
 tags: [medium, humanoid, cr18, mordenkainens-tome-of-foes]
 page_number: 183
+cha: 18 (+4)
+wis: 15 (+2)
+int: 18 (+4)
+con: 16 (+3)
+dex: 20 (+5)
+str: 15 (+2)
+size: Medium humanoid (elf)
+alignment: neutral evil
+challenge: "18 (20,000 XP)"
+languages: "Elvish, Undercommon"
+senses: "darkvision 120 ft., passive Perception 18"
+skills: "Acrobatics +11, Athletics +8, Perception +8, Stealth +11"
+saving_throws: "Dex +11, Con +9, Cha +10"
+speed: "30 ft."
+hit_points: "225  (30d8 + 90)"
+armor_class: "15 (18 with mage armor)"
 ---
-
-**Medium humanoid (elf), neutral evil**
-
-**Armor Class** 15 (18 with mage armor)
-
-**Hit Points** 225  (30d8 + 90)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 15 (+2) | 20 (+5) | 16 (+3) | 18 (+4) | 15 (+2) | 18 (+4) |
-
-**Saving Throws** Dex +11, Con +9, Cha +10
-
-**Skills** Acrobatics +11, Athletics +8, Perception +8, Stealth +11
-
-**Senses** darkvision 120 ft., passive Perception 18
-
-**Languages** Elvish, Undercommon
-
-**Challenge** 18 (20,000 XP)
 
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
@@ -46,7 +40,7 @@ page_number: 183
 
 ***War Magic.*** When the drow uses its action to cast a spell, it can make one weapon attack as a bonus action.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The drow makes three scimitar attacks.
 

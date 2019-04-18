@@ -2,35 +2,30 @@
 layout: creature
 name: "Banderhobb"
 tags: [large, monstrosity, cr5, volos-guide]
+cha: 8 (-1)
+wis: 14 (+2)
+int: 11 (0)
+con: 20 (+5)
+dex: 12 (+1)
+str: 20 (+5)
+size: Large monstrosity
+alignment: neutral evil
+challenge: "5 (1,800 XP)"
+languages: "understands Common and the languages of its creator, but can't speak"
+senses: "darkvision 120 ft."
+skills: "Athletics +8, Stealth +7"
+speed: "30 ft."
+hit_points: "84 (8d10+40)"
+armor_class: "15 (natural armor)"
 ---
 
-**Large monstrosity, neutral evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 84 (8d10+40)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 20 (+5) | 12 (+1) | 20 (+5) | 11 (0) | 14 (+2) | 8 (-1) |
-
-**Skills** Athletics +8, Stealth +7
-
 **Condition Immunities** charmed, frightened
-
-**Senses** darkvision 120 ft.
-
-**Languages** understands Common and the languages of its creator, but can't speak
-
-**Challenge** 5 (1,800 XP)
 
 ***Resonant Connection.*** If the banderhobb has even a tiny piece of a creature or an obect in its possession, such as a lock of hair or a splinter of wood, it knows the most direct route to that creature or object if it is within1 mile of the banderhobb.
 
 ***Shadow Stealth.*** While in dim light or darkness, the banderhobb can take the Hide action as a bonus action.
 
-**Actions**
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 22 (5d6+5) piercing damage, and the target is grappled (escape DC 15) if it is a Large or smaller creature. Until this grapple ends, the target is restrained, and the banderhobb can't use its bite attack or tongue attack on another target.
 
@@ -41,4 +36,3 @@ tags: [large, monstrosity, cr5, volos-guide]
 > The banderhobb can have only one target swallowed at a time. While the banderhobb isn't incapacitated, it can regurgitate the creature at any time (no action required) in a space within 5 feet of it. The creature exits prone. If the banderhobb dies, it likewise regurgitates a swallowed creature.
 
 ***Shadow Step.*** The banderhobb magically teleports up to 30 feet to an unoccupied space of dim light or darkness that it can see. Before or after teleporting, it can make a bite or tongue attack.
-

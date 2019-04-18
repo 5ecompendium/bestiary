@@ -3,37 +3,32 @@ layout: creature
 name: "Armanite"
 tags: [large, fiend, cr7, mordenkainens-tome-of-foes]
 page_number: 131
+cha: 13 (+1)
+wis: 12 (+1)
+int: 8 (-1)
+con: 21 (+5)
+dex: 18 (+4)
+str: 21 (+5)
+size: Large fiend (demon)
+alignment: chaotic evil
+challenge: "7 (2900 XP)"
+languages: "Abyssal, telepathy 120 ft."
+senses: "darkvision 120 ft., passive Perception 11"
+damage_immunities: "poison"
+speed: "60 ft."
+hit_points: "84  (8d10 + 40)"
+armor_class: "16 (natural armor)"
 ---
-
-**Large fiend (demon), chaotic evil**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 84  (8d10 + 40)
-
-**Speed** 60 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 21 (+5) | 18 (+4) | 21 (+5) | 8 (-1) | 12 (+1) | 13 (+1) |
 
 **Damage Resistances** cold, fire, lightning
 
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 120 ft., passive Perception 11
-
-**Languages** Abyssal, telepathy 120 ft.
-
-**Challenge** 7 (2900 XP)
 
 ***Magic Resistance.*** The armanite has advantage on saving throws against spells and other magical effects.
 
 ***Magic Weapons.*** The armanite's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The armanite makes three attacks: one with its hooves, one with its claws, and one with its serrated tail.
 

@@ -2,31 +2,27 @@
 layout: creature
 name: "Swarm of Wasps"
 tags: [medium, swarm, cr1/2, monster-manual]
+cha: 1 (-5)
+wis: 7 (-2)
+int: 1 (-5)
+con: 10 (0)
+dex: 13 (+1)
+str: 3 (-4)
+size: Medium swarm
+alignment: unaligned
+challenge: "1/2 (100 XP)"
+senses: "blindsight 10 ft."
+speed: "5 ft., fly 30 ft."
+hit_points: "22 (5d8)"
+armor_class: "12 (natural armor)"
 ---
-
-**Medium swarm, unaligned**
-
-**Armor Class** 12 (natural armor)
-
-**Hit Points** 22 (5d8)
-
-**Speed** 5 ft., fly 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 3 (-4) | 13 (+1) | 10 (0) | 1 (-5) | 7 (-2) | 1 (-5) |
 
 **Damage Resistances** bludgeoning, piercing, slashing
 
 **Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
-**Senses** blindsight 10 ft.
-
-**Challenge** 1/2 (100 XP)
-
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny insect. The swarm can't regain hit points or gain temporary hit points.
 
-**Actions**
+### Actions
 
 ***Bites.*** Melee Weapon Attack: +3 to hit, reach 0 ft., one target in the swarm's space. Hit: 10 (4d4) piercing damage, or 5 (2d4) piercing damage if the swarm has half of its hit points or fewer.
-

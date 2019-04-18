@@ -2,35 +2,28 @@
 layout: creature
 name: "Mummy Lord"
 tags: [medium, undead, cr15, monster-manual]
+cha: 16 (+3)
+wis: 18 (+4)
+int: 11 (0)
+con: 17 (+3)
+dex: 10 (0)
+str: 18 (+4)
+size: Medium undead
+alignment: lawful evil
+challenge: "15 (13,000 XP)"
+languages: "the languages it knew in life"
+senses: "darkvision 60 ft."
+skills: "History +5, Religion +5"
+damage_immunities: "necrotic, poison, bludgeoning, piercing, and slashing from nonmagical weapons"
+saving_throws: "Con +8, Int +5, Wis +9, Cha +8"
+speed: "20 ft."
+hit_points: "97 (13d8+39)"
+armor_class: "17 (natural armor)"
 ---
-
-**Medium undead, lawful evil**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 97 (13d8+39)
-
-**Speed** 20 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 10 (0) | 17 (+3) | 11 (0) | 18 (+4) | 16 (+3) |
-
-**Saving Throws** Con +8, Int +5, Wis +9, Cha +8
-
-**Skills** History +5, Religion +5
 
 **Damage Vulnerabilities** bludgeoning
 
-**Damage Immunities** necrotic, poison, bludgeoning, piercing, and slashing from nonmagical weapons
-
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
-
-**Senses** darkvision 60 ft.
-
-**Languages** the languages it knew in life
-
-**Challenge** 15 (13,000 XP)
 
 ***Magic Resistance.*** The mummy lord has advantage on saving throws against spells and other magical effects.
 
@@ -52,7 +45,7 @@ tags: [medium, undead, cr15, monster-manual]
 
 * 6th level (1 slot): harm
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 
@@ -60,7 +53,7 @@ tags: [medium, undead, cr15, monster-manual]
 
 ***Dreadful Glare.*** The mummy lord targets one creature it can see within 60 feet of it. If the target can see the mummy lord, it must succeed on a DC 16 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn. If the target fails the saving throw by 5 or more, it is also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Dreadful Glare of all mummies and mummy lords for the next 24 hours.
 
-**Legendary Actions**
+### Legendary Actions
 
 The mummy lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The mummy lord regains spent legendary actions at the start of its turn.
 
@@ -73,4 +66,3 @@ The mummy lord can take 3 legendary actions, choosing from the options below. On
 ***Channel Negative Energy (Costs 2 Actions).*** The mummy lord magically unleashes negative energy. Creatures within 60 feet of the mummy lord, including ones behind barriers and around corners, can't regain hit points until the end of the mummy lord's next turn.
 
 ***Whirlwind of Sand (Costs 2 Actions).*** The mummy lord magically transforms into a whirlwind of sand, moves up to 60 feet, and reverts to its normal form. While in whirlwind form, the mummy lord is immune to all damage, and it can't be grappled, petrified, knocked prone, restrained, or stunned. Equipment worn or carried by the mummy lord remain in its possession.
-

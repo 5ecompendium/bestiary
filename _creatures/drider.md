@@ -2,27 +2,22 @@
 layout: creature
 name: "Drider"
 tags: [large, monstrosity, cr6, monster-manual]
+cha: 12 (+1)
+wis: 14 (+2)
+int: 13 (+1)
+con: 18 (+4)
+dex: 16 (+3)
+str: 16 (+3)
+size: Large monstrosity
+alignment: chaotic evil
+challenge: "6 (2,300 XP)"
+languages: "Elvish, Undercommon"
+senses: "darkvision 120 ft."
+skills: "Perception +5, Stealth +9"
+speed: "30 ft., climb 30 ft."
+hit_points: "123 (13d10+52)"
+armor_class: "19 (natural armor)"
 ---
-
-**Large monstrosity, chaotic evil**
-
-**Armor Class** 19 (natural armor)
-
-**Hit Points** 123 (13d10+52)
-
-**Speed** 30 ft., climb 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 16 (+3) | 16 (+3) | 18 (+4) | 13 (+1) | 14 (+2) | 12 (+1) |
-
-**Skills** Perception +5, Stealth +9
-
-**Senses** darkvision 120 ft.
-
-**Languages** Elvish, Undercommon
-
-**Challenge** 6 (2,300 XP)
 
 ***Fey Ancestry.*** The drider has advantage on saving throws against being charmed, and magic can't put the drider to sleep.
 
@@ -38,7 +33,7 @@ At will: dancing lights
 
 ***Web Walker.*** The drider ignores movement restrictions caused by webbing.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.
 
@@ -47,4 +42,3 @@ At will: dancing lights
 ***Longsword.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) slashing damage, or 8 (1d10 + 3) slashing damage if used with two hands.
 
 ***Longbow.*** Ranged Weapon Attack: +6 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) poison damage.
-

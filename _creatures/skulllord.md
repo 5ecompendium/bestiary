@@ -3,33 +3,27 @@ layout: creature
 name: "Skull Lord"
 tags: [medium, undead, cr15, mordenkainens-tome-of-foes]
 page_number: 230
+cha: 21 (+5)
+wis: 15 (+2)
+int: 16 (+3)
+con: 17 (+3)
+dex: 16 (+3)
+str: 14 (+2)
+size: Medium undead
+alignment: lawful evil
+challenge: "15 (13,000 XP)"
+languages: "all the languages it knew in life"
+senses: "darkvision 60 ft., passive Perception 22"
+skills: "Athletics +7, History +8, Perception +12, Stealth +8"
+damage_immunities: "poison"
+speed: "30 ft."
+hit_points: "105  (14d8 + 42)"
+armor_class: "18 (plate)"
 ---
-
-**Medium undead, lawful evil**
-
-**Armor Class** 18 (plate)
-
-**Hit Points** 105  (14d8 + 42)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 14 (+2) | 16 (+3) | 17 (+3) | 16 (+3) | 15 (+2) | 21 (+5) |
-
-**Skills** Athletics +7, History +8, Perception +12, Stealth +8
 
 **Damage Resistances** cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** poison
-
 **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, poisoned, stunned, unconscious
-
-**Senses** darkvision 60 ft., passive Perception 22
-
-**Languages** all the languages it knew in life
-
-**Challenge** 15 (13,000 XP)
 
 ***Legendary Resistance (3/Day).*** If the skull lord fails a saving throw, it can choose to succeed instead.
 
@@ -47,13 +41,13 @@ page_number: 230
 * 6th level (1 slot): eyebite
 * 7th level (1 slot): finger of death
 
-**Actions**
+### Actions
 
 ***Multiattack*** The skull lord makes three bone staff attacks.
 
 ***Bone Staff*** Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 14 (4d6) necrotic damage.
 
-**Legendary Actions**
+### Legendary Actions
 
 The skull lord can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The skull lord regains spent legendary actions at the start of its turn.
 

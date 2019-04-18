@@ -2,33 +2,28 @@
 layout: creature
 name: "Slithering Tracker"
 tags: [medium, ooze, cr3, volos-guide]
+cha: 11 (0)
+wis: 14 (+2)
+int: 10 (0)
+con: 15 (+2)
+dex: 19 (+4)
+str: 16 (+3)
+size: Medium ooze
+alignment: chaotic evil
+challenge: "3 (700 XP)"
+languages: "understands languages it knew in its previous form but can't speak"
+senses: "blindsight 120 ft."
+skills: "Stealth +8"
+speed: "30 ft., climb 30 ft., swim 30 ft."
+hit_points: "32 (5d8+10)"
+armor_class: "14"
 ---
-
-**Medium ooze, chaotic evil**
-
-**Armor Class** 14
-
-**Hit Points** 32 (5d8+10)
-
-**Speed** 30 ft., climb 30 ft., swim 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 16 (+3) | 19 (+4) | 15 (+2) | 10 (0) | 14 (+2) | 11 (0) |
-
-**Skills** Stealth +8
 
 **Damage Vulnerabilities** cold, fire
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
 **Condition Immunities** blinded, deafened, exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious
-
-**Senses** blindsight 120 ft.
-
-**Languages** understands languages it knew in its previous form but can't speak
-
-**Challenge** 3 (700 XP)
 
 ***Ambusher.*** In the first round of a combat, the slithering tracker has advantage on attack rolls against any creature it surprised.
 
@@ -44,9 +39,8 @@ tags: [medium, ooze, cr3, volos-guide]
 
 ***Watery Stealth.*** While underwater, the slithering tracker has advantage on Dexterity (Stealth) checks made to hide, and it can take the Hide action as a bonus action.
 
-**Actions**
+### Actions
 
 ***Slam.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10+3) bludgeoning damage.
 
 ***Life Leech.*** One Large or smaller creature that the slithering tracker can see within 5 feet of it must succeed on a DC 13 Dexterity saving throw or be grappled (escape DC 13). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. In addition, the grappled target takes 16 (3d10) necrotic damage at the start of each of its turns. The slithering tracker can grapple only one target at a time.
-

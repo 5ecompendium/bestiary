@@ -2,31 +2,25 @@
 layout: creature
 name: "Behir"
 tags: [huge, monstrosity, cr11, monster-manual]
+cha: 12 (+1)
+wis: 14 (+2)
+int: 7 (-2)
+con: 18 (+4)
+dex: 16 (+3)
+str: 23 (+6)
+size: Huge monstrosity
+alignment: neutral evil
+challenge: "11 (7,200 XP)"
+languages: "Draconic"
+senses: "darkvision 90 ft."
+skills: "Perception +6, Stealth +7"
+damage_immunities: "lightning"
+speed: "50 ft., climb 40 ft."
+hit_points: "168 (16d12+64)"
+armor_class: "17 (natural armor)"
 ---
 
-**Huge monstrosity, neutral evil**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 168 (16d12+64)
-
-**Speed** 50 ft., climb 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 23 (+6) | 16 (+3) | 18 (+4) | 7 (-2) | 14 (+2) | 12 (+1) |
-
-**Skills** Perception +6, Stealth +7
-
-**Damage Immunities** lightning
-
-**Senses** darkvision 90 ft.
-
-**Languages** Draconic
-
-**Challenge** 11 (7,200 XP)
-
-**Actions**
+### Actions
 
 ***Multiattack.*** The behir makes two attacks: one with its bite and one to constrict.
 
@@ -39,4 +33,3 @@ tags: [huge, monstrosity, cr11, monster-manual]
 ***Swallow.*** The behir makes one bite attack against a Medium or smaller target it is grappling. If the attack hits, the target is also swallowed, and the grapple ends. While swallowed, the target is blinded and restrained, it has total cover against attacks and other effects outside the behir, and it takes 21 (6d6) acid damage at the start of each of the behir's turns. A behir can have only one creature swallowed at a time.
 
 If the behir takes 30 damage or more on a single turn from the swallowed creature, the behir must succeed on a DC 14 Constitution saving throw at the end of that turn or regurgitate the creature, which falls prone in a space within 10 ft. of the behir. If the behir dies, a swallowed creature is no longer restrained by it and can escape from the corpse by using 15 ft. of movement, exiting prone.
-

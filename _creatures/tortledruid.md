@@ -3,27 +3,22 @@ layout: creature
 name: "Tortle Druid"
 tags: [medium, humanoid, cr2, mordenkainens-tome-of-foes]
 page_number: 242
+cha: 12 (+1)
+wis: 15 (+2)
+int: 11 (0)
+con: 12 (+1)
+dex: 10 (0)
+str: 14 (+2)
+size: Medium humanoid (tortle)
+alignment: lawful neutral
+challenge: "2 (450 XP)"
+languages: "Aquan, Common"
+senses: "passive Perception 12"
+skills: "Animal Handling +4, Nature +2, Survival +4"
+speed: "30 ft."
+hit_points: "33  (6d8 + 6)"
+armor_class: "17 (natural)"
 ---
-
-**Medium humanoid (tortle), lawful neutral**
-
-**Armor Class** 17 (natural)
-
-**Hit Points** 33  (6d8 + 6)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 14 (+2) | 10 (0) | 12 (+1) | 11 (0) | 15 (+2) | 12 (+1) |
-
-**Skills** Animal Handling +4, Nature +2, Survival +4
-
-**Senses** passive Perception 12
-
-**Languages** Aquan, Common
-
-**Challenge** 2 (450 XP)
 
 ***Hold Breath.*** The tortle can hold its breath for 1 hour.
 
@@ -32,7 +27,7 @@ page_number: 242
 * 1st level (4 slots): animal friendship, cure wounds, speak with animals, thunderwave
 * 2nd level (3 slots): darkvision, hold person
 
-**Actions**
+### Actions
 
 ***Claws*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.
 

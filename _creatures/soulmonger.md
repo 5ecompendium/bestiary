@@ -3,33 +3,26 @@ layout: creature
 name: "Soul Monger"
 tags: [medium, humanoid, cr11, mordenkainens-tome-of-foes]
 page_number: 226
+cha: 13 (+1)
+wis: 15 (+2)
+int: 19 (+4)
+con: 14 (+2)
+dex: 17 (+3)
+str: 8 (-1)
+size: Medium humanoid (elf)
+alignment: neutral
+challenge: "11 (7200 XP)"
+languages: "Common, Elvish"
+senses: "darkvision 60 ft., passive Perception 17"
+skills: "Perception +7"
+damage_immunities: "necrotic, psychic"
+saving_throws: "Dex +7, Wis +7, Cha +5"
+speed: "30 ft."
+hit_points: "123  (19d8 + 38)"
+armor_class: "15 (studded leather)"
 ---
 
-**Medium humanoid (elf), neutral**
-
-**Armor Class** 15 (studded leather)
-
-**Hit Points** 123  (19d8 + 38)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 8 (-1) | 17 (+3) | 14 (+2) | 19 (+4) | 15 (+2) | 13 (+1) |
-
-**Saving Throws** Dex +7, Wis +7, Cha +5
-
-**Skills** Perception +7
-
-**Damage Immunities** necrotic, psychic
-
 **Condition Immunities** charmed, exhaustion, frightened
-
-**Senses** darkvision 60 ft., passive Perception 17
-
-**Languages** Common, Elvish
-
-**Challenge** 11 (7200 XP)
 
 ***Fey Ancestry.*** The soul monger has advantage on saving throws against being charmed, and magic can't put it to sleep.
 
@@ -43,7 +36,7 @@ page_number: 226
 
 ***Weight of Ages.*** Any beast or humanoid, other than a shadar-kai, that starts its turn within 5 feet of the soul monger has its speed reduced by 20 feet until the start of that creature's next turn.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The soul monger makes two phantasmal dagger attacks.
 

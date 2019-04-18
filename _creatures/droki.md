@@ -2,27 +2,22 @@
 layout: creature
 name: "Droki"
 tags: [small, humanoid, cr2, out-of-the-abyss]
+cha: 16 (+3)
+wis: 5 (-3)
+int: 10 (0)
+con: 13 (+1)
+dex: 16 (+3)
+str: 11 (0)
+size: Small humanoid (derro)
+alignment: chaotic evil
+challenge: "2 (450 XP)"
+languages: "Dwarvish, Undercommon"
+senses: "darkvision 120 ft."
+skills: "Stealth +5"
+speed: "30 ft. (60 ft. with boots of speed)"
+hit_points: "31 (7d6+7)"
+armor_class: "15 (studded leather)"
 ---
-
-**Small humanoid (derro), chaotic evil**
-
-**Armor Class** 15 (studded leather)
-
-**Hit Points** 31 (7d6+7)
-
-**Speed** 30 ft. (60 ft. with boots of speed)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 11 (0) | 16 (+3) | 13 (+1) | 10 (0) | 5 (-3) | 16 (+3) |
-
-**Skills** Stealth +5
-
-**Senses** darkvision 120 ft.
-
-**Languages** Dwarvish, Undercommon
-
-**Challenge** 2 (450 XP)
 
 ***Special Equipment.*** Droki wears boots of speed
 
@@ -40,13 +35,12 @@ At will: minor illusion
 
 ***Sunlight Sensitivity.*** While in sunlight, the derro has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Droki makes two attacks with his shortsword
 
 ***Shortsword.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit:6 (1d6 + 3) piercing damage. The sword is coated with serpent venom that wears off after the first hit. A target subjected to the venom must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.
 
-**Reactions**
+### Reactions
 
 ***Parry.*** Droki adds 3 to his AC against one melee attack that would hit him. To do so, Droki must see the attacker and be wielding a melee weapon.
-

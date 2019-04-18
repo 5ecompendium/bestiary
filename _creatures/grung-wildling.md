@@ -2,31 +2,25 @@
 layout: creature
 name: "Grung Wildling"
 tags: [small, humanoid, cr1, volos-guide]
+cha: 11 (0)
+wis: 15 (+2)
+int: 10 (0)
+con: 15 (+2)
+dex: 16 (+3)
+str: 7 (-2)
+size: Small humanoid (grung)
+alignment: lawful evil
+challenge: "1 (200 XP)"
+languages: "Grung"
+skills: "Athletics +2, Perception +4, Stealth +5, Survival +4"
+damage_immunities: "poison"
+saving_throws: "Dex +5"
+speed: "25 ft., climb 25 ft."
+hit_points: "27 (5d6+10)"
+armor_class: "13 (16 with barkskin)"
 ---
 
-**Small humanoid (grung), lawful evil**
-
-**Armor Class** 13 (16 with barkskin)
-
-**Hit Points** 27 (5d6+10)
-
-**Speed** 25 ft., climb 25 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 7 (-2) | 16 (+3) | 15 (+2) | 10 (0) | 15 (+2) | 11 (0) |
-
-**Saving Throws** Dex +5
-
-**Skills** Athletics +2, Perception +4, Stealth +5, Survival +4
-
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Languages** Grung
-
-**Challenge** 1 (200 XP)
 
 ***Amphibious.*** The grung can breathe air and water.
 
@@ -48,9 +42,8 @@ tags: [small, humanoid, cr1, volos-guide]
 
 Red. The poisoned creature must use its action to eat if food is within reach.
 
-**Actions**
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4+3) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.
 
 ***Shortbow.*** Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6+3) piercing damage, and the target must succeed on a DC 12 Constitution saving throw or take 5 (2d4) poison damage.
-

@@ -2,33 +2,27 @@
 layout: creature
 name: "Marilith"
 tags: [large, fiend, cr16, monster-manual]
+cha: 20 (+5)
+wis: 16 (+3)
+int: 18 (+4)
+con: 20 (+5)
+dex: 20 (+5)
+str: 18 (+4)
+size: Large fiend (demon)
+alignment: chaotic evil
+challenge: "16 (15,000 XP)"
+languages: "Abyssal, telepathy 120 ft."
+senses: "truesight 120 ft."
+damage_immunities: "poison"
+saving_throws: "Str +9, Con +10, Wis +8, Cha +10"
+speed: "40 ft."
+hit_points: "189 (18d10+90)"
+armor_class: "18 (natural armor)"
 ---
-
-**Large fiend (demon), chaotic evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 189 (18d10+90)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 20 (+5) | 20 (+5) | 18 (+4) | 16 (+3) | 20 (+5) |
-
-**Saving Throws** Str +9, Con +10, Wis +8, Cha +10
 
 **Damage Resistances** cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
 
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** truesight 120 ft.
-
-**Languages** Abyssal, telepathy 120 ft.
-
-**Challenge** 16 (15,000 XP)
 
 ***Magic Resistance.*** The marilith has advantage on saving throws against spells and other magical effects.
 
@@ -36,7 +30,7 @@ tags: [large, fiend, cr16, monster-manual]
 
 ***Reactive.*** The marilith can take one reaction on every turn in combat.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The marilith can make seven attacks: six with its longswords and one with its tail.
 
@@ -52,7 +46,6 @@ A marilith has a 50 percent chance of summoning 1d6 vrocks, 1d4 hezrous, 1d3 gla
 
 A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
 
-**Reactions**
+### Reactions
 
 ***Parry.*** The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon.
-

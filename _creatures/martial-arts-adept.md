@@ -2,29 +2,25 @@
 layout: creature
 name: "Martial Arts Adept"
 tags: [medium, humanoid, cr3, volos-guide]
+cha: 10 (0)
+wis: 16 (+3)
+int: 11 (0)
+con: 13 (+1)
+dex: 17 (+3)
+str: 11 (0)
+size: Medium humanoid (any race)
+alignment: any alignment
+challenge: "3 (700 XP)"
+languages: "any one language (usually Common)"
+skills: "Acrobatics +5, Insight +5, Stealth +5"
+speed: "40 ft."
+hit_points: "60 (11d8+11)"
+armor_class: "16"
 ---
-
-**Medium humanoid (any race), any alignment**
-
-**Armor Class** 16
-
-**Hit Points** 60 (11d8+11)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 11 (0) | 17 (+3) | 13 (+1) | 11 (0) | 16 (+3) | 10 (0) |
-
-**Skills** Acrobatics +5, Insight +5, Stealth +5
-
-**Languages** any one language (usually Common)
-
-**Challenge** 3 (700 XP)
 
 ***Unarmored Defense.*** While the adept is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The adept makes three unarmed strikes or three dart attacks.
 
@@ -38,7 +34,6 @@ tags: [medium, humanoid, cr3, volos-guide]
 
 ***Dart.*** Ranged Weapon Attack: +5 to hit, range 20/60 ft, one target. Hit: 5 (1d4+3) piercing damage.
 
-**Reactions**
+### Reactions
 
 ***Deflect Missile.*** In response to being hit by a ranged weapon attack, the adept deflects the missile. The damage it takes from the attack is reduced by 1d10+3. If the damage is reduced to 0, the adept catches the missile if it's small enough to hold in one hand and the adept has a hand free.
-

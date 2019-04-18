@@ -2,32 +2,27 @@
 layout: creature
 name: "White Maw"
 tags: [gargantuan, ooze, cr10, tales-from-the-yawning-portal]
+cha: 3 (-4)
+wis: 10 (0)
+int: 12 (+1)
+con: 20 (+5)
+dex: 1 (-5)
+str: 18 (+4)
+size: Gargantuan ooze
+alignment: chaotic neutral
+challenge: "10 (5,900 XP)"
+languages: "telepathy 50 ft."
+senses: "blindsight 60 ft. (blind beyond this radius)"
+damage_immunities: "poison"
+speed: "10 ft."
+hit_points: "217 (14d20+70)"
+armor_class: "5"
 ---
 
-**Gargantuan ooze, chaotic neutral**
-
-**Armor Class** 5
-
-
-**Hit Points** 217 (14d20+70)
-
-**Speed** 10 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 1 (-5) | 20 (+5) | 12 (+1) | 10 (0) | 3 (-4) |
 
 **Damage Resistances** acid, cold, fire
 
-**Damage Immunities** poison
-
 **Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, poisoned, prone
-
-**Senses** blindsight 60 ft. (blind beyond this radius)
-
-**Languages** telepathy 50 ft.
-
-**Challenge** 10 (5,900 XP)
 
 ***Source.*** tales from the yawning portal,  page 248
 
@@ -43,7 +38,6 @@ tags: [gargantuan, ooze, cr10, tales-from-the-yawning-portal]
 
 ***Killer Response.*** Any creature that starts its turn in White Maw's space is targeted by a pseudopod attack if White Maw isn't incapacitated.
 
-**Actions**
+### Actions
 
 ***Pseudopod.*** Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 22 (4d8 + 4) bludgeoning damage plus 9 (2d8) acid damage. If the target is wearing nonmagical metal armor, its armor is partly corroded and takes a permanent and cumulative -1 penalty to the AC it offers. The armor is destroyed if the penalty reduces its AC to 10.
-

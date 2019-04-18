@@ -2,29 +2,24 @@
 layout: creature
 name: "Korred"
 tags: [small, fey, cr7, volos-guide]
+cha: 9 (-1)
+wis: 15 (+2)
+int: 10 (0)
+con: 20 (+5)
+dex: 14 (+2)
+str: 23 (+6)
+size: Small fey
+alignment: chaotic neutral
+challenge: "7 (2,900 XP)"
+languages: "Dwarvish, Gnomish, Sylvan, Terran, Undercommon"
+senses: "darkvision 120 ft., tremorsense 120 ft."
+skills: "Athletics +9, Perception +5, Stealth +5"
+speed: "30 ft., burrow 30 ft."
+hit_points: "102 (12d6+60)"
+armor_class: "17 (natural armor)"
 ---
 
-**Small fey, chaotic neutral**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 102 (12d6+60)
-
-**Speed** 30 ft., burrow 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 23 (+6) | 14 (+2) | 20 (+5) | 10 (0) | 15 (+2) | 9 (-1) |
-
-**Skills** Athletics +9, Perception +5, Stealth +5
-
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Senses** darkvision 120 ft., tremorsense 120 ft.
-
-**Languages** Dwarvish, Gnomish, Sylvan, Terran, Undercommon
-
-**Challenge** 7 (2,900 XP)
 
 ***Command Hair.*** The korred has at least one 50-foot-long rope woven out of its hair. As a bonus action, the korred commands one such rope within 30 feet of it to move up to 20 feet and entangle a Large or smaller creature that the korred can see. The target must succeed on a DC 13 Dexterity saving throw or become grappled by the rope (escape DC 13). Until this grapple ends. the target is restrained. The korred can use a bonus action to release the target, which is also freed if the korred dies or becomes incapacitated.
 
@@ -40,11 +35,10 @@ At will: commune with nature, meld into stone, stone shape
 
 ***Stone's Strength.*** While on the ground, the korred deals 2 extra dice of damage with any weapon attack (included in its attacks).
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The korred makes two attacks with its greatclub or hurls two rocks.
 
 ***Greatclub.*** Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 10 (1d8+6) bludgeoning damage, or 19 (3d8+6) bludgeoning damage if the korred is on the ground.
 
 ***Rock.*** Ranged Weapon Attack: +9 to hit, range 60/120 ft., one target. Hit: 15 (2d8+6) bludgeoning damage, or 24 (4d8+6) bludgeoning damage if the korred is on the ground.
-

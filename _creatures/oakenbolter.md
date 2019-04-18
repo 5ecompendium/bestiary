@@ -3,33 +3,28 @@ layout: creature
 name: "Oaken Bolter"
 tags: [medium, construct, cr5, mordenkainens-tome-of-foes]
 page_number: 126
+cha: 1 (-4)
+wis: 10 (0)
+int: 3 (-3)
+con: 15 (+2)
+dex: 18 (+4)
+str: 12 (+1)
+size: Medium construct
+alignment: unaligned
+challenge: "5 (1800 XP)"
+languages: "understands one language of its creator but can't speak"
+senses: "darkvision 60 ft., passive Perception 10"
+damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine"
+speed: "30 ft."
+hit_points: "58  (9d8 + 18)"
+armor_class: "16 (natural armor)"
 ---
-
-**Medium construct, unaligned**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 58  (9d8 + 18)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 12 (+1) | 18 (+4) | 15 (+2) | 3 (-3) | 10 (0) | 1 (-4) |
-
-**Damage Immunities** poison; bludgeoning, piercing, and slashing from nonmagical attacks that aren't adamantine
 
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
-**Senses** darkvision 60 ft., passive Perception 10
-
-**Languages** understands one language of its creator but can't speak
-
-**Challenge** 5 (1800 XP)
-
 ***Magic Resistance.*** The oaken bolter has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The oaken bolter makes two lancing bolt attacks or one lancing bolt attack and one harpoon attack.
 

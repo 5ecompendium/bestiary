@@ -2,31 +2,25 @@
 layout: creature
 name: "Spirit Naga"
 tags: [large, monstrosity, cr8, monster-manual]
+cha: 16 (+3)
+wis: 15 (+2)
+int: 16 (+3)
+con: 14 (+2)
+dex: 17 (+3)
+str: 18 (+4)
+size: Large monstrosity
+alignment: chaotic evil
+challenge: "8 (3,900 XP)"
+languages: "Abyssal, Common"
+senses: "darkvision 60 ft."
+damage_immunities: "poison"
+saving_throws: "Dex +6, Con +5, Wis +5, Cha +6"
+speed: "40 ft."
+hit_points: "75 (10d10+20)"
+armor_class: "15 (natural armor)"
 ---
 
-**Large monstrosity, chaotic evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 75 (10d10+20)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 17 (+3) | 14 (+2) | 16 (+3) | 15 (+2) | 16 (+3) |
-
-**Saving Throws** Dex +6, Con +5, Wis +5, Cha +6
-
-**Damage Immunities** poison
-
 **Condition Immunities** charmed, poisoned
-
-**Senses** darkvision 60 ft.
-
-**Languages** Abyssal, Common
-
-**Challenge** 8 (3,900 XP)
 
 ***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.
 
@@ -44,7 +38,6 @@ tags: [large, monstrosity, cr8, monster-manual]
 
 * 5th level (2 slots): dominate person
 
-**Actions**
+### Actions
 
 ***Bite.*** Melee Weapon Attack: +7 to hit, reach 10 ft., one creature. Hit: 7 (1d6 + 4) piercing damage, and the target must make a DC 13 Constitution saving throw, taking 31 (7d8) poison damage on a failed save, or half as much damage on a successful one.
-

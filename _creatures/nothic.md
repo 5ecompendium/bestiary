@@ -2,31 +2,26 @@
 layout: creature
 name: "Nothic"
 tags: [medium, aberration, cr2, monster-manual]
+cha: 8 (-1)
+wis: 10 (0)
+int: 13 (+1)
+con: 16 (+3)
+dex: 16 (+3)
+str: 14 (+2)
+size: Medium aberration
+alignment: neutral evil
+challenge: "2 (450 XP)"
+languages: "Undercommon"
+senses: "truesight 120 ft."
+skills: "Arcana +3, Insight +4, Perception +2, Stealth +5"
+speed: "30 ft."
+hit_points: "45 (6d8+18)"
+armor_class: "15 (natural armor)"
 ---
-
-**Medium aberration, neutral evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 45 (6d8+18)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 14 (+2) | 16 (+3) | 16 (+3) | 13 (+1) | 10 (0) | 8 (-1) |
-
-**Skills** Arcana +3, Insight +4, Perception +2, Stealth +5
-
-**Senses** truesight 120 ft.
-
-**Languages** Undercommon
-
-**Challenge** 2 (450 XP)
 
 ***Keen Sight.*** The nothic has advantage on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The nothic makes two claw attacks.
 
@@ -35,4 +30,3 @@ tags: [medium, aberration, cr2, monster-manual]
 ***Rotting Gaze.*** The nothic targets one creature it can see within 30 ft. of it. The target must succeed on a DC 12 Constitution saving throw against this magic or take 10 (3d6) necrotic damage.
 
 ***Weird Insight.*** The nothic targets one creature it can see within 30 ft. of it. The target must contest its Charisma (Deception) check against the nothic's Wisdom (Insight) check. If the nothic wins, it magically learns one fact or secret about the target. The target automatically wins if it is immune to being charmed.
-

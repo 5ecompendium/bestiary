@@ -3,33 +3,29 @@ layout: creature
 name: "The Lonely"
 tags: [medium, monstrosity, cr9, mordenkainens-tome-of-foes]
 page_number: 232
+cha: 6 (-2)
+wis: 11 (0)
+int: 6 (-2)
+con: 17 (+3)
+dex: 12 (+1)
+str: 16 (+3)
+size: Medium monstrosity
+alignment: neutral evil
+challenge: "9 (5,000 XP)"
+languages: "Common"
+senses: "darkvision 60 ft., passive Perception 10"
+speed: "30 ft."
+hit_points: "112  (15d8 + 45)"
+armor_class: "16 (natural armor)"
 ---
 
-**Medium monstrosity, neutral evil**
-
-**Armor Class** 16 (natural armor)
-
-**Hit Points** 112  (15d8 + 45)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 16 (+3) | 12 (+1) | 17 (+3) | 6 (-2) | 11 (0) | 6 (-2) |
-
 **Damage Resistances** bludgeoning, piercing, and slashing while in dim light or darkness
-
-**Senses** darkvision 60 ft., passive Perception 10
-
-**Languages** Common
-
-**Challenge** 9 (5,000 XP)
 
 ***Psychic Leech.*** At the start of each of the Lonely's turns, each creature within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6) psychic damage.
 
 ***Thrives on Company.*** The Lonely has advantage on attack rolls while it is within 30 feet of at least two other creatures. It otherwise has disadvantage on attack rolls.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The Lonely makes one harpoon arm attack and uses Sorrowful Embrace.
 

@@ -2,27 +2,22 @@
 layout: creature
 name: "Rath Modar"
 tags: [medium, humanoid, cr6, tyranny-of-dragons]
+cha: 10 (0)
+wis: 14 (+2)
+int: 18 (+4)
+con: 14 (+2)
+dex: 16 (+3)
+str: 11 (0)
+size: Medium humanoid (human)
+alignment: lawful evil
+challenge: "6 (2,300 XP)"
+languages: "Common, Draconic, Infernal, Primordial, Thayan"
+skills: "Arcana +7, Deception +3, Insight +5, Stealth +6"
+saving_throws: "Int +7, Wis +5"
+speed: "30 ft."
+hit_points: "71 (11d8+22)"
+armor_class: "13 (16 with mage armor)"
 ---
-
-**Medium humanoid (human), lawful evil**
-
-**Armor Class** 13 (16 with mage armor)
-
-**Hit Points** 71 (11d8+22)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 11 (0) | 16 (+3) | 14 (+2) | 18 (+4) | 14 (+2) | 10 (0) |
-
-**Saving Throws** Int +7, Wis +5
-
-**Skills** Arcana +7, Deception +3, Insight +5, Stealth +6
-
-**Languages** Common, Draconic, Infernal, Primordial, Thayan
-
-**Challenge** 6 (2,300 XP)
 
 ***Special Equipment.*** Rath has a staff of fire, and scrolls of dimension door, feather fall, and fireball.
 
@@ -42,11 +37,10 @@ tags: [medium, humanoid, cr6, tyranny-of-dragons]
 
 * 6th level (1 slot): globe of invulnerability
 
-**Actions**
+### Actions
 
 ***Quarterstaff.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d8) bludgeoning damage.
 
-**Reactions**
+### Reactions
 
 ***Illusory Self (Recharges on a Short or Long Rest).*** When a creature Rath can see makes an attack roll against him, he can interpose an illusory duplicate between the attacker and him. The attack automatically misses Rath, then the illusion dissipates.
-

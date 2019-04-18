@@ -2,33 +2,27 @@
 layout: creature
 name: "Grell"
 tags: [medium, aberration, cr3, monster-manual]
+cha: 9 (-1)
+wis: 11 (0)
+int: 12 (+1)
+con: 13 (+1)
+dex: 14 (+2)
+str: 15 (+2)
+size: Medium aberration
+alignment: neutral evil
+challenge: "3 (700 XP)"
+languages: "Grell"
+senses: "blindsight 60 ft. (blind beyond this radius)"
+skills: "Perception +4, Stealth +6"
+damage_immunities: "lightning"
+speed: "10 ft., fly 30 ft. (hover)"
+hit_points: "55 (10d8+10)"
+armor_class: "12"
 ---
-
-**Medium aberration, neutral evil**
-
-**Armor Class** 12
-
-**Hit Points** 55 (10d8+10)
-
-**Speed** 10 ft., fly 30 ft. (hover)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 15 (+2) | 14 (+2) | 13 (+1) | 12 (+1) | 11 (0) | 9 (-1) |
-
-**Skills** Perception +4, Stealth +6
-
-**Damage Immunities** lightning
 
 **Condition Immunities** blinded, prone
 
-**Senses** blindsight 60 ft. (blind beyond this radius)
-
-**Languages** Grell
-
-**Challenge** 3 (700 XP)
-
-**Actions**
+### Actions
 
 ***Multiattack.*** The grell makes two attacks: one with its tentacles and one with its beak.
 
@@ -37,4 +31,3 @@ tags: [medium, aberration, cr3, monster-manual]
 The target is also grappled (escape DC 15). If the target is Medium or smaller, it is also restrained until this grapple ends. While grappling the target, the grell has advantage on attack rolls against it and can 't use this attack against other targets. When the grell moves, any Medium or smaller target it is grappling moves with it.
 
 ***Beak.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (2d4 + 2) piercing damage.
-

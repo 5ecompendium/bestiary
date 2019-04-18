@@ -3,35 +3,28 @@ layout: creature
 name: "Red Abishai"
 tags: [medium, fiend, cr19, mordenkainens-tome-of-foes]
 page_number: 160
+cha: 19 (+4)
+wis: 15 (+2)
+int: 14 (+2)
+con: 19 (+4)
+dex: 16 (+3)
+str: 23 (+6)
+size: Medium fiend (devil)
+alignment: lawful evil
+challenge: "19 (22,000 XP)"
+languages: "Draconic, Infernal, telepathy 120 ft."
+senses: "darkvision 120 ft., passive Perception 18"
+skills: "Intimidation +10, Perception +8"
+damage_immunities: "fire, poison"
+saving_throws: "Str +12, Con +10, Wis +8"
+speed: "30 ft., fly 50 ft."
+hit_points: "255  (30d8 + 120)"
+armor_class: "22 (natural armor)"
 ---
-
-**Medium fiend (devil), lawful evil**
-
-**Armor Class** 22 (natural armor)
-
-**Hit Points** 255  (30d8 + 120)
-
-**Speed** 30 ft., fly 50 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 23 (+6) | 16 (+3) | 19 (+4) | 14 (+2) | 15 (+2) | 19 (+4) |
-
-**Saving Throws** Str +12, Con +10, Wis +8
-
-**Skills** Intimidation +10, Perception +8
 
 **Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
 
-**Damage Immunities** fire, poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 120 ft., passive Perception 18
-
-**Languages** Draconic, Infernal, telepathy 120 ft.
-
-**Challenge** 19 (22,000 XP)
 
 ***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
 
@@ -39,7 +32,7 @@ page_number: 160
 
 ***Magic Weapons.*** The abishai's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The abishai can use its Frightful Presence. It also makes three attacks: one with its morningstar, one with its claw, and one with its bite.
 

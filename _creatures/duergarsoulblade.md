@@ -3,27 +3,23 @@ layout: creature
 name: "Duergar Soulblade"
 tags: [medium, humanoid, cr1, mordenkainens-tome-of-foes]
 page_number: 190
+cha: 12 (+1)
+wis: 10 (0)
+int: 11 (0)
+con: 10 (0)
+dex: 16 (+3)
+str: 11 (0)
+size: Medium humanoid (dwarf)
+alignment: lawful evil
+challenge: "1 (200 XP)"
+languages: "Dwarvish, Undercommon"
+senses: "darkvision 120 ft., passive Perception 10"
+speed: "25 ft."
+hit_points: "18  (4d8)"
+armor_class: "14 (leather armor)"
 ---
 
-**Medium humanoid (dwarf), lawful evil**
-
-**Armor Class** 14 (leather armor)
-
-**Hit Points** 18  (4d8)
-
-**Speed** 25 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 11 (0) | 16 (+3) | 10 (0) | 11 (0) | 10 (0) | 12 (+1) |
-
 **Damage Resistances** poison
-
-**Senses** darkvision 120 ft., passive Perception 10
-
-**Languages** Dwarvish, Undercommon
-
-**Challenge** 1 (200 XP)
 
 ***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
 
@@ -35,7 +31,7 @@ page_number: 190
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Soulblade*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) force damage, or 10 (2d6 + 3) force damage while enlarged. If the soulblade has advantage on the attack roll, the attack deals an extra 3 (1d6) force damage.
 

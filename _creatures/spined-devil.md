@@ -2,31 +2,26 @@
 layout: creature
 name: "Spined Devil"
 tags: [small, fiend, cr2, monster-manual]
+cha: 8 (-1)
+wis: 14 (+2)
+int: 11 (0)
+con: 12 (+1)
+dex: 15 (+2)
+str: 10 (0)
+size: Small fiend (devil)
+alignment: lawful evil
+challenge: "2 (450 XP)"
+languages: "Infernal, telepathy 120 ft."
+senses: "darkvision 120 ft."
+damage_immunities: "fire, poison"
+speed: "20 ft., fly 40 ft."
+hit_points: "22 (5d6+5)"
+armor_class: "13 (natural armor)"
 ---
-
-**Small fiend (devil), lawful evil**
-
-**Armor Class** 13 (natural armor)
-
-**Hit Points** 22 (5d6+5)
-
-**Speed** 20 ft., fly 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 10 (0) | 15 (+2) | 12 (+1) | 11 (0) | 14 (+2) | 8 (-1) |
 
 **Damage Resistances** cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered
 
-**Damage Immunities** fire, poison
-
 **Condition Immunities** poisoned
-
-**Senses** darkvision 120 ft.
-
-**Languages** Infernal, telepathy 120 ft.
-
-**Challenge** 2 (450 XP)
 
 ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
 
@@ -36,7 +31,7 @@ tags: [small, fiend, cr2, monster-manual]
 
 ***Magic Resistance.*** The devil has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The devil makes two attacks: one with its bite and one with its fork or two with its tail spines.
 
@@ -45,4 +40,3 @@ tags: [small, fiend, cr2, monster-manual]
 ***Fork.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.
 
 ***Tail Spine.*** Ranged Weapon Attack: +4 to hit, range 20/80 ft ., one target. Hit: 4 (1d4 + 2) piercing damage plus 3 (1d6) fire damage.
-

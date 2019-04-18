@@ -3,31 +3,25 @@ layout: creature
 name: "Drow Inquisitor"
 tags: [medium, humanoid, cr14, mordenkainens-tome-of-foes]
 page_number: 184
+cha: 20 (+5)
+wis: 21 (+5)
+int: 16 (+3)
+con: 14 (+2)
+dex: 15 (+2)
+str: 11 (0)
+size: Medium humanoid (elf)
+alignment: neutral evil
+challenge: "14 (11500 XP)"
+languages: "Elvish, Undercommon"
+senses: "darkvision 120 ft., passive Perception 20"
+skills: "Insight +10, Perception +10, Religion +8, Stealth +7"
+saving_throws: "Con +7, Wis +10, Cha +10"
+speed: "30 ft."
+hit_points: "143  (22d8 + 44)"
+armor_class: "16 (breastplate)"
 ---
 
-**Medium humanoid (elf), neutral evil**
-
-**Armor Class** 16 (breastplate)
-
-**Hit Points** 143  (22d8 + 44)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 11 (0) | 15 (+2) | 14 (+2) | 16 (+3) | 21 (+5) | 20 (+5) |
-
-**Saving Throws** Con +7, Wis +10, Cha +10
-
-**Skills** Insight +10, Perception +10, Religion +8, Stealth +7
-
 **Condition Immunities** frightened
-
-**Senses** darkvision 120 ft., passive Perception 20
-
-**Languages** Elvish, Undercommon
-
-**Challenge** 14 (11500 XP)
 
 ***Discern Lie.*** The drow knows when she hears a creature speak a lie in a language she knows.
 
@@ -50,7 +44,7 @@ page_number: 184
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The drow makes three death lance attacks.
 

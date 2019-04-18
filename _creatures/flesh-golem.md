@@ -2,29 +2,24 @@
 layout: creature
 name: "Flesh Golem"
 tags: [medium, construct, cr5, monster-manual]
+cha: 5 (-3)
+wis: 10 (0)
+int: 6 (-2)
+con: 18 (+4)
+dex: 9 (-1)
+str: 19 (+4)
+size: Medium construct
+alignment: neutral
+challenge: "5 (1,800 XP)"
+languages: "understands the languages of its creator but can't speak"
+senses: "darkvision 60 ft."
+damage_immunities: "lightning, poison, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
+speed: "30 ft."
+hit_points: "93 (11d8+44)"
+armor_class: "9"
 ---
 
-**Medium construct, neutral**
-
-**Armor Class** 9
-
-**Hit Points** 93 (11d8+44)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 19 (+4) | 9 (-1) | 18 (+4) | 6 (-2) | 10 (0) | 5 (-3) |
-
-**Damage Immunities** lightning, poison, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine
-
 **Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
-
-**Senses** darkvision 60 ft.
-
-**Languages** understands the languages of its creator but can't speak
-
-**Challenge** 5 (1,800 XP)
 
 ***Berserk.*** Whenever the golem starts its turn with 40 hit points or fewer, roll a d6. On a 6, the golem goes berserk. On each of its turns while berserk, the golem attacks the nearest creature it can see. If no creature is near enough to move to and attack, the golem attacks an object, with preference for an object smaller than itself. Once the golem goes berserk, it continues to do so until it is destroyed or regains all its hit points.
 
@@ -40,9 +35,8 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Magic Weapons.*** The golem's weapon attacks are magical.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The golem makes two slam attacks.
 
 ***Slam.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.
-

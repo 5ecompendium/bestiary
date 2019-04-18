@@ -3,31 +3,25 @@ layout: creature
 name: "Dwarf Mage"
 tags: [medium, humanoid, cr6, unofficial]
 page_number: 999
+cha: 11 (0)
+wis: 12 (+1)
+int: 17 (+3)
+con: 11 (0)
+dex: 14 (+2)
+str: 9 (0)
+size: Medium humanoid (dwarf)
+alignment: any alignment
+challenge: "6 (2300 XP)"
+languages: "any four languages"
+senses: "darkvision, passive Perception 11"
+skills: "Arcana +6, History +6"
+saving_throws: "Int +6, Wis +4"
+speed: "30 ft."
+hit_points: "40  (9d8)"
+armor_class: "12 (15 with mage armor)"
 ---
 
-**Medium humanoid (dwarf), any alignment**
-
-**Armor Class** 12 (15 with mage armor)
-
-**Hit Points** 40  (9d8)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 9 (0) | 14 (+2) | 11 (0) | 17 (+3) | 12 (+1) | 11 (0) |
-
-**Saving Throws** Int +6, Wis +4
-
-**Skills** Arcana +6, History +6
-
 **Damage Resistances** poison
-
-**Senses** darkvision, passive Perception 11
-
-**Languages** any four languages
-
-**Challenge** 6 (2300 XP)
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 
@@ -39,6 +33,6 @@ page_number: 999
 * 4th level (3 slots): greater invisibility, ice storm
 * 5th level (1 slot): cone of cold
 
-**Actions**
+### Actions
 
 ***Dagger*** Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.

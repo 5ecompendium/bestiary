@@ -2,37 +2,31 @@
 layout: creature
 name: "Nalfeshnee"
 tags: [large, fiend, cr13, monster-manual]
+cha: 15 (+2)
+wis: 12 (+1)
+int: 19 (+4)
+con: 22 (+6)
+dex: 10 (0)
+str: 21 (+5)
+size: Large fiend (demon)
+alignment: chaotic evil
+challenge: "13 (10,000 XP)"
+languages: "Abyssal, telepathy 120 ft."
+senses: "truesight 120 ft."
+damage_immunities: "poison"
+saving_throws: "Con +11, Int +9, Wis +6, Cha +7"
+speed: "20 ft., fly 30 ft."
+hit_points: "184 (16d10+96)"
+armor_class: "18 (natural armor)"
 ---
-
-**Large fiend (demon), chaotic evil**
-
-**Armor Class** 18 (natural armor)
-
-**Hit Points** 184 (16d10+96)
-
-**Speed** 20 ft., fly 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 21 (+5) | 10 (0) | 22 (+6) | 19 (+4) | 12 (+1) | 15 (+2) |
-
-**Saving Throws** Con +11, Int +9, Wis +6, Cha +7
 
 **Damage Resistances** cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
 
-**Damage Immunities** poison
-
 **Condition Immunities** poisoned
-
-**Senses** truesight 120 ft.
-
-**Languages** Abyssal, telepathy 120 ft.
-
-**Challenge** 13 (10,000 XP)
 
 ***Magic Resistance.*** The nalfeshnee has advantage on saving throws against spells and other magical effects.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The nalfeshnee uses Horror Nimbus if it can.  It then makes three attacks: one with its bite and two with its claws.
 
@@ -49,4 +43,3 @@ tags: [large, fiend, cr13, monster-manual]
 A nalfeshnee has a 50 percent chance of summoning 1d4 vrocks, 1d3 hezrous, 1d2 glabrezus, or one nalfeshnee.
 
 A summoned demon appears in an unoccupied space within 60 feet of its summoner, acts as an ally of its summoner, and can't summon other demons. It remains for 1 minute, until it or its summoner dies, or until its summoner dismisses it as an action.
-

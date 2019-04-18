@@ -2,27 +2,118 @@
 layout: default 
 ---
 <div class="post">
-
-  <header class="post-header">
-    <h1 class="post-title">{{ page.name }}</h1>
-    <dl class="tag-list">
-      <dt>Tags:</dt> {% for tag in page.tags %}
-      <dd>
-        {% if tag contains 'cr' %}
-        <a href="{{ site.baseurl }}/cr#{{ tag }}">{{ tag }}</a>
-	{% else %}
-        <a href="{{ site.baseurl }}/tag/{{ tag }}">{{ tag }}</a>
+  <div class="stat-block">
+    <hr class="orange-border" />
+    <div class="section-left">
+      <div class="creature-heading">
+	<h1>{{ page.name }}</h1>
+	<h2>{{ page.size }}, {{ page.alignment }}</h2>
+      </div> <!-- creature heading -->
+      <svg height="5" width="100%" class="tapered-rule">
+	<polyline points="0,0 400,2.5 0,5"></polyline>
+      </svg>
+      <div class="top-stats">
+	<div class="property-line first">
+	  <h4>Armor Class</h4>
+	  <p>{{ page.armor_class }}</p>
+	</div> <!-- property line -->
+	<div class="property-line">
+	  <h4>Hit Points</h4>
+	  <p>{{ page.hit_points }}</p>
+	</div> <!-- property line -->
+	<div class="property-line last">
+	  <h4>Speed</h4>
+	  <p>{{ page.speed }}</p>
+	</div> <!-- property line -->
+	<svg height="5" width="100%" class="tapered-rule">
+	  <polyline points="0,0 400,2.5 0,5"></polyline>
+	</svg>
+	<div class="abilities">
+	  <div class="ability-strength">
+	    <h4>STR</h4>
+	    <p>{{ page.str }}</p>
+	  </div>
+	  <div class="ability-dexterity">
+	    <h4>DEX</h4>
+	    <p>{{ page.dex }}</p>
+	  </div>
+	  <div class="ability-constitution">
+	    <h4>CON</h4>
+	    <p>{{ page.con }}</p>
+	  </div>
+	  <div class="ability-intelligence">
+	    <h4>INT</h4>
+	    <p>{{ page.int }}</p>
+	  </div>
+	  <div class="ability-wisdom">
+	    <h4>WIS</h4>
+	    <p>{{ page.wis }}</p>
+	  </div>
+	  <div class="ability-charisma">
+	    <h4>CHA</h4>
+	    <p>{{ page.cha }}</p>
+	  </div>
+	</div>
+	<svg height="5" width="100%" class="tapered-rule top-gap">
+	  <polyline points="0,0 400,2.5 0,5"></polyline>
+	</svg>
+	{% if page.damage_immunities %}
+	<div class="property-line">
+	  <h4>Damage Immunities</h4>
+	  <p>{{ page.damage_immunities }}</p>
+	</div>
 	{% endif %}
-      </dd>
-      {% endfor %}
-      {% if page.page_number %}
-      <dd>(p. {{ page.page_number }})</dd>
-      {% endif %}
-    </dl>
-  </header>
+	{% if page.condition_immunities %}
+	<div class="property-line">
+	  <h4>Condition Immunities</h4>
+	  <p>{{ page.condition_immunities }}</p>
+	</div>
+	{% endif %}
+	{% if page.senses %}
+	<div class="property-line">
+	  <h4>Senses</h4>
+	  <p>{{ page.senses }}</p>
+	</div>
+	{% endif %}
+	{% if page.skills %}
+	<div class="property-line">
+	  <h4>Skills</h4>
+	  <p>{{ page.skills }}</p>
+	</div>
+	{% endif %}
+	{% if page.languages %}
+	<div class="property-line">
+	  <h4>Languages</h4>
+	  <p>{{ page.languages }}</p>
+	</div>
+	{% endif %}
+	{% if page.challenge %}
+	<div class="property-line">
+	  <h4>Challenge</h4>
+	  <p>{{ page.challenge }}</p>
+	</div>
+	{% endif %}
+      </div>
+      <svg height="5" width="100%" class="tapered-rule top-gap bottom-gap">
+	<polyline points="0,0 400,2.5 0,5"></polyline>
+      </svg>
+      {{ content }}
 
-  <article class="post-content">
-    {{ content }}
-  </article>
-
+      <dl class="tag-list">
+	{% for tag in page.tags %}
+	<dd>
+	  <span class="tag">
+	    {% if tag contains 'cr' %}
+	    <a href="{{ site.baseurl }}/cr#{{ tag }}">{{tag}}</a> {% else %}
+	    <a href="{{ site.baseurl }}/tag/{{ tag }}">{{tag}}</a> {% endif %}
+	  </span>
+	</dd>
+	{% endfor %}
+	{% if page.page_number %}
+	<dd>(p. {{ page.page_number }})</dd>
+	{% endif %}
+      </dl>
+      <hr class="orange-border bottom" />
+    </div>
+  </div>
 </div>

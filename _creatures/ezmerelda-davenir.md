@@ -3,27 +3,22 @@ layout: creature
 name: "Ezmerelda d'Avenir"
 tags: [medium, humanoid, cr8, curse-of-strahd]
 page_number: 230
+cha: 17 (+3)
+wis: 11 (0)
+int: 16 (+3)
+con: 16 (+3)
+dex: 19 (+4)
+str: 14 (+2)
+size: Medium humanoid (human)
+alignment: chaotic good
+challenge: "8 (3,900 XP)"
+languages: "Common, Elvish"
+skills: "Acrobatics +7, Arcana +6, Deception +9, Insight +3, Medicine +3, Perception +6, Performance +6, Sleight of Hand +7, Stealth +7, Survival +6"
+saving_throws: "Wis +3"
+speed: "30 ft."
+hit_points: "82 (11d8+33)"
+armor_class: "17 (studded leather armor +1)"
 ---
-
-**Medium humanoid (human), chaotic good**
-
-**Armor Class** 17 (studded leather armor +1)
-
-**Hit Points** 82 (11d8+33)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 14 (+2) | 19 (+4) | 16 (+3) | 16 (+3) | 11 (0) | 17 (+3) |
-
-**Saving Throws** Wis +3
-
-**Skills** Acrobatics +7, Arcana +6, Deception +9, Insight +3, Medicine +3, Perception +6, Performance +6, Sleight of Hand +7, Stealth +7, Survival +6
-
-**Languages** Common, Elvish
-
-**Challenge** 8 (3,900 XP)
 
 ***Special Equipment.*** In addition to her magic armor and weapons, Ezmerelda has two potions of greater healing, six vials of holy water, and three wooden stakes.
 
@@ -39,7 +34,7 @@ page_number: 230
 
 * 4th level (1 slot): greater invisibility
 
-**Actions**
+### Actions
 
 ***Multiattack.*** Ezmerelda makes three attacks: two with her +1 rapier and one with her +1 handaxe or her silvered shortsword.
 
@@ -52,4 +47,3 @@ page_number: 230
 ***Curse (Recharges after a Long Rest).*** Ezmerelda targets one creature that she can see within 30 feet of her. The target must succeed on a DC 14 Wisdom saving throw or be cursed. While cursed, the target has vulnerability to one type of damage of Ezmerelda's choice. The curse lasts until ended with a greater restoration spell, a remove curse spell, or similar magic. When the curse ends, Ezmerelda takes 3d6 psychic damage.
 
 ***Evil Eye (Recharges after a Short or Long Rest).*** Ezmerelda targets one creature that she can see within 10 feet of her and casts one of the following spells on the target (save DC 14), requiring neither somatic nor material components to do so: animal friendship, charm person, or hold person. If the target succeeds on the initial saving throw, Ezmerelda is blinded until the end of her next turn. Once a target succeeds on a saving throw against this effect, it is immune to the Evil Eye power of all Vistani for 24 hours.
-

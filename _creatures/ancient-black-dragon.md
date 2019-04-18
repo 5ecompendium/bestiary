@@ -2,37 +2,30 @@
 layout: creature
 name: "Ancient Black Dragon"
 tags: [gargantuan, dragon, cr21, monster-manual]
+cha: 19 (+4)
+wis: 15 (+2)
+int: 16 (+3)
+con: 25 (+7)
+dex: 14 (+2)
+str: 27 (+8)
+size: Gargantuan dragon
+alignment: chaotic evil
+challenge: "21 (33,000 XP)"
+languages: "Common, Draconic"
+senses: "blindsight 60 ft., darkvision 120 ft."
+skills: "Perception +16, Stealth +9"
+damage_immunities: "acid"
+saving_throws: "Dex +9, Con +14, Wis +9, Cha +11"
+speed: "40 ft., fly 80 ft., swim 40 ft."
+hit_points: "367 (21d20+147)"
+armor_class: "22 (natural armor)"
 ---
-
-**Gargantuan dragon, chaotic evil**
-
-**Armor Class** 22 (natural armor)
-
-**Hit Points** 367 (21d20+147)
-
-**Speed** 40 ft., fly 80 ft., swim 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 27 (+8) | 14 (+2) | 25 (+7) | 16 (+3) | 15 (+2) | 19 (+4) |
-
-**Saving Throws** Dex +9, Con +14, Wis +9, Cha +11
-
-**Skills** Perception +16, Stealth +9
-
-**Damage Immunities** acid
-
-**Senses** blindsight 60 ft., darkvision 120 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 21 (33,000 XP)
 
 ***Amphibious.*** The dragon can breathe air and water.
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -46,7 +39,7 @@ tags: [gargantuan, dragon, cr21, monster-manual]
 
 ***Acid Breath (Recharge 5-6).*** The dragon exhales acid in a 90-foot line that is 10 feet wide. Each creature in that line must make a DC 22 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one.
 
-**Legendary Actions**
+### Legendary Actions
 
 The ancient black dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The ancient black dragon regains spent legendary actions at the start of its turn.
 
@@ -55,4 +48,3 @@ The ancient black dragon can take 3 legendary actions, choosing from the options
 ***Tail Attack.*** The dragon makes a tail attack.
 
 ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 23 Dexterity saving throw or take 15 (2d6 + 8) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-

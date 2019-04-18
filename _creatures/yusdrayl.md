@@ -2,27 +2,22 @@
 layout: creature
 name: "Yusdrayl"
 tags: [small, humanoid, cr1, tales-from-the-yawning-portal]
+cha: 16 (+3)
+wis: 10 (0)
+int: 10 (0)
+con: 14 (+2)
+dex: 15 (+2)
+str: 8 (-1)
+size: Small humanoid (kobold)
+alignment: lawful evil
+challenge: "1 (200 XP)"
+languages: "Common, Draconic"
+senses: "darkvision 60 ft."
+skills: "Arcana +2, Insight +2, Stealth +4"
+speed: "30 ft."
+hit_points: "16 (3d6+6)"
+armor_class: "12 (15 with mage armor)"
 ---
-
-**Small humanoid (kobold), lawful evil**
-
-**Armor Class** 12 (15 with mage armor)
-
-**Hit Points** 16 (3d6+6)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 8 (-1) | 15 (+2) | 14 (+2) | 10 (0) | 10 (0) | 16 (+3) |
-
-**Skills** Arcana +2, Insight +2, Stealth +4
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 1 (200 XP)
 
 ***Source.*** tales from the yawning portal,  page 248
 
@@ -36,7 +31,6 @@ Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp
 
 ***Pack Tactics.*** Yusdrayl has advantage on an attack roll against a creature if at least one of her allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-**Actions**
+### Actions
 
 ***Dagger.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.
-

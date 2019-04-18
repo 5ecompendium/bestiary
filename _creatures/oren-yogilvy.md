@@ -2,27 +2,23 @@
 layout: creature
 name: "Oren Yogilvy"
 tags: [small, humanoid, cr0, storm-kings-thunder]
+cha: 16 (+3)
+wis: 10 (0)
+int: 11 (0)
+con: 12 (+1)
+dex: 13 (+1)
+str: 8 (-1)
+size: Small humanoid (strongheart halfling)
+alignment: chaotic good
+challenge: "0 (10 XP)"
+languages: "Common, Halfling"
+skills: "Perception +2, Performance +7, Persuasion +5"
+speed: "25 ft."
+hit_points: "9 (2d6+2)"
+armor_class: "11"
 ---
 
-**Small humanoid (strongheart halfling), chaotic good**
-
-**Armor Class** 11
-
-**Hit Points** 9 (2d6+2)
-
-**Speed** 25 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 8 (-1) | 13 (+1) | 12 (+1) | 11 (0) | 10 (0) | 16 (+3) |
-
-**Skills** Perception +2, Performance +7, Persuasion +5
-
 **Damage Resistances** poison
-
-**Languages** Common, Halfling
-
-**Challenge** 0 (10 XP)
 
 ***Halfling Nimbleness.*** Oren can move through the space of any creature that is of a size large than his.
 
@@ -38,7 +34,6 @@ Bond: "You had me at "Can I buy you a drink."
 
 Flaw: "I have a knack for putting myself in harm's way. Good thing I'm lucky!"
 
-**Actions**
+### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60ft., one target. Hit: 3 (1d4+1) piercing damage. Duvessa carries only one dagger.
-

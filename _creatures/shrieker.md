@@ -2,29 +2,25 @@
 layout: creature
 name: "Shrieker"
 tags: [medium, plant, cr0, monster-manual]
+cha: 1 (-5)
+wis: 3 (-4)
+int: 1 (-5)
+con: 10 (0)
+dex: 1 (-5)
+str: 1 (-5)
+size: Medium plant
+alignment: unaligned
+challenge: "0 (10 XP)"
+senses: "blindsight 30 ft. (blind beyond this radius)"
+speed: "0 ft."
+hit_points: "13 (3d8)"
+armor_class: "5"
 ---
-
-**Medium plant, unaligned**
-
-**Armor Class** 5
-
-**Hit Points** 13 (3d8)
-
-**Speed** 0 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 1 (-5) | 1 (-5) | 10 (0) | 1 (-5) | 3 (-4) | 1 (-5) |
 
 **Condition Immunities** blinded, deafened, frightened
 
-**Senses** blindsight 30 ft. (blind beyond this radius)
-
-**Challenge** 0 (10 XP)
-
 ***False Appearance.*** While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
 
-**Actions**
+### Actions
 
 ***Shriek.*** When bright light or a creature is within 30 feet of the shrieker, it emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward
-

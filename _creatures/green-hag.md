@@ -2,27 +2,22 @@
 layout: creature
 name: "Green Hag"
 tags: [medium, fey, cr3, monster-manual]
+cha: 14 (+2)
+wis: 14 (+2)
+int: 13 (+1)
+con: 16 (+3)
+dex: 12 (+1)
+str: 18 (+4)
+size: Medium fey
+alignment: neutral evil
+challenge: "3 (700 XP)"
+languages: "Common, Draconic, Sylvan"
+senses: "darkvision 60 ft."
+skills: "Arcana +3, Deception +4, Perception +4, Stealth +3"
+speed: "30 ft."
+hit_points: "82 (11d8+33)"
+armor_class: "17 (natural armor)"
 ---
-
-**Medium fey, neutral evil**
-
-**Armor Class** 17 (natural armor)
-
-**Hit Points** 82 (11d8+33)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 18 (+4) | 12 (+1) | 16 (+3) | 13 (+1) | 14 (+2) | 14 (+2) |
-
-**Skills** Arcana +3, Deception +4, Perception +4, Stealth +3
-
-**Senses** darkvision 60 ft.
-
-**Languages** Common, Draconic, Sylvan
-
-**Challenge** 3 (700 XP)
 
 ***Amphibious.*** The hag can breathe air and water.
 
@@ -56,7 +51,7 @@ For casting these spells, each hag is a 12th-level spellcaster that uses Intelli
 
 A hag coven can have only one hag eye at a time, and creating a new one requires all three members of the coven to perform a ritual. The ritual takes 1 hour, and the hags can't perform it while blinded. During the ritual, if the hags take any action other than performing the ritual, they must start over.
 
-**Actions**
+### Actions
 
 ***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.
 
@@ -65,4 +60,3 @@ A hag coven can have only one hag eye at a time, and creating a new one requires
 The changes wrought by this effect fail to hold up to physical inspection. For example, the hag could appear to have smooth skin, but someone touching her would feel her rough flesh. Otherwise, a creature must take an action to visually inspect the illusion and succeed on a DC 20 Intelligence (Investigation) check to discern that the hag is disguised.
 
 ***Invisible Passage.*** The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends (as if concentrating on a spell). While invisible, she leaves no physical evidence of her passage, so she can be tracked only by magic. Any equipment she wears or carries is invisible with her.
-

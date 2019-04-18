@@ -3,33 +3,27 @@ layout: creature
 name: "Elder Tempest"
 tags: [gargantuan, elemental, cr23, mordenkainens-tome-of-foes]
 page_number: 200
+cha: 18 (+4)
+wis: 21 (+5)
+int: 2 (-4)
+con: 23 (+6)
+dex: 28 (+9)
+str: 23 (+6)
+size: Gargantuan elemental
+alignment: neutral
+challenge: "23 (50,000 XP)"
+languages: "-"
+senses: "darkvision 60 ft., passive Perception 15"
+damage_immunities: "lightning, poison, thunder"
+saving_throws: "Wis +12, Cha +11"
+speed: "0 ft., fly 120 ft. (hover)"
+hit_points: "264  (16d20 + 96)"
+armor_class: "19"
 ---
-
-**Gargantuan elemental, neutral**
-
-**Armor Class** 19
-
-**Hit Points** 264  (16d20 + 96)
-
-**Speed** 0 ft., fly 120 ft. (hover)
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 23 (+6) | 28 (+9) | 23 (+6) | 2 (-4) | 21 (+5) | 18 (+4) |
-
-**Saving Throws** Wis +12, Cha +11
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** lightning, poison, thunder
-
 **Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
-
-**Senses** darkvision 60 ft., passive Perception 15
-
-**Languages** -
-
-**Challenge** 23 (50,000 XP)
 
 ***Air Form.*** The tempest can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
@@ -42,7 +36,7 @@ In addition, strong winds swirl in the area covered by the storm. The winds impo
 
 ***Siege Monster.*** The tempest deals double damage to objects and structures.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The tempest makes two attacks with its thunderous slam.
 
@@ -50,7 +44,7 @@ In addition, strong winds swirl in the area covered by the storm. The winds impo
 
 ***Lightning Storm (Recharge 6)*** All other creatures within 120 feet of the tempest must each make a DC 20 Dexterity saving throw, taking 27 (6d8) lightning damage on a failed save, or half as much damage on a successful one. If a target's saving throw fails by 5 or more, the creature is also stunned until the end of its next turn.
 
-**Legendary Actions**
+### Legendary Actions
 
 The tempest can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time and only at the end of another creature's turn. The tempest regains spent legendary actions at the start of its turn.
 

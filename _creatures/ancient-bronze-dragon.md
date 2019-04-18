@@ -2,37 +2,30 @@
 layout: creature
 name: "Ancient Bronze Dragon"
 tags: [gargantuan, dragon, cr22, monster-manual]
+cha: 21 (+5)
+wis: 17 (+3)
+int: 18 (+4)
+con: 27 (+8)
+dex: 10 (0)
+str: 29 (+9)
+size: Gargantuan dragon
+alignment: lawful good
+challenge: "22 (41,000 XP)"
+languages: "Common, Draconic"
+senses: "blindsight 60 ft., darkvision 120 ft."
+skills: "Insight +10, Perception +17, Stealth +7"
+damage_immunities: "lightning"
+saving_throws: "Dex +7, Con +15, Wis +10, Cha +12"
+speed: "40 ft., fly 80 ft., swim 40 ft."
+hit_points: "444 (24d20+192)"
+armor_class: "22 (natural armor)"
 ---
-
-**Gargantuan dragon, lawful good**
-
-**Armor Class** 22 (natural armor)
-
-**Hit Points** 444 (24d20+192)
-
-**Speed** 40 ft., fly 80 ft., swim 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 29 (+9) | 10 (0) | 27 (+8) | 18 (+4) | 17 (+3) | 21 (+5) |
-
-**Saving Throws** Dex +7, Con +15, Wis +10, Cha +12
-
-**Skills** Insight +10, Perception +17, Stealth +7
-
-**Damage Immunities** lightning
-
-**Senses** blindsight 60 ft., darkvision 120 ft.
-
-**Languages** Common, Draconic
-
-**Challenge** 22 (41,000 XP)
 
 ***Amphibious.*** The dragon can breathe air and water.
 
 ***Legendary Resistance (3/Day).*** If the dragon fails a saving throw, it can choose to succeed instead.
 
-**Actions**
+### Actions
 
 ***Multiattack.*** The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.
 
@@ -54,7 +47,7 @@ Repulsion Breath. The dragon exhales repulsion energy in a 30-foot cone. Each cr
 
 In a new form, the dragon retains its alignment, hit points, Hit Dice, ability to speak, proficiencies, Legendary Resistance, lair actions, and Intelligence, Wisdom, and Charisma scores, as well as this action. Its statistics and capabilities are otherwise replaced by those of the new form, except any class features or legendary actions of that form.
 
-**Legendary Actions**
+### Legendary Actions
 
 The ancient bronze dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The ancient bronze dragon regains spent legendary actions at the start of its turn.
 
@@ -63,4 +56,3 @@ The ancient bronze dragon can take 3 legendary actions, choosing from the option
 ***Tail Attack.*** The dragon makes a tail attack.
 
 ***Wing Attack (Costs 2 Actions).*** The dragon beats its wings. Each creature within 15 ft. of the dragon must succeed on a DC 24 Dexterity saving throw or take 16 (2d6 + 9) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.
-

@@ -2,27 +2,22 @@
 layout: creature
 name: "Oreioth"
 tags: [medium, humanoid, cr2, elemental-evil]
+cha: 11 (0)
+wis: 9 (-1)
+int: 16 (+3)
+con: 14 (+2)
+dex: 13 (+1)
+str: 8 (-1)
+size: Medium humanoid (human)
+alignment: chaotic evil
+challenge: "2 (450 XP)"
+languages: "Abyssal, Common"
+skills: "Arcana +5, Investigation +5, Medicine +1"
+saving_throws: "Wis +1"
+speed: "30 ft."
+hit_points: "39 (6d8+12)"
+armor_class: "11 (14 with mage armor)"
 ---
-
-**Medium humanoid (human), chaotic evil**
-
-**Armor Class** 11 (14 with mage armor)
-
-**Hit Points** 39 (6d8+12)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
-| 8 (-1) | 13 (+1) | 14 (+2) | 16 (+3) | 9 (-1) | 11 (0) |
-
-**Saving Throws** Wis +1
-
-**Skills** Arcana +5, Investigation +5, Medicine +1
-
-**Languages** Abyssal, Common
-
-**Challenge** 2 (450 XP)
 
 ***Grim Harvest.*** Once per turn when Oreioth kills one or more creatures with a spell of 1st level or higher, he regains hit points equal to twice the spell's level.
 
@@ -38,7 +33,6 @@ tags: [medium, humanoid, cr2, elemental-evil]
 
 ***Swift Animation (Recharges after a Long Rest).*** When a living Medium or Small humanoid within 30 feet of Oreioth dies, he can use an action on his next turn to cast animate dead on that humanoid's corpse, instead of using the spell's normal casting time.
 
-**Actions**
+### Actions
 
 ***Dagger.*** Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) piercing damage.
-

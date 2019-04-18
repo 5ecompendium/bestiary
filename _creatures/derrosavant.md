@@ -3,27 +3,22 @@ layout: creature
 name: "Derro Savant"
 tags: [small, humanoid, cr3, mordenkainens-tome-of-foes]
 page_number: 159
+cha: 14 (+2)
+wis: 5 (-2)
+int: 11 (0)
+con: 12 (+1)
+dex: 14 (+2)
+str: 9 (0)
+size: Small humanoid (derro)
+alignment: chaotic evil
+challenge: "3 (700 XP)"
+languages: "Dwarvish, Undercommon"
+senses: "darkvision 120 ft., passive Perception 7"
+skills: "Stealth +4"
+speed: "30 ft."
+hit_points: "36  (8d6 + 8)"
+armor_class: "13 (leather armor)"
 ---
-
-**Small humanoid (derro), chaotic evil**
-
-**Armor Class** 13 (leather armor)
-
-**Hit Points** 36  (8d6 + 8)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 9 (0) | 14 (+2) | 12 (+1) | 11 (0) | 5 (-2) | 14 (+2) |
-
-**Skills** Stealth +4
-
-**Senses** darkvision 120 ft., passive Perception 7
-
-**Languages** Dwarvish, Undercommon
-
-**Challenge** 3 (700 XP)
 
 ***Magic Resistance.*** The derro savant has advantage on saving throws against spells and other magical effects.
 
@@ -35,6 +30,6 @@ page_number: 159
 
 ***Sunlight Sensitivity.*** While in sunlight, the derro savant has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Quarterstaff*** Melee Weapon Attack: +1 to hit, reach 5 ft., one target. Hit: 2 (1d6-1) bludgeoning damage.

@@ -3,25 +3,21 @@ layout: creature
 name: "Kruthik Hive Lord"
 tags: [large, monstrosity, cr5, mordenkainens-tome-of-foes]
 page_number: 212
+cha: 10 (0)
+wis: 14 (+2)
+int: 10 (0)
+con: 17 (+3)
+dex: 16 (+3)
+str: 19 (+4)
+size: Large monstrosity
+alignment: unaligned
+challenge: "5 (1800 XP)"
+languages: "Kruthik"
+senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 12"
+speed: "40 ft., burrow 20 ft., climb 40 ft."
+hit_points: "102  (12d10 + 36)"
+armor_class: "20 (natural armor)"
 ---
-
-**Large monstrosity, unaligned**
-
-**Armor Class** 20 (natural armor)
-
-**Hit Points** 102  (12d10 + 36)
-
-**Speed** 40 ft., burrow 20 ft., climb 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 19 (+4) | 16 (+3) | 17 (+3) | 10 (0) | 14 (+2) | 10 (0) |
-
-**Senses** darkvision 60 ft., tremorsense 60 ft., passive Perception 12
-
-**Languages** Kruthik
-
-**Challenge** 5 (1800 XP)
 
 ***Keen Smell.*** The kruthik has advantage on Wisdom (Perception) checks that rely on smell.
 
@@ -29,7 +25,7 @@ page_number: 212
 
 ***Tunneler.*** The kruthik can burrow through solid rock at half its burrowing speed and leaves a 10-foot-diameter tunnel in its wake.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The kruthik makes two stab attacks or two spike attacks.
 

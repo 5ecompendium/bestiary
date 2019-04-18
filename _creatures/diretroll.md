@@ -3,39 +3,33 @@ layout: creature
 name: "Dire Troll"
 tags: [huge, giant, cr13, mordenkainens-tome-of-foes]
 page_number: 243
+cha: 5 (-2)
+wis: 11 (0)
+int: 9 (0)
+con: 21 (+5)
+dex: 15 (+2)
+str: 22 (+6)
+size: Huge giant
+alignment: chaotic evil
+challenge: "13 (10,000 XP)"
+languages: "Giant"
+senses: "darkvision 60 ft., passive Perception 15"
+skills: "Perception +5"
+saving_throws: "Wis +5, Cha +2"
+speed: "40 ft."
+hit_points: "172  (15d12 + 75)"
+armor_class: "15 (natural armor)"
 ---
-
-**Huge giant, chaotic evil**
-
-**Armor Class** 15 (natural armor)
-
-**Hit Points** 172  (15d12 + 75)
-
-**Speed** 40 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 22 (+6) | 15 (+2) | 21 (+5) | 9 (0) | 11 (0) | 5 (-2) |
-
-**Saving Throws** Wis +5, Cha +2
-
-**Skills** Perception +5
 
 **Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
 **Condition Immunities** frightened, poisoned
 
-**Senses** darkvision 60 ft., passive Perception 15
-
-**Languages** Giant
-
-**Challenge** 13 (10,000 XP)
-
 ***Keen Senses.*** The troll has advantage on Wisdom (Perception) checks that rely on smell or sight.
 
 ***Regeneration.*** The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, it regains only 5 hit points at the start of its next turn. The troll dies only if it is hit by an attack that deals 10 or more acid or fire damage while the troll has 0 hit points.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The troll makes five attacks: one with its bite and four with its claws.
 

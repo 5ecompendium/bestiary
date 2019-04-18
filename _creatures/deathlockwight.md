@@ -3,35 +3,28 @@ layout: creature
 name: "Deathlock Wight"
 tags: [medium, undead, cr3, mordenkainens-tome-of-foes]
 page_number: 129
+cha: 16 (+3)
+wis: 14 (+2)
+int: 12 (+1)
+con: 16 (+3)
+dex: 14 (+2)
+str: 11 (0)
+size: Medium undead
+alignment: neutral evil
+challenge: "3 (700 XP)"
+languages: "the languages it knew in life"
+senses: "darkvision 60 ft., passive Perception 14"
+skills: "Arcana +3, Perception +4"
+damage_immunities: "poison"
+saving_throws: "Wis +4"
+speed: "30 ft."
+hit_points: "37  (5d8 + 15)"
+armor_class: "12 (15 with mage armor)"
 ---
-
-**Medium undead, neutral evil**
-
-**Armor Class** 12 (15 with mage armor)
-
-**Hit Points** 37  (5d8 + 15)
-
-**Speed** 30 ft.
-
-|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
-|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
-| 11 (0) | 14 (+2) | 16 (+3) | 12 (+1) | 14 (+2) | 16 (+3) |
-
-**Saving Throws** Wis +4
-
-**Skills** Arcana +3, Perception +4
 
 **Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 
-**Damage Immunities** poison
-
 **Condition Immunities** exhaustion, poisoned
-
-**Senses** darkvision 60 ft., passive Perception 14
-
-**Languages** the languages it knew in life
-
-**Challenge** 3 (700 XP)
 
 ***Innate Spellcasting.*** The wight's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no verbal or material components:
 * At will: detect magic, disguise self, mage armor
@@ -39,7 +32,7 @@ page_number: 129
 
 ***Sunlight Sensitivity.*** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-**Actions**
+### Actions
 
 ***Multiattack*** The wight attacks twice with Grave Bolt.
 
