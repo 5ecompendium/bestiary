@@ -4,14 +4,16 @@
     box-sizing: border-box;
     max-width: 100%;
     text-align: left;
-    margin: 20px;
-    display: inline-block;
     vertical-align: top;
     width: 50%;
     min-width:280px;
     background: $statblock-background-color;
     padding: 5px 10px 20px;
     box-shadow: 0 0 1.5em #867453;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: auto;
+    margin-left: auto;
 }
 .stat-block.wide{
     width: 46.5%;
