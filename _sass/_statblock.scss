@@ -9,7 +9,7 @@
     vertical-align: top;
     width: 50%;
     min-width:280px;
-    background: #FDF1DC;
+    background: $statblock-background-color;
     padding: 5px 10px 20px;
     box-shadow: 0 0 1.5em #867453;
 }
@@ -70,9 +70,9 @@
     width: 100%;
     height: 5px;
     border: none;
-    color: #922610;
-    fill: #922610;
-    stroke: #922610;
+    color: $statblock-secondary-color;
+    fill: $statblock-secondary-color;
+    stroke: $statblock-secondary-color;
 }
 .top-gap {
     margin: 0 0 8px;
@@ -81,7 +81,7 @@
     margin: 10px 0;
 }
 .creature-heading h1{
-    color: #922610;
+    color: $statblock-secondary-color;
     font-size: 23px;
     line-height: 1.2em;
     margin: 10px 0 0;
@@ -100,12 +100,12 @@
 .property-line p{
     display: inline;
     margin: 0;
-    color: #922610;
+    color: $statblock-secondary-color;
     font-size: 13.5px;
     line-height: 1.2em;
 }
 .property-line h4{
-    color: #7A200D;
+    color: $statblock-main-color;
 }
 .property-line{
     text-indent: -1em;
@@ -120,7 +120,7 @@
 }
 .abilities{
     text-align: center;
-    color: #922610;
+    color: $statblock-secondary-color;
 }
 .abilities > div{
     display: inline-block;
@@ -135,7 +135,7 @@
     font-size: 14px;
     line-height: 1.2em;
     text-transform: uppercase;
-    color: #7A200D;
+    color: $statblock-main-color;
 }
 .abilities p{
     margin: 0 0 10px;
@@ -155,8 +155,8 @@
     padding: 10px 2px 0;
 }
 #actions, #reactions, #legendary-actions {
-    border-bottom: 1px solid #7A200D;
-    color: #7A200D;
+    border-bottom: 1px solid $statblock-main-color;
+    color: $statblock-main-color;
     font-size: 21px;
     font-variant: small-caps;
     font-weight: normal;
@@ -179,7 +179,7 @@
 	display: none;
     }
     .stat-block,
-    .stat-block.wide, 
+p    .stat-block.wide, 
     .stat-block.wide .section-left,
     .stat-block.wide .section-right,
     .property-line,
