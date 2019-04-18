@@ -210,11 +210,12 @@ dl.tag-list {
         font-weight: bold;
         display: inline-block;
         color: $grey-color-dark;
-        padding-right: 20px;
     }
     dd {
         display: inline;
-        padding-right: 20px;
+    }
+    .spacing {
+	padding-right: 20px;
     }
 }
 

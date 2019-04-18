@@ -98,23 +98,22 @@ layout: default
 	<polyline points="0,0 400,2.5 0,5"></polyline>
       </svg>
       {{ content }}
+
+      <dl class="tag-list">
+	{% for tag in page.tags %}
+	<dd>
+	  <span class="tag">
+	    {% if tag contains 'cr' %}
+	    <a href="{{ site.baseurl }}/cr#{{ tag }}">{{tag}}</a> {% else %}
+	    <a href="{{ site.baseurl }}/tag/{{ tag }}">{{tag}}</a> {% endif %}
+	  </span>
+	</dd>
+	{% endfor %}
+	{% if page.page_number %}
+	<dd>(p. {{ page.page_number }})</dd>
+	{% endif %}
+      </dl>
       <hr class="orange-border bottom" />
     </div>
   </div>
-</div>
-
-<header class="post-header">
-  <dl class="tag-list">
-    <dt>Tags:</dt> {% for tag in page.tags %}
-    <dd>
-      {% if tag contains 'cr' %}
-      <a href="{{ site.baseurl }}/cr#{{ tag }}">{{tag}}</a> {% else %}
-      <a href="{{ site.baseurl }}/tag/{{ tag }}">{{tag}}</a> {% endif %}
-    </dd>
-    {% endfor %}
-    {% if page.page_number %}
-    <dd>(p. {{ page.page_number }})</dd>
-    {% endif %}
-  </dl>
-</header>
 </div>

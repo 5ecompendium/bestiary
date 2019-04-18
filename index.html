@@ -9,9 +9,9 @@ layout: default
   <p id="sortBy">Sort By: <a href="{{ site.baseurl }}/cr">CR</a> <a href="{{ site.baseurl }}/">name</a></p>
 
   <dl class="tag-list">
-    <dt>Letter:</dt>
+    <dt class="spacing">Letter:</dt>
     {% for letter in letters %}
-    <dd>
+    <dd class="spacing">
       <a href="#{{ letter }}">{{ letter }}</a>
     </dd>
     {% endfor %}
