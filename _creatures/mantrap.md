@@ -20,7 +20,7 @@ armor_class: "12"
 
 ***Attractive Pollen (1/Day).*** When the mantrap detects any creatures nearby, it can use its reaction to release pollen out to a radius of 30 feet. Any beast or humanoid within the area must succeed on a DC 11 Wisdom saving throw or be forced to use all its movement on its turns to get as close to the mantrap as possible. An affected target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 
-***False appearance.*** Whil e the mantrap remains motionless, it is indistinguishable from an ordinary tropical plant.
+***False appearance.*** While the mantrap remains motionless, it is indistinguishable from an ordinary tropical plant.
 
 ### Actions
 

@@ -21,10 +21,10 @@ armor_class: "13"
 
 ***Innate Spellcasting.*** The eblis's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:
 
-l/day each: blur, hypnotic pattern, minor illusion
+1/day each: blur, hypnotic pattern, minor illusion
 
 ### Actions
 
 ***Multiattack.*** The eblis attacks twice with its beak.
 
-***Beak.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (ld4 +3) piercing damage.
+***Beak.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 +3) piercing damage.

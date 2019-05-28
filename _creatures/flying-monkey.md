@@ -21,4 +21,4 @@ armor_class: "12"
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +l to hit, reach 5 ft., one target. Hit: l (ld4 -1) piercing damage.
+***Bite.*** Melee Weapon Attack: +l to hit, reach 5 ft., one target. Hit: 1 (1d4 -1) piercing damage.

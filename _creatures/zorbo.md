@@ -11,7 +11,7 @@ str: 13 (+1)
 size: Small monstrosity
 alignment: unaligned
 challenge: "1/2 (100 XP)"
-senses: "passive Perception 1q"
+senses: "passive Perception 1"
 skills: "Athletics +3"
 speed: "30 ft., climb 30 ft."
 hit_points: "27 (6d6 +6)"

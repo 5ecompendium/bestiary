@@ -31,7 +31,7 @@ armor_class: "13"
 
 ***Forbiddance.*** The vampiric mist can 't enter a residence without an invitation from one of the occupants.
 
-***Misty Form.*** The vampiric mist can occupy another creature's space and vice versa. In addition, if air can pass through a space, the mist can pass through it without squeezing. Each foot of movement in water costs it 2 extra feet, rather than l extra foot. The mist can 't manipulate objects in any way that requires hands; it can apply simple force only.
+***Misty Form.*** The vampiric mist can occupy another creature's space and vice versa. In addition, if air can pass through a space, the mist can pass through it without squeezing. Each foot of movement in water costs it 2 extra feet, rather than 1 extra foot. The mist can't manipulate objects in any way that requires hands; it can apply simple force only.
 
 ***Sunlight Hypersensitivity.*** The vampiric mist takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, the mist has disadvantage on attack rolls and ability checks.
 

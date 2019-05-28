@@ -18,7 +18,7 @@ hit_points: "33 (6d8 +6)"
 armor_class: "9"
 ---
 
-***Undead fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is fire or from a critical hit. On a success, the zombie drops to l hit point instead.
+***Undead fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is fire or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 
 ### Actions
 

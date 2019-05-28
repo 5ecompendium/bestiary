@@ -20,10 +20,10 @@ armor_class: "12"
 
 ### Actions
 
-***Multiattack.*** The su-monster makes two attacks: one with its bite and one with its claws.
+***Multiattack.*** The Su-monster makes two attacks: one with its bite and one with its claws.
 
 ***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (ld4 +2) piercing damage.
 
-***Claws.*** Me/ee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 +2) slashing damage, or 12 (4d4 +2) slashing damage if the su-monster is hanging by its tail and all four of its limbs ace free.
+***Claws.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 +2) slashing damage, or 12 (4d4 +2) slashing damage if the su-monster is hanging by its tail and all four of its limbs ace free.
 
-***Psychic Crush (Recharge 5-6).*** The su-monster targets one creature it can see within 30 feet of it. The target must succeed on a DC 11 Wisdom saving throw or take 17 (5d6) psychic damage and be stunned for l minute. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
+***Psychic Crush (Recharge 5-6).*** The Su-monster targets one creature it can see within 30 feet of it. The target must succeed on a DC 11 Wisdom saving throw or take 17 (5d6) psychic damage and be stunned for 1 minute. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.

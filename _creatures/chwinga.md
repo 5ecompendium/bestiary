@@ -20,7 +20,7 @@ armor_class: "15"
 
 ***Evasion.*** When the chwinga is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-***Innate Spellcasting.*** The chwinga 's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no material or verbal components:
+***Innate Spellcasting.*** The chwinga's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no material or verbal components:
 
 At will: druldcraft, guidance, pass without trace, resistance
 

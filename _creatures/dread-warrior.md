@@ -27,7 +27,7 @@ armor_class: "18 (chain mail, shield)"
 
 ***Undead Nature.*** A dread warrior doesn't require air, food, drink, or sleep.
 
-***Undead Fortitude.*** If damage reduces the dread warrior to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken , unless the damage is radiant or from a critical hit. On a success, the dread warrior drops to l hit point instead.
+***Undead Fortitude.*** If damage reduces the dread warrior to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken , unless the damage is radiant or from a critical hit. On a success, the dread warrior drops to 1 hit point instead.
 
 ### Actions
 
