@@ -2,6 +2,7 @@
 layout: creature
 name: "Githyanki Warrior"
 tags: [medium, humanoid, cr3, monster-manual]
+page_number: 160
 cha: 10 (0)
 wis: 13 (+1)
 int: 13 (+1)
@@ -12,17 +13,16 @@ size: Medium humanoid (gith)
 alignment: lawful evil
 challenge: "3 (700 XP)"
 languages: "Gith"
+senses: "passive Perception 11"
 saving_throws: "Con +3, Int +3, Wis +3"
 speed: "30 ft."
-hit_points: "49 (9d8+9)"
+hit_points: "49 (9d8 + 9)"
 armor_class: "17 (half plate)"
 ---
 
 ***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
-
-At will: mage hand (the hand is invisible)
-
-3/day each: jump, misty step, nondetection (self only)
+* At will: mage hand (the hand is invisible)
+* 3/day each: jump, misty step, nondetection (self only)
 
 ### Actions
 
