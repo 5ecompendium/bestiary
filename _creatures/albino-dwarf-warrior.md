@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Albino Dwarf Warrior"
-tags: [medium, humanoid, cr1/4, Tomb of Annihilation]
+tags: [medium, humanoid, cr1/4, tomb-of-annihilation]
 cha: 11 (0)
 wis: 14 (+2)
 int: 12 (+1)

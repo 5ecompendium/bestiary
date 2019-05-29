@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yellow Musk Zombie"
-tags: [Medium, undead, cr1/4, Tomb of Annihilation]
+tags: [Medium, undead, cr1/4, tomb-of-annihilation]
 cha: 3 (-4)
 wis: 6 (-2)
 int: 1 (-5)

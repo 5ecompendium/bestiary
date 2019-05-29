@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Aldani (Lobsterfolk)"
-tags: [medium, monstrosity, cr1, Tomb of Annihilation]
+tags: [medium, monstrosity, cr1, tomb-of-annihilation]
 cha: 10 (0)
 wis: 14 (+2)
 int: 10 (0)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Stone Juggernaut"
-tags: [Large, construct, cr12, Tomb of Annihilation]
+tags: [Large, construct, cr12, tomb-of-annihilation]
 cha: 3 (-4)
 wis: 11 (0)
 int: 2 (-4)

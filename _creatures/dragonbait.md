@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dragonbait"
-tags: [Medium, humanoid, cr5, Tomb of Annihilation]
+tags: [Medium, humanoid, cr5, tomb-of-annihilation]
 cha: 18 (+4)
 wis: 16 (+3)
 int: 14 (+2)

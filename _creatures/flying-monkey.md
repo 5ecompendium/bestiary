@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Flying Monkey"
-tags: [Small, beast, cr0, Tomb of Annihilation]
+tags: [Small, beast, cr0, tomb-of-annihilation]
 cha: 6 (-2)
 wis: 12 (+1)
 int: 5 (-3)

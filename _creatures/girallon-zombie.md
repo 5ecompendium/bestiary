@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Girallon Zombie"
-tags: [Large, undead, cr3, Tomb of Annihilation]
+tags: [Large, undead, cr3, tomb-of-annihilation]
 cha: 5 (-3)
 wis: 7 (-2)
 int: 3 (-4)

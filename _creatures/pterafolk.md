@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Pterafolk"
-tags: [Large, monstrosity, cr1, Tomb of Annihilation]
+tags: [Large, monstrosity, cr1, tomb-of-annihilation]
 cha: 11 (0)
 wis: 10 (0)
 int: 9 (-1)

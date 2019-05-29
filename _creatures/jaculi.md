@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Jaculi"
-tags: [Large, beast, cr1/2, Tomb of Annihilation]
+tags: [Large, beast, cr1/2, tomb-of-annihilation]
 cha: 3 (-4)
 wis: 8 (-1)
 int: 2 (-4)

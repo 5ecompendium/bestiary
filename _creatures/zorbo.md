@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Zorbo"
-tags: [Small, monstrosity, cr1/2, Tomb of Annihilation]
+tags: [Small, monstrosity, cr1/2, tomb-of-annihilation]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 3 (-4)

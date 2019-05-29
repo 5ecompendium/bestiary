@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tyrannosaurus Zombie"
-tags: [Huge, undead, cr8, Tomb of Annihilation]
+tags: [Huge, undead, cr8, tomb-of-annihilation]
 cha: 5 (-3)
 wis: 3 (-4)
 int: 1 (-5)
