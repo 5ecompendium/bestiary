@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Su-Monster"
-tags: [Medium, Monstrosity, cr1, Tomb of Annihilation]
+tags: [Medium, Monstrosity, cr1, tomb-of-annihilation]
 cha: 9 (-1)
 wis: 13 (+1)
 int: 9 (-1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Four-Armed Gargoyle"
-tags: [Large, elemental, cr10, Tomb of Annihilation]
+tags: [Large, elemental, cr10, tomb-of-annihilation]
 cha: 9 (-1)
 wis: 11 (0)
 int: 6 (-2)

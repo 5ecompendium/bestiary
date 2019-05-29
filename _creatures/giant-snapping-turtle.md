@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Snapping Turtle"
-tags: [Large, beast, cr3, Tomb of Annihilation]
+tags: [Large, beast, cr3, tomb-of-annihilation]
 cha: 5 (-3)
 wis: 12 (+1)
 int: 2 (-4)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Yellow Musk Creeper"
-tags: [Medium, plant, cr2, Tomb of Annihilation]
+tags: [Medium, plant, cr2, tomb-of-annihilation]
 cha: 3 (-4)
 wis: 10 (0)
 int: 1 (-5)

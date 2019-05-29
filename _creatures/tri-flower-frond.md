@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tri-Flower Frond"
-tags: [Medium, plant, cr1/2, Tomb of Annihilation]
+tags: [Medium, plant, cr1/2, tomb-of-annihilation]
 cha: 1 (-5)
 wis: 10 (0)
 int: 1 (-5)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tabaxi Minstrel"
-tags: [Medium, humanoid, cr1/4, Tomb of Annihilation]
+tags: [Medium, humanoid, cr1/4, tomb-of-annihilation]
 cha: 16 (+3)
 wis: 12 (+1)
 int: 14 (+2)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Tabaxi Hunter"
-tags: [Medium, humanoid, cr1, Tomb of Annihilation]
+tags: [Medium, humanoid, cr1, tomb-of-annihilation]
 cha: 15 (+2)
 wis: 14 (+2)
 int: 13 (+1)

@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Mantrap"
-tags: [Large, plant, cr1, Tomb of Annihilation]
+tags: [Large, plant, cr1, tomb-of-annihilation]
 cha: 2 (-4)
 wis: 10 (0)
 int: 1 (-5)

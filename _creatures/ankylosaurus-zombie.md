@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Ankylosaurus Zombie"
-tags: [Huge, undead, cr3, Tomb of Annihilation]
+tags: [Huge, undead, cr3, tomb-of-annihilation]
 cha: 3 (-4)
 wis: 6 (-2)
 int: 2 (-4)

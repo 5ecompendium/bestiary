@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Almiraj"
-tags: [small, beast, cr0, Tomb of Annihilation]
+tags: [small, beast, cr0, tomb-of-annihilation]
 cha: 10 (0)
 wis: 14 (+2)
 int: 2 (-4)

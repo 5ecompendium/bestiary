@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Chwinga"
-tags: [tiny, elemental, cr0, Tomb of Annihilation]
+tags: [tiny, elemental, cr0, tomb-of-annihilation]
 cha: 16 (+3)
 wis: 16 (+3)
 int: 14 (+2)
