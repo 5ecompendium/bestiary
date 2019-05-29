@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Abyssal Wretch"
+name: "Abyssal Wretch (A)"
 tags: [medium, fiend, cr1/4, mordenkainens-tome-of-foes]
 page_number: 136
 cha: 5 (-3)

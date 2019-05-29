@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Air Elemental Myrmidon"
+name: "Air Elemental Myrmidon (A)"
 tags: [medium, elemental, cr7, elemental-evil]
 cha: 10 (0)
 wis: 10 (0)

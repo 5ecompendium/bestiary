@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Male Steeder"
+name: "Male Steeder (A)"
 tags: [medium, beast, cr1/4, out-of-the-abyss]
 cha: 3 (-4)
 wis: 10 (0)

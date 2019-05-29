@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Duergar Xarrorn"
+name: "Duergar Xarrorn (B)"
 tags: [medium, humanoid, cr2, mordenkainens-tome-of-foes]
 page_number: 193
 cha: 9 (0)

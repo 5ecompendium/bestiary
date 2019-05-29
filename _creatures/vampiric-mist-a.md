@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Vampiric Mist"
+name: "Vampiric Mist (A)"
 tags: [medium, undead, cr3, tales-from-the-yawning-portal]
 cha: 7 (-2)
 wis: 12 (+1)

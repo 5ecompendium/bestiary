@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Deathlock Wight"
+name: "Deathlock Wight (B)"
 tags: [medium, undead, cr3, mordenkainens-tome-of-foes]
 page_number: 129
 cha: 16 (+3)

@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Duergar Xarrorn"
+name: "Duergar Xarrorn (A)"
 tags: [medium, humanoid, cr2, out-of-the-abyss]
 cha: 9 (-1)
 wis: 10 (0)
