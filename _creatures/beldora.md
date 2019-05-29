@@ -16,15 +16,8 @@ skills: "Deception +5, Insight +3, Investigation +5, Perception +5, Persuasion +
 speed: "30 ft."
 hit_points: "18 (4d8)"
 armor_class: "12"
+senses: "qpassive Perception 13"
 ---
-
-***Roleplaying Information.*** Beldora is a member of the harpers who survives using her wits and wiles. She looks like a homeless waif, but she's a survivor who shies away from material wealth.
-
-Ideal: "We should all strive to help one another"
-
-Bond: "I'll risk my life to protect the powerless."
-
-Flaw: "I like lying to people. Makes life more interesting, no?"
 
 ### Actions
 
@@ -35,3 +28,13 @@ Flaw: "I like lying to people. Makes life more interesting, no?"
 ### Reactions
 
 ***Duck and Cover.*** Beldora adds 2 to her AC against on melee attack that would hit her. To do so, Duvessa must see the attacker and can't be grappled or restrained.
+
+### Roleplaying Information
+
+Beldora is a member of the harpers who survives using her wits and wiles. She looks like a homeless waif, but she's a survivor who shies away from material wealth.
+
+**Ideal:** "We should all strive to help one another"
+
+**Bond:** "I'll risk my life to protect the powerless."
+
+**Flaw:** "I like lying to people. Makes life more interesting, no?"

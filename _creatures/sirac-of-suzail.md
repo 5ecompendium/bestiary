@@ -16,15 +16,8 @@ skills: "Athletics +4, Insight +3, Survival +3"
 speed: "30 ft."
 hit_points: "22 (5d8)"
 armor_class: "14 (leather)"
+senses: "passive Perception 11"
 ---
-
-***Roleplaying Information.*** An acolyte of Torm, Sirac grew up on the streets of Suzail, the capital of Cormyr. He came to Icewind Dale to become a knucklehead trout fishe but instead found religion. The misbegotten son of Artus Climber, a renowened human adventurer, Sirac hasn't seen his father since he was a baby.
-
-Ideal: "Without duty or loyalty, a man is nothing."
-
-Bond: "Icewind Dale is where i belong for the rest of my life."
-
-Flaw: "I am honest to a fault."
 
 ### Actions
 
@@ -35,3 +28,12 @@ Flaw: "I am honest to a fault."
 ### Reactions
 
 ***Parry.*** Sirac adds 2 to his AC against on melee attack that would hit him. To do so, Sirac must see the attacker and be wielding a melee weapon.
+
+### Roleplaying Information
+An acolyte of Torm, Sirac grew up on the streets of Suzail, the capital of Cormyr. He came to Icewind Dale to become a knucklehead trout fishe but instead found religion. The misbegotten son of Artus Climber, a renowened human adventurer, Sirac hasn't seen his father since he was a baby.
+
+**Ideal:** "Without duty or loyalty, a man is nothing."
+
+**Bond:** "Icewind Dale is where i belong for the rest of my life."
+
+**Flaw:** "I am honest to a fault."
