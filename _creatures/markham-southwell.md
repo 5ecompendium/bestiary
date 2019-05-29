@@ -32,5 +32,7 @@ senses: " passive Perception 15"
 Sheriff Markham of Bryn Shander is a brawny, likable man of few words. Nothing is more important to him than protecting Icewind Dale. He judges others by their actions, not their words.
 
 **Ideal:** "All people deserve to be treated with dignity."
+
 **Bond:** "Duvessa is a natural leader, but she needs help. That's my job."
+
 **Flaw:** "I bury my emotions and have no interest in small talk."

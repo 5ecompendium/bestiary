@@ -32,5 +32,7 @@ senses: " passive Perception 12"
 The daughter of a Waterdhavian trader and a tavern server, Duvessa has her mother's talent for negotiation and her father's charm. As the first woman to serve as Town Speaker of Bryn Shander, and a young one at that, she has much to prove.
 
 **Ideal:** "The people of Icewind Dale are survivors. They can weather any storm."
+
 **Bond:** "My mother taught me what it means to be a good leader. I won't disappoint her."
+
 **Flaw:** "I don't give an inch in any argument of conflict."

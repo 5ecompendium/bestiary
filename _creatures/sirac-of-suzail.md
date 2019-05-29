@@ -33,5 +33,7 @@ senses: "passive Perception 11"
 An acolyte of Torm, Sirac grew up on the streets of Suzail, the capital of Cormyr. He came to Icewind Dale to become a knucklehead trout fishe but instead found religion. The misbegotten son of Artus Climber, a renowened human adventurer, Sirac hasn't seen his father since he was a baby.
 
 **Ideal:** "Without duty or loyalty, a man is nothing."
+
 **Bond:** "Icewind Dale is where i belong for the rest of my life."
+
 **Flaw:** "I am honest to a fault."

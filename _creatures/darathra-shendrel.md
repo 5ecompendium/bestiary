@@ -34,5 +34,7 @@ senses: " passive Perception 12"
 As the Lord Protector of Triboar and a secret agent of the Harpers, Darathra has sworn an oath to defend the town. She takes her duty very seriously. In addition to her gear, Darathra has an unarmored warhorse named Buster.
 
 **Ideal:** "Good people should be given every chance to prosper, free of tyranny."
+
 **Bond:** "I'll lay down my life to protect Triboar and its citizens."
+
 **Flaw:** "I refuse to back down. Push me, and I'll push back."

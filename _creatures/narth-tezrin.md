@@ -32,5 +32,7 @@ senses: " passive Perception 16"
 Narth sells gear to adventurers, and he also has an adventurous spirit. The Lionshield Coster pays him well, but he longs to make a name for himself. At the same time, he runsa a business with his partner Alaestra and knows she wouldn't forgive him if he ran off and never returned.
 
 **Ideal:** "The bigger the risk, the greater the reward."
+
 **Bond:** "I adore my colleague Alestra, and I'd like to do something to impress her."
+
 **Flaw:** "I'll risk life and limb to become a legend.-"

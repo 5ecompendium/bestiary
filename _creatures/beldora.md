@@ -34,5 +34,7 @@ senses: "qpassive Perception 13"
 Beldora is a member of the harpers who survives using her wits and wiles. She looks like a homeless waif, but she's a survivor who shies away from material wealth.
 
 **Ideal:** "We should all strive to help one another"
+
 **Bond:** "I'll risk my life to protect the powerless."
+
 **Flaw:** "I like lying to people. Makes life more interesting, no?"

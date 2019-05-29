@@ -32,5 +32,7 @@ senses: " passive Perception 13"
 Innkeeper Miros is a retired carnival attraction, dubbed "the Yeti" because of his barrel-shaped body and the thick, white hair covering his arms, chest, back, and head. When Goldenfields suffers, so does his business, so he takes strides to protect the compound.
 
 **Ideal:** "As does the Emerald Enclave, I believe that civilization and the wilderness need to learn to coexist."
+
 **Bond:** "Make fun of me all you like, but don't speak ill of my inn or my employees."
+
 **Flaw:** "When something upsets me, I have a tendency to fly into a rage."

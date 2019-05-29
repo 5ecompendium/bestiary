@@ -32,5 +32,7 @@ senses: " passive Perception 10"
 In his youth, Darz was a member of the Xanathar Thieves' Guild in Waterdeep. After serving ten years in prison for his crimes, he cut all ties to the city and moved north to be a campground caretaker.
 
 **Ideal:** "You csan run from your past, but you can't hide from it."
+
 **Bond:** "I've made a new life in Triboar. I'm not gonna run away this time. "
+
 **Flaw:** "I have no regrets. I do whatever it takes to survive."

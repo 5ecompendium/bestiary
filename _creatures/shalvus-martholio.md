@@ -32,5 +32,7 @@ senses: " passive Perception 12"
 Nalaskur Thaelond of Bargewright Inn has entrusted the shepherd Shalvus with an important assignment: to figure out the best way by which Goldenfields can be brought under the Black Network's control. Shalvus believes that success will ensure his swift rise through the Zhentarim ranks.
 
 **Ideal:** "I'll do what it takes to prove myself to the Zhentarim."
+
 **Bond:** "I love animals, and I'm very protective of them."
+
 **Flaw:** "I can't resist taking risks to feed my ambitions."

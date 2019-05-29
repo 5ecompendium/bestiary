@@ -38,5 +38,7 @@ Cantrips (at will): fire bolt, light, mage hand, prestidigitation
 Goldenfields' crops are vital Waterdeep's survival, which is why the Watchful Order of Magists and Protectors sent Naxene to make sure the temple-farm is adeuately defended. At first she regarded the task as a punishment, but now she appreciates the peace and quiet.
 
 **Ideal:** "There's no problem that can't be solved with magic."
+
 **Bond:** "I have great respect for Lady Laeral Silverhand of Waterdeep. She and the Lords' Alliance are going to bring some much-needed order to this lawless land."
+
 **Flaw:** "I'm too smart to be wrong about anything."
