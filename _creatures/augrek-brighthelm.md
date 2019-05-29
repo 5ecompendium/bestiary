@@ -23,13 +23,14 @@ armor_class: "15 (chain shirt, shield)"
 
 ***Dwarven Resilience.*** Augrek has advantage on saving throws against poison.
 
-***Roleplaying Information.*** Sheriff's Ddeputy Augrek guards the southwest gate of BRyn Shander and welcomes visitors to town. She has a good heart.
+### Roleplaying Information
 
-Ideal: "You'll get farther in life with a kind word than an axe"
+Sheriff's deputy Augrek guards the southwest gate of BRyn Shander and welcomes visitors to town. She has a good heart.
 
-Bond: "Bryn Shander is my home. It's my job to protect her."
+**Ideal:** "You'll get farther in life with a kind word than an axe"
+**Bond:** "Bryn Shander is my home. It's my job to protect her."
+**Flaw:** "I'm head over heels in love with Sheriff Southwell. One day I hope to marry him."
 
-Flaw: "I'm head over heels in love with Sheriff Southwell. One day I hope to marry him."
 
 ### Actions
 

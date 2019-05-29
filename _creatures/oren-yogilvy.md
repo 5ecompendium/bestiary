@@ -16,6 +16,7 @@ skills: "Perception +2, Performance +7, Persuasion +5"
 speed: "25 ft."
 hit_points: "9 (2d6+2)"
 armor_class: "11"
+senses: " passive Perception 12"
 ---
 
 **Damage Resistances** poison
@@ -26,14 +27,14 @@ armor_class: "11"
 
 ***Stout Resilience.*** Oren has advantage on saving throws against poison
 
-***Roleplaying Information.*** Oren came to Nurthfurrow's End looking for easy work and found it. He sings for his supper, drinks like a fish, and wanders the fields at night dreaming up new lyrics to entertain the inn's other guests. Oren likes to stir up trouble from time to time, but he doesn't  have a mean bone in his body.
-
-Ideal: "Music is food for the soul."
-
-Bond: "You had me at "Can I buy you a drink."
-
-Flaw: "I have a knack for putting myself in harm's way. Good thing I'm lucky!"
-
 ### Actions
 
 ***Dagger.*** Melee or Ranged Weapon Attack: +3 to hit, reach 5 ft. or range 20/60ft., one target. Hit: 3 (1d4+1) piercing damage. Duvessa carries only one dagger.
+
+### Roleplaying Information
+
+Oren came to Nurthfurrow's End looking for easy work and found it. He sings for his supper, drinks like a fish, and wanders the fields at night dreaming up new lyrics to entertain the inn's other guests. Oren likes to stir up trouble from time to time, but he doesn't  have a mean bone in his body.
+
+**Ideal:** "Music is food for the soul."
+**Bond:** "You had me at "Can I buy you a drink."
+**Flaw:** "I have a knack for putting myself in harm's way. Good thing I'm lucky!"
