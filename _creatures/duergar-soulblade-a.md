@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Duergar Soulblade"
+name: "Duergar Soulblade (A)"
 tags: [medium, humanoid, cr1, out-of-the-abyss]
 cha: 12 (+1)
 wis: 10 (0)
