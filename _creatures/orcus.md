@@ -20,11 +20,9 @@ saving_throws: "Dex +10, Con +15, Wis +13"
 speed: "40 ft., fly 40 ft."
 hit_points: "405  (30d12 + 210)"
 armor_class: "17 (natural armor), 20 with the Wand of Orcus"
+condition_immunities: "charmed, exhaustion, frightened, poisoned"
+damage_resistances: "cold, fire, lightning"
 ---
-
-**Damage Resistances** cold, fire, lightning
-
-**Condition Immunities** charmed, exhaustion, frightened, poisoned
 
 ***Wand of Orcus.*** The wand has 7 charges, and any of its properties that require a saving throw have a save DC of 18. While holding it, Orcus can use an action to cast animate dead, blight, or speak with dead. Alternatively, he can expend 1 or more of the wand's charges to cast one of the following spells from it: circle of death (1 charge), finger of death (1 charge), or power word kill (2 charges). The wand regains 1d4 + 3 charges daily at dawn.
 While holding the wand, Orcus can use an action to conjure undead creatures whose combined average hit points don't exceed 500. These undead magically rise up from the ground or otherwise form in unoccupied spaces within 300 feet of Orcus and obey his commands until they are destroyed or until he dismisses them as an action. Once this property of the wand is used, the property can't be used again until the next dawn.

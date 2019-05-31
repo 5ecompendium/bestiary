@@ -20,11 +20,9 @@ saving_throws: "Dex +7, Con +13, Wis +12"
 speed: "30 ft."
 hit_points: "350  (28d12 + 168)"
 armor_class: "18 (natural armor)"
+condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious"
+damage_resistances: "cold, fire, lightning"
 ---
-
-**Damage Resistances** cold, fire, lightning
-
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious
 
 ***Foul.*** Any creature, other than an ooze, that starts its turn within 10 feet of Juiblex must succeed on a DC 21 Constitution saving throw or be poisoned until the start of the creature's next turn.
 

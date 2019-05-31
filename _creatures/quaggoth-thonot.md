@@ -18,9 +18,8 @@ damage_immunities: "poison"
 speed: "30 ft., climb 30 ft."
 hit_points: "45 (6d8+18)"
 armor_class: "13 (natural armor)"
+condition_immunities: "poisoned"
 ---
-
-**Condition Immunities** poisoned
 
 ***Wounded Fury.*** While it has 10 hit points or fewer, the quaggoth has advantage on attack rolls. In addition, it deals an extra 7 (2d6) damage to any target it hits with a melee attack.
 

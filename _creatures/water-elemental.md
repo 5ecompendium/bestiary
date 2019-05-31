@@ -17,11 +17,9 @@ damage_immunities: "poison"
 speed: "30 ft., swim 90 ft."
 hit_points: "114 (12d10+48)"
 armor_class: "14 (natural armor)"
+condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+damage_resistances: "acid; bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** acid; bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 
 ***Water Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 

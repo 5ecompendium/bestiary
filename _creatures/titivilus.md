@@ -20,11 +20,9 @@ saving_throws: "Dex +11, Con +8, Wis +11, Cha +13"
 speed: "40 ft., fly 60 ft."
 hit_points: "127  (17d8 + 51)"
 armor_class: "20 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, poisoned"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
-
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-**Condition Immunities** charmed, exhaustion, frightened, poisoned
 
 ***Innate Spellcasting.*** Titivilus's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
 * At will: alter self, animate dead, bestow curse, confusion, major image, modify memory, nondetection, sending, suggestion

@@ -19,9 +19,8 @@ saving_throws: "Int +6, Wis +4"
 speed: "30 ft."
 hit_points: "40  (9d8)"
 armor_class: "12 (15 with mage armor)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 

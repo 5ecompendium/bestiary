@@ -19,11 +19,9 @@ saving_throws: "Wis +10, Cha +9"
 speed: "40 ft., swim 120 ft."
 hit_points: "328  (16d20 + 160)"
 armor_class: "17"
+condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
 
 ***Legendary Resistance (3/Day).*** If the leviathan fails a saving throw, it can choose to succeed instead.
 

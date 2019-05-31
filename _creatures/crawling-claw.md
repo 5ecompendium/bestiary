@@ -17,9 +17,8 @@ damage_immunities: "poison"
 speed: "20 ft., climb 20 ft."
 hit_points: "2 (1d4)"
 armor_class: "12"
+condition_immunities: "poisoned"
 ---
-
-**Condition Immunities** poisoned
 
 ***Turn Immunity.*** The claw is immune to effects that turn undead.
 

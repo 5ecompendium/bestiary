@@ -15,9 +15,8 @@ senses: "blindsight 30 ft. (blind beyond this radius)"
 speed: "0 ft."
 hit_points: "13 (3d8)"
 armor_class: "5"
+condition_immunities: "blinded, deafened, frightened"
 ---
-
-**Condition Immunities** blinded, deafened, frightened
 
 ***False Appearance.*** While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.
 

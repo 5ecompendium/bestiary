@@ -19,9 +19,8 @@ saving_throws: "Str +5, Con +7, Int +9, Wis +7, Cha +9"
 speed: "0 ft., fly 20 ft. (hover)"
 hit_points: "187 (25d10+50)"
 armor_class: "19 (natural armor)"
+condition_immunities: "charmed, exhaustion, paralyzed, petrified, poisoned, prone"
 ---
-
-**Condition Immunities** charmed, exhaustion, paralyzed, petrified, poisoned, prone
 
 ***Negative Energy Cone.*** The death tyrant's central eye emits an invisible, magical 150-foot cone of negative energy. At the start of each of its turns, the tyrant decides which way the cone faces and whether the cone is active.
 

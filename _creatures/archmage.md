@@ -17,9 +17,8 @@ saving_throws: "Int +9, Wis +6"
 speed: "30 ft."
 hit_points: "99 (18d8+18)"
 armor_class: "12 (15 with mage armor)"
+damage_resistances: "damage from spells; non magical bludgeoning, piercing, and slashing (from stoneskin)"
 ---
-
-**Damage Resistances** damage from spells; non magical bludgeoning, piercing, and slashing (from stoneskin)
 
 ***Magic Resistance.*** The archmage has advantage on saving throws against spells and other magical effects.
 

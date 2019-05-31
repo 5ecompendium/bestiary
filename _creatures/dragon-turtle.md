@@ -17,9 +17,8 @@ saving_throws: "Dex +6, Con +11, Wis +7"
 speed: "20 ft., swim 40 ft."
 hit_points: "341 (22d20+110)"
 armor_class: "20 (natural armor)"
+damage_resistances: "fire"
 ---
-
-**Damage Resistances** fire
 
 ***Amphibious.*** The dragon turtle can breathe air and water.
 

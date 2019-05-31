@@ -18,9 +18,8 @@ skills: "Athletics +8, Intimidation +8"
 speed: "50 ft."
 hit_points: "127  (17d8 + 51)"
 armor_class: "19 (natural armor)"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Fearsome Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature becomes frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. If a creature's saving throw is successful or the effect ends for it, the creature is immune to any eladrin's Fearsome Presence for the next 24 hours.
 

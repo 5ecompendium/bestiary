@@ -19,11 +19,9 @@ saving_throws: "Dex +9, Con +12, Wis +12"
 speed: "40 ft."
 hit_points: "378 (36d10+180)"
 armor_class: "20 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, poisoned"
+damage_resistances: "cold, fire, lightning"
 ---
-
-**Damage Resistances** cold, fire, lightning
-
-**Condition Immunities** charmed, exhaustion, frightened, poisoned
 
 ***Shapechanger.*** Graz'zt can use his action to polymorph into a form that resembles a Medium humanoid, or back into his true form. Aside from his size, his statistics are the same in each form, Any equipment he is wearing or carrying isn't transformed.
 

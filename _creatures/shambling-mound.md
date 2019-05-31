@@ -17,11 +17,9 @@ damage_immunities: "lightning"
 speed: "20 ft., swim 20 ft."
 hit_points: "136 (16d10+48)"
 armor_class: "15 (natural armor)"
+condition_immunities: "blinded, deafened, exhaustion"
+damage_resistances: "cold, fire"
 ---
-
-**Damage Resistances** cold, fire
-
-**Condition Immunities** blinded, deafened, exhaustion
 
 ***Lightning Absorption.*** Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
 

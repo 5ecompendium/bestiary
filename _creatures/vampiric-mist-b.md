@@ -19,11 +19,9 @@ saving_throws: "Wis +3"
 speed: "0 ft., fly 30 ft. (hover)"
 hit_points: "30  (4d8 + 12)"
 armor_class: "13"
+condition_immunities: "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained"
+damage_resistances: "acid, cold, lightning, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** acid, cold, lightning, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ***Life Sense.*** The mist can sense the location of any creature within 60 feet of it, unless that creature's type is construct or undead.
 

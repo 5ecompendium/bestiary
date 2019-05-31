@@ -17,9 +17,8 @@ skills: "Perception +3, Sleight of Hand +6, Stealth +6"
 speed: "30 ft., climb 30 ft."
 hit_points: "18 (4d6+4)"
 armor_class: "14"
+damage_resistances: "fire"
 ---
-
-**Damage Resistances** fire
 
 ***Boggle Oil.*** The boggle excretes nonflammable oil from its pores. The boggle chooses whether the oil is slippery or sticky and can change the oil on its skin from one consistency to another as a bonus action.
 

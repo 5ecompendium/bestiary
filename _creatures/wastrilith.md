@@ -19,11 +19,9 @@ saving_throws: "Str +9, Con +10"
 speed: "30 ft., swim 80 ft."
 hit_points: "157  (15d10 + 75)"
 armor_class: "18 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** poisoned
 
 ***Amphibious.*** The wastrilith can breathe air and water.
 

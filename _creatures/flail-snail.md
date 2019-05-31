@@ -16,9 +16,8 @@ damage_immunities: "fire, poison"
 speed: "10 ft."
 hit_points: "52 (5d10+25)"
 armor_class: "16 (natural armor)"
+condition_immunities: "poisoned"
 ---
-
-**Condition Immunities** poisoned
 
 ***Antimagic Shell.*** The snail has advantage on saving throws against spells, and any creature making a spell attack against the snail has disadvantage on the attack roll. If the snail succeeds on its saving throw against a spell or a spell attack misses it, an additional effect might occur, as determined by rolling a d6:
 

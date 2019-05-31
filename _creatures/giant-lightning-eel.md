@@ -15,9 +15,8 @@ senses: "blindsight 60 ft."
 speed: "5 ft., swim 30 ft."
 hit_points: "42 (5d10+15)"
 armor_class: "13"
+damage_resistances: "lightning"
 ---
-
-**Damage Resistances** lightning
 
 ***Source.*** tales from the yawning portal,  page 236
 

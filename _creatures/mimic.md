@@ -17,9 +17,8 @@ damage_immunities: "acid"
 speed: "15 ft."
 hit_points: "58 (9d8+18)"
 armor_class: "12 (natural armor)"
+condition_immunities: "prone"
 ---
-
-**Condition Immunities** prone
 
 ***Shapechanger.*** The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn 't transformed. It reverts to its true form if it dies.
 

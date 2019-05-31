@@ -17,9 +17,8 @@ saving_throws: "Int +5, Wis +5, Cha +6"
 speed: "30 ft., burrow 30 ft., fly 30 ft."
 hit_points: "187 (15d10+105)"
 armor_class: "18 (natural armor)"
+condition_immunities: "petrified"
 ---
-
-**Condition Immunities** petrified
 
 ***Earth Glide.*** The dao can burrow through nonmagical, unworked earth and stone. While doing so, the dao doesn't disturb the material it moves through.
 

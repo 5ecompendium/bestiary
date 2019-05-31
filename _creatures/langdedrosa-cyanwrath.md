@@ -18,9 +18,8 @@ saving_throws: "Str +6, Con +5"
 speed: "30 ft."
 hit_points: "57 (6d12+18)"
 armor_class: "17 (splint)"
+damage_resistances: "lightning"
 ---
-
-**Damage Resistances** lightning
 
 ***Action Surge (Recharges on a Short or Long Rest).*** On his turn, Langdedrosa can take one additional action.
 

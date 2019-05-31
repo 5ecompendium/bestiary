@@ -17,9 +17,8 @@ skills: "Arcana +4, Deception +6, Perception +4"
 speed: "30 ft."
 hit_points: "136 (16d8+64)"
 armor_class: "15 (natural armor)"
+damage_resistances: "acid"
 ---
-
-**Damage Resistances** acid
 
 ***Earthen Defeat.*** When Marlos drops to 0 hit points, his body transforms into mud and collapses into a pool. Anything he is wearing or carrying is left behind.
 

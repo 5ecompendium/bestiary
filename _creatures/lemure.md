@@ -17,11 +17,9 @@ damage_immunities: "fire, poison"
 speed: "15 ft."
 hit_points: "13 (3d8)"
 armor_class: "7"
+condition_immunities: "charmed, frightened, poisoned"
+damage_resistances: "cold"
 ---
-
-**Damage Resistances** cold
-
-**Condition Immunities** charmed, frightened, poisoned
 
 ***Devil's Sight.*** Magical darkness doesn't impede the lemure's darkvision.
 

@@ -18,11 +18,9 @@ damage_immunities: "cold, fire, poison"
 speed: "0 ft., fly 40 ft. It can hover."
 hit_points: "40 (9d4+18)"
 armor_class: "13"
+condition_immunities: "charmed, frightened, paralyzed, poisoned, prone"
+damage_resistances: "lightning, necrotic, piercing"
 ---
-
-**Damage Resistances** lightning, necrotic, piercing
-
-**Condition Immunities** charmed, frightened, paralyzed, poisoned, prone
 
 ***Illumination.*** The flameskull sheds either dim light in a 15- foot radius, or bright light in a 15-foot radius and dim light for an additional 15 ft.. It can switch between the options as an action.
 

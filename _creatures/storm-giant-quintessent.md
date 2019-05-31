@@ -19,9 +19,8 @@ saving_throws: "Str +14, Con +10, Wis +10, Cha +9"
 speed: "50 ft., fly 50 ft. (hover), swim 50 ft."
 hit_points: "230 (20d12+100)"
 armor_class: "12"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Amphibious.*** The giant can breathe air and water.
 

@@ -16,9 +16,8 @@ senses: "darkvision 120 ft."
 speed: "25 ft."
 hit_points: "39 (6d8+12)"
 armor_class: "18 (chain mail, shield)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
 

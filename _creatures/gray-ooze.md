@@ -16,11 +16,9 @@ skills: "Stealth +2"
 speed: "10 ft., climb 10 ft."
 hit_points: "22 (3d8+9)"
 armor_class: "8"
+condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
+damage_resistances: "acid, cold, fire"
 ---
-
-**Damage Resistances** acid, cold, fire
-
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 
 ***Amorphous.*** The ooze can move through a space as narrow as 1 inch wide without squeezing.
 

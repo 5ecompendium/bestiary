@@ -17,9 +17,8 @@ damage_immunities: "acid, poison, psychic, bludgeoning, piercing, and slashing f
 speed: "20 ft."
 hit_points: "133 (14d10+56)"
 armor_class: "14 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ***Acid Absorption.*** Whenever the golem is subjected to acid damage, it takes no damage and instead regains a number of hit points equal to the acid damage dealt.
 

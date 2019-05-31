@@ -17,9 +17,8 @@ skills: "Perception +4, Stealth +6, Survival +2"
 speed: "30 ft."
 hit_points: "31 (7d6+7)"
 armor_class: "15 (natural armor)"
+condition_immunities: "frightened"
 ---
-
-**Condition Immunities** frightened
 
 ***Fear Aura.*** Any beast or humanoid that starts its turn within 10 feet of the meenlock must succeed on a DC 11 Wisdom saving throw or be frightened until the start of the creature's next turn.
 

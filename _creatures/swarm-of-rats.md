@@ -15,11 +15,9 @@ senses: "darkvision 30 ft."
 speed: "30 ft."
 hit_points: "24 (7d8-7)"
 armor_class: "10"
+condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+damage_resistances: "bludgeoning, piercing, slashing"
 ---
-
-**Damage Resistances** bludgeoning, piercing, slashing
-
-**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 ***Keen Smell.*** The swarm has advantage on Wisdom (Perception) checks that rely on smell.
 

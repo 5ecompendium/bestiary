@@ -18,11 +18,9 @@ damage_immunities: "acid, poison"
 speed: "40 ft."
 hit_points: "75 (10d8+30)"
 armor_class: "18 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** poisoned
 
 ***Innate Spellcasting.*** The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:
 

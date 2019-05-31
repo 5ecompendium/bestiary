@@ -18,11 +18,9 @@ damage_immunities: "poison"
 speed: "20 ft."
 hit_points: "37  (5d8 + 15)"
 armor_class: "12"
+condition_immunities: "charmed, frightened, poisoned"
+damage_resistances: "cold, fire, lightning"
 ---
-
-**Damage Resistances** cold, fire, lightning
-
-**Condition Immunities** charmed, frightened, poisoned
 
 ***Crippling Fear.*** When a creature that isn't a demon starts its turn within 30 feet of three or more rutterkins, it must make a DC 11 Wisdom saving throw. The creature has disadvantage on the save if it's within 30 feet of six or more rutterkins. On a successful save, the creature is immune to the Crippling Fear of all rutterkins for 24 hours. On a failed save, the creature becomes frightened for 1 minute. While frightened in this way, the creature is restrained. At the end of each of the frightened creature's turns, it can repeat the saving throw, ending the effect on itself on a success.
 

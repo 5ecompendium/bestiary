@@ -18,9 +18,8 @@ saving_throws: "Dex +6, Int +9, Wis +6"
 speed: "25 ft., swim 50 ft."
 hit_points: "130 (20d8+40)"
 armor_class: "17 (natural armor)"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Amphibious.*** The morkoth can breathe air and water.
 

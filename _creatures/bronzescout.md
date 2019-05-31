@@ -19,9 +19,8 @@ damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical 
 speed: "30 ft., burrow 30 ft."
 hit_points: "18  (4d8)"
 armor_class: "13"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ***Earth Armor.*** The bronze scout doesn't provoke opportunity attacks when it burrows.
 

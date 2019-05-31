@@ -19,11 +19,9 @@ saving_throws: "Str +6"
 speed: "30 ft."
 hit_points: "119  (14d8 +56)"
 armor_class: "15 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** poisoned
 
 ***Innate Spellcasting.*** The dhergoloth's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 * At will: darkness, fear

@@ -17,11 +17,9 @@ damage_immunities: "poison"
 speed: "15 ft. (30 ft. when rolling, 60 ft. rolling downhill)"
 hit_points: "85 (9d8+45)"
 armor_class: "16 (natural armor)"
+condition_immunities: "exhaustion, paralyzed, poisoned, petrified"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** exhaustion, paralyzed, poisoned, petrified
 
 ***False Appearance.*** While the galeb duhr remains motionless, it is indistinguishable from a normal boulder.
 

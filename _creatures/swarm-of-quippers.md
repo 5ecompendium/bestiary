@@ -15,11 +15,9 @@ senses: "darkvision 60 ft."
 speed: "0 ft., swim 40 ft."
 hit_points: "28 (8d8-8)"
 armor_class: "13"
+condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+damage_resistances: "bludgeoning, piercing, slashing"
 ---
-
-**Damage Resistances** bludgeoning, piercing, slashing
-
-**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 ***Blood Frenzy.*** The swarm has advantage on melee attack rolls against any creature that doesn't have all its hit points.
 

@@ -19,11 +19,9 @@ saving_throws: "Dex +6, Cha +4"
 speed: "30 ft."
 hit_points: "71  (13d8 + 13)"
 armor_class: "15 (studded leather)"
+condition_immunities: "charmed, exhaustion"
+damage_resistances: "necrotic"
 ---
-
-**Damage Resistances** necrotic
-
-**Condition Immunities** charmed, exhaustion
 
 ***Fey Ancestry.*** The shadow dancer has advantage on saving throws against being charmed, and magic can't put it to sleep.
 

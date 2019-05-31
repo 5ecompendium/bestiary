@@ -19,11 +19,9 @@ damage_immunities: "cold, necrotic, poison"
 speed: "30 ft."
 hit_points: "45 (6d8+18)"
 armor_class: "16"
+condition_immunities: "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ***Ethereal Sight.*** The phantom warrior can see 60 feet into the Ethereal Plane when it is on the Material Plane, and vice versa.
 

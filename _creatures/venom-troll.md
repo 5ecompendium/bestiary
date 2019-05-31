@@ -19,9 +19,8 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "94  (9d10 + 45)"
 armor_class: "15 (natural armor)"
+condition_immunities: "poisoned"
 ---
-
-**Condition Immunities** poisoned
 
 ***Keen Smell.*** The troll has advantage on Wisdom (Perception) checks that rely on smell.
 

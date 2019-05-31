@@ -19,9 +19,8 @@ saving_throws: "Dex +4, Con +9, Wis +4, Cha +8"
 speed: "40 ft., climb 40 ft., fly 80 ft."
 hit_points: "178 (17d10+85)"
 armor_class: "18 (natural armor)"
+damage_resistances: "necrotic"
 ---
-
-**Damage Resistances** necrotic
 
 ***Living Shadow.*** While in dim light or darkness, the dragon has resistance to damage that isn't force, psychic, or radiant.
 

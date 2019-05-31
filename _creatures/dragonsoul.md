@@ -17,9 +17,8 @@ saving_throws: "Wis +4"
 speed: "30 ft."
 hit_points: "110 (17d8+34)"
 armor_class: "16 (studded leather)"
+damage_resistances: "one of the following: acid, cold, fire, lightning or poison"
 ---
-
-**Damage Resistances** one of the following: acid, cold, fire, lightning or poison
 
 ***Dragon Fanatic.*** The dragonsoul has advantage on saving throws against being charmed or frightened. While the dragonsoul can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonsoul ignores the effects of being charmed or frightened.
 

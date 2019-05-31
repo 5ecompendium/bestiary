@@ -18,13 +18,10 @@ saving_throws: "Wis +5"
 speed: "30 ft."
 hit_points: "85 (10d10+30)"
 armor_class: "13 (natural armor)"
+damage_vulnerabilities: "fire"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Vulnerabilities** fire
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 ***Source.*** tales from the yawning portal,  page 231
 

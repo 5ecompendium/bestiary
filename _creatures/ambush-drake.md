@@ -17,9 +17,8 @@ skills: "Perception +4, Stealth +4"
 speed: "30 ft."
 hit_points: "22 (4d6+8)"
 armor_class: "13 (natural armor)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Pack Tactics.*** The drake has advantage on an attack roll against a creature if at least one of the drake's allies is within 5 feet of the creature and the ally isn't incapacitated.
 

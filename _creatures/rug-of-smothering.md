@@ -16,9 +16,8 @@ damage_immunities: "poison, psychic"
 speed: "10 ft."
 hit_points: "33 (6d10)"
 armor_class: "12"
+condition_immunities: "blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned"
 ---
-
-**Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
 
 ***Antimagic Susceptibility.*** The rug is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the rug must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 

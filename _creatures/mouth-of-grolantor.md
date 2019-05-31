@@ -16,9 +16,8 @@ skills: "Perception +1"
 speed: "50 ft."
 hit_points: "105 (10d12+40)"
 armor_class: "14 (natural armor)"
+condition_immunities: "frightened"
 ---
-
-**Condition Immunities** frightened
 
 ***Mouth of Madness.*** The giant is immune to confusion spells and similar magic.
 

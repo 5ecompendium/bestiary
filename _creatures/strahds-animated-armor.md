@@ -19,11 +19,9 @@ damage_immunities: "lightning, poison"
 speed: "30 ft."
 hit_points: "112 (15d8+45)"
 armor_class: "21 (natural armor)"
+condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned"
+damage_resistances: "cold, fire"
 ---
-
-**Damage Resistances** cold, fire
-
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ***Constructed Nature.*** An animated object doesn't require air, food, drink, or sleep.
 

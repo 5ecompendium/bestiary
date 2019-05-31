@@ -20,11 +20,9 @@ saving_throws: "Str +16, Con +14, Wis +14, Cha +14"
 speed: "40 ft."
 hit_points: "216  (16d12 + 112)"
 armor_class: "19 (natural armor)"
+condition_immunities: "blinded, charmed, deafened, frightened, poisoned, stunned"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** blinded, charmed, deafened, frightened, poisoned, stunned
 
 ***Innate Spellcasting.*** The molydeus's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 * At will: dispel magic, polymorph, telekinesis, teleport

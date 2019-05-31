@@ -16,9 +16,8 @@ senses: "darkvision 60 ft."
 speed: "20 ft."
 hit_points: "45 (6d10+12)"
 armor_class: "13 (natural armor)"
+damage_resistances: "bludgeoning, piercing"
 ---
-
-**Damage Resistances** bludgeoning, piercing
 
 ***Mushroom Portal.*** The chamberlain counts as a mushroom for the Fungus Stride feature of the bridesmaid of Zuggtmoy.
 

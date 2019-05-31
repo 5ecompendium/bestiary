@@ -19,9 +19,8 @@ damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical 
 speed: "30 ft."
 hit_points: "45  (7d8 + 14)"
 armor_class: "13"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ***Magic Resistance.*** The iron cobra has advantage on saving throws against spells and other magical effects.
 

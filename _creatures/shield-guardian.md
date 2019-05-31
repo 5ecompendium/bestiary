@@ -17,9 +17,8 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "142 (15d10+60)"
 armor_class: "17 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 ---
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 ***Bound.*** The shield guardian is magically bound to an amulet. As long as the guardian and its amulet are on the same plane of existence, the amulet's wearer can telepathically call the guardian to travel to it, and the guardian knows the distance and direction to the amulet. If the guardian is within 60 feet of the amulet's wearer, half of any damage the wearer takes (rounded up) is transferred to the guardian.
 

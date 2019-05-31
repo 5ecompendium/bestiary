@@ -18,9 +18,8 @@ skills: "Medicine +7, Persuasion +3, Religion +4"
 speed: "25 ft."
 hit_points: "27  (5d8 + 5)"
 armor_class: "13 (chain shirt)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 

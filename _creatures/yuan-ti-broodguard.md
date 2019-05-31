@@ -19,9 +19,8 @@ saving_throws: "Str +4, Dex +4, Wis +2"
 speed: "30 ft."
 hit_points: "45 (7d8+14)"
 armor_class: "14 (natural armor)"
+condition_immunities: "poisoned"
 ---
-
-**Condition Immunities** poisoned
 
 ***Mental Resistance.*** The broodguard has advantage on saving throws against being charmed, and magic can't paralyze it.
 

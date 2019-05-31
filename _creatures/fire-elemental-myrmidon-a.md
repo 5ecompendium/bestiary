@@ -17,11 +17,9 @@ damage_immunities: "fire, poison"
 speed: "40 ft."
 hit_points: "117 (18d8+36)"
 armor_class: "18 (plate)"
+condition_immunities: "paralyzed, petrified, poisoned, prone"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** paralyzed, petrified, poisoned, prone
 
 ***Illumination.*** The myrmidon sheds bright light in a 20-foot radius and dim light in a 40-foot radius.
 

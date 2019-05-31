@@ -18,11 +18,9 @@ damage_immunities: "acid, poison"
 speed: "60 ft. (30 ft.in goblin form)"
 hit_points: "90 (12d10+24)"
 armor_class: "17 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** poisoned
 
 ***Shapechanger.*** The barghest can use its action to polymorph into a Small goblin or back into its true form. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. The barghest reverts to its true form if it dies.
 

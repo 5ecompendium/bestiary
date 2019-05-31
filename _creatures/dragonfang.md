@@ -17,9 +17,8 @@ saving_throws: "Wis +3"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"
 armor_class: "15 (studded leather)"
+damage_resistances: "one of the following: acid, cold, fire, lightning or poison"
 ---
-
-**Damage Resistances** one of the following: acid, cold, fire, lightning or poison
 
 ***Dragon Fanatic.*** The dragonfang has advantage on saving throws against being charmed or frightened. While the dragonfang can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonfang ignores the effects of being charmed or frightened.
 

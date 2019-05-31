@@ -19,9 +19,8 @@ saving_throws: "Str +19, Dex +9, Wis +17"
 speed: "60 ft., fly 120 ft."
 hit_points: "615 (30d20+300)"
 armor_class: "25 (natural armor)"
+condition_immunities: "blinded, charmed, deafened, frightened, poisoned, stunned"
 ---
-
-**Condition Immunities** blinded, charmed, deafened, frightened, poisoned, stunned
 
 ***Discorporation.*** When Tiamat drops to 0 hit points or dies, her body is destroyed but her essence travels back to her domain in the Nine Hells, and she is unable to take physical form for a time.
 

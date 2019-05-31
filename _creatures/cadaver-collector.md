@@ -18,9 +18,8 @@ damage_immunities: "necrotic, poison, psychic; bludgeoning, piercing, and slashi
 speed: "30 ft."
 hit_points: "189  (18d10 + 90)"
 armor_class: "17 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ***Magic Resistance.*** The cadaver collector has advantage on saving throws against spells and other magical effects.
 

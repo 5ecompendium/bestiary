@@ -19,9 +19,8 @@ saving_throws: "Con +8, Wis +6"
 speed: "25 ft."
 hit_points: "119  (14d8 + 56)"
 armor_class: "21 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 ---
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 ***Innate Spellcasting (Psionics).*** The duergar despot's innate spellcasting ability is Intelligence. It can cast the following spells, requiring no components:
 * At will: mage hand, minor illusion

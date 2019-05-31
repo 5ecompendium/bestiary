@@ -19,9 +19,8 @@ saving_throws: "Con +8, Wis +5"
 speed: "0 ft., fly 30 ft. (hover)"
 hit_points: "161 (17d10+68)"
 armor_class: "16 (natural armor)"
+condition_immunities: "prone"
 ---
-
-**Condition Immunities** prone
 
 ***Lightning Blood.*** A creature within 5 feet of the death kiss takes 5 (1d10) lightning damage whenever it hits the death kiss with a melee attack that deals piercing or slashing damage.
 

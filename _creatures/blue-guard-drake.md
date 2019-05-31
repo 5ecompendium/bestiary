@@ -17,9 +17,8 @@ skills: "Perception +2"
 speed: "30 ft., burrow 20 ft."
 hit_points: "52 (7d8+21)"
 armor_class: "14 (natural armor)"
+damage_resistances: "lightning"
 ---
-
-**Damage Resistances** lightning
 
 ### Actions
 

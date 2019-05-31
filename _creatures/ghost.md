@@ -17,11 +17,9 @@ damage_immunities: "cold, necrotic, poison"
 speed: "0 ft., fly 40 ft. It can hover."
 hit_points: "45 (10d8)"
 armor_class: "11"
+condition_immunities: "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+damage_resistances: "acid, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** acid, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ***Ethereal Sight.*** The ghost can see 60 ft. into the Ethereal Plane when it is on the Material Plane, and vice versa.
 

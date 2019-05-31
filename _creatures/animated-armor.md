@@ -16,9 +16,8 @@ damage_immunities: "poison, psychic"
 speed: "25 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "18 (natural armor)"
+condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
-
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ***Antimagic Susceptibility.*** The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 

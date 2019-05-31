@@ -19,11 +19,9 @@ saving_throws: "Str +6, Con +7, Wis +5, Cha +5"
 speed: "30 ft."
 hit_points: "110 (13d8+52)"
 armor_class: "15 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
-
-**Damage Resistances** cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered
-
-**Condition Immunities** poisoned
 
 ***Barbed Hide.*** At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.
 

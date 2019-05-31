@@ -18,9 +18,8 @@ damage_immunities: "poison"
 speed: "20 ft."
 hit_points: "38  (7d8 + 7)"
 armor_class: "15 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ***Engine of Pain.*** Once per turn, a creature that attacks the screamer can target the duergar trapped in it. The attacker has disadvantage on the attack roll. On a hit, the attack deals an extra 11 (2d10) damage to the screamer, and the screamer can respond by using its Multiattack with its reaction.
 

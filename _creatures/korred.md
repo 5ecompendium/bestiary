@@ -17,9 +17,8 @@ skills: "Athletics +9, Perception +5, Stealth +5"
 speed: "30 ft., burrow 30 ft."
 hit_points: "102 (12d6+60)"
 armor_class: "17 (natural armor)"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Command Hair.*** The korred has at least one 50-foot-long rope woven out of its hair. As a bonus action, the korred commands one such rope within 30 feet of it to move up to 20 feet and entangle a Large or smaller creature that the korred can see. The target must succeed on a DC 13 Dexterity saving throw or become grappled by the rope (escape DC 13). Until this grapple ends. the target is restrained. The korred can use a bonus action to release the target, which is also freed if the korred dies or becomes incapacitated.
 

@@ -17,11 +17,9 @@ damage_immunities: "poison"
 speed: "30 ft., fly 60 ft."
 hit_points: "52 (7d8+21)"
 armor_class: "15 (natural armor)"
+condition_immunities: "exhaustion, petrified, poisoned"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine
-
-**Condition Immunities** exhaustion, petrified, poisoned
 
 ***False Appearance.*** While the gargoyle remains motion less, it is indistinguishable from an inanimate statue.
 

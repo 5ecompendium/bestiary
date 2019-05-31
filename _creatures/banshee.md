@@ -18,11 +18,9 @@ saving_throws: "Wis +2, Cha +5"
 speed: "0 ft., fly 40 ft. (hover)"
 hit_points: "58 (13d8)"
 armor_class: "12"
+condition_immunities: "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+damage_resistances: "acid, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** acid, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ***Detect Life.*** The banshee can magically sense the presence of living creatures up to 5 miles away that aren't  undead or constructs. She knows the general direction they're in but not their exact locations.
 

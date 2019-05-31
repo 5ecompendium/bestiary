@@ -18,9 +18,8 @@ saving_throws: "Str +5, Con +4"
 speed: "30 ft."
 hit_points: "65 (10d8+20)"
 armor_class: "18 (plate)"
+damage_resistances: "fire"
 ---
-
-**Damage Resistances** fire
 
 ### Actions
 

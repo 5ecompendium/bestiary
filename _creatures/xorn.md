@@ -17,9 +17,8 @@ skills: "Perception +6, Stealth +3"
 speed: "20 ft., burrow 20 ft."
 hit_points: "73 (7d8+42)"
 armor_class: "19 (natural armor)"
+damage_resistances: "piercing and slashing from nonmagical weapons that aren't adamantine"
 ---
-
-**Damage Resistances** piercing and slashing from nonmagical weapons that aren't adamantine
 
 ***Earth Glide.*** The xorn can burrow through nonmagical, unworked earth and stone. While doing so, the xorn doesn't disturb the material it moves through.
 

@@ -18,9 +18,8 @@ saving_throws: "Dex +6, Con +5, Wis +5, Cha +6"
 speed: "40 ft."
 hit_points: "75 (10d10+20)"
 armor_class: "15 (natural armor)"
+condition_immunities: "charmed, poisoned"
 ---
-
-**Condition Immunities** charmed, poisoned
 
 ***Rejuvenation.*** If it dies, the naga returns to life in 1d6 days and regains all its hit points. Only a wish spell can prevent this trait from functioning.
 

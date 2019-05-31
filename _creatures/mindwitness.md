@@ -18,9 +18,8 @@ saving_throws: "Int +5, Wis +5"
 speed: "0 ft., fly 20 ft. (hover)"
 hit_points: "75 (10d10+20)"
 armor_class: "15 (natural armor)"
+condition_immunities: "prone"
 ---
-
-**Condition Immunities** prone
 
 ***Telepathic Hub.*** When the mindwitness receives a telepathic message, it can telepathically share that message with up to seven other creatures within 600 feet of it that it can see.
 

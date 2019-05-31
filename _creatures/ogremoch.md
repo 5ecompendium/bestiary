@@ -18,11 +18,9 @@ saving_throws: "Str +14, Con +15, Wis +8"
 speed: "50 ft., burrow 50 ft."
 hit_points: "526 (27d20+243)"
 armor_class: "20 (natural armor)"
+condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned, prone"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned, prone
 
 ***Empowered Attacks.*** Ogremoch's slam attacks are treated as magical and adamantine for the purpose of bypassing resistance and immunity to nonmagical weapons.
 

@@ -18,9 +18,8 @@ damage_immunities: "poison"
 speed: "30 ft., swim 30 ft."
 hit_points: "93 (11d10+33)"
 armor_class: "16 (natural armor)"
+condition_immunities: "poisoned"
 ---
-
-**Condition Immunities** poisoned
 
 ***Amphibious.*** The chuul can breathe air and water.
 

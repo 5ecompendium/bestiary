@@ -18,9 +18,8 @@ skills: "Nature +4, Perception +5, Stealth +6, Survival +5"
 speed: "30 ft."
 hit_points: "16  (3d8 + 3)"
 armor_class: "13 (leather armor)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 

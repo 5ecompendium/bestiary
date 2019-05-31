@@ -17,13 +17,10 @@ skills: "Stealth +8"
 speed: "30 ft., climb 30 ft., swim 30 ft."
 hit_points: "32 (5d8+10)"
 armor_class: "14"
+damage_vulnerabilities: "cold, fire"
+condition_immunities: "blinded, deafened, exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Vulnerabilities** cold, fire
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** blinded, deafened, exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious
 
 ***Ambusher.*** In the first round of a combat, the slithering tracker has advantage on attack rolls against any creature it surprised.
 

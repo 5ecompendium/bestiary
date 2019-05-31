@@ -17,9 +17,8 @@ saving_throws: "Int +7, Wis +5"
 speed: "30 ft."
 hit_points: "66 (12d8+12)"
 armor_class: "12 (15 with mage armor)"
+damage_resistances: "necrotic"
 ---
-
-**Damage Resistances** necrotic
 
 ***Spellcasting.*** The necromancer is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The necromancer has the following wizard spells prepared:
 

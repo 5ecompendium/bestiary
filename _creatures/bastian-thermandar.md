@@ -17,9 +17,8 @@ skills: "Arcana +3, Deception +7"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"
 armor_class: "12 (15 with mage armor)"
+damage_resistances: "fire"
 ---
-
-**Damage Resistances** fire
 
 ***Innate Spellcasting.*** Bastian's innate spellcasting ability is Constitution (spell save DC 13, +5 to hit with spell attacks). He can innately cast the following spells:
 

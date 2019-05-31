@@ -20,11 +20,9 @@ saving_throws: "Dex +10, Con +16, Wis +11, Cha +15"
 speed: "50 ft., swim 50 ft."
 hit_points: "406  (28d12 +224)"
 armor_class: "22 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, poisoned"
+damage_resistances: "cold, fire, lightning"
 ---
-
-**Damage Resistances** cold, fire, lightning
-
-**Condition Immunities** charmed, exhaustion, frightened, poisoned
 
 ***Innate Spellcasting.*** Demogorgon's spellcasting ability is Charisma. Demogorgon can innately cast the following spells, requiring no material components:
 * At will: detect magic, major image

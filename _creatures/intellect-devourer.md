@@ -17,11 +17,9 @@ skills: "Perception +2, Stealth +4"
 speed: "40 ft."
 hit_points: "21 (6d4+6)"
 armor_class: "12"
+condition_immunities: "blinded"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** blinded
 
 ***Detect Sentience.*** The intellect devourer can sense the presence and location of any creature within 300 feet of it that has an Intelligence of 3 or higher, regardless of interposing barriers, unless the creature is protected by a mind blank spell.
 

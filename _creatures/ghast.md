@@ -17,9 +17,8 @@ damage_immunities: "necrotic"
 speed: "30 ft."
 hit_points: "36 (8d8)"
 armor_class: "13"
+condition_immunities: "poisoned"
 ---
-
-**Condition Immunities** poisoned
 
 ***Stench.*** Any creature that starts its turn within 5 ft. of the ghast must succeed on a DC 10 Constitution saving throw or be poisoned until the start of its next turn. On a successful saving throw, the creature is immune to the ghast's Stench for 24 hours.
 

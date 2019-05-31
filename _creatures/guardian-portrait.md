@@ -18,9 +18,8 @@ damage_immunities: "poison"
 speed: "0 ft."
 hit_points: "22 (5d8)"
 armor_class: "5 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
 ---
-
-**Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ***Constructed Nature.*** An animated object doesn't require air, food, drink, or sleep.
 

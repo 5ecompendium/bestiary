@@ -16,11 +16,9 @@ senses: "darkvision 60 ft."
 speed: "40 ft., fly 40 ft. (hover)"
 hit_points: "51 (6d10+18)"
 armor_class: "14 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks not made with silvered weapons
-
-**Condition Immunities** charmed, exhaustion, frightened
 
 ***Keen Hearing and Smell.*** The yeth hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 

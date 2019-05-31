@@ -19,9 +19,8 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "4 (1d8)"
 armor_class: "10"
+condition_immunities: "exhaustion, paralyzed, petrified, poisoned, unconscious"
 ---
-
-**Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 
 ***Invisibility.*** The unseen servant is invisible.
 

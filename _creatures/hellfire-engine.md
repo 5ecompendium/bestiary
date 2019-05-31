@@ -19,11 +19,9 @@ saving_throws: "Dex +8, Wis +5, Cha +0"
 speed: "40 ft."
 hit_points: "216  (16d12 + 112)"
 armor_class: "18 (natural armor)"
+condition_immunities: "charmed, deafened, exhaustion, frightened, paralyzed, poisoned, unconscious"
+damage_resistances: "cold, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
-
-**Damage Resistances** cold, psychic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-**Condition Immunities** charmed, deafened, exhaustion, frightened, paralyzed, poisoned, unconscious
 
 ***Immutable Form.*** The hellfire engine is immune to any spell or effect that would alter its form.
 

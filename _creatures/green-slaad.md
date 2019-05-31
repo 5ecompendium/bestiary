@@ -17,9 +17,8 @@ skills: "Arcana +3, Perception +2"
 speed: "30 ft."
 hit_points: "127 (15d10+45)"
 armor_class: "16 (natural armor)"
+damage_resistances: "acid, cold, fire, lightning, thunder"
 ---
-
-**Damage Resistances** acid, cold, fire, lightning, thunder
 
 ***Shapechanger.*** The slaad can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Its statistics, other than its size, are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 

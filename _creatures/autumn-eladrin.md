@@ -18,9 +18,8 @@ skills: "Insight +7, Medicine +7"
 speed: "30 ft."
 hit_points: "127  (17d8 + 51)"
 armor_class: "19 (natural armor)"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Enchanting Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature is charmed by the eladrin for 1 minute. On a successful save, the creature becomes immune to any eladrin's Enchanting Presence for 24 hours.
 Whenever the eladrin deals damage to the charmed creature, the creature can repeat the saving throw, ending the effect on itself on a success.

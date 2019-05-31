@@ -20,11 +20,9 @@ saving_throws: "Dex +5, Int +5"
 speed: "30 ft., swim 40 ft."
 hit_points: "40  (9d8)"
 armor_class: "13"
+condition_immunities: "poisoned"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** poisoned
 
 ***Innate Spellcasting.*** The merrenoloth's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no material components:
 * At will: charm person, darkness, detect magic, dispel magic, gust of wind

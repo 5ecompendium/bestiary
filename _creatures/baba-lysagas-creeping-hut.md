@@ -19,9 +19,8 @@ saving_throws: "Con +9, Wis +0, Cha +0"
 speed: "30 ft."
 hit_points: "263 (17d10+85)"
 armor_class: "16 (natural armor)"
+condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, prone"
 ---
-
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, prone
 
 ***Constructed Nature.*** An animated object doesn't require air, food, drink, or sleep.
 

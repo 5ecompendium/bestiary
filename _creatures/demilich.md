@@ -17,11 +17,9 @@ saving_throws: "Con +6, Int +11, Wis +9, Cha +11"
 speed: "0 ft., fly 30 ft. (hover)"
 hit_points: "80 (20d4)"
 armor_class: "20 (natural armor)"
+condition_immunities: "charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned"
+damage_resistances: "bludgeoning, piercing, and slashing from magic weapons"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from magic weapons
-
-**Condition Immunities** charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned
 
 ***Avoidance.*** If the demilich is subjected to an effect that allows it to make a saving throw to take only half damage, it instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 

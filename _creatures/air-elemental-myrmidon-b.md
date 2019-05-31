@@ -18,11 +18,9 @@ damage_immunities: "poison"
 speed: "30 ft., fly 30 ft. (hover)"
 hit_points: "117  (18d8 + 36)"
 armor_class: "18 (plate)"
+condition_immunities: "paralyzed, petrified, poisoned, prone"
+damage_resistances: "lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** paralyzed, petrified, poisoned, prone
 
 ***Magic Weapons.*** The myrmidon's weapon attacks are magical. Actions
 

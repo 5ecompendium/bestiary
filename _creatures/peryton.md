@@ -16,9 +16,8 @@ skills: "Perception +5"
 speed: "20 ft., fly 60 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "13 (natural armor)"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Dive Attack.*** If the peryton is flying and dives at least 30 ft. straight toward a target and then hits it with a melee weapon attack, the attack deals an extra 9 (2d8) damage to the target.
 

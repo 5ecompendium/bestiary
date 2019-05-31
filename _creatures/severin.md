@@ -19,11 +19,9 @@ saving_throws: "Dex +5, Wis +5"
 speed: "30 ft."
 hit_points: "150 (20d8+60)"
 armor_class: "16"
+condition_immunities: "While wearing the mask of the Dragon Queen: charmed, frightened, poisoned"
+damage_resistances: "While wearing the mask of the Dragon Queen: acid, cold, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons"
 ---
-
-**Damage Resistances** While wearing the mask of the Dragon Queen: acid, cold, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons
-
-**Condition Immunities** While wearing the mask of the Dragon Queen: charmed, frightened, poisoned
 
 ***Special Equipment.*** Severin has the Mask of the Dragon Queen.
 

@@ -19,11 +19,9 @@ saving_throws: "Dex +3, Wis +5"
 speed: "30 ft."
 hit_points: "136  (13d10 + 65)"
 armor_class: "16 (natural armor)"
+condition_immunities: "charmed, frightened"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, frightened
 
 ***Psychic Mirror.*** If the hulk takes psychic damage, each creature within 10 feet of the hulk takes that damage instead; the hulk takes none of the damage. In addition, the hulk's thoughts and location can't be discerned by magic.
 

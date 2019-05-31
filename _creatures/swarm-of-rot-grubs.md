@@ -15,11 +15,9 @@ senses: "blindsight 10 ft."
 speed: "5 ft., climb 5 ft."
 hit_points: "22 (5d8)"
 armor_class: "8"
+condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained"
+damage_resistances: "piercing, slashing"
 ---
-
-**Damage Resistances** piercing, slashing
-
-**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny maggot. The swarm can't regain hit points or gain temporary hit points.
 

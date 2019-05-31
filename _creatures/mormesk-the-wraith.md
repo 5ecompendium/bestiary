@@ -17,11 +17,9 @@ damage_immunities: "necrotic, poison"
 speed: "0 ft., fly 60 ft."
 hit_points: "45 (6d8+18)"
 armor_class: "13"
+condition_immunities: "charmed, grappled, paralyzed, petrified, poisoned, prone, restrained"
+damage_resistances: "acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
-
-**Damage Resistances** acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered
-
-**Condition Immunities** charmed, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ***Incorporeal Movement.*** The wraith can move through an object or another creature, but can't stop there.
 

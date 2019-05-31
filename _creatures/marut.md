@@ -20,11 +20,9 @@ saving_throws: "Int +12, Wis +10, Cha +12"
 speed: "40 ft., fly 30 ft. (hover)"
 hit_points: "432  (32d10 + 256)"
 armor_class: "22 (natural armor)"
+condition_immunities: "charmed, frightened, paralyzed, poisoned, unconscious"
+damage_resistances: "thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, frightened, paralyzed, poisoned, unconscious
 
 ***Immutable Form.*** The marut is immune to any spell or effect that would alter its form.
 

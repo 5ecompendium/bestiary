@@ -19,11 +19,9 @@ saving_throws: "Con +7, Int +8, Wis +7, Cha +7"
 speed: "30 ft."
 hit_points: "120 (16d8+48)"
 armor_class: "15 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+damage_resistances: "cold, lightning, necrotic"
 ---
-
-**Damage Resistances** cold, lightning, necrotic
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 ***Magic Resistance.*** The alhoon has advantage on saving throws against spells and other magical effects.
 

@@ -19,11 +19,9 @@ damage_immunities: "bludgeoning, piercing, and slashing from nonmagical attacks"
 speed: "30 ft."
 hit_points: "97  (15d10 + 15)"
 armor_class: "17 (natural armor)"
+condition_immunities: "exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious"
+damage_resistances: "acid, cold, fire, lightning, thunder"
 ---
-
-**Damage Resistances** acid, cold, fire, lightning, thunder
-
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, prone, restrained, unconscious
 
 ***Incorporeal Movement.*** The troll can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 

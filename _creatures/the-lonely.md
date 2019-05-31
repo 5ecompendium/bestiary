@@ -17,9 +17,8 @@ senses: "darkvision 60 ft., passive Perception 10"
 speed: "30 ft."
 hit_points: "112  (15d8 + 45)"
 armor_class: "16 (natural armor)"
+damage_resistances: "bludgeoning, piercing, and slashing while in dim light or darkness"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing while in dim light or darkness
 
 ***Psychic Leech.*** At the start of each of the Lonely's turns, each creature within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6) psychic damage.
 

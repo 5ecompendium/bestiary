@@ -19,11 +19,9 @@ saving_throws: "Con +8, Int +9, Wis +7"
 speed: "30 ft."
 hit_points: "105 (14d8+42)"
 armor_class: "16 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+damage_resistances: "cold, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold, lightning, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 ***Source.*** tales from the yawning portal,  page 244
 

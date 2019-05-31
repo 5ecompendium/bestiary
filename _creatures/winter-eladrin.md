@@ -17,9 +17,8 @@ senses: "darkvision 60 ft., passive Perception 13"
 speed: "30 ft."
 hit_points: "127  (17d8 + 51)"
 armor_class: "19 (natural armor)"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Fey Step (Recharge 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
 

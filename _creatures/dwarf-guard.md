@@ -18,9 +18,8 @@ skills: "Perception +2"
 speed: "30 ft."
 hit_points: "11  (2d8 + 2)"
 armor_class: "16 (chain shirt, shield)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 

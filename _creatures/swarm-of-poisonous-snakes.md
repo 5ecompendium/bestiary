@@ -15,11 +15,9 @@ senses: "blindsight 10 ft."
 speed: "30 ft., swim 30 ft."
 hit_points: "36 (8d8)"
 armor_class: "14"
+condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+damage_resistances: "bludgeoning, piercing, slashing"
 ---
-
-**Damage Resistances** bludgeoning, piercing, slashing
-
-**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny snake. The swarm can't regain hit points or gain temporary hit points.
 

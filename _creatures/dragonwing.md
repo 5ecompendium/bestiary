@@ -17,9 +17,8 @@ saving_throws: "Wis +2"
 speed: "30 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "14 (leather armor)"
+damage_resistances: "one of the following: acid, cold, fire, lightning, or poison"
 ---
-
-**Damage Resistances** one of the following: acid, cold, fire, lightning, or poison
 
 ***Dragon Fanatic.*** The dragonwing has advantage on saving throws against being charmed or frightened. While the dragonwing can see a dragon or higher-ranking Cult of the Dragon cultist friendly to it, the dragonwing ignores the effects of being charmed or frightened.
 

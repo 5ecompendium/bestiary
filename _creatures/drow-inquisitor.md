@@ -19,9 +19,8 @@ saving_throws: "Con +7, Wis +10, Cha +10"
 speed: "30 ft."
 hit_points: "143  (22d8 + 44)"
 armor_class: "16 (breastplate)"
+condition_immunities: "frightened"
 ---
-
-**Condition Immunities** frightened
 
 ***Discern Lie.*** The drow knows when she hears a creature speak a lie in a language she knows.
 

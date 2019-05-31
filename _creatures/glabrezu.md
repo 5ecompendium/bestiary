@@ -18,11 +18,9 @@ saving_throws: "Str +9, Con +9, Wis +7, Cha +7"
 speed: "40 ft."
 hit_points: "157 (15d10+75)"
 armor_class: "17 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** poisoned
 
 ***Innate Spellcasting.*** The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
 

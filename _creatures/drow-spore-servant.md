@@ -16,9 +16,8 @@ senses: "blindsight 30 ft. (blind beyond this radius)"
 speed: "20 ft."
 hit_points: "13 (3d8)"
 armor_class: "15 (chain shirt)"
+condition_immunities: "blinded, charmed, frightened, paralyzed"
 ---
-
-**Condition Immunities** blinded, charmed, frightened, paralyzed
 
 ### Actions
 

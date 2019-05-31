@@ -19,11 +19,9 @@ saving_throws: "Int +14, Wis +14, Cha +17"
 speed: "50 ft., fly 150 ft."
 hit_points: "243 (18d10+144)"
 armor_class: "21 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, poisoned"
+damage_resistances: "radiant, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** radiant, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** charmed, exhaustion, frightened, poisoned
 
 ***Angelic Weapons.*** The solar's weapon attacks are magical. When the solar hits with any weapon, the weapon deals an extra 6d8 radiant damage (included in the attack).
 

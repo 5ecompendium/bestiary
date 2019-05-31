@@ -19,11 +19,9 @@ damage_immunities: "acid, poison"
 speed: "50 ft."
 hit_points: "120  (16d8 + 48)"
 armor_class: "16 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** poisoned
 
 ***Dimensional Lock.*** Other creatures can't teleport to or from a space within 60 feet of the canoloth. Any attempt to do so is wasted.
 

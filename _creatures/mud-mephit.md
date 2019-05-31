@@ -18,9 +18,8 @@ damage_immunities: "poison"
 speed: "20 ft., fly 20 ft., swim 20 ft."
 hit_points: "27 (6d6+6)"
 armor_class: "11"
+condition_immunities: "poisoned"
 ---
-
-**Condition Immunities** poisoned
 
 ***Death Burst.*** When the mephit dies, it explodes in a burst of sticky mud. Each Medium or smaller creature within 5 ft. of it must succeed on a DC 11 Dexterity saving throw or be restrained until the end of the creature's next turn.
 

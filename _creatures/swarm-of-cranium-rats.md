@@ -16,11 +16,9 @@ senses: "darkvision 30 ft."
 speed: "30 ft."
 hit_points: "36 (8d8)"
 armor_class: "12"
+condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+damage_resistances: "bludgeoning, piercing, slashing"
 ---
-
-**Damage Resistances** bludgeoning, piercing, slashing
-
-**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 ***Illumination.*** As a bonus action, the swarm can shed dim light from its brains in a 5-foot radius, increase the illumination to bright light in a 5- to 20-foot radius (and dim light for an additional number of feet equal to the chosen radius), or extinguish the light.
 

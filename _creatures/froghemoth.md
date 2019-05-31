@@ -17,9 +17,8 @@ saving_throws: "Con +9, Wis +5"
 speed: "50 ft., swim 30 ft."
 hit_points: "184 (16d12+80)"
 armor_class: "14 (natural armor)"
+damage_resistances: "fire, lightning"
 ---
-
-**Damage Resistances** fire, lightning
 
 ***Amphibious.*** The froghemoth can breathe air and water.
 

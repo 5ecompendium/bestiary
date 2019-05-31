@@ -18,9 +18,8 @@ damage_immunities: "lightning"
 speed: "10 ft., fly 30 ft. (hover)"
 hit_points: "55 (10d8+10)"
 armor_class: "12"
+condition_immunities: "blinded, prone"
 ---
-
-**Condition Immunities** blinded, prone
 
 ### Actions
 

@@ -19,11 +19,9 @@ saving_throws: "Dex +5, Wis +9"
 speed: "15 ft., fly 80 ft. (hover)"
 hit_points: "297  (17d20 + 119)"
 armor_class: "20 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, prone, stunned
 
 ***Antimagic Cone.*** The astral dreadnought's opened eye creates an area of antimagic, as in the antimagic field spell, in a 150foot cone. At the start of each of its turns, the dreadnought decides which way the cone faces. The cone doesn't function while the dreadnought's eye is closed or while the dreadnought is blinded.
 

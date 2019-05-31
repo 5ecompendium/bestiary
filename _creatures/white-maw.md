@@ -17,12 +17,10 @@ damage_immunities: "poison"
 speed: "10 ft."
 hit_points: "217 (14d20+70)"
 armor_class: "5"
+condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, poisoned, prone"
+damage_resistances: "acid, cold, fire"
 ---
 
-
-**Damage Resistances** acid, cold, fire
-
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, poisoned, prone
 
 ***Source.*** tales from the yawning portal,  page 248
 

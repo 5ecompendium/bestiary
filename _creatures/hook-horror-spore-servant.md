@@ -16,11 +16,9 @@ senses: "blindsight 30 ft. (blind beyond this radius)"
 speed: "20 ft., climb 20 ft."
 hit_points: "75 (10d10+20)"
 armor_class: "15 (natural armor)"
+condition_immunities: "blinded, charmed, frightened, paralyzed"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
-
-**Condition Immunities** blinded, charmed, frightened, paralyzed
 
 ### Actions
 

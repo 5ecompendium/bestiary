@@ -19,11 +19,9 @@ saving_throws: "Str +7, Con +7, Wis +6, Cha +7"
 speed: "30 ft."
 hit_points: "192 (16d8+64)"
 armor_class: "17 (half plate)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
+damage_resistances: "necrotic, psychic"
 ---
-
-**Damage Resistances** necrotic, psychic
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned, stunned
 
 ***Regeneration.*** Vladimir regains 10 hit points at the start of his turn. If he takes fire or radiant damage, this trait doesn't function at the start of his next turn. Vladimir's body is destroyed only if he starts his turn with 0 hit points and doesn't regenerate.
 

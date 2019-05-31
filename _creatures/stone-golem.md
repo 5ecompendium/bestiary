@@ -17,9 +17,8 @@ damage_immunities: "poison, psychic, bludgeoning, piercing, and slashing from no
 speed: "30 ft."
 hit_points: "178 (17d10+85)"
 armor_class: "17 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ***Immutable Form.*** The golem is immune to any spell or effect that would alter its form.
 

@@ -17,9 +17,8 @@ damage_immunities: "poison"
 speed: "30 ft., swim 30 ft."
 hit_points: "93 (11d10+33)"
 armor_class: "16 (natural armor)"
+condition_immunities: "blinded, charmed, frightened, paralyzed, poisoned"
 ---
-
-**Condition Immunities** blinded, charmed, frightened, paralyzed, poisoned
 
 ### Actions
 

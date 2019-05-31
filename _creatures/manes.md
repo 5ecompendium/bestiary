@@ -17,11 +17,9 @@ damage_immunities: "poison"
 speed: "20 ft."
 hit_points: "9 (2d6+2)"
 armor_class: "9 (natural armor)"
+condition_immunities: "charmed, frightened, poisoned"
+damage_resistances: "cold, fire, lightning"
 ---
-
-**Damage Resistances** cold, fire, lightning
-
-**Condition Immunities** charmed, frightened, poisoned
 
 ### Actions
 

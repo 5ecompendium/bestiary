@@ -20,9 +20,8 @@ saving_throws: "Dex +7, Wis +7, Cha +5"
 speed: "30 ft."
 hit_points: "123  (19d8 + 38)"
 armor_class: "15 (studded leather)"
+condition_immunities: "charmed, exhaustion, frightened"
 ---
-
-**Condition Immunities** charmed, exhaustion, frightened
 
 ***Fey Ancestry.*** The soul monger has advantage on saving throws against being charmed, and magic can't put it to sleep.
 

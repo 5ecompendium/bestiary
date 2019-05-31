@@ -20,11 +20,9 @@ saving_throws: "Dex +9, Con +14, Wis +11"
 speed: "30 ft., fly 60 ft."
 hit_points: "200  (16d10 + 112)"
 armor_class: "19 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, poisoned"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
-
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-**Condition Immunities** charmed, exhaustion, frightened, poisoned
 
 ***Infernal Despair.*** Each creature within 15 feet of Hutijin that isn't a devil makes saving throws with disadvantage.
 

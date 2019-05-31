@@ -18,11 +18,9 @@ damage_immunities: "poison"
 speed: "40 ft."
 hit_points: "52  (7d8 + 21)"
 armor_class: "14 (natural armor)"
+condition_immunities: "charmed, frightened, poisoned"
+damage_resistances: "cold, fire, lightning"
 ---
-
-**Damage Resistances** cold, fire, lightning
-
-**Condition Immunities** charmed, frightened, poisoned
 
 ***Rotting Presence.*** When any creature that isn't a demon starts its turn within 30 feet one or more bulezaus, that creature must succeed on a DC 13 Constitution saving throw or take 1d6 necrotic damage plus 1 necrotic damage for each bulezau within 30 feet of it.
 

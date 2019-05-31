@@ -18,11 +18,9 @@ skills: "Perception +8"
 speed: "40 ft."
 hit_points: "90  (12d10 + 24)"
 armor_class: "16 (natural armor)"
+condition_immunities: "frightened"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** frightened
 
 ***Pack Tactics.*** A howler has advantage on attack rolls against a creature if at least one of the howler's allies is within 5 feet of the creature and the ally isn't incapacitated.
 

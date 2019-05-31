@@ -17,9 +17,8 @@ skills: "Perception +6"
 speed: "0 ft., fly 30 ft. (hover)"
 hit_points: "39 (6d8+12)"
 armor_class: "14 (natural armor)"
+condition_immunities: "prone"
 ---
-
-**Condition Immunities** prone
 
 ### Actions
 

@@ -19,9 +19,8 @@ saving_throws: "Con +9, Wis +11, Cha +12"
 speed: "30 ft."
 hit_points: "262  (35d8 + 105)"
 armor_class: "17 (half plate)"
+condition_immunities: "charmed, frightened, poisoned"
 ---
-
-**Condition Immunities** charmed, frightened, poisoned
 
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 

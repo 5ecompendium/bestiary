@@ -18,9 +18,8 @@ saving_throws: "Int +5, Wis +5, Cha +4"
 speed: "0 ft., fly 20 ft. (hover)"
 hit_points: "67 (9d8+27)"
 armor_class: "15 (natural armor)"
+condition_immunities: "prone"
 ---
-
-**Condition Immunities** prone
 
 ***Stunning Gaze.*** When a creature that can see the gauth's central eye starts its turn within 30 feet of the gauth, the gauth can force it to make a DC 14 Wisdom saving throw if the gauth isn't incapacitated and can see the creature. A creature that fails the save is stunned until the start of its next turn, when it can avert its eyes again. If the creature looks at the gauth in the meantime, it must immediately make the save.
 

@@ -17,9 +17,8 @@ saving_throws: "Dex +5, Wis +7, Cha +8"
 speed: "30 ft., fly 60 ft., swim 90 ft."
 hit_points: "229 (17d10+136)"
 armor_class: "17 (natural armor)"
+damage_resistances: "acid, cold, lightning"
 ---
-
-**Damage Resistances** acid, cold, lightning
 
 ***Amphibious.*** The marid can breathe air and water.
 

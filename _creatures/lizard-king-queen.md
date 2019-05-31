@@ -18,9 +18,8 @@ saving_throws: "Con +4, Wis +2"
 speed: "30 ft., swim 30 ft."
 hit_points: "78 (12d8+24)"
 armor_class: "15 (natural armor)"
+condition_immunities: "frightened"
 ---
-
-**Condition Immunities** frightened
 
 ***Hold Breath.*** The lizardfolk can hold its breath for 15 minutes.
 

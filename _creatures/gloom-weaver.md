@@ -19,9 +19,8 @@ saving_throws: "Dex +8, Con +6"
 speed: "30 ft."
 hit_points: "104  (16d8 + 32)"
 armor_class: "14 (17 with mage armor)"
+condition_immunities: "charmed, exhaustion"
 ---
-
-**Condition Immunities** charmed, exhaustion
 
 ***Burden of Time.*** Beasts and humanoids, other than shadar-kai, have disadvantage on saving throws while within 10 feet of the gloom weaver.
 

@@ -17,9 +17,8 @@ skills: "Athletics +8, Stealth +7"
 speed: "30 ft."
 hit_points: "84 (8d10+40)"
 armor_class: "15 (natural armor)"
+condition_immunities: "charmed, frightened"
 ---
-
-**Condition Immunities** charmed, frightened
 
 ***Resonant Connection.*** If the banderhobb has even a tiny piece of a creature or an obect in its possession, such as a lock of hair or a splinter of wood, it knows the most direct route to that creature or object if it is within1 mile of the banderhobb.
 

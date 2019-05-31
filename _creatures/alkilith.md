@@ -20,11 +20,9 @@ saving_throws: "Dex +8, Con +10"
 speed: "40 ft."
 hit_points: "157  (15d8 + 90)"
 armor_class: "17 (natural armor)"
+condition_immunities: "charmed, frightened, poisoned"
+damage_resistances: "acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, frightened, poisoned
 
 ***Amorphous.*** The alkilith can move through a space as narrow as 1 inch wide without squeezing.
 

@@ -18,9 +18,8 @@ saving_throws: "Str +17, Dex +7, Con +14, Int +13, Wis +11"
 speed: "20 ft., swim 60 ft."
 hit_points: "472 (27d20+189)"
 armor_class: "18 (natural armor)"
+condition_immunities: "frightened, paralyzed"
 ---
-
-**Condition Immunities** frightened, paralyzed
 
 ***Amphibious.*** The kraken can breathe air and water.
 

@@ -18,11 +18,9 @@ damage_immunities: "poison"
 speed: "60 ft."
 hit_points: "84  (8d10 + 40)"
 armor_class: "16 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, fire, lightning"
 ---
-
-**Damage Resistances** cold, fire, lightning
-
-**Condition Immunities** poisoned
 
 ***Magic Resistance.*** The armanite has advantage on saving throws against spells and other magical effects.
 

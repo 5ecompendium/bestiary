@@ -19,11 +19,9 @@ saving_throws: "Wis +10, Cha +9"
 speed: "20 ft., fly 120 ft."
 hit_points: "175  (10d20 + 70)"
 armor_class: "18"
+condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
 
 ***Fiery Death and Rebirth.*** When the phoenix dies, it explodes. Each creature within 60-feet of it must make a DC 20 Dexterity saving throw, taking 22 (4d10) fire damage on a failed save, or half as much damage on a successful one. The fire ignites flammable objects in the area that aren't worn or carried.
 The explosion destroys the phoenix's body and leaves behind an egg-shaped cinder that weighs 5 pounds. The cinder is blazing hot, dealing 21 (6d6) fire damage to any creature that touches it, though no more than once per round. The cinder is immune to all damage, and after 1d6 days, it hatches a new phoenix.

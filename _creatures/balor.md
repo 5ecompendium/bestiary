@@ -18,11 +18,9 @@ saving_throws: "Str +14, Con +12, Wis +9, Cha +12"
 speed: "40 ft., fly 80 ft."
 hit_points: "262 (21d12+126)"
 armor_class: "19 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** cold, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** poisoned
 
 ***Death Throes.*** When the balor dies, it explodes, and each creature within 30 feet of it must make a DC 20 Dexterity saving throw, taking 70 (20d6) fire damage on a failed save, or half as much damage on a successful one. The explosion ignites flammable objects in that area that aren't being worn or carried, and it destroys the balor's weapons.
 

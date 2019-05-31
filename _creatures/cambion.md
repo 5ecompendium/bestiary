@@ -18,9 +18,8 @@ saving_throws: "Str +7, Con +6, Int +5, Cha +6"
 speed: "30 ft., fly 60 ft."
 hit_points: "82 (11d8+33)"
 armor_class: "19 (scale mail)"
+damage_resistances: "cold, fire, lightning, poison, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** cold, fire, lightning, poison, bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Fiendish Blessing.*** The AC of the cambion includes its Charisma bonus.
 

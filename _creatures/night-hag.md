@@ -17,11 +17,9 @@ skills: "Deception +7, Insight +6, Perception +6, Stealth +6"
 speed: "30 ft."
 hit_points: "112 (15d8+45)"
 armor_class: "17 (natural armor)"
+condition_immunities: "charmed"
+damage_resistances: "cold, fire, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
-
-**Damage Resistances** cold, fire, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered
-
-**Condition Immunities** charmed
 
 ***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
