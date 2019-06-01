@@ -19,11 +19,9 @@ saving_throws: "Dex +7, Con +6, Wis +6"
 speed: "40 ft."
 hit_points: "127  (17d10 + 34)"
 armor_class: "16 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 ***Rejuvenation.*** While its master lives, a destroyed boneclaw gains a new body in 1d10 hours, with all its hit points. The new body appears within 1 mile of the boneclaw's master.
 

@@ -17,9 +17,8 @@ saving_throws: "Wis +2"
 speed: "0 ft., fly 30 ft. (hover)"
 hit_points: "13 (3d4+6)"
 armor_class: "13"
+condition_immunities: "prone"
 ---
-
-**Condition Immunities** prone
 
 ***Aggressive.*** As a bonus action, the gazer can move up to its speed toward a hostile creature that it can see.
 

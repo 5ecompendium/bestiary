@@ -17,11 +17,9 @@ skills: "Perception +3, Stealth +4"
 speed: "10 ft., swim 30 ft."
 hit_points: "67 (9d8+27)"
 armor_class: "14 (natural armor)"
+condition_immunities: "blinded, deafened, exhaustion"
+damage_resistances: "bludgeoning, fire, piercing"
 ---
-
-**Damage Resistances** bludgeoning, fire, piercing
-
-**Condition Immunities** blinded, deafened, exhaustion
 
 ***Source.*** tales from the yawning portal,  page 238
 

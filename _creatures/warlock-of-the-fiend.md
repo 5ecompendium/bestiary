@@ -18,9 +18,8 @@ saving_throws: "Wis +4, Cha +7"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"
 armor_class: "12 (15 with mage armor)"
+damage_resistances: "slashing damage from nonmagical attacks not made with silvered weapons"
 ---
-
-**Damage Resistances** slashing damage from nonmagical attacks not made with silvered weapons
 
 ***Innate Spellcasting.*** The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:
 

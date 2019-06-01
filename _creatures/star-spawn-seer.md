@@ -20,11 +20,9 @@ saving_throws: "Dex +6, Int +11, Wis +9, Cha +8"
 speed: "30 ft."
 hit_points: "153  (18d8 + 72)"
 armor_class: "17 (natural armor)"
+condition_immunities: "charmed, frightened"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, frightened
 
 ***Out-of-Phase Movement.*** The seer can move through other creatures and objects as if they were difficult terrain. Each creature it moves through takes 5 (1d10) psychic damage; no creature can take this damage more than once per turn. The seer takes 5 (1d10) force damage if it ends its turn inside an object.
 

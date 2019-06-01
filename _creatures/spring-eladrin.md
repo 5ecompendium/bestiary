@@ -18,9 +18,8 @@ skills: "Deception +8, Persuasion +8"
 speed: "30 ft."
 hit_points: "127  (17d8 + 51)"
 armor_class: "19 (natural armor)"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Fey Step (Recharge 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
 

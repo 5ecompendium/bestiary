@@ -17,9 +17,8 @@ saving_throws: "Int +5, Wis +9, Cha +9"
 speed: "40 ft."
 hit_points: "676 (33d20+330)"
 armor_class: "25 (natural armor)"
+condition_immunities: "charmed, frightened, paralyzed, poisoned"
 ---
-
-**Condition Immunities** charmed, frightened, paralyzed, poisoned
 
 ***Legendary Resistance (3/Day).*** If the tarrasque fails a saving throw, it can choose to succeed instead.
 

@@ -20,11 +20,9 @@ saving_throws: "Dex +8, Con +14, Int +15, Wis +14"
 speed: "40 ft., fly 40 ft."
 hit_points: "337  (27d10 + 189)"
 armor_class: "18 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, poisoned"
+damage_resistances: "cold, fire, lightning"
 ---
-
-**Damage Resistances** cold, fire, lightning
-
-**Condition Immunities** charmed, exhaustion, frightened, poisoned
 
 ***Innate Spellcasting.*** Fraz-Urb'luu's spellcasting ability is Charisma. Fraz-Urb'luu can innately cast the following spells, requiring no material components:
 * At will: alter self (can become Medium when changing his appearance), detect magic, dispel magic, phantasmal force

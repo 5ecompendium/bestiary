@@ -18,11 +18,9 @@ saving_throws: "Dex +8, Con +13, Wis +10"
 speed: "30 ft., fly 60 ft."
 hit_points: "300 (24d10+168)"
 armor_class: "19 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
-
-**Damage Resistances** cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered
-
-**Condition Immunities** poisoned
 
 ***Fear Aura.*** Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.
 

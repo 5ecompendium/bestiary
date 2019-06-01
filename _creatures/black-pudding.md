@@ -16,9 +16,8 @@ damage_immunities: "acid, cold, lightning, slashing"
 speed: "20 ft., climb 20 ft."
 hit_points: "85 (10d10+30)"
 armor_class: "7"
+condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
 ---
-
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 
 ***Amorphous.*** The pudding can move through a space as narrow as 1 inch wide without squeezing.
 

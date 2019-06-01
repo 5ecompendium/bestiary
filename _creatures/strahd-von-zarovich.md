@@ -19,9 +19,8 @@ saving_throws: "Dex +9, Wis +7, Cha +9"
 speed: "30 ft."
 hit_points: "144 (17d8+68)"
 armor_class: "16 (natural armor)"
+damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Shapechanger.*** If Strahd isn't in running water or sunlight, he can use his action to polymorph into a Tiny bat, a Medium wolf, or a Medium cloud of mist, or back into his true form.
 

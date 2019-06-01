@@ -18,11 +18,9 @@ saving_throws: "Con +11, Int +9, Wis +6, Cha +7"
 speed: "20 ft., fly 30 ft."
 hit_points: "184 (16d10+96)"
 armor_class: "18 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** poisoned
 
 ***Magic Resistance.*** The nalfeshnee has advantage on saving throws against spells and other magical effects.
 

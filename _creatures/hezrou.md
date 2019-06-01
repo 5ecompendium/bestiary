@@ -18,11 +18,9 @@ saving_throws: "Str +7, Con +8, Wis +4"
 speed: "30 ft."
 hit_points: "136 (13d10+65)"
 armor_class: "16 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** poisoned
 
 ***Magic Resistance.*** The hezrou has advantage on saving throws against spells and other magical effects.
 

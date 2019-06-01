@@ -16,9 +16,8 @@ skills: "Intimidation +3, Perception +2"
 speed: "30 ft."
 hit_points: "45 (7d8+14)"
 armor_class: "17 (breastplate, shield; 15 while using a crossbow)"
+damage_resistances: "fire"
 ---
-
-**Damage Resistances** fire
 
 ***Flaming Weapon (Recharges after a Short or Long Rest).*** As a bonus action, the guard can wreath one melee weapon it is wielding in flame. The guard is unharmed by this fire, which lasts until the end of the guard's next turn. While wreathed in flame, the weapon deals an extra 3 (1d6) fire damage on a hit.
 

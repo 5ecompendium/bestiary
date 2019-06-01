@@ -19,11 +19,9 @@ saving_throws: "Wis +5, Cha +2"
 speed: "40 ft."
 hit_points: "172  (15d12 + 75)"
 armor_class: "15 (natural armor)"
+condition_immunities: "frightened, poisoned"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** frightened, poisoned
 
 ***Keen Senses.*** The troll has advantage on Wisdom (Perception) checks that rely on smell or sight.
 

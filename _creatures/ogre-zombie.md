@@ -18,9 +18,8 @@ saving_throws: "Wis +0"
 speed: "30 ft."
 hit_points: "85 (9d10+36)"
 armor_class: "8"
+condition_immunities: "poisoned"
 ---
-
-**Condition Immunities** poisoned
 
 ***Undead Fortitude.*** If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5+the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.
 

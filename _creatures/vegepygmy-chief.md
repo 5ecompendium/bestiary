@@ -17,9 +17,8 @@ skills: "Perception +3, Stealth +4"
 speed: "30 ft."
 hit_points: "33 (6d6+12)"
 armor_class: "14 (natural armor)"
+damage_resistances: "lightning, piercing"
 ---
-
-**Damage Resistances** lightning, piercing
 
 ### Actions
 

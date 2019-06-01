@@ -18,11 +18,9 @@ damage_immunities: "cold, poison"
 speed: "30 ft., fly 30 ft."
 hit_points: "21 (6d6)"
 armor_class: "11"
+damage_vulnerabilities: "bludgeoning, fire"
+condition_immunities: "poisoned"
 ---
-
-**Damage Vulnerabilities** bludgeoning, fire
-
-**Condition Immunities** poisoned
 
 ***Death Burst.*** When the mephit dies, it explodes in a burst of jagged ice. Each creature within 5 ft. of it must make a DC 10 Dexterity saving throw, taking 4 (1d8) slashing damage on a failed save, or half as much damage on a successful one.
 

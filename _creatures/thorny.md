@@ -16,9 +16,8 @@ skills: "Perception +4, Stealth +3"
 speed: "30 ft."
 hit_points: "27 (5d8+5)"
 armor_class: "14 (natural armor)"
+damage_resistances: "lightning, piercing"
 ---
-
-**Damage Resistances** lightning, piercing
 
 ***Plant Camouflage .*** The thorny has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.
 

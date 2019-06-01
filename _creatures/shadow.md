@@ -17,13 +17,10 @@ damage_immunities: "necrotic, poison"
 speed: "40 ft."
 hit_points: "16 (3d8+3)"
 armor_class: "12"
+damage_vulnerabilities: "radiant"
+condition_immunities: "exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+damage_resistances: "acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Vulnerabilities** radiant
-
-**Damage Resistances** acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ***Amorphous.*** The shadow can move through a space as narrow as 1 inch wide without squeezing.
 

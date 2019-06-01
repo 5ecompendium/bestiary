@@ -19,9 +19,8 @@ saving_throws: "Wis +0"
 speed: "20 ft."
 hit_points: "30 (4d8+12)"
 armor_class: "8"
+condition_immunities: "poisoned"
 ---
-
-**Condition Immunities** poisoned
 
 ***Loathsome Limbs.*** Whenever the zombie takes at least 5 bludgeoning or slashing damage at one time, roll a d20 to determine what else happens to it:
 

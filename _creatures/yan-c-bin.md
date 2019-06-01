@@ -18,11 +18,9 @@ saving_throws: "Dex +13, Wis +11, Cha +12"
 speed: "50 ft., fly 150 ft."
 hit_points: "283 (21d12+147)"
 armor_class: "22 (natural armor)"
+condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned, prone, restrained"
+damage_resistances: "cold, fire;  bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** cold, fire;  bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned, prone, restrained
 
 ***Air Form.*** Yan-C-Bin can enter a hostile creature's space and stop there. He can move through a space as narrow as 1 inch wide without squeezing if air could pass through that space.
 

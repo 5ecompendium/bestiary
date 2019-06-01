@@ -19,13 +19,10 @@ saving_throws: "Dex +5, Cha +4"
 speed: "30 ft., fly 30 ft."
 hit_points: "66 (12d8+12)"
 armor_class: "13"
+damage_vulnerabilities: "radiant"
+condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained"
+damage_resistances: "acid, fire, necrotic, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Vulnerabilities** radiant
-
-**Damage Resistances** acid, fire, necrotic, thunder, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ***Incorporeal Movement.*** The demon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 

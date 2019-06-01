@@ -20,11 +20,9 @@ saving_throws: "Wis +8"
 speed: "0 ft., fly 40 ft. (hover)"
 hit_points: "63  (18d8 - 18)"
 armor_class: "9"
+condition_immunities: "charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+damage_resistances: "acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** acid, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ***Incorporeal Movement.*** The eidolon can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object other than a sacred statue.
 

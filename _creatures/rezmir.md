@@ -19,9 +19,8 @@ saving_throws: "Dex +6, Wis +4"
 speed: "30 ft."
 hit_points: "90 (12d8+36)"
 armor_class: "13 (15 with the Black Dragon Mask)"
+condition_immunities: "charmed, frightened"
 ---
-
-**Condition Immunities** charmed, frightened
 
 ***Special Equipment.*** Rezmir has the Black Dragon Mask, Hazirawn, and an insignia of claws.
 

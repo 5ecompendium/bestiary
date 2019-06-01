@@ -16,9 +16,8 @@ senses: "darkvision 120 ft."
 speed: "25 ft."
 hit_points: "26 (4d8+8)"
 armor_class: "16 (scale mail, shield)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Innate Spellcasting (Psionics).*** The darkhaft's innate spellcasting ability is Intelligence (spell save DC 10) it can innately cast the following spells, requiring no components:
 

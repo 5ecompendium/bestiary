@@ -18,11 +18,9 @@ saving_throws: "Str +11, Con +9, Int +4, Wis +6, Cha +6"
 speed: "20 ft., swim 40 ft."
 hit_points: "172 (15d12+75)"
 armor_class: "17 (natural armor)"
+condition_immunities: "frightened, paralyzed"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** frightened, paralyzed
 
 ***Source.*** tales from the yawning portal,  page 239
 

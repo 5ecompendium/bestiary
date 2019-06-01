@@ -17,9 +17,8 @@ senses: "darkvision 60 ft., passive Perception 8"
 speed: "40 ft."
 hit_points: "10  (4d6 - 4)"
 armor_class: "15 (natural armor)"
+damage_resistances: "bludgeoning, piercing, and slashing while in dim light or darkness"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing while in dim light or darkness
 
 ***Wretched Pack Tactics.*** The Wretched has advantage on an attack roll against a creature if at least one of the Wretched's allies is within 5 feet of the creature and the ally isn't incapacitated. The Wretched otherwise has disadvantage on attack rolls.
 

@@ -18,11 +18,9 @@ saving_throws: "Dex +7, Con +8, Wis +6, Cha +8"
 speed: "30 ft., fly 60 ft."
 hit_points: "153 (18d8+72)"
 armor_class: "18 (plate)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
-
-**Damage Resistances** cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered
-
-**Condition Immunities** poisoned
 
 ***Hellish Weapons.*** The erinyes's weapon attacks are magical and deal an extra 13 (3d8) poison damage on a hit (included in the attacks).
 

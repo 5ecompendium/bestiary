@@ -18,9 +18,8 @@ damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical 
 speed: "30 ft."
 hit_points: "52  (7d8 + 21)"
 armor_class: "16 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ***False Appearance.*** While the stone defender remains motionless against an uneven earthen or stone surface, it is indistinguishable from that surface.
 

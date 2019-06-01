@@ -17,11 +17,9 @@ damage_immunities: "lightning, poison"
 speed: "0 ft., fly 50 ft. (hover)"
 hit_points: "22 (9d4)"
 armor_class: "19"
+condition_immunities: "exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious"
+damage_resistances: "acid, cold, fire, necrotic, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** acid, cold, fire, necrotic, thunder, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** exhaustion, grappled, paralyzed, poisoned, prone, restrained, unconscious
 
 ***Consume Life.*** As a bonus action, the will-o'-wisp can target one creature it can see within 5 ft. of it that has 0 hit points and is still alive. The target must succeed on a DC 10 Constitution saving throw against this magic or die. If the target dies, the will-o'-wisp regains 10 (3d6) hit points.
 

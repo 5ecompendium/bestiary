@@ -18,9 +18,8 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"
 armor_class: "16"
+condition_immunities: "blinded, poisoned"
 ---
-
-**Condition Immunities** blinded, poisoned
 
 ***Evasion.*** If Hellenrae is subjected to an effect that allows her to make a Dexterity saving throw to take only half damage, she instead takes no damage if she succeeds on the saving throw, and only half damage if she fails.
 

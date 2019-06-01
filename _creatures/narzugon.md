@@ -20,11 +20,9 @@ saving_throws: "Dex +5, Con +8, Cha +9"
 speed: "30 ft."
 hit_points: "112  (15d8 + 45)"
 armor_class: "20 (plate armor, shield)"
+condition_immunities: "charmed, frightened, poisoned"
+damage_resistances: "acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
-
-**Damage Resistances** acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-**Condition Immunities** charmed, frightened, poisoned
 
 ***Diabolical Sense.*** The narzugon has advantage on Wisdom (Perception) checks made to perceive good-aligned creatures.
 

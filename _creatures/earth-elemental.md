@@ -17,13 +17,10 @@ damage_immunities: "poison"
 speed: "30 ft., burrow 30 ft."
 hit_points: "126 (12d10+60)"
 armor_class: "17 (natural armor)"
+damage_vulnerabilities: "thunder"
+condition_immunities: "exhaustion, paralyzed, petrified, poisoned, unconscious"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Vulnerabilities** thunder
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** exhaustion, paralyzed, petrified, poisoned, unconscious
 
 ***Earth Glide.*** The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.
 

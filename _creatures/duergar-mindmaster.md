@@ -19,9 +19,8 @@ saving_throws: "Wis +2"
 speed: "25 ft."
 hit_points: "39  (6d8 + 12)"
 armor_class: "14 (leather armor)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
 

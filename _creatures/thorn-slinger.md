@@ -15,9 +15,8 @@ senses: "blindsight 60 ft. (blind beyond this radius)"
 speed: "10 ft."
 hit_points: "32 (5d10+5)"
 armor_class: "11"
+condition_immunities: "blinded, deafened, frightened"
 ---
-
-**Condition Immunities** blinded, deafened, frightened
 
 ***Source.*** tales from the yawning portal,  page 246
 

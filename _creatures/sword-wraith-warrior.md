@@ -18,11 +18,9 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "45  (6d8 + 18)"
 armor_class: "16 (chain shirt, shield)"
+condition_immunities: "exhaustion, frightened, poisoned, unconscious"
+damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** exhaustion, frightened, poisoned, unconscious
 
 ***Martial Fury.*** As a bonus action, the sword wraith can make one weapon attack. If it does so, attack rolls against it have advantage until the start of its next turn.
 

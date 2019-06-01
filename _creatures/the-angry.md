@@ -18,9 +18,8 @@ skills: "Perception +6"
 speed: "30 ft."
 hit_points: "255  (30d8 + 120)"
 armor_class: "18 (natural armor)"
+damage_resistances: "bludgeoning, piercing, and slashing while in dim light or darkness"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing while in dim light or darkness
 
 ***Two Heads.*** The Angry has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
 

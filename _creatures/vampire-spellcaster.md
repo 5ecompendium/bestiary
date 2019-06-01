@@ -18,9 +18,8 @@ saving_throws: "Dex +9, Wis +7, Cha +9"
 speed: "30 ft."
 hit_points: "144 (17d8+68)"
 armor_class: "16 (natural armor)"
+damage_resistances: "necrotic, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** necrotic, bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Shapechanger.*** If the vampire isn't in sun light or running water, it can use its action to polymorph into a Tiny bat or a Medium cloud of mist, or back into its true form.
 

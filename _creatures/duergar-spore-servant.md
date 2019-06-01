@@ -16,11 +16,9 @@ senses: "blindsight 30 ft. (blind beyond this radius)"
 speed: "15 ft."
 hit_points: "26 (4d8+8)"
 armor_class: "16 (scale armor, shield)"
+condition_immunities: "blinded, charmed, frightened, paralyzed"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
-
-**Condition Immunities** blinded, charmed, frightened, paralyzed
 
 ### Actions
 

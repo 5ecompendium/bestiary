@@ -17,9 +17,8 @@ skills: "Perception +2, Stealth +4"
 speed: "30 ft."
 hit_points: "9 (2d6+2)"
 armor_class: "13 (natural armor)"
+damage_resistances: "lightning, piercing"
 ---
-
-**Damage Resistances** lightning, piercing
 
 ***Plant Camouflage .*** The vegepygmy has advantage on Dexterity (Stealth) checks it makes in any terrain with ample obscuring plant life.
 

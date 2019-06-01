@@ -16,11 +16,9 @@ damage_immunities: "lightning, slashing"
 speed: "10 ft., climb 10 ft."
 hit_points: "45 (6d10+12)"
 armor_class: "8"
+condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
+damage_resistances: "acid"
 ---
-
-**Damage Resistances** acid
-
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 
 ***Amorphous.*** The jelly can move through a space as narrow as 1 inch wide without squeezing.
 

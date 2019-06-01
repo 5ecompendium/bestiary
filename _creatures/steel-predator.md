@@ -19,11 +19,9 @@ damage_immunities: "poison, psychic; bludgeoning, piercing, and slashing from no
 speed: "40 ft."
 hit_points: "207  (18d10 + 108)"
 armor_class: "20 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned"
+damage_resistances: "cold, lightning, necrotic, thunder"
 ---
-
-**Damage Resistances** cold, lightning, necrotic, thunder
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned, stunned
 
 ***Innate Spellcasting.*** The steel predator's innate spellcasting ability is Wisdom. The steel predator can innately cast the following spells, requiring no components:
 3/day each: dimension door (self only), plane shift (self only)

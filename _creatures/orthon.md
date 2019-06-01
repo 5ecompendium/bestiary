@@ -20,11 +20,9 @@ saving_throws: "Dex +7, Con +9, Wis +6"
 speed: "30 ft., climb 30 ft."
 hit_points: "105  (10d10 + 50)"
 armor_class: "17 (half plate)"
+condition_immunities: "charmed, exhaustion, poisoned"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
-
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-**Condition Immunities** charmed, exhaustion, poisoned
 
 ***Invisibility Field.*** The orthon can use a bonus action to become invisible. Any equipment the orthon wears or carries is also invisible as long as the equipment is on its person. This invisibility ends immediately after the orthon makes an attack roll or is hit by an attack.
 

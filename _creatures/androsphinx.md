@@ -19,9 +19,8 @@ saving_throws: "Dex +6, Con +11, Int +9, Wis +10"
 speed: "40 ft., fly 60 ft."
 hit_points: "199 (19d10+95)"
 armor_class: "17 (natural armor)"
+condition_immunities: "charmed, frightened"
 ---
-
-**Condition Immunities** charmed, frightened
 
 ***Inscrutable.*** The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.
 

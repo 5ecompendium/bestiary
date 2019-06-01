@@ -19,11 +19,9 @@ damage_immunities: "fire, poison"
 speed: "20 ft."
 hit_points: "11  (2d8 + 2)"
 armor_class: "13 (natural armor)"
+condition_immunities: "blinded, charmed, frightened, poisoned"
+damage_resistances: "acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
-
-**Damage Resistances** acid, cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-**Condition Immunities** blinded, charmed, frightened, poisoned
 
 ***Cloud of Vermin.*** Any creature, other than a devil, that starts its turn within 20 feet of the nupperibo must make a DC 11 Constitution saving throw. A creature within the areas of two or more nupperibos makes the saving throw with disadvantage. On a failure, the creature takes 2 (1d4) piercing damage.
 

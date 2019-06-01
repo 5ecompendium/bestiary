@@ -20,11 +20,9 @@ saving_throws: "Dex +11, Con +13, Wis +11, Cha +13"
 speed: "30 ft."
 hit_points: "253  (22d10 + 132)"
 armor_class: "19 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, poisoned"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
-
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-**Condition Immunities** charmed, exhaustion, frightened, poisoned
 
 ***Innate Spellcasting.*** Moloch's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
 * At will: alter self (can become Medium when changing his appearance), animate dead, burning hands (as a 7th-level spell), confusion, detect magic, fly, geas, major image, stinking cloud, suggestion, wall of fire

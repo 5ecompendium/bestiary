@@ -18,9 +18,8 @@ skills: "Athletics +6"
 speed: "30 ft."
 hit_points: "78  (12d8 + 24)"
 armor_class: "15 (natural armor)"
+damage_resistances: "bludgeoning, piercing, and slashing while in dim light or darkness"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing while in dim light or darkness
 
 ### Actions
 

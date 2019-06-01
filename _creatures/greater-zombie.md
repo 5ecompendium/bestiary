@@ -18,11 +18,9 @@ saving_throws: "Wis + 1"
 speed: "30 ft."
 hit_points: "97 (13d8+39)"
 armor_class: "15 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+damage_resistances: "cold, necrotic"
 ---
-
-**Damage Resistances** cold, necrotic
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 ***Source.*** tales from the yawning portal,  page 237
 

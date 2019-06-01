@@ -17,9 +17,8 @@ senses: "darkvision 60 ft., passive Perception 10"
 speed: "30 ft."
 hit_points: "225  (30d8 + 90)"
 armor_class: "17 (natural armor)"
+damage_resistances: "bludgeoning, piercing, and slashing while in dim light or darkness"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing while in dim light or darkness
 
 ***Life Hunger.*** If a creature the Hungry can see regains hit points, the Hungry gains two benefits until the end of its next turn: it has advantage on attack rolls, and its bite deals an extra 22 (4d10) necrotic damage on a hit.
 

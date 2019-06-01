@@ -19,11 +19,9 @@ saving_throws: "Dex +5, Con +11, Wis +7, Cha +9"
 speed: "40 ft., burrow 30 ft., fly 80 ft."
 hit_points: "225 (18d12+108)"
 armor_class: "19 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+damage_resistances: "necrotic"
 ---
-
-**Damage Resistances** necrotic
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 ***Legendary Resistance (3/Day).*** If the dracolich fails a saving throw, it can choose to succeed instead.
 

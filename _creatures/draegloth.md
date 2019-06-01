@@ -18,11 +18,9 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "123 (13d10+52)"
 armor_class: "15 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, fire, lightning"
 ---
-
-**Damage Resistances** cold, fire, lightning
-
-**Condition Immunities** poisoned
 
 ***Fey Ancestry.*** The draegloth has advantage on saving throws against being charmed, and magic can't put it to sleep.
 

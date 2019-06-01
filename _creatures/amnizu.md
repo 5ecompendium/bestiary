@@ -20,11 +20,9 @@ saving_throws: "Dex +7, Con +9, Wis +7, Cha +10"
 speed: "30 ft., fly 40 ft."
 hit_points: "202  (27d8 + 81)"
 armor_class: "21 (natural armor)"
+condition_immunities: "charmed, poisoned"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
-
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-**Condition Immunities** charmed, poisoned
 
 ***Devil's Sight.*** Magical darkness doesn't impede the amnizu's darkvision.
 

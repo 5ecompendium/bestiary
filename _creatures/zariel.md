@@ -20,11 +20,9 @@ saving_throws: "Int +16, Wis +16, Cha +18"
 speed: "50 ft., fly 150 ft."
 hit_points: "580  (40d10 + 360)"
 armor_class: "21 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, poisoned"
+damage_resistances: "cold, fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
-
-**Damage Resistances** cold, fire, radiant; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-**Condition Immunities** charmed, exhaustion, frightened, poisoned
 
 ***Devil's Sight.*** Magical darkness doesn't impede Zariel's darkvision.
 

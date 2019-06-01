@@ -18,9 +18,8 @@ saving_throws: "Dex +6, Wis +9, Cha +10"
 speed: "30 ft."
 hit_points: "180 (19d8+95)"
 armor_class: "20 (plate, shield)"
+condition_immunities: "exhaustion, frightened, poisoned"
 ---
-
-**Condition Immunities** exhaustion, frightened, poisoned
 
 ***Undead Nature.*** A death knight doesn't require air, food, drink, or sleep.
 

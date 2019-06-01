@@ -17,9 +17,8 @@ damage_immunities: "fire, poison, psychic, bludgeoning, piercing, and slashing f
 speed: "30 ft."
 hit_points: "210 (20d10+100)"
 armor_class: "20 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ***Fire Absorption.*** Whenever the golem is subjected to fire damage, it takes no damage and instead regains a number of hit points equal to the fire damage dealt.
 

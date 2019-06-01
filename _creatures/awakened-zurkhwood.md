@@ -16,11 +16,9 @@ senses: "darkvision 120 ft."
 speed: "20 ft."
 hit_points: "59 (7d12+14)"
 armor_class: "13 (natural armor)"
+damage_vulnerabilities: "fire"
+damage_resistances: "bludgeoning, piercing"
 ---
-
-**Damage Vulnerabilities** fire
-
-**Damage Resistances** bludgeoning, piercing
 
 ***False Appearance.*** While the tree remains motionless, it is indistinguishable from a normal zurkhwood mushroom.
 

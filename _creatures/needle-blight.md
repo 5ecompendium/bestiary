@@ -16,9 +16,8 @@ senses: "blindsight 60 ft. (blind beyond this radius)"
 speed: "30 ft."
 hit_points: "11 (2d8+2)"
 armor_class: "12 (natural armor)"
+condition_immunities: "blinded, deafened"
 ---
-
-**Condition Immunities** blinded, deafened
 
 ### Actions
 

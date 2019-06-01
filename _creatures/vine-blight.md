@@ -17,9 +17,8 @@ skills: "Stealth +1"
 speed: "10 ft."
 hit_points: "26 (4d8+8)"
 armor_class: "12 (natural armor)"
+condition_immunities: "blinded, deafened"
 ---
-
-**Condition Immunities** blinded, deafened
 
 ***False Appearance.*** While the blight remains motionless, it is indistinguishable from a tangle of vines.
 

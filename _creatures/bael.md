@@ -20,11 +20,9 @@ saving_throws: "Dex +9, Con +11, Int +11, Cha +13"
 speed: "30 ft."
 hit_points: "189  (18d10 + 90)"
 armor_class: "18 (plate)"
+condition_immunities: "charmed, exhaustion, frightened, poisoned"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
-
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-**Condition Immunities** charmed, exhaustion, frightened, poisoned
 
 ***Dreadful.*** Bael can use a bonus action to appear dreadful until the start of his next turn. Each creature, other than a devil, that starts its turn within 10 feet of Bael must succeed on a DC 22 Wisdom saving throw or be frightened until the start of the creature's next turn.
 

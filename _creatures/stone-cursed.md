@@ -18,9 +18,8 @@ damage_immunities: "poison"
 speed: "10 ft."
 hit_points: "19  (3d8 + 4)"
 armor_class: "17 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, petrified, poisoned"
 ---
-
-**Condition Immunities** charmed, exhaustion, frightened, petrified, poisoned
 
 ***Cunning Opportunist.*** The stone cursed has advantage on the attack rolls of opportunity attacks.
 

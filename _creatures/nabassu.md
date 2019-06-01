@@ -20,11 +20,9 @@ saving_throws: "Str +11, Dex +7"
 speed: "40 ft., fly 60 ft."
 hit_points: "190  (20d8 + 100)"
 armor_class: "18 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** poisoned
 
 ***Demonic Shadows.*** The nabassu darkens the area around its body in a 10-foot radius. Nonmagical light can't illuminate this area of dim light.
 

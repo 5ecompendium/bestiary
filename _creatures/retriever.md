@@ -20,9 +20,8 @@ saving_throws: "Dex +8, Con +10, Wis +5"
 speed: "40 ft., climb 40 ft."
 hit_points: "210  (20d10 + 100)"
 armor_class: "19 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 ---
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 ***Faultless Tracker.*** The retriever is given a quarry by its master. The quarry can be a specific creature or object the master is personally acquainted with, or it can be a general type of creature or object the master has seen before. The retriever knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The retriever can have only one such quarry at a time. The retriever also always knows the location of its master.
 

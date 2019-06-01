@@ -18,11 +18,9 @@ saving_throws: "Wis +9, Cha +9"
 speed: "30 ft., fly 90 ft."
 hit_points: "136 (16d8+64)"
 armor_class: "17 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened"
+damage_resistances: "radiant, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** radiant, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** charmed, exhaustion, frightened
 
 ***Angelic Weapons.*** The deva's weapon attacks are magical. When the deva hits with any weapon, the weapon deals an extra 4d8 radiant damage (included in the attack).
 

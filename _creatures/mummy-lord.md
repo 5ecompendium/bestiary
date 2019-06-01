@@ -19,11 +19,9 @@ saving_throws: "Con +8, Int +5, Wis +9, Cha +8"
 speed: "20 ft."
 hit_points: "97 (13d8+39)"
 armor_class: "17 (natural armor)"
+damage_vulnerabilities: "bludgeoning"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 ---
-
-**Damage Vulnerabilities** bludgeoning
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 ***Magic Resistance.*** The mummy lord has advantage on saving throws against spells and other magical effects.
 

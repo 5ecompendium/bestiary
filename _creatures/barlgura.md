@@ -19,11 +19,9 @@ saving_throws: "Dex +5, Con +6"
 speed: "40 ft., climb 40 ft."
 hit_points: "68 (8d10+24)"
 armor_class: "15 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, fire, lightning"
 ---
-
-**Damage Resistances** cold, fire, lightning
-
-**Condition Immunities** poisoned
 
 ***Innate Spellcasting.*** The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components:
 

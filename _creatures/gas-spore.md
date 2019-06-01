@@ -16,9 +16,8 @@ damage_immunities: "poison"
 speed: "0 ft., fly 10 ft. (hover)"
 hit_points: "1 (1d10-4)"
 armor_class: "5"
+condition_immunities: "blinded, deafened, frightened, paralyzed, poisoned, prone"
 ---
-
-**Condition Immunities** blinded, deafened, frightened, paralyzed, poisoned, prone
 
 ***Death Burst.*** The gas spore explodes when it drops to 0 hit points. Each creature within 20 feet of it must succeed on a DC 15 Constitution saving throw or take 10 (3d6) poison damage and become infected with a disease on a failed save. Creatures immune to the poisoned condition are immune to this disease.
 

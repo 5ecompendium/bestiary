@@ -18,9 +18,8 @@ saving_throws: "Con +5, Wis +7, Cha +6"
 speed: "30 ft., fly 90 ft."
 hit_points: "97 (13d8+39)"
 armor_class: "19 (natural armor)"
+damage_resistances: "radiant"
 ---
-
-**Damage Resistances** radiant
 
 ***Innate Spellcasting.*** The couatl's spellcasting ability is Charisma (spell save DC 14). It can innately cast the following spells, requiring only verbal components:
 

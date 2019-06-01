@@ -18,9 +18,8 @@ damage_immunities: "necrotic, bludgeoning, piercing, and slashing from nonmagica
 speed: "30 ft."
 hit_points: "45 (6d8+18)"
 armor_class: "14 (studded leather)"
+condition_immunities: "poisoned"
 ---
-
-**Condition Immunities** poisoned
 
 ***Sunlight Sensitivity.*** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 

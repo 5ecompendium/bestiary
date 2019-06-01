@@ -17,9 +17,8 @@ senses: "darkvision 120 ft., passive Perception 10"
 speed: "25 ft."
 hit_points: "26  (4d8 + 8)"
 armor_class: "16 (scale mail, shield)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Cavalry Training.*** When the duergar hits a target with a melee attack while mounted on a female steeder, the steeder can make one melee attack against the same target as a reaction.
 

@@ -18,11 +18,9 @@ saving_throws: "Dex +14, Con +13, Cha +13"
 speed: "50 ft., fly 50 ft."
 hit_points: "325 (26d12+156)"
 armor_class: "17"
+condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned, prone, restrained"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned, prone, restrained
 
 ***Empowered Attacks.*** Imix's slam attacks are treated as magical for the purpose of bypassing resistance and immunity to nonmagical weapons.
 

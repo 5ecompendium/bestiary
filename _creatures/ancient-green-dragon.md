@@ -19,9 +19,8 @@ saving_throws: "Dex +8, Con +14, Wis +10, Cha +11"
 speed: "40 ft., fly 80 ft., swim 40 ft."
 hit_points: "385 (22d20+154)"
 armor_class: "21 (natural armor)"
+condition_immunities: "poisoned"
 ---
-
-**Condition Immunities** poisoned
 
 ***Amphibious.*** The dragon can breathe air and water.
 

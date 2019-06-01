@@ -15,9 +15,8 @@ senses: "darkvision 60 ft."
 speed: "10 ft., swim 10 ft."
 hit_points: "67 (9d8+27)"
 armor_class: "9"
+condition_immunities: "prone"
 ---
-
-**Condition Immunities** prone
 
 ***Aberrant Ground.*** The ground in a 10-foot radius around the mouther is doughlike difficult terrain. Each creature that starts its turn in that area must succeed on a DC 10 Strength saving throw or have its speed reduced to 0 until the start of its next turn.
 

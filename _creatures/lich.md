@@ -19,11 +19,9 @@ saving_throws: "Con +10, Int +12, Wis +9"
 speed: "30 ft."
 hit_points: "135 (18d8+54)"
 armor_class: "17 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
+damage_resistances: "cold, lightning, necrotic"
 ---
-
-**Damage Resistances** cold, lightning, necrotic
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned
 
 ***Legendary Resistance (3/Day).*** If the lich fails a saving throw, it can choose to succeed instead.
 

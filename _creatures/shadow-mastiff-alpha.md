@@ -16,9 +16,8 @@ skills: "Perception +3, Stealth +6"
 speed: "40 ft."
 hit_points: "42-54"
 armor_class: "12"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks while in dim light or darkness"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks while in dim light or darkness
 
 ***Ethereal Awareness.*** The shadow mastiff can see ethereal creatures and objects.
 

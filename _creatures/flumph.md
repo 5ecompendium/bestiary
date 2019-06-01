@@ -17,9 +17,8 @@ skills: "Arcana +4, History +4, Religion +4"
 speed: "5 ft., fly 30 ft."
 hit_points: "7 (2d6)"
 armor_class: "12"
+damage_vulnerabilities: "psychic"
 ---
-
-**Damage Vulnerabilities** psychic
 
 ***Advanced Telepathy.*** The flumph can perceive the content of any telepathic communication used within 60 feet of it, and it can't be surprised by creatures with any form of telepathy.
 

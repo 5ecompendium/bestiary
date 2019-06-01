@@ -18,11 +18,9 @@ damage_immunities: "lightning, poison"
 speed: "30 ft."
 hit_points: "58 (9d8+18)"
 armor_class: "15 (natural armor)"
+condition_immunities: "charmed, frightened, poisoned"
+damage_resistances: "cold, fire, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold, fire, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, frightened, poisoned
 
 ***Aura of Annihilation.*** The bodak can activate or deactivate this feature as a bonus action. While active, the aura deals 5 necrotic damage to any creature that ends its turn within 30 feet of the bodak. Undead and fiends ignore this effect.
 

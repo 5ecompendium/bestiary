@@ -18,11 +18,9 @@ damage_immunities: "poison"
 speed: "50 ft., fly 50 ft. (hover)"
 hit_points: "104 (16d8+32)"
 armor_class: "14"
+condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 
 ***Invisibility.*** The stalker is invisible.
 

@@ -14,11 +14,9 @@ challenge: "1/4 (50 XP)"
 speed: "10 ft., fly 50 ft."
 hit_points: "24 (7d8-7)"
 armor_class: "12"
+condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+damage_resistances: "bludgeoning, piercing, slashing"
 ---
-
-**Damage Resistances** bludgeoning, piercing, slashing
-
-**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 ***Swarm.*** The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny raven. The swarm can't regain hit points or gain temporary hit points.
 

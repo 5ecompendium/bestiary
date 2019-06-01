@@ -20,11 +20,9 @@ saving_throws: "Dex +6, Int +7, Wis +6, Cha +8"
 speed: "40 ft."
 hit_points: "147  (14d10 + 70)"
 armor_class: "17 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** poisoned
 
 ***Innate Spellcasting.*** The yagnoloth's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 * At will: darkness, detect magic, dispel magic, invisibility (self only), suggestion

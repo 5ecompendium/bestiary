@@ -16,9 +16,8 @@ senses: "darkvision 60 ft."
 speed: "30 ft."
 hit_points: "22 (5d8)"
 armor_class: "12"
+condition_immunities: "poisoned"
 ---
-
-**Condition Immunities** poisoned
 
 ### Actions
 

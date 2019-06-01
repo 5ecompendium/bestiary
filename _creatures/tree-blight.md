@@ -17,9 +17,8 @@ senses: "blindsight 60 ft. (blind beyond this radius)"
 speed: "30 ft."
 hit_points: "149 (13d12+65)"
 armor_class: "15 (natural armor)"
+condition_immunities: "blinded, deafened"
 ---
-
-**Condition Immunities** blinded, deafened
 
 ***False Appearance.*** While the blight remains motionless, it is indistinguishable from a dead tree.
 

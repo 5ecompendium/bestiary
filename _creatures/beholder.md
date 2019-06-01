@@ -18,9 +18,8 @@ saving_throws: "Int +8, Wis +7, Cha +8"
 speed: "0 ft., fly 20 ft. (hover)"
 hit_points: "180 (19d10+76)"
 armor_class: "18 (natural armor)"
+condition_immunities: "prone"
 ---
-
-**Condition Immunities** prone
 
 ***Antimagic Cone.*** The beholder's central eye creates an area of antimagic, as in the antimagic field spell, in a 150-foot cone. At the start of each of its turns, the beholder decides which way the cone faces and whether the cone is active. The area works against the beholder's own eye rays.
 

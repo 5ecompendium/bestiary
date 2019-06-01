@@ -18,9 +18,8 @@ saving_throws: "Con +5"
 speed: "40 ft."
 hit_points: "75 (10d10+20)"
 armor_class: "17 (natural armor)"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 13). She can innately cast the following spells:
 

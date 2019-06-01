@@ -17,9 +17,8 @@ speed: "25 ft."
 hit_points: "9 (2d6+2)"
 armor_class: "11"
 senses: " passive Perception 12"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Halfling Nimbleness.*** Oren can move through the space of any creature that is of a size large than his.
 

@@ -18,11 +18,9 @@ damage_immunities: "force, lightning, poison"
 speed: "30 ft., clmb 20 ft."
 hit_points: "94 (7d12 + 49)"
 armor_class: "19 (natural armor)"
+condition_immunities: "charmed, paralyzed, poisoned"
+damage_resistances: "fire; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** fire; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, paralyzed, poisoned
 
 ***Lightning Absorption.*** Whenever the scaladar is subjected to lightning damage, it takes no damage, and its sting deals an extra 11 (2d10) lightning damage until the end of its next turn.
 

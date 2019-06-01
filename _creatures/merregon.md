@@ -18,11 +18,9 @@ damage_immunities: "fire, poison"
 speed: "30 ft."
 hit_points: "45  (6d8 + 18)"
 armor_class: "16 (natural armor)"
+condition_immunities: "frightened, poisoned"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
-
-**Damage Resistances** cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-**Condition Immunities** frightened, poisoned
 
 ***Devil's Sight.*** Magical darkness doesn't impede the merregon's darkvision.
 

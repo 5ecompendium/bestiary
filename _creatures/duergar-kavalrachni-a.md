@@ -16,9 +16,8 @@ senses: "darkvision 120 ft."
 speed: "25 ft."
 hit_points: "26 (4d8+8)"
 armor_class: "16 (scale mail, shield)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Mounted.*** The vicious kavalrachni are the duergar cavalry of Gracklstugh, riding giant tarantualas known as steeders (see the female steeder stat block)
 

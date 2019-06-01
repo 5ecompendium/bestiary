@@ -17,9 +17,8 @@ saving_throws: "Dex +6, Int +4"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"
 armor_class: "15 (studded leather)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Assassinate.*** During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.
 

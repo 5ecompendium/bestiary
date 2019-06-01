@@ -17,9 +17,8 @@ skills: "Deception +9, Insight +5, Perception +5, Persuasion +9, Stealth +7"
 speed: "30 ft., fly 60 ft."
 hit_points: "66 (12d8+12)"
 armor_class: "15 (natural armor)"
+damage_resistances: "cold, fire, lightning, poison, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** cold, fire, lightning, poison, bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Telepathic Bond.*** The fiend ignores the range restriction on its telepathy when communicating with a creature it has charmed. The two don't even need to be on the same plane of existence.
 

@@ -19,9 +19,8 @@ saving_throws: "Con +6, Wis +5"
 speed: "30 ft."
 hit_points: "117 (18d8+36)"
 armor_class: "17"
+condition_immunities: "charmed, frightened, poisoned"
 ---
-
-**Condition Immunities** charmed, frightened, poisoned
 
 ***Draconic Majesty.*** Neronvain adds his Charisma bonus to his AC (included).
 

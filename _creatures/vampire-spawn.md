@@ -18,9 +18,8 @@ saving_throws: "Dex +6, Wis +3"
 speed: "30 ft."
 hit_points: "82 (11d8+33)"
 armor_class: "15 (natural armor)"
+damage_resistances: "necrotic, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** necrotic, bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Regeneration.*** The vampire regains 10 hit points at the start of its turn if it has at least 1 hit point and isn't in sunlight or running water. If the vampire takes radiant damage or damage from holy water, this trait doesn't function at the start of the vampire's next turn.
 

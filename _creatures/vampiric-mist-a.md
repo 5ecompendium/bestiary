@@ -17,11 +17,9 @@ saving_throws: "Wis +3"
 speed: "0 ft., fly 30 ft. (hover)"
 hit_points: "45 (6d8+18)"
 armor_class: "13"
+condition_immunities: "charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained"
+damage_resistances: "acid, cold, lightning, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** acid, cold, lightning, necrotic, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ***Source.*** tales from the yawning portal,  page 247
 

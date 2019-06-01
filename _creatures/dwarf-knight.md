@@ -18,9 +18,8 @@ saving_throws: "Con +4, Wis +2"
 speed: "30 ft."
 hit_points: "52  (8d8 + 16)"
 armor_class: "18 (plate)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Brave.*** The knight has advantage on saving throws against being frightened.
 

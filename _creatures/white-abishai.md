@@ -19,11 +19,9 @@ saving_throws: "Str +6, Con +7"
 speed: "30 ft., fly 40 ft."
 hit_points: "68  (8d8 + 32)"
 armor_class: "15 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-**Condition Immunities** poisoned
 
 ***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
 

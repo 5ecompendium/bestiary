@@ -16,9 +16,8 @@ skills: "Perception +5"
 speed: "30 ft., swim 30 ft."
 hit_points: "75 (10d8+30)"
 armor_class: "10"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Amphibious.*** The priest can breathe air and water.
 

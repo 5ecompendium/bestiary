@@ -15,9 +15,8 @@ senses: "blindsight 60 ft. (blind beyond this radius)"
 speed: "15 ft."
 hit_points: "84 (8d10+40)"
 armor_class: "6"
+condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
 ---
-
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, prone
 
 ***Ooze Cube.*** The cube takes up its entire space. Other creatures can enter the space, but a creature that does so is subjected to the cube's Engulf and has disadvantage on the saving throw.
 

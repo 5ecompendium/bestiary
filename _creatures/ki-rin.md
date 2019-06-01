@@ -18,9 +18,8 @@ damage_immunities: "poison"
 speed: "60 ft., fly 120 ft. (hover)"
 hit_points: "152 (16d12+48)"
 armor_class: "20 (natural armor)"
+condition_immunities: "poisoned"
 ---
-
-**Condition Immunities** poisoned
 
 ***Innate Spellcasting.*** The ki-rin's innate spellcasting ability is Charisma (spell save DC 17). The ki-rin can innately cast the following spells, requiring no material components:
 

@@ -17,9 +17,8 @@ damage_immunities: "necrotic, poison"
 speed: "60 ft., fly 60 ft. (hover)"
 hit_points: "0"
 armor_class: "20"
+condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned , unconscious"
 ---
-
-**Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned , unconscious
 
 ***Incorporeal Movement.*** The avatar can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 

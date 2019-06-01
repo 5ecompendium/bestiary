@@ -17,9 +17,8 @@ skills: "Perception +2"
 speed: "30 ft., climb 30 ft."
 hit_points: "52 (7d8+21)"
 armor_class: "14 (natural armor)"
+damage_resistances: "fire"
 ---
-
-**Damage Resistances** fire
 
 ### Actions
 

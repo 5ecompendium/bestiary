@@ -18,9 +18,8 @@ saving_throws: "Dex +6, Con +9, Wis +3"
 speed: "40 ft."
 hit_points: "161 (14d12+70)"
 armor_class: "18 (natural armor)"
+condition_immunities: "charmed, frightened"
 ---
-
-**Condition Immunities** charmed, frightened
 
 ***Dreamwalker's Charm.*** An enemy that starts its turn within 30 feet of the giant must make a DC 13 Charisma saving throw, provided that the giant isn't incapacitated. On a failed save, the creature is charmed by the giant. A creature charmed in this way can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success. Once it succeeds on the saving throw, the creature is immune to this giant's Dreamwalker's Charm for 24 hours.
 

@@ -18,9 +18,8 @@ skills: "Deception +5, Insight +4, Persuasion +5"
 speed: "30 ft."
 hit_points: "9  (2d8)"
 armor_class: "15 (breastplate)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 

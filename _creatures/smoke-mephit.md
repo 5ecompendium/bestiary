@@ -18,9 +18,8 @@ damage_immunities: "fire, poison"
 speed: "30 ft., fly 30 ft."
 hit_points: "22 (5d6+5)"
 armor_class: "12"
+condition_immunities: "poisoned"
 ---
-
-**Condition Immunities** poisoned
 
 ***Death Burst.*** When the mephit dies, it leaves behind a cloud of smoke that fills a 5-foot-radius sphere centered on its space. The sphere is heavily obscured. Wind disperses the cloud, which otherwise lasts for 1 minute.
 

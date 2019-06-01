@@ -15,11 +15,9 @@ senses: "blindsight 60 ft."
 speed: "0 ft., fly 30 ft."
 hit_points: "22 (5d8)"
 armor_class: "12"
+condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned"
+damage_resistances: "bludgeoning, piercing, slashing"
 ---
-
-**Damage Resistances** bludgeoning, piercing, slashing
-
-**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, prone, restrained, stunned
 
 ***Echolocation.*** The swarm can't use its blindsight while deafened.
 

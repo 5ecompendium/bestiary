@@ -17,11 +17,9 @@ damage_immunities: "poison"
 speed: "0 ft., swim 60 ft."
 hit_points: "58 (9d10+9)"
 armor_class: "13"
+condition_immunities: "exhaustion, grappled, paralyzed, poisoned, restrained, prone, unconscious"
+damage_resistances: "fire; bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** fire; bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** exhaustion, grappled, paralyzed, poisoned, restrained, prone, unconscious
 
 ***Invisible in Water.*** The water weird is invisible while fully immersed in water.
 

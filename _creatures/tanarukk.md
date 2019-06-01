@@ -17,9 +17,8 @@ skills: "Intimidation +2, Perception +2"
 speed: "30 ft."
 hit_points: "95 (10d8+50)"
 armor_class: "14 (natural armor)"
+damage_resistances: "fire, poison"
 ---
-
-**Damage Resistances** fire, poison
 
 ***Aggressive.*** As a bonus action, the tanarukk can move up to its speed toward a hostile creature that it can see.
 

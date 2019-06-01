@@ -19,11 +19,9 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "105  (14d8 + 42)"
 armor_class: "18 (plate)"
+condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, poisoned, stunned, unconscious"
+damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold, necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, poisoned, stunned, unconscious
 
 ***Legendary Resistance (3/Day).*** If the skull lord fails a saving throw, it can choose to succeed instead.
 

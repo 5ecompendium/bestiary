@@ -18,9 +18,8 @@ saving_throws: "Str +14, Con +10, Wis +9, Cha +9"
 speed: "50 ft., swim 50 ft."
 hit_points: "230 (20d12+100)"
 armor_class: "16 (scale mail)"
+damage_resistances: "cold"
 ---
-
-**Damage Resistances** cold
 
 ***Amphibious.*** The giant can breathe air and water.
 

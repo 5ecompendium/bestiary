@@ -17,9 +17,8 @@ skills: "Athletics +4, Perception +2"
 speed: "25 ft."
 hit_points: "13 (2d8+4)"
 armor_class: "15 (chain shirt, shield)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Dwarven Resilience.*** Augrek has advantage on saving throws against poison.
 

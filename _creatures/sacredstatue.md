@@ -19,11 +19,9 @@ saving_throws: "Wis +8"
 speed: "25 ft."
 hit_points: "95  (10d10 + 40)"
 armor_class: "19 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
+damage_resistances: "acid, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** acid, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ***False Appearance.*** While the statue remains motionless, it is indistinguishable from a normal statue.
 

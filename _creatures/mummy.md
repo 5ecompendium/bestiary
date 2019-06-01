@@ -18,11 +18,9 @@ saving_throws: "Wis +2"
 speed: "20 ft."
 hit_points: "58 (9d8+18)"
 armor_class: "11 (natural armor)"
+damage_vulnerabilities: "fire"
+condition_immunities: "necrotic, poisoned"
 ---
-
-**Damage Vulnerabilities** fire
-
-**Condition Immunities** necrotic, poisoned
 
 ### Actions
 

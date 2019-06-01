@@ -18,11 +18,9 @@ saving_throws: "Con +12, Wis +11, Cha +12"
 speed: "40 ft., fly 120 ft."
 hit_points: "200 (16d10+112)"
 armor_class: "19 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened"
+damage_resistances: "radiant, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** radiant, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** charmed, exhaustion, frightened
 
 ***Angelic Weapons.*** The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).
 

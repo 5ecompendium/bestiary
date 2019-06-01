@@ -63,6 +63,18 @@ layout: default
 	  <p>{{ page.damage_immunities }}</p>
 	</div>
 	{% endif %}
+	{% if page.damage_resistances %}
+	<div class="property-line">
+	  <h4>Damage Resistances</h4>
+	  <p>{{ page.damage_resistances }}</p>
+	</div>
+	{% endif %}
+	{% if page.damage_vulnerabilities %}
+	<div class="property-line">
+	  <h4>Damage Vulnerabilities</h4>
+	  <p>{{ page.damage_vulnerabilities }}</p>
+	</div>
+	{% endif %}
 	{% if page.condition_immunities %}
 	<div class="property-line">
 	  <h4>Condition Immunities</h4>

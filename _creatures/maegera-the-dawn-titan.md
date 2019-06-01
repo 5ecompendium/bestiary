@@ -18,11 +18,9 @@ saving_throws: "Con +12, Wis +7, Cha +11"
 speed: "50 ft.."
 hit_points: "341 (22d20+110)"
 armor_class: "16"
+condition_immunities: "charmed, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** charmed, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ***Empowered Attacks.*** Maegera's slam attacks are treated as magical for the purpose of overcoming resistance and immunity to damage from nonmagical attacks.
 

@@ -19,11 +19,9 @@ saving_throws: "Wis +12, Cha +11"
 speed: "0 ft., fly 120 ft. (hover)"
 hit_points: "264  (16d20 + 96)"
 armor_class: "19"
+condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned
 
 ***Air Form.*** The tempest can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 

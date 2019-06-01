@@ -19,11 +19,9 @@ saving_throws: "Wis +4"
 speed: "30 ft."
 hit_points: "37 (5d8+15)"
 armor_class: "12 (15 with mage armor)"
+condition_immunities: "exhaustion, poisoned"
+damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** exhaustion, poisoned
 
 ***Source.*** tales from the yawning portal,  page 233
 

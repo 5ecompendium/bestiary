@@ -19,11 +19,9 @@ damage_immunities: "acid, poison"
 speed: "20 ft., swim 40 ft."
 hit_points: "135  (18d8 + 54)"
 armor_class: "15"
+condition_immunities: "poisoned"
+damage_resistances: "cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** poisoned
 
 ***Amphibious.*** The hydroloth can breathe air and water.
 

@@ -18,11 +18,9 @@ damage_immunities: "poison"
 speed: "40 ft., climb 30 ft., swim 30 ft."
 hit_points: "189 (18d12+72)"
 armor_class: "16 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "acid, fire, lightning"
 ---
-
-**Damage Resistances** acid, fire, lightning
-
-**Condition Immunities** poisoned
 
 ***Innate Spellcasting (Anathema Form Only).*** The anathema's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 

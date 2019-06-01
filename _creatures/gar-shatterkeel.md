@@ -16,9 +16,8 @@ skills: "Nature +8, Survival +8"
 speed: "30 ft., swim 30 ft."
 hit_points: "112 (15d8+45)"
 armor_class: "16 (natural armor)"
+damage_resistances: "cold"
 ---
-
-**Damage Resistances** cold
 
 ***Amphibious.*** Gar can breathe air and water.
 

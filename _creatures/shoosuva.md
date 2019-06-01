@@ -18,11 +18,9 @@ saving_throws: "Dex +4, Con +6, Wis +5"
 speed: "40 ft."
 hit_points: "110 (13d10+39)"
 armor_class: "14 (natural armor)"
+condition_immunities: "charmed, frightened, poisoned"
+damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Resistances** cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** charmed, frightened, poisoned
 
 ***Rampage.*** When it reduces a creature to 0 hit points with a melee attack on its turn, the shoosuva can take a bonus action to move up to half its speed and make a bite attack.
 

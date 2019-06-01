@@ -16,9 +16,8 @@ damage_immunities: "poison, psychic"
 speed: "40 ft."
 hit_points: "39 (6d10+6)"
 armor_class: "15 (natural armor)"
+condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
-
-**Condition Immunities** blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ***Source.*** tales from the yawning portal,  page 230
 

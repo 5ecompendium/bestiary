@@ -18,11 +18,9 @@ saving_throws: "Con +5, Cha +6"
 speed: "30 ft."
 hit_points: "49 (9d6+18)"
 armor_class: "13 (16 with mage armor)"
+condition_immunities: "poisoned"
+damage_resistances: "acid, poison"
 ---
-
-**Damage Resistances** acid, poison
-
-**Condition Immunities** poisoned
 
 ***Stone Camouflage.*** The Pudding King has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 

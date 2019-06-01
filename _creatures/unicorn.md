@@ -17,9 +17,8 @@ damage_immunities: "poison"
 speed: "50 ft."
 hit_points: "67 (9d10+18)"
 armor_class: "12"
+condition_immunities: "charmed, paralyzed, poisoned"
 ---
-
-**Condition Immunities** charmed, paralyzed, poisoned
 
 ***Charge.*** If the unicorn moves at least 20 ft. straight toward a target and then hits it with a horn attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.
 

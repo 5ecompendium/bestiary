@@ -17,11 +17,9 @@ skills: "Stealth +3"
 speed: "20 ft."
 hit_points: "4 (1d6+1)"
 armor_class: "13 (natural armor)"
+damage_vulnerabilities: "fire"
+condition_immunities: "blinded, deafened"
 ---
-
-**Damage Vulnerabilities** fire
-
-**Condition Immunities** blinded, deafened
 
 ***False Appearance.*** While the blight remains motionless, it is indistinguishable from a dead shrub.
 

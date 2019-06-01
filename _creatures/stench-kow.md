@@ -15,9 +15,8 @@ senses: "darkvision 60 ft."
 speed: "30 ft."
 hit_points: "15 (2d10+4)"
 armor_class: "10"
+damage_resistances: "cold, fire, poison"
 ---
-
-**Damage Resistances** cold, fire, poison
 
 ***Charge.*** If the kow moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 7 (2d6) piercing damage.
 

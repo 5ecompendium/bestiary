@@ -19,9 +19,8 @@ saving_throws: "Int +14, Wis +11"
 speed: "30 ft."
 hit_points: "246 (29d8+116)"
 armor_class: "14 (17 with *mage armor*)"
+damage_resistances: "fire and lightning (granted by the *blast scepter*; see “Special Equipment” below)"
 ---
-
-**Damage Resistances** fire and lightning (granted by the *blast scepter*; see “Special Equipment” below)
 
 ***Special Equipment.*** Halaster wears a *robe of eyes* that lets him see in all directions, gives him darkvision out to a range of 120 feet, grants advantage on Wisdom (Perception) checks that rely on sight, and allows him to see invisible creatures and objects, as well as into the Ethereal Plane, out to a range of 120 feet.
 

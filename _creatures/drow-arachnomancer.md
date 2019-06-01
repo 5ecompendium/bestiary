@@ -19,9 +19,8 @@ saving_throws: "Con +7, Int +9, Cha +8"
 speed: "30 ft., climb 30 ft."
 hit_points: "162  (25d8 + 50)"
 armor_class: "15 (studded leather)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Change Shape (Recharges after a Short or Long Rest).*** The drow can use a bonus action to magically polymorph into a giant spider, remaining in that form for up to 1 hour. It can revert to its true form as a bonus action. Its statistics, other than its size, are the same in each form. It can speak and cast spells while in giant spider form. Any equipment it is wearing or carrying in humanoid form melds into the giant spider form. It can't activate, use, wield, or otherwise benefit from any of its equipment. It reverts to its humanoid form if it dies.
 

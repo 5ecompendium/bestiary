@@ -18,11 +18,9 @@ saving_throws: "Str +5, Con +4, Wis +2"
 speed: "30 ft."
 hit_points: "52 (8d8+16)"
 armor_class: "13 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
-
-**Damage Resistances** cold, bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered
-
-**Condition Immunities** poisoned
 
 ***Devil's Sight.*** Magical darkness doesn't impede the devil's darkvision.
 

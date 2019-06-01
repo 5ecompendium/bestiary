@@ -20,11 +20,9 @@ saving_throws: "Dex +9, Con +11, Wis +11"
 speed: "30 ft."
 hit_points: "304  (32d10 + 128)"
 armor_class: "18 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, poisoned"
+damage_resistances: "cold, fire, lightning"
 ---
-
-**Damage Resistances** cold, fire, lightning
-
-**Condition Immunities** charmed, exhaustion, frightened, poisoned
 
 ***Innate Spellcasting.*** Zuggtmoy's spellcasting ability is Charisma. She can innately cast the following spells, requiring no material components:
 * At will: detect magic, locate animals or plants, ray of sickness

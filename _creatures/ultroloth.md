@@ -18,11 +18,9 @@ damage_immunities: "acid, poison"
 speed: "30 ft., fly 60 ft."
 hit_points: "153 (18d8+72)"
 armor_class: "19 (natural armor)"
+condition_immunities: "charmed, frightened, poisoned"
+damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** charmed, frightened, poisoned
 
 ***Innate Spellcasting.*** The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:
 

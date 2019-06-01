@@ -17,11 +17,9 @@ damage_immunities: "poison"
 speed: "fly 90 ft. (hover)"
 hit_points: "90 (12d10+24)"
 armor_class: "15"
+condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
+damage_resistances: "lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** lightning, thunder, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious
 
 ***Air Form.*** The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 

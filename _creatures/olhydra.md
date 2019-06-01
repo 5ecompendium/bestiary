@@ -18,11 +18,9 @@ saving_throws: "Str +11, Con +13, Wis +10"
 speed: "50 ft., swim 100 ft."
 hit_points: "324 (24d12+168)"
 armor_class: "18 (natural armor)"
+condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned, prone, restrained"
+damage_resistances: "lightning; bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** lightning; bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** charmed, frightened, paralyzed, petrified, poisoned, prone, restrained
 
 ***Empowered Attacks.*** Olhydra's slam attacks are treated as magical for the purpose of bypassing resistance and immunity to nonmagical weapons.
 

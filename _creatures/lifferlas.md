@@ -16,11 +16,9 @@ speed: "20 ft."
 hit_points: "59 (7d12+14)"
 armor_class: "13 (natural armor)"
 senses: " passive Perception 10"
+damage_vulnerabilities: "fire"
+damage_resistances: "blugdeoning, piercing"
 ---
-
-**Damage Vulnerabilities** fire
-
-**Damage Resistances** blugdeoning, piercing
 
 ***False Appearance.*** While Lifferlas remains motionless, it is indistinguishable from a normal tree.
 

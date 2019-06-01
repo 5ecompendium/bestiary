@@ -20,9 +20,8 @@ saving_throws: "Con +2"
 speed: "30 ft."
 hit_points: "18  (4d8)"
 armor_class: "14"
+condition_immunities: "blinded"
 ---
-
-**Condition Immunities** blinded
 
 ***Fallible Invisibility.*** The skulk is invisible. This invisibility can be circumvented by three things:
 > The skulk appears as a drab, smooth-skinned humanoid if its reflection can be seen in a mirror or on another surface.

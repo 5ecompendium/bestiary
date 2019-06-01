@@ -17,9 +17,8 @@ skills: "Arcana +6, History +6, Perception +3"
 speed: "30 ft."
 hit_points: "66 (12d8+12)"
 armor_class: "13 (16 with mage armor)"
+damage_resistances: "lightning"
 ---
-
-**Damage Resistances** lightning
 
 ***Fey Ancestry.*** Aerisi has advantage on saving throws against being charmed, and magic can't put her to sleep.
 

@@ -20,11 +20,9 @@ saving_throws: "Int +4, Cha +5"
 speed: "30 ft."
 hit_points: "36  (8d8)"
 armor_class: "12 (15 with mage armor)"
+condition_immunities: "exhaustion, poisoned"
+damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
-
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-**Condition Immunities** exhaustion, poisoned
 
 ***Innate Spellcasting.*** The deathlock's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 * At will: detect magic, disguise self, mage armor

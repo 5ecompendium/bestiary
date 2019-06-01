@@ -18,11 +18,9 @@ damage_immunities: "force, necrotic, poison"
 speed: "30 ft., fly 30 ft."
 hit_points: "60 (8d8+24)"
 armor_class: "20 (plate, shield)"
+condition_immunities: "blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned, stunned"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine
-
-**Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned, stunned
 
 ***Magic Resistance.*** The helmed horror has advantage on saving throws against spells and other magical effects.
 

@@ -18,9 +18,8 @@ damage_immunities: "bludgeoning, piercing, and slashing from nonmagical weapons"
 speed: "40 ft."
 hit_points: "110 (13d8+52)"
 armor_class: "16 (natural armor)"
+damage_vulnerabilities: "piercing from magic weapons wielded by good creatures"
 ---
-
-**Damage Vulnerabilities** piercing from magic weapons wielded by good creatures
 
 ***Limited Magic Immunity.*** The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.
 

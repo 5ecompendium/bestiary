@@ -15,9 +15,8 @@ senses: "darkvision 60 ft."
 speed: "30 ft., climb 30 ft."
 hit_points: "75 (10d10+20)"
 armor_class: "18 (natural armor)"
+damage_resistances: "bludgeoning, piercing, and slashing damage from nonmagical weapons"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing damage from nonmagical weapons
 
 ***Stone Camouflage.*** The grick has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 

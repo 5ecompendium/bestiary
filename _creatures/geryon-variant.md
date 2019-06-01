@@ -20,11 +20,9 @@ saving_throws: "Dex +10, Con +13, Wis +10, Cha +13"
 speed: "30 ft., fly 50 ft."
 hit_points: "300  (24d12 + 144)"
 armor_class: "19 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, poisoned"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered
-
-**Condition Immunities** charmed, exhaustion, frightened, poisoned
 
 ***Innate Spellcasting.*** Geryon's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
 * At will: alter self (can become Medium when changing his appearance), detect magic, geas, ice storm, invisibility (self only), locate object, suggestion, wall of ice

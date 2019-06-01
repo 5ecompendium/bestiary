@@ -20,13 +20,10 @@ saving_throws: "Dex +8, Int +5"
 speed: "40 ft."
 hit_points: "78 (12d8 + 24)"
 armor_class: "14"
+damage_vulnerabilities: "radiant"
+condition_immunities: "exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained"
+damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
-
-**Damage Vulnerabilities** radiant
-
-**Damage Resistances** acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical attacks
-
-**Condition Immunities** exhaustion, frightened, grappled, paralyzed, petrified, poisoned, prone, restrained
 
 ***Amorphous.*** The assassin can move through a space as narrow as 1 inch wide without squeezing.
 

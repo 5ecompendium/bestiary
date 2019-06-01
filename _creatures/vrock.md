@@ -18,11 +18,9 @@ saving_throws: "Dex +5, Wis +4, Cha +2"
 speed: "40 ft., fly 60 ft."
 hit_points: "104 (11d10+44)"
 armor_class: "15 (natural armor)"
+condition_immunities: "poisoned"
+damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Resistances** cold, fire, lightning, bludgeoning, piercing, and slashing from nonmagical weapons
-
-**Condition Immunities** poisoned
 
 ***Magic Resistance.*** The vrock has advantage on saving throws against spells and other magical effects.
 

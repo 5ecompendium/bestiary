@@ -17,11 +17,9 @@ damage_immunities: "poison"
 speed: "30 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "13 (natural armor)"
+condition_immunities: "charmed, frightened, poisoned"
+damage_resistances: "cold, fire, lightning"
 ---
-
-**Damage Resistances** cold, fire, lightning
-
-**Condition Immunities** charmed, frightened, poisoned
 
 ***Rampage.*** When it reduces a creature to 0 hit points with a melee attack on its turn, the maw demon can take a bonus action to move up to half its speed and make a bite attack.
 

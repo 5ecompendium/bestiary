@@ -18,9 +18,8 @@ damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical 
 speed: "30 ft."
 hit_points: "58  (9d8 + 18)"
 armor_class: "16 (natural armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 ---
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, petrified, poisoned
 
 ***Magic Resistance.*** The oaken bolter has advantage on saving throws against spells and other magical effects.
 

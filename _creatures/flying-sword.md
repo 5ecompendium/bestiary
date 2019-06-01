@@ -17,9 +17,8 @@ saving_throws: "Dex +4"
 speed: "0 ft., fly 50 ft. It can hover."
 hit_points: "17 (5d6)"
 armor_class: "17 (natural armor)"
+condition_immunities: "blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned"
 ---
-
-**Condition Immunities** blinded, charmed, deafened, frightened, paralyzed, petrified, poisoned
 
 ***Antimagic Susceptibility.*** The sword is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the sword must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.
 

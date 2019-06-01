@@ -17,11 +17,9 @@ damage_immunities: "fire"
 speed: "30 ft."
 hit_points: "90 (12d10+24)"
 armor_class: "15 (natural armor)"
+damage_vulnerabilities: "cold"
+damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 ---
-
-**Damage Vulnerabilities** cold
-
-**Damage Resistances** bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Heated Body.*** A creature that touches the salamander or hits it with a melee attack while within 5 ft. of it takes 7 (2d6) fire damage.
 

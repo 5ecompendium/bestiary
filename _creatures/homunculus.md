@@ -17,9 +17,8 @@ damage_immunities: "poison"
 speed: "20 ft., fly 40 ft."
 hit_points: "5 (2d4)"
 armor_class: "13 (natural armor)"
+condition_immunities: "charmed, poisoned"
 ---
-
-**Condition Immunities** charmed, poisoned
 
 ***Telepathic Bond.*** While the homunculus is on the same plane of existence as its master, it can magically convey what it senses to its master, and the two can communicate telepathically.
 

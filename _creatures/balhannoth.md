@@ -19,9 +19,8 @@ saving_throws: "Con +8"
 speed: "25 ft., climb 25 ft."
 hit_points: "114  (12d10 + 48)"
 armor_class: "17 (natural armor)"
+condition_immunities: "blinded"
 ---
-
-**Condition Immunities** blinded
 
 ***Legendary Resistance (2/Day).*** If the balhannoth fails a saving throw, it can choose to succeed instead.
 

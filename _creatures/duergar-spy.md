@@ -17,9 +17,8 @@ skills: "Deception +5, Insight +2, Investigation +5, Perception +4, Persuasion +
 speed: "25 ft."
 hit_points: "33 (6d8+6)"
 armor_class: "15 (studded leather)"
+damage_resistances: "poison"
 ---
-
-**Damage Resistances** poison
 
 ***Source.*** tales from the yawning portal,  page 234
 

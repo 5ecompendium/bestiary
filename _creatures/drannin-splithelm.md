@@ -17,9 +17,8 @@ skills: "Athletics +7, Intimidation +4"
 speed: "25 ft."
 hit_points: "93 (11d8+44)"
 armor_class: "18 (plate)"
+damage_resistances: "cold, poison"
 ---
-
-**Damage Resistances** cold, poison
 
 ***Action Surge (Recharges after a Short or Long Rest).*** Drannin takes an additional action on his turn.
 

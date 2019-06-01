@@ -19,11 +19,9 @@ saving_throws: "Dex +5, Wis +4"
 speed: "30 ft."
 hit_points: "135 (18d8+54)"
 armor_class: "18 (plate)"
+condition_immunities: "exhaustion, poisoned"
+damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 ---
-
-**Damage Resistances** necrotic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered
-
-**Condition Immunities** exhaustion, poisoned
 
 ***Sunlight Sensitivity.*** While in sunlight, Naergoth has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 

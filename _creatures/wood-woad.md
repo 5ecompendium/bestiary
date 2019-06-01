@@ -17,13 +17,10 @@ skills: "Athletics +7, Perception +4, Stealth +4"
 speed: "30 ft., climb 30 ft."
 hit_points: "75 (10d8+30)"
 armor_class: "18 (natural armor, shield)"
+damage_vulnerabilities: "fire"
+condition_immunities: "charmed, frightened"
+damage_resistances: "bludgeoning, piercing"
 ---
-
-**Damage Vulnerabilities** fire
-
-**Damage Resistances** bludgeoning, piercing
-
-**Condition Immunities** charmed, frightened
 
 ***Magic Club.*** In the wood woad's hand, its club is magical and deals 7 (3d4) extra damage (included in its attacks).
 

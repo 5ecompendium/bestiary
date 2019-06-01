@@ -18,9 +18,8 @@ saving_throws: "Wis +4, Cha +7"
 speed: "30 ft."
 hit_points: "91 (14d8+28)"
 armor_class: "12 (15 with mage armor)"
+damage_resistances: "psychic"
 ---
-
-**Damage Resistances** psychic
 
 ***Innate Spellcasting.*** The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:
 

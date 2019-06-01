@@ -15,11 +15,9 @@ languages: "Common, Druidic, Elvish, Sylvan"
 speed: "30 ft."
 hit_points: "138 (12d12+60)"
 armor_class: "16 (natural armor)"
+damage_vulnerabilities: "fire"
+damage_resistances: "bludgeoning, piercing"
 ---
-
-**Damage Vulnerabilities** fire
-
-**Damage Resistances** bludgeoning, piercing
 
 ***False Appearance.*** While the treant remains motionless, it is indistinguishable from a normal tree.
 

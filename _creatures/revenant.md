@@ -18,11 +18,9 @@ saving_throws: "Str +7, Con +7, Wis +6, Cha +7"
 speed: "30 ft."
 hit_points: "136 (16d8+64)"
 armor_class: "13 (leather armor)"
+condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned, stunned"
+damage_resistances: "necrotic, psychic"
 ---
-
-**Damage Resistances** necrotic, psychic
-
-**Condition Immunities** charmed, exhaustion, frightened, paralyzed, poisoned, stunned
 
 ***Regeneration.*** The revenant regains 10 hit points at the start of its turn. If the revenant takes fire or radiant damage, this trait doesn't function at the start of the revenant's next turn. The revenant's body is destroyed only if it starts its turn with 0 hit points and doesn't regenerate.
 
