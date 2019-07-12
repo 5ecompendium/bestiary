@@ -11,7 +11,7 @@ dex: 11 (0)
 str: 16 (+3)
 size: Medium undead
 alignment: any alignment
-challenge: "1 (200 XP)"
+challenge: "3 (700 XP)"
 languages: "any languages it knew in life"
 senses: "darkvision 60 ft."
 skills: "Perception +2, Stealth +4"
