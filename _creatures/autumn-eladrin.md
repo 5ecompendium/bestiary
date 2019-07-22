@@ -26,7 +26,7 @@ Whenever the eladrin deals damage to the charmed creature, the creature can repe
 
 ***Fey Step (Recharge 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
 
-***Innate Spellcasting.*** The eladrin's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
+***Innate Spellcasting.*** The eladrin's innate spellcasting ability is Charisma (spell sace DC 16). It can innately cast the following spells, requiring no material components:
 * At will: calm emotions, sleep
 * 3/day each: cure wounds (as a 5th-level spell), lesser restoration
 * 1/day each: greater restoration, heal, raise dead
@@ -38,3 +38,7 @@ Whenever the eladrin deals damage to the charmed creature, the creature can repe
 ***Longsword*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage plus 18 (4d8) psychic damage, or 6 (1d10 + 1) slashing damage plus 18 (4d8) psychic damage if used with two hands.
 
 ***Longbow*** Ranged Weapon Attack: +7 to hit, range 150/600 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 18 (4d8) psychic damage.
+
+### Reactions
+
+***Foster Peace*** If a creature charmed by the eladrin hits with an attack roll while whitin 60 feet of the eladrin, the eladrin magically causes the attack to miss, provided the eladrin can see the attacker.

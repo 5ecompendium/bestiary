@@ -22,7 +22,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Fey Step (Recharge 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
 
-***Innate Spellcasting.*** The eladrin's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no material components:
+***Innate Spellcasting.*** The eladrin's innate spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no material components:
 * At will: fog cloud, gust of wind
 * 1/day each: cone of cold, ice storm
 
@@ -36,3 +36,7 @@ Whenever the eladrin deals damage to the charmed creature, it can repeat the sav
 ***Longsword*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d8) slashing damage, or 5 (1d10) slashing damage if used with two hands.
 
 ***Longbow*** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one target. Hit: 4 (1d8) piercing damage.
+
+### Reactions
+
+***Frigid Rebuke*** When the eladrin takes damage from a creature the eladrin can see within 60 feet of it, the eladrin can force that creature to succesed on a DC 16 Constitution saving throw or take 11 (2d10) cold damage.
