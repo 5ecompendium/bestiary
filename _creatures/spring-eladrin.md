@@ -23,7 +23,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Fey Step (Recharge 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
 
-***Innate Spellcasting.*** The eladrin's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
+***Innate Spellcasting.*** The eladrin's innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:
 * At will: charm person, Tasha's hideous laughter
 * 3/day each: confusion, enthrall, suggestion
 * 1/day each: hallucinatory terrain, Otto's irresistible dance
