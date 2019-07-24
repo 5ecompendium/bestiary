@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Wendigo Spawn"
-tags: [medium, fiend, cr4, tome-of-horrors]
+tags: [medium, fiend, cr4, homebrew]
 cha: 8 (-1)
 wis: 15 (+2)
 int: 6 (-2)
