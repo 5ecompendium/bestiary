@@ -11,7 +11,7 @@ str: 17 (+3)
 size: Large plant
 alignment: chaotic neutral
 challenge: "10 (5,900 XP)"
-languages: "Understands Druidic, Sylvan but cannot speak"
+languages: "Understands Druidic and Sylvan but cannot speak"
 senses: "passive Perception 13"
 saving_throws: "Con +8, Wis +7"
 damage_vulnerabilities: "fire"
