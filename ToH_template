@@ -21,7 +21,7 @@ damage_resistances: ""
 condition_immunities: ""
 speed: ""
 hit_points: ""
-armor_class ""
+armor_class: ""
 ---
 
 Status effects
