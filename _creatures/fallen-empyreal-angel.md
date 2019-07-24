@@ -18,7 +18,7 @@ Perception 18"
 saving_throws: "Dex +8, Con +9"
 damage_immunities: "acid, cold, necrotic"
 damage_resistances: "lightning, fire; bludgeoning,
-piercing, slashing from nonmagical weapons.s"
+piercing, slashing from nonmagical weapons"
 condition_immunities: "charmed, exhaustion, frightened, poisoned"
 speed: "40 ft., fly 70 ft."
 hit_points: "157 (15d10 + 75)"
