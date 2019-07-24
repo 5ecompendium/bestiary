@@ -8,7 +8,7 @@ int: 10 (+0)
 con: 10 (+0)
 dex: 10 (+0)
 str: 10 (+0)
-size: Size, creaturetype
+size: Size creaturetype
 alignment:
 challenge: "XX (YY XP)"
 languages: ""
