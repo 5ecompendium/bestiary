@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Crimson Basilisk)"
+name: "Crimson Basilisk"
 tags: [medium, monstrosity, cr4, tome-of-horrors]
 cha: 10 (+0)
 wis: 12 (+1)
