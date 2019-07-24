@@ -20,7 +20,7 @@ damage_resistances: "bludgeoning"
 condition_immunities: "poisoned, frightened"
 speed: "30 ft."
 hit_points: "111 (12d10 + 45)"
-armor_class "20 (natural armor)"
+armor_class: "20 (natural armor)"
 ---
 
 ***Innate Spellcasting.*** The leshen's innate spellcasting ability is Wisdom (spell save DC 15). The leshen can innately cast the following spells, requiring no material components:
