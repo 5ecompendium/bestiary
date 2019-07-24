@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Blister Beetle"
-tags: [small, beast, cr8, tome-of-horrors]
+tags: [small, beast, cr1, tome-of-horrors]
 cha: 7 (-2)
 wis: 10 (+0)
 int: 1 (-5)
