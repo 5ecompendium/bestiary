@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Aerial Assault Gnome"
-tags: [medium, humanoid, cr8, tome-of-horrors]
+tags: [small, humanoid, cr8, tome-of-horrors]
 cha: 10 (+0)
 wis: 10 (+0)
 int: 16 (+3)
