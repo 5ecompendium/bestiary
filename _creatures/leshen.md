@@ -44,4 +44,4 @@ At will: entangle
 
 ***Blink.*** The leshen can teleport 20 ft. away to an open area it can see in a swirl of crows.  Creatures within 5 ft. of the leshen at the start and end of the teleport must make a DC 17 Dexterity saving throw, taking 21 (4d8+3) piercing damage on a failed save or half as much on a success.
 
-**Command Roots.*** The leshen targets up to two creatures within 60 ft. from it. The targets must make a DC 17 Dexterity save or take 26 (4d8+8) bludgeoning damage and become grappled (Escape DC 17). The target is restrained as long as the grapple remains. If the target ends their turn in the roots, they take an additional 26 (4d8+8) bludgeoning damage. 
+***Command Roots.*** The leshen targets up to two creatures within 60 ft. from it. The targets must make a DC 17 Dexterity save or take 26 (4d8+8) bludgeoning damage and become grappled (Escape DC 17). The target is restrained as long as the grapple remains. If the target ends their turn in the roots, they take an additional 26 (4d8+8) bludgeoning damage. 
