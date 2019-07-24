@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Wendigo"
-tags: [medium, fiend, cr7, tome-of-horrors]
+tags: [medium, fiend, cr7, homebrew]
 cha: 7 (-2)
 wis: 14 (+2)
 int: 10 (+0)
