@@ -36,7 +36,8 @@ throw. It cannot reinject that same tentacle into the same plane for one day.
 A banishment spell forces an Abyssal harvester to withdraw all of its
 tentacles if it fails its Wisdom saving throw. It cannot reinject any tentacles
 that were banished into the same plane for one day.
-Harvest. A target that has been grappled for 4 consecutive rounds
+
+***Harvest.*** A target that has been grappled for 4 consecutive rounds
 must succeed on a DC 18 Wisdom saving throw or be drawn through an
 invisible planar gate (created around the Abyssal harvester’s tentacles)
 into the same plane where the Abyssal harvester currently resides. An
