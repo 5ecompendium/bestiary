@@ -29,5 +29,4 @@ damage.
 
 ### Actions
 
-***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6
-+ 2) piercing damage plus 3 (1d6) cold damage.
+***Bite.*** Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage plus 3 (1d6) cold damage.
