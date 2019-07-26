@@ -22,7 +22,8 @@ armor_class: "15 (natural armor)"
 ---
 
 ***Hyper-Awareness.*** The blood orchid cannot be surprised.
-Spellcasting. The blood orchid is a 4th level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can cast the following spells:
+
+***Spellcasting.*** The blood orchid is a 4th level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It can cast the following spells:
 
 Cantrips (at will): dancing lights, fire bolt, light, mage hand
 
