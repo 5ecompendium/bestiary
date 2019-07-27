@@ -11,7 +11,7 @@ str: 24 (+7)
 size: Huge monstrosity
 alignment: chaotic good
 challenge: "17 (18,000 XP)"
-languages: "telepathy 120 ft."
+languages: "Common, Draconic, Dwarven, Elven, Goblin, Orc"
 skills: "Perception +14"
 senses: "truesight 120 ft., passive Perception 24"
 saving_throws: "Dex +9, Wis +8"
