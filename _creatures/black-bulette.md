@@ -21,7 +21,7 @@ hit_points: "225 (18d12 + 108)"
 armor_class: "19 (natural armor)"
 ---
 
-***Deal of a Lifetime.** If killed, the body of the black bulette shatters
+***Deal of a Lifetime.*** If killed, the body of the black bulette shatters
 into shards of obsidian glass, freeing the devil imprisoned within. The
 devil may be of any random type (GM’s discretion) save that of a royal
 rank. The devil will be grateful to whoever is responsible for ending its
