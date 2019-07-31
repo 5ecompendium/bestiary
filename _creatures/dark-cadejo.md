@@ -16,7 +16,7 @@ skills: "Deception +4, Perception +8, Stealth +8"
 senses: "darkvision 60 ft., passive Perception 18"
 speed: "30 ft."
 hit_points: "99 (18d8 + 18)"
-armor_class: "18"
+armor_class: "18 (Natural Armor)"
 ---
 
 ***Nullification.*** While it is within 120 feet of a light
