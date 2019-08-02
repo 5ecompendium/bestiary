@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Sightless Eye"
-tags: [medium, aberration, cr5, monster-manual]
+tags: [medium, aberration, cr5, homebrew]
 cha: 13 (+1)
 wis: 13 (+1)
 int: 12 (+1)
