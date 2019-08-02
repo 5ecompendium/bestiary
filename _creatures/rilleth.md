@@ -22,19 +22,19 @@ damage_resistances: "fire"
 
 ***Infernal Legacy.*** Rilleth's innate spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She can innately cast the following spells:
 
-* At will: thaumaturgy
+* At will: <i>thaumaturgy</i>
 
-* 1/long rest: hellish rebuke (at 2nd level), darkness
+* 1/long rest: <i>hellish rebuke</i> (at 2nd level)<i>, darkness</i>
 
 ***Spellcasting.*** Rilleth is a 5th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She knows the following sorcerer spells:
 
-* Cantrips (at will): acid splash, chill touch, friends, prestidigitation, ray of frost
+* Cantrips (at will): <i>acid splash, chill touch, friends, prestidigitation, ray of frost</i>
 
-* 1st level (4 slots): disguise self, mage armor, magic missile
+* 1st level (4 slots): <i>disguise self, mage armor, magic missile</i>
 
-* 2nd level (3 slots): hold person, misty step
+* 2nd level (3 slots): <i>hold person, misty step</i>
 
-* 3rd level (2 slots): tidal wave
+* 3rd level (2 slots): <i>fireball</i>
 
 ### Actions
 
