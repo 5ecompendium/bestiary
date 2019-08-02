@@ -29,7 +29,8 @@ with its surroundings. This grants the demon advantage on Stealth checks.
 spells and other magical effects.
 
 ***Magic Weapons.*** The demon’s weapon attacks are magical.
-Innate Spellcasting. The demon’s spellcasting ability is Charisma (spell save DC 10, +2 to hit with spell attacks). It can innately cast the following spells at will, requiring no material components:<i>fear, darkness, detect evil and good, see invisibility</i>
+
+***Innate Spellcasting.*** The demon’s spellcasting ability is Charisma (spell save DC 10, +2 to hit with spell attacks). It can innately cast the following spells at will, requiring no material components: <i>fear, darkness, detect evil and good, see invisibility</i>
 
 ***Sneak Attack (1/turn).*** The demon deals an extra 3 (1d6) damage
 when it hits a target with a weapon attack and has advantage on the attack
