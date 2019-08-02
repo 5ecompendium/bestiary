@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Conshee"
-tags: [tiny, fey, cr1/8, monster-manual]
+tags: [tiny, fey, cr1/8, tome-of-horrors]
 cha: 13 (+1)
 wis: 13 (+1)
 int: 12 (+1)
