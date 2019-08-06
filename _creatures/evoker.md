@@ -21,19 +21,19 @@ armor_class: "12 (15 with mage armor)"
 
 ***Spellcasting.*** The evoker is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The evoker has the following wizard spells prepared:
 
-Cantrips (at will): fire bolt*, light*, prestidigitation, ray of frost*
+Cantrips (at will): <i>fire bolt* , light* , prestidigitation, ray of frost* </i>
 
-1st level (4 slots): burning hands*, mage armor, magic missile*
+1st level (4 slots): <i>burning hands* , mage armor, magic missile* </i>
 
-2nd level (3 slots): mirror image, misty step, shatter*
+2nd level (3 slots): <i>mirror image, misty step, shatter* </i>
 
-3rd level (3 slots): counterspell, fireball*, lightning bolt*
+3rd level (3 slots): <i>counterspell, fireball* , lightning bolt* </i>
 
-4th level (3 slots): ice storm*, stoneskin
+4th level (3 slots): <i>ice storm* , stoneskin</i>
 
-5th level (2 slots): Bigby's hand*, cone of cold*
+5th level (2 slots): <i>Bigby's hand* , cone of cold* </i>
 
-6th level (1 slot): chain lightning*, wall of ice*
+6th level (1 slot): <i>chain lightning* , wall of ice* </i>
 
 *Evocation spell
 
