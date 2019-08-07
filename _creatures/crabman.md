@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Crabman"
 tags: [large, monstrosity, cr2, tome-of-horrors]
