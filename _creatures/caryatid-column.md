@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Caryatid Column"
 tags: [medium, construct, cr2, tome-of-horrors]
