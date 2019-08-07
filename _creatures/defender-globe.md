@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Defender Globe"
 tags: [small, elemental, cr1, tome-of-horrors]
