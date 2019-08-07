@@ -23,19 +23,19 @@ damage_resistances: "acid"
 
 ***Innate Spellcasting.*** Shoalar's innate spellcasting ability is Constitution (spell save DC 13, +5 to hit with spell attacks). He can innately cast the following spells:
 
-* At will: shape water
+* At will: <i>shape water</i>
 
-* 1/day: create or destroy water
+* 1/day: <i>create or destroy water</i>
 
 ***Spellcasting.*** Shoalar is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). He knows the following sorcerer spells:
 
-* Cantrips (at will): acid splash, chill touch, friends, prestidigitation, ray of frost
+* Cantrips (at will): <i>acid splash, chill touch, friends, prestidigitation, ray of frost</i>
 
-* 1st level (4 slots): disguise self, mage armor, magic missile
+* 1st level (4 slots): <i>disguise self, mage armor, magic missile</i>
 
-* 2nd level (3 slots): hold person, misty step
+* 2nd level (3 slots): <i>hold person, misty step</i>
 
-* 3rd level (2 slots): tidal wave
+* 3rd level (2 slots): <i>tidal wave</i>
 
 ### Actions
 
