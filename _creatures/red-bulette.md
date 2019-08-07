@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Red Bulette"
 tags: [huge, monstrosity, cr12, tome-of-horrors]
