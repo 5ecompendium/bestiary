@@ -34,11 +34,11 @@ spells and other magical effects.
 (spell save DC 13, +5 to hit with spell attacks). It can innately cast the
 following spells, requiring no material components:
 
-At will: <i>darkness, detect magic, water walk</i>
+* At will: <i>darkness, detect magic, water walk</i>
 
-2/day each: <i>dimension door, teleport</i>
+* 2/day each: <i>dimension door, teleport</i>
 
-1/day each: <i>hallow</i>
+* 1/day each: <i>hallow</i>
 
 ### Actions
 
