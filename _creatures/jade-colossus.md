@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Jade Colossus"
 tags: [gargantuan, construct, cr17, tome-of-horrors]
