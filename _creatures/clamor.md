@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Clamor"
-tags: [medium, aberration, CR2, tome-of-horrors]
+tags: [medium, aberration, cr2, tome-of-horrors]
 cha: 17 (+3)
 wis: 12 (+1)
 int: 5 (-2)

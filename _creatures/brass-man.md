@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Brass Man"
-tags: [large, construct, CR9, tome-of-horrors]
+tags: [large, construct, cr9, tome-of-horrors]
 cha: 1 (-5)
 wis: 11 (+0)
 int: 2 (-4)

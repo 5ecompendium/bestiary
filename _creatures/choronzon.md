@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Choronzon (Chaos Demon)"
-tags: [large, fiend, CR17, tome-of-horrors]
+tags: [large, fiend, cr17, tome-of-horrors]
 cha: 18 (+4)
 wis: 14 (+2)
 int: 12 (+1)

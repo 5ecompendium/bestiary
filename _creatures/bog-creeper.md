@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Bog Creeper"
-tags: [medium, plant, CR9, tome-of-horrors]
+tags: [medium, plant, cr9, tome-of-horrors]
 cha: 6 (-2)
 wis: 14 (+2)
 int: 3 (-4)

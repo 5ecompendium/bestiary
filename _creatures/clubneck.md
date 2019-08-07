@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Clubneck"
-tags: [medium, monstrosity, CR1, tome-of-horrors]
+tags: [medium, monstrosity, cr1, tome-of-horrors]
 cha: 6 (-2)
 wis: 10 (+0)
 int: 2 (-4)

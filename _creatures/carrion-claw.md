@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Carrion Claw"
-tags: [large, monstrosity, CR9, tome-of-horrors]
+tags: [large, monstrosity, cr9, tome-of-horrors]
 cha: 11 (+0)
 wis: 12 (+1)
 int: 4 (-3)

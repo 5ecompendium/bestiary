@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Boarfolk"
-tags: [large, humanoid, CR1/4, tome-of-horrors]
+tags: [large, humanoid, cr1/4, tome-of-horrors]
 cha: 11 (+0)
 wis: 10 (+0)
 int: 10 (+0)

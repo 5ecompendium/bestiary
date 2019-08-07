@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Mehrim (Goat Demon)"
-tags: [medium, fiend, CR3, tome-of-horrors]
+tags: [medium, fiend, cr3, tome-of-horrors]
 cha: 16 (+3)
 wis: 13 (+1)
 int: 12 (+1)

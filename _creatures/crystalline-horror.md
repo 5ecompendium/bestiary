@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Crystalline Horror"
-tags: [medium, aberration, CR3, tome-of-horrors]
+tags: [medium, aberration, cr3, tome-of-horrors]
 cha: 10 (+0)
 wis: 12 (+1)
 int: 10 (+0)

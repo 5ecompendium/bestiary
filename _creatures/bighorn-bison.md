@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Bighorn Bison"
-tags: [large, beast, CR4, tome-of-horrors]
+tags: [large, beast, cr4, tome-of-horrors]
 cha: 5 (-3)
 wis: 12 (+1)
 int: 2 (-4)

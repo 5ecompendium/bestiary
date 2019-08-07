@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Belabra"
-tags: [medium, aberration, CR3, tome-of-horrors]
+tags: [medium, aberration, cr3, tome-of-horrors]
 cha: 11 (+0)
 wis: 12 (+1)
 int: 7 (-2)

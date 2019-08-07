@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Jade Colossus"
-tags: [gargantuan, construct, CR17, tome-of-horrors]
+tags: [gargantuan, construct, cr17, tome-of-horrors]
 cha: 1 (-5)
 wis: 11 (+0)
 int: 2 (-4)

@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Red Bulette"
-tags: [huge, monstrosity, CR12, tome-of-horrors]
+tags: [huge, monstrosity, cr12, tome-of-horrors]
 cha: 5 (-3)
 wis: 10 (+0)
 int: 3 (-4)

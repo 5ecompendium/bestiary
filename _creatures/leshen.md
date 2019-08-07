@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Leshen"
-tags: [large, plant, CR10, homebrew]
+tags: [large, plant, cr10, homebrew]
 cha: 14 (+2)
 wis: 18 (+4)
 int: 15 (+2)

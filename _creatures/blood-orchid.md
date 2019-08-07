@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Blood Orchid"
-tags: [large, aberration, CR5, tome-of-horrors]
+tags: [large, aberration, cr5, tome-of-horrors]
 cha: 13 (+1)
 wis: 12 (+1)
 int: 11 (+0)

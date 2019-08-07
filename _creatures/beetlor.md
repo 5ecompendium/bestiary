@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Beetlor"
-tags: [large, monstrosity, CR5, tome-of-horrors]
+tags: [large, monstrosity, cr5, tome-of-horrors]
 cha: 8 (-1)
 wis: 10 (+0)
 int: 10 (+0)

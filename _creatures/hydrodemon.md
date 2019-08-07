@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Hydrodemon"
-tags: [large, fiend, CR5, tome-of-horrors]
+tags: [large, fiend, cr5, tome-of-horrors]
 cha: 14 (+2)
 wis: 11 (+0)
 int: 8 (-1)

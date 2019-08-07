@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Giant Water Beetle"
-tags: [medium, beast, CR1/2, tome-of-horrors]
+tags: [medium, beast, cr1/2, tome-of-horrors]
 cha: 9 (-1)
 wis: 10 (+0)
 int: 2 (-4)

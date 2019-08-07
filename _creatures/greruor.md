@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Greruor (Frog Demon)"
-tags: [large, fiend, CR11, tome-of-horrors]
+tags: [large, fiend, cr11, tome-of-horrors]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 14 (+2)

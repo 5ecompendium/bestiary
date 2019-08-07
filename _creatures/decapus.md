@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Decapus"
-tags: [medium, aberration, CR2, tome-of-horrors]
+tags: [medium, aberration, cr2, tome-of-horrors]
 cha: 8 (-1)
 wis: 10 (+0)
 int: 10 (+0)

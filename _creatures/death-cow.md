@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Death Cow"
-tags: [large, monstrosity, CR5, tome-of-horrors]
+tags: [large, monstrosity, cr5, tome-of-horrors]
 cha: 10 (+0)
 wis: 12 (+1)
 int: 8 (-1)

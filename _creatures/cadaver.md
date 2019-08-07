@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Cadaver"
-tags: [medium, undead, CR1, tome-of-horrors]
+tags: [medium, undead, cr1, tome-of-horrors]
 cha: 10 (+0)
 wis: 10 (+0)
 int: 2 (-4)

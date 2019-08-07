@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Guardian Demon"
-tags: [large, fiend, CR7, tome-of-horrors]
+tags: [large, fiend, cr7, tome-of-horrors]
 cha: 14 (+2)
 wis: 14 (+2)
 int: 12 (+1)

@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Caryatid Column"
-tags: [medium, construct, CR2, tome-of-horrors]
+tags: [medium, construct, cr2, tome-of-horrors]
 cha: 1 (-5)
 wis: 11 (+0)
 int: 2 (-4)

@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Dagon, Demon Prince of the Sea"
-tags: [large, fiend, CR26, tome-of-horrors]
+tags: [large, fiend, cr26, tome-of-horrors]
 cha: 19 (+4)
 wis: 20 (+5)
 int: 18 (+4)

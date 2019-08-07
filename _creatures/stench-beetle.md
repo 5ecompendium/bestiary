@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Stench Beetle"
-tags: [small, beast, CR1/4, tome-of-horrors]
+tags: [small, beast, cr1/4, tome-of-horrors]
 cha: 6 (-2)
 wis: 10 (+0)
 int: 1 (-5)

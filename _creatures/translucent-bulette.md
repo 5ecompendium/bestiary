@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Translucent Bulette"
-tags: [huge, monstrosity, CR15, tome-of-horrors]
+tags: [huge, monstrosity, cr15, tome-of-horrors]
 cha: 10 (+0)
 wis: 10 (+0)
 int: 6 (-2)

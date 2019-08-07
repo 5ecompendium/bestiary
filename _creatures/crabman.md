@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Crabman"
-tags: [large, monstrosity, CR2, tome-of-horrors]
+tags: [large, monstrosity, cr2, tome-of-horrors]
 cha: 8 (-1)
 wis: 10 (+0)
 int: 10 (+0)

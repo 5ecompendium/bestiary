@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Aeshma (Rage Demon)"
-tags: [large, fiend, CR10, tome-of-horrors]
+tags: [large, fiend, cr10, tome-of-horrors]
 cha: 17 (+3)
 wis: 17 (+3)
 int: 14 (+2)

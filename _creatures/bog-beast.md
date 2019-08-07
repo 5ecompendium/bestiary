@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Bog Beast"
-tags: [large, monstrosity, CR3, tome-of-horrors]
+tags: [large, monstrosity, cr3, tome-of-horrors]
 cha: 9 (-1)
 wis: 12 (+1)
 int: 5 (-3)

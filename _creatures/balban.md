@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Balban (Brute Demon)"
-tags: [large, fiend, CR9, tome-of-horrors]
+tags: [large, fiend, cr9, tome-of-horrors]
 cha: 14 (+2)
 wis: 14 (+2)
 int: 6 (-2)

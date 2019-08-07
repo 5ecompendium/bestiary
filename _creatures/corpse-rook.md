@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Corpse Rook"
-tags: [large, monstrosity, CR4, tome-of-horrors]
+tags: [large, monstrosity, cr4, tome-of-horrors]
 cha: 11 (+0)
 wis: 10 (+0)
 int: 5 (-3)

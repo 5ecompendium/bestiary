@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Defender Globe"
-tags: [small, elemental, CR1, tome-of-horrors]
+tags: [small, elemental, cr1, tome-of-horrors]
 cha: 14 (+2)
 wis: 12 (+1)
 int: 4 (-3)

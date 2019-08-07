@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Chaaor (Beast Demon)"
-tags: [large, fiend, CR10, tome-of-horrors]
+tags: [large, fiend, cr10, tome-of-horrors]
 cha: 14 (+2)
 wis: 14 (+2)
 int: 8 (-1)

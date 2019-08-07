@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Cinder Knight"
-tags: [medium, elemental, CR10, tome-of-horrors]
+tags: [medium, elemental, cr10, tome-of-horrors]
 cha: 7 (-2)
 wis: 10 (+0)
 int: 6 (-2)

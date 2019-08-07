@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Boarfolk Rager"
-tags: [large, humanoid, CR9, tome-of-horrors]
+tags: [large, humanoid, cr9, tome-of-horrors]
 cha: 10 (+0)
 wis: 11 (+0)
 int: 9 (-1)

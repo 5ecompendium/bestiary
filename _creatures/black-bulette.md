@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Black Bulette"
-tags: [huge, monstrosity, CR13, tome-of-horrors]
+tags: [huge, monstrosity, cr13, tome-of-horrors]
 cha: 10 (+0)
 wis: 14 (+2)
 int: 6 (-2)

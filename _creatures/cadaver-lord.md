@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Cadaver Lord"
-tags: [medium, undead, CR4, tome-of-horrors]
+tags: [medium, undead, cr4, tome-of-horrors]
 cha: 16 (+3)
 wis: 10 (+0)
 int: 13 (+1)

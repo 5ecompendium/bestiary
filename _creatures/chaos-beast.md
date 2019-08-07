@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Chaos Beast"
-tags: [medium, aberration, CR6, tome-of-horrors]
+tags: [medium, aberration, cr6, tome-of-horrors]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 10 (+0)

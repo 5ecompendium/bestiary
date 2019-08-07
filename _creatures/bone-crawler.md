@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Bone Crawler"
-tags: [huge, aberration, CR13, tome-of-horrors]
+tags: [huge, aberration, cr13, tome-of-horrors]
 cha: 9 (-1)
 wis: 15 (+3)
 int: 9 (-1)

@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Blood Bush"
-tags: [small, plant, CR3, tome-of-horrors]
+tags: [small, plant, cr3, tome-of-horrors]
 cha: 8 (-1)
 wis: 12 (+1)
 int: 2 (-4)

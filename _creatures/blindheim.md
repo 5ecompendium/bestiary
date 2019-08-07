@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Blindheim"
-tags: [small, aberration, CR1/2, tome-of-horrors]
+tags: [small, aberration, cr1/2, tome-of-horrors]
 cha: 6 (-2)
 wis: 12 (+1)
 int: 2 (-4)

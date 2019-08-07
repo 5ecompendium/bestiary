@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Derghodemon (Cockroach Demon)"
-tags: [large, fiend, CR9, tome-of-horrors]
+tags: [large, fiend, cr9, tome-of-horrors]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 7 (-2)

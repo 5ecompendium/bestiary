@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Advanced Demilich"
-tags: [tiny, undead, CR24, tome-of-horrors]
+tags: [tiny, undead, cr24, tome-of-horrors]
 cha: 23 (+6)
 wis: 20 (+5)
 int: 23 (+6)

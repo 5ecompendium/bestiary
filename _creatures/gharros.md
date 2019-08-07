@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Gharros (Scorpion Demon)"
-tags: [large, fiend, CR16, tome-of-horrors]
+tags: [large, fiend, cr16, tome-of-horrors]
 cha: 20 (+5)
 wis: 18 (+4)
 int: 18 (+4)

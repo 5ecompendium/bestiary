@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Geruzou (Slime Demon)"
-tags: [small, fiend, CR2, tome-of-horrors]
+tags: [small, fiend, cr2, tome-of-horrors]
 cha: 10 (+0)
 wis: 8 (-1)
 int: 8 (-1)

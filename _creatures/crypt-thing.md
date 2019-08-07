@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Crypt Thing"
-tags: [medium, undead, CR7, tome-of-horrors]
+tags: [medium, undead, cr7, tome-of-horrors]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 12 (+1)

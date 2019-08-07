@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Barizou (Assassin Demon)"
-tags: [small, fiend, CR1, tome-of-horrors]
+tags: [small, fiend, cr1, tome-of-horrors]
 cha: 10 (+0)
 wis: 6 (-2)
 int: 6 (-2)

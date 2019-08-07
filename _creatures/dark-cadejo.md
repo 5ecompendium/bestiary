@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Dark Cadejo"
-tags: [medium, fey, CR3, tome-of-horrors]
+tags: [medium, fey, cr3, tome-of-horrors]
 cha: 10 (+0)
 wis: 18 (+4)
 int: 10 (+0)

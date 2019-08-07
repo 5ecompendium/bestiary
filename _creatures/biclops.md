@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Biclops"
-tags: [huge, giant, CR14, tome-of-horrors]
+tags: [huge, giant, cr14, tome-of-horrors]
 cha: 10 (+0)
 wis: 14 (+2)
 int: 10 (+0)

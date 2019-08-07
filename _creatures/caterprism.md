@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Caterprism"
-tags: [large, elemental, CR7, tome-of-horrors]
+tags: [large, elemental, cr7, tome-of-horrors]
 cha: 11 (+0)
 wis: 13 (+1)
 int: 4 (-3)

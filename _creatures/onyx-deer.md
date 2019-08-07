@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Onyx Deer"
-tags: [large, monstrosity, CR4, tome-of-horrors]
+tags: [large, monstrosity, cr4, tome-of-horrors]
 cha: 13 (+1)
 wis: 12 (+1)
 int: 5 (-3)

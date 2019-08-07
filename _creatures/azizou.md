@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Azizou (Pain Demon)"
-tags: [small, fiend, CR3, tome-of-horrors]
+tags: [small, fiend, cr3, tome-of-horrors]
 cha: 10 (+0)
 wis: 10 (+0)
 int: 8 (-1)

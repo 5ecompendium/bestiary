@@ -1,7 +1,7 @@
----
+﻿---
 layout: creature
 name: "Carrion Moth"
-tags: [large, aberration, CR5, tome-of-horrors]
+tags: [large, aberration, cr5, tome-of-horrors]
 cha: 6 (-2)
 wis: 15 (+2)
 int: 6 (-2)
