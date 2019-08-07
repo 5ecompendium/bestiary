@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Greruor (Frog Demon)"
 tags: [large, fiend, cr11, tome-of-horrors]
