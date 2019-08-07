@@ -24,27 +24,27 @@ damage_resistances: "damage from spells; non magical bludgeoning, piercing, and 
 
 ***Spellcasting.*** The archmage is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The archmage can cast disguise self and invisibility at will and has the following wizard spells prepared:
 
-* Cantrips (at will): fire bolt, light, mage hand, prestidigitation, shocking grasp
+* Cantrips (at will): <i>fire bolt, light, mage hand, prestidigitation, shocking grasp</i>
 
-* 1st level (4 slots): detect magic, identify, mage armor*, magic missile
+* 1st level (4 slots): <i>detect magic, identify, mage armor* , magic missile</i>
 
-* 2nd level (3 slots): detect thoughts, mirror image, misty step
+* 2nd level (3 slots): <i>detect thoughts, mirror image, misty step</i>
 
-* 3rd level (3 slots): counterspell,fly, lightning bolt
+* 3rd level (3 slots): <i>counterspell,fly, lightning bolt</i>
 
-* 4th level (3 slots): banishment, fire shield, stoneskin*
+* 4th level (3 slots): <i>banishment, fire shield, stoneskin* </i>
 
-* 5th level (3 slots): cone of cold, scrying, wall of force
+* 5th level (3 slots): <i>cone of cold, scrying, wall of force</i>
 
-* 6th level (1 slot): globe of invulnerability
+* 6th level (1 slot): <i>globe of invulnerability</i>
 
-* 7th level (1 slot): teleport
+* 7th level (1 slot): <i>teleport</i>
 
-* 8th level (1 slot): mind blank*
+* 8th level (1 slot): <i>mind blank* </i>
 
-* 9th level (1 slot): time stop
+* 9th level (1 slot): <i>time stop</i>
 
-* The archmage casts these spells on itself before combat.
+*The archmage casts these spells on itself before combat.
 
 ### Actions
 
