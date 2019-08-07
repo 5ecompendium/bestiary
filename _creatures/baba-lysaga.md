@@ -26,23 +26,23 @@ armor_class: "15 (natural armor)"
 
 ***Spellcasting.*** Baba Lysaga is a 16th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). Baba Lysaga has the following wizard spells prepared:
 
-* Cantrips (at will): acid splash, fire bolt, light, mage hand, prestidigitation
+* Cantrips (at will): <i>acid splash, fire bolt, light, mage hand, prestidigitation</i>
 
-* 1st level (4 slots): detect magic, magic missile, sleep, witch bolt
+* 1st level (4 slots): <i>detect magic, magic missile, sleep, witch bolt</i>
 
-* 2nd level (3 slots): crown of madness, enlarge/reduce, misty step
+* 2nd level (3 slots): <i>crown of madness, enlarge/reduce, misty step</i>
 
-* 3rd level (3 slots): dispel magic, fireball, lightning bolt
+* 3rd level (3 slots): <i>dispel magic, fireball, lightning bolt</i>
 
-* 4th level (3 slots): blight, Everard's black tentacles, polymorph
+* 4th level (3 slots): <i>blight, Everard's black tentacles, polymorph</i>
 
-* 5th level (2 slots): cloudkill, geas, scrying
+* 5th level (2 slots): <i>cloudkill, geas, scrying</i>
 
-* 6th level (1 slot): programmed illusion, true seeing
+* 6th level (1 slot): <i>programmed illusion, true seeing</i>
 
-* 7th level (1 slot): finger of death, mirage arcane
+* 7th level (1 slot): <i>finger of death, mirage arcane</i>
 
-* 8th level (1 slot): power word stun
+* 8th level (1 slot): <i>power word stun</i>
 
 ### Actions
 
