@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Choronzon (Chaos Demon)"
 tags: [large, fiend, cr17, tome-of-horrors]
