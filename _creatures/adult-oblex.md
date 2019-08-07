@@ -26,7 +26,7 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, prone"
 
 ***Aversion to Fire.*** If the oblex takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
 
-***Innate Spellcasting.*** The oblex's innate spellcasting ability is Intelligence (DC 15, +7 to hit). It can innately cast the following spells, requiring no components:
+***Innate Spellcasting.*** The oblex's innate spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
 * 3/day each: <i>charm person </i>(as 5th-level spell)<i>, color spray, detect thoughts, hold person </i>(as 3rd-level spell)
 
