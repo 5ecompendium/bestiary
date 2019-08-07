@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Guardian Demon"
 tags: [large, fiend, cr7, tome-of-horrors]
