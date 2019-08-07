@@ -25,15 +25,15 @@ armor_class: "17 (natural armor)"
 
 ***Spellcasting.*** The blood orchid is a 7th level spellcaster. Its spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). It can cast the following spells:
 
-Cantrips (at will): dancing lights, fire bolt, light, mage hand
+* Cantrips (at will): <i>dancing lights, fire bolt, light, mage hand</i>
 
-1st level (4 slots): burning hands, color spray, detect magic, magic missile
+* 1st level (4 slots): <i>burning hands, color spray, detect magic, magic missile</i>
 
-2nd level (3 slots): darkness, ray of enfeeblement, scorching ray
+* 2nd level (3 slots): <i>darkness, ray of enfeeblement, scorching ray</i>
 
-3rd level (3 slots): lightning bolt, vampiric touch
+* 3rd level (3 slots): <i>lightning bolt, vampiric touch</i>
 
-4th level (1 slots): fire shield
+* 4th level (1 slots): <i>fire shield</i>
 
 ***Telepathic Bond.*** Blood orchids have a telepathic link to other blood orchids that are within 120 feet.
 
