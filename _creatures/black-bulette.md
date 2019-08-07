@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Black Bulette"
 tags: [huge, monstrosity, cr13, tome-of-horrors]
