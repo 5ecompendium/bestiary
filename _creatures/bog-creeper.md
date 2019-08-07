@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Bog Creeper"
 tags: [medium, plant, cr9, tome-of-horrors]
