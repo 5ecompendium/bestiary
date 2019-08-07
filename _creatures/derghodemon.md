@@ -32,9 +32,9 @@ spells and other magical effects.
 (spell save DC 15, +7 to hit with spell attacks). The demon can innately
 cast the following spells, requiring no material components:
 
-At will: <i>darkness, fear, detect magic</i>
+* At will: <i>darkness, fear, detect magic</i>
 
-1/day each: <i>confusion, sleep</i>
+* 1/day each: <i>confusion, sleep</i>
 
 ***Rend and Tear.*** The demon has advantage on all melee weapon attacks
 against a creature it is grappling.
