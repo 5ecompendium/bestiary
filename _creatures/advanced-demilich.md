@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Advanced Demilich"
 tags: [tiny, undead, cr24, tome-of-horrors]
