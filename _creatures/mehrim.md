@@ -34,9 +34,9 @@ spells and other magical effects.
 (spell save DC 13, +5 to hit with spell attacks). It can innately cast each of
 the following spells, requiring no material components:
 
-At will: <i>darkness, protection from evil and good, see invisibility</i>
+* At will: <i>darkness, protection from evil and good, see invisibility</i>
 
-1/day each: <i>dispel evil and good, dispel magic</i>
+* 1/day each: <i>dispel evil and good, dispel magic</i>
 
 ### Actions
 
