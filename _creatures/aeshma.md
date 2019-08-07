@@ -28,9 +28,9 @@ armor_class: "19 (natural armor)"
 (spell save DC 15, +7 to hit with spell attacks). The demon can innately
 cast the following spells, requiring no material components:
 
-* At will: blight, detect evil and good, dispel magic
+* At will: <i>blight, detect evil and good, dispel magic</i>
 
-* 3/day each: bestow curse, web
+* 3/day each: <i>bestow curse, web</i>
 
 ***Magic Resistance.*** The aeshma demon has advantage on saving throws
 against spells and other magical effects.
