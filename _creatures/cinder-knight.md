@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Cinder Knight"
 tags: [medium, elemental, cr10, tome-of-horrors]
