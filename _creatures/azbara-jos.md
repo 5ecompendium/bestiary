@@ -27,13 +27,13 @@ armor_class: "13 (16 with mage armor)"
 
 ***Spellcasting.*** Azbara is a 6th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Azbara has the following spells prepared from the wizard spell list:
 
-* Cantrips (at will): mage hand, prestidigitation, ray of frost, shocking grasp
+* Cantrips (at will): <i>mage hand, prestidigitation, ray of frost, shocking grasp</i>
 
-* 1st level (4 slots): fog cloud, magic missile, shield, thunderwave
+* 1st level (4 slots): <i>fog cloud, magic missile, shield, thunderwave</i>
 
-* 2nd level (3 slots): invisibility, misty step, scorching ray
+* 2nd level (3 slots): <i>invisibility, misty step, scorching ray</i>
 
-* 3rd level (3 slots): counterspell, dispel magic, fireball
+* 3rd level (3 slots): <i>counterspell, dispel magic, fireball</i>
 
 ### Actions
 
