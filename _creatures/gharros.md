@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Gharros (Scorpion Demon)"
 tags: [large, fiend, cr16, tome-of-horrors]
