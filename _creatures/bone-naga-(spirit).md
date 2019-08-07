@@ -22,13 +22,13 @@ condition_immunities: "charmed, exhaustion, paralyzed, poisoned"
 
 ***Spellcasting.*** The naga is a 5th-level spellcaster (spell save DC 12, +4 to hit with spell attacks) that needs only verbal components to cast its spells. Its spellcasting ability is Intelligence, and it has the following wizard spells prepared:
 
-* Cantrips (at will): mage hand, minor illusion, ray of frost
+* Cantrips (at will): <i>mage hand, minor illusion, ray of frost</i>
 
-* 1st level (4 slots): charm person, sleep
+* 1st level (4 slots): <i>charm person, sleep</i>
 
-* 2nd level (3 slots): detect thoughts, hold person
+* 2nd level (3 slots): <i>detect thoughts, hold person</i>
 
-* 3rd level (2 slots): lightning bolt
+* 3rd level (2 slots): <i>lightning bolt</i>
 
 ### Actions
 
