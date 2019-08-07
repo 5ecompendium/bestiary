@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Blindheim"
 tags: [small, aberration, cr1/2, tome-of-horrors]
