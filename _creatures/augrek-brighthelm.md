@@ -24,12 +24,11 @@ damage_resistances: "poison"
 
 ### Roleplaying Information
 
-Sheriff's deputy Augrek guards the southwest gate of BRyn Shander and welcomes visitors to town. She has a good heart.
+Sheriff's deputy Augrek guards the southwest gate of Bryn Shander and welcomes visitors to town. She has a good heart.
 
 **Ideal:** "You'll get farther in life with a kind word than an axe"
 **Bond:** "Bryn Shander is my home. It's my job to protect her."
 **Flaw:** "I'm head over heels in love with Sheriff Southwell. One day I hope to marry him."
-
 
 ### Actions
 
