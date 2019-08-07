@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Allip"
+name: "Allip (ToH)"
 tags: [medium, undead, cr2, tome-of-horrors]
 cha: 16 (+3)
 wis: 11 (+0)
