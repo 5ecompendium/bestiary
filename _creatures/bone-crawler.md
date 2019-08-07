@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Bone Crawler"
 tags: [huge, aberration, cr13, tome-of-horrors]
