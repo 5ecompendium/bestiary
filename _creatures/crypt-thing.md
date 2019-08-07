@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Crypt Thing"
 tags: [medium, undead, cr7, tome-of-horrors]
