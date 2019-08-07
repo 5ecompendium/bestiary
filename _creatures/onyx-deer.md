@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Onyx Deer"
 tags: [large, monstrosity, cr4, tome-of-horrors]
