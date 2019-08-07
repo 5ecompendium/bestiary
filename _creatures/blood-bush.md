@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Blood Bush"
 tags: [small, plant, cr3, tome-of-horrors]
