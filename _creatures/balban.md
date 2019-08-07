@@ -30,8 +30,9 @@ spells and other magical effects.
 
 ***Innate Spellcasting.*** The demon’s spellcasting ability is Wisdom (spell
 save DC 14, +6 to hit with spell attacks). The demon can innately cast the
-following spells at will, requiring no material components: <i>fear, darkness,
-dispel magic, teleport, see invisibility</i>
+following spells, requiring no material components: 
+
+At will: <i>fear, darkness, dispel magic, teleport, see invisibility</i>
 
 ***Charge.*** If the demon moves at least 20 feet straight toward a creature
 and then hits it with a bite attack on the same turn, that target must
