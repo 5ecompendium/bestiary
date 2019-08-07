@@ -22,11 +22,11 @@ armor_class: "10"
 
 ***Spellcasting.*** The witch is a 3rd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). The witch has the following wizard spells prepared:
 
-* Cantrips (at will): mage hand, prestidigitation, ray of frost
+* Cantrips (at will): <i>mage hand, prestidigitation, ray of frost</i>
 
-* 1st level (4 slots): ray of sickness, sleep, Tasha's hideous laughter
+* 1st level (4 slots): <i>ray of sickness, sleep, Tasha's hideous laughter</i>
 
-* 2nd level (2 slots): alter self, invisibility
+* 2nd level (2 slots): <i>alter self, invisibility</i>
 
 ### Actions
 
