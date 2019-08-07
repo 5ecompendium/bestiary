@@ -29,9 +29,9 @@ terrain composed of ice or snow doesn’t cost extra movement.
 Wisdom (spell save DC 10, +2 to hit with spell attacks). The barbegazi
 can innately cast the following spells, requiring no material components:
 
-3/day: ray of frost
+* 3/day: <i>ray of frost</i>
 
-1/day: hold person
+* 1/day: <i>hold person</i>
 
 ### Actions
 
