@@ -28,19 +28,19 @@ condition_immunities: "charmed, frightened"
 
 ***Spellcasting.*** The sphinx is a 12th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It requires no material components to cast its spells. The sphinx has the following cleric spells prepared:
 
-* Cantrips (at will): sacred flame, spare the dying, thaumaturgy
+* Cantrips (at will): <i>sacred flame, spare the dying, thaumaturgy</i>
 
-* 1st level (4 slots): command, detect evil and good, detect magic
+* 1st level (4 slots): <i>command, detect evil and good, detect magic</i>
 
-* 2nd level (3 slots): lesser restoration, zone of truth
+* 2nd level (3 slots): <i>lesser restoration, zone of truth</i>
 
-* 3rd level (3 slots): dispel magic, tongues
+* 3rd level (3 slots): <i>dispel magic, tongues</i>
 
-* 4th level (3 slots): banishment, freedom of movement
+* 4th level (3 slots): <i>banishment, freedom of movement</i>
 
-* 5th level (2 slots): flame strike, greater restoration
+* 5th level (2 slots): <i>flame strike, greater restoration</i>
 
-* 6th level (1 slot): heroes' feast
+* 6th level (1 slot): <i>heroes' feast</i>
 
 ### Actions
 
