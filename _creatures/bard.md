@@ -21,11 +21,11 @@ armor_class: "15 (chain shirt)"
 
 ***Spellcasting.*** The bard is a 4th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following bard spells prepared:
 
-Cantrips (at will): friends, mage hand, vicious mockery
+* Cantrips (at will): <i>friends, mage hand, vicious mockery</i>
 
-1st level (4 slots): charm person, healing word, heroism, sleep, thunderwave
+* 1st level (4 slots): <i>charm person, healing word, heroism, sleep, thunderwave</i>
 
-2nd level (3 slots): invisibility, shatter
+* 2nd level (3 slots): <i>invisibility, shatter</i>
 
 ***Song of Rest.*** The bard can perform a song while taking a short rest. Any ally who hears the song regains an extra ld6 hit points if it spends any Hit Dice to regain hit points at the end of that rest. The bard can confer this benefit on itself as well.
 
