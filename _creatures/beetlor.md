@@ -24,13 +24,12 @@ armor_class: "16 (natural armor)"
 to see the beetlor’s multifaceted eyes, the beetlor can force the creature to
 make a DC 15 Charisma saving throw if the beetlor isn’t incapacitated.
 On a failure, the creature can’t take reactions until the start of its next
-turn and rolls a d8 to determine what it does during its turn. On a 1
-to 4, the creature does nothing. On a 5 or 6, the creature takes no
-action or bonus action and uses all its movement to
-move in a randomly determined direction. On a 7
-or 8, the creature makes a melee attack against a
-randomly determined creature within its reach or
-does nothing if it can’t make such an attack.
+turn and rolls a d8 to determine what it does during its turn:
+
+* 1-4: the creature does nothing
+* 5-6: the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. 
+* 7-8: the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can’t make such an attack.
+
 A creature that isn’t surprised can avert its eyes
 to avoid the saving throw at the start of its turn. If
 the creature does so, it can’t see the beetlor until the
