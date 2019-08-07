@@ -27,9 +27,12 @@ Whenever the eladrin deals damage to the charmed creature, the creature can repe
 ***Fey Step (Recharge 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
 
 ***Innate Spellcasting.*** The eladrin's innate spellcasting ability is Charisma (spell sace DC 16). It can innately cast the following spells, requiring no material components:
-* At will: calm emotions, sleep
-* 3/day each: cure wounds (as a 5th-level spell), lesser restoration
-* 1/day each: greater restoration, heal, raise dead
+
+* At will: <i>calm emotions, sleep</i>
+
+* 3/day each: <i>cure wounds </i>(as a 5th-level spell)<i>, lesser restoration</i>
+
+* 1/day each: <i>greater restoration, heal, raise dead</i>
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 
