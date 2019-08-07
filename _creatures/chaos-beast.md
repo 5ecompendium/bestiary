@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Chaos Beast"
 tags: [medium, aberration, cr6, tome-of-horrors]
