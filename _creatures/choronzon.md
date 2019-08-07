@@ -37,9 +37,9 @@ until the end of the demon’s next turn.
 (spell save DC 18, +10 to hit with spell attacks). The demon can innately
 cast the following spells, requiring no material components:
 
-At will: <i>confusion, fear</i>
+* At will: <i>confusion, fear</i>
 
-3/day: <i>blight</i>
+* 3/day: <i>blight</i>
 
 ### Actions
 
