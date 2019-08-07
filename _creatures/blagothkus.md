@@ -23,17 +23,17 @@ armor_class: "17 (splint)"
 
 ***Innate Spellcasting.*** Blagothkus can innately cast the following spells (spell save DC 15), requiring no material components:
 
-* 3/day each: fog cloud, levitate
+* 3/day each: <i>fog cloud, levitate</i>
 
 ***Spellcasting.*** Blagothkus is a 5th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Blagothkus has the following spells prepared from the wizard spell list:
 
-* Cantrips (at will): light, mage hand, prestidigitation
+* Cantrips (at will): <i>light, mage hand, prestidigitation</i>
 
-* 1st level (4 slots): detect magic, identify, magic missile, shield
+* 1st level (4 slots): <i>detect magic, identify, magic missile, shield</i>
 
-* 2nd level (3 slots): gust of wind, misty step, shatter
+* 2nd level (3 slots): <i>gust of wind, misty step, shatter</i>
 
-* 3rd level (2 slots): fly, lightning bolt
+* 3rd level (2 slots): <i>fly, lightning bolt</i>
 
 ### Actions
 
