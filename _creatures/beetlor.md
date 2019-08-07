@@ -26,9 +26,9 @@ make a DC 15 Charisma saving throw if the beetlor isn’t incapacitated.
 On a failure, the creature can’t take reactions until the start of its next
 turn and rolls a d8 to determine what it does during its turn:
 
-* 1-4: the creature does nothing
-* 5-6: the creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. 
-* 7-8: the creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can’t make such an attack.
+* 1-4: The creature does nothing.
+* 5-6: The creature takes no action or bonus action and uses all its movement to move in a randomly determined direction. 
+* 7-8: The creature makes a melee attack against a randomly determined creature within its reach or does nothing if it can’t make such an attack.
 
 A creature that isn’t surprised can avert its eyes
 to avoid the saving throw at the start of its turn. If
