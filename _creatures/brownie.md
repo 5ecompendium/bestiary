@@ -27,11 +27,11 @@ Charisma (spell save DC 13, +5 to hit with spell attacks). It can
 innately cast the following spells, without using any spell
 components:
 
-At will: druidcraft, minor illusion, prestidigitation, thaumaturgy
+* At will: <i>druidcraft, minor illusion, prestidigitation, thaumaturgy</i>
 
-3/day each: color spray, dancing lights, hideous laughter, silent image
+* 3/day each: <i>color spray, dancing lights, hideous laughter, silent image</i>
 
-1/day each: dimension door
+* 1/day each: <i>dimension door</i>
 
 ### Actions
 
