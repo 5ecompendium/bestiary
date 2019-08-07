@@ -38,26 +38,26 @@ spellcasting ability is Intelligence (spell save DC 21, +13
 to hit with spell attacks). It has the following spells
 prepared:
 
-Cantrips (at will): mage hand, prestidigitation, ray of frost
+Cantrips (at will): <i>mage hand, prestidigitation, ray of frost</i>
 
-1st level (4 slots): detect magic, magic missile, shield, thunderwave
+* 1st level (4 slots): <i>detect magic, magic missile, shield, thunderwave</i>
 
-2nd level (3 slots): acid arrow, detect thoughts, invisibility, mirror
-image
+* 2nd level (3 slots): <i>acid arrow, detect thoughts, invisibility, mirror
+image</i>
 
-3rd level (3 slots): animate dead, counterspell, dispel magic, fireball
+* 3rd level (3 slots): <i>animate dead, counterspell, dispel magic, fireball</i>
 
-4th level (3 slots): blight, dimension door
+* 4th level (3 slots): <i>blight, dimension door</i>
 
-5th level (3 slots): cloudkill, scrying
+* 5th level (3 slots): <i>cloudkill, scrying</i>
 
-6th level (1 slot): disintegrate, globe of invulnerability
+* 6th level (1 slot): <i>disintegrate, globe of invulnerability</i>
 
-7th level (1 slot): finger of death, plane shift
+* 7th level (1 slot): <i>finger of death, plane shift</i>
 
-8th level (1 slot): dominate monster, power word stun
+* 8th level (1 slot): <i>dominate monster, power word stun</i>
 
-9th level (1 slot): power word kill
+* 9th level (1 slot): <i>power word kill</i>
 
 ***Turn Immunity.*** The demi-lich is immune to effects that turn undead.
 
