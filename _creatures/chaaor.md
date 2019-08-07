@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Chaaor (Beast Demon)"
 tags: [large, fiend, cr10, tome-of-horrors]
