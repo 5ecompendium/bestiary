@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Blue Bulette"
 tags: [large, monstrosity, cr12, tome-of-horrors]
