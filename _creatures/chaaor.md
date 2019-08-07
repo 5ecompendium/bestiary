@@ -32,9 +32,9 @@ spells and other magical effects.
 save DC 14, +6 to hit with spell attacks). The demon can innately cast the
 following spells, requiring no material components:
 
-At will: <i>darkness, jump, see invisibility</i>
+* At will: <i>darkness, jump, see invisibility</i>
 
-1/day: <i>plane shift</i> (self only)
+* 1/day: <i>plane shift</i> (self only)
 
 ### Actions
 
