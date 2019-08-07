@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Burning Ghat"
-tags: [medium, undead, CR3, tome-of-horrors]
+tags: [medium, undead, cr3, tome-of-horrors]
 cha: 14 (+2)
 wis: 14 (+2)
 int: 13 (+1)
