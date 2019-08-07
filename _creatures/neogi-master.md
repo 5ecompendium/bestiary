@@ -24,9 +24,9 @@ armor_class: "15 (natural armor)"
 
 ***Spellcasting.*** The neogi is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
-Cantrips (at will): eldritch blast (range 300 ft., +4 bonus to each damage roll), guidance, mage hand, minor illusion, prestidigitation, vicious mockery
+* Cantrips (at will): <i>eldritch blast </i>(range 300 ft., +4 bonus to each damage roll) <i>, guidance, mage hand, minor illusion, prestidigitation, vicious mockery</i>
 
-1st-4th level (2 4th-level slots): arms of Hadar, counterspell, dimension door, fear, hold person, hunger of Hadar, invisibility, unseen servant
+* 1st-4th level (2 4th-level slots): <i>arms of Hadar, counterspell, dimension door, fear, hold person, hunger of Hadar, invisibility, unseen servant</i>
 
 ***Spider Climb.*** The neogi can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
