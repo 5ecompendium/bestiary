@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Corpse Rook"
 tags: [large, monstrosity, cr4, tome-of-horrors]
