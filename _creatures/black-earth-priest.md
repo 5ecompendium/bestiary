@@ -20,13 +20,13 @@ armor_class: "17 (splint)"
 
 ***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): acid splash, blade ward, light, mending, mold earth
+* Cantrips (at will): <i>acid splash, blade ward, light, mending, mold earth</i>
 
-* 1st level (4 slots): earth tremor, expeditious retreat, shield
+* 1st level (4 slots): <i>earth tremor, expeditious retreat, shield</i>
 
-* 2nd level (3 slots): shatter, spider climb
+* 2nd level (3 slots): <i>shatter, spider climb</i>
 
-* 3rd level (2 slots): slow
+* 3rd level (2 slots): <i>slow</i>
 
 ### Actions
 
