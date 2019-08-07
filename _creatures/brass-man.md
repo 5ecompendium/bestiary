@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Brass Man"
 tags: [large, construct, cr9, tome-of-horrors]
