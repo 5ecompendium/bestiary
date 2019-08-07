@@ -30,9 +30,9 @@ armor_class: "20 (natural armor)"
 save DC 17, +9 to hit with spell attacks). It can innately cast the following
 spells requiring no material components:
 
-At will: <i>darkness, detect evil and good, detect magic, mirror image</i>
+* At will: <i>darkness, detect evil and good, detect magic, mirror image</i>
 
-3/day each: <i>hallow, telekinesis, teleport</i>
+* 3/day each: <i>hallow, telekinesis, teleport</i>
 
 ***Magic Resistance.*** The demon has advantage on saving throws against
 spells and other magical effects.
