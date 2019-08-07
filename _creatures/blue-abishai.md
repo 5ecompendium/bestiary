@@ -13,15 +13,15 @@ size: Medium fiend (devil)
 alignment: lawful evil
 challenge: "17 (18,000 XP)"
 languages: "Draconic, Infernal, telepathy 120 ft."
-senses: "darkvision 120 ft., passive Perception 16"
 skills: "Arcana +12"
-damage_immunities: "fire, lightning, poison"
+senses: "darkvision 120 ft., passive Perception 16"
 saving_throws: "Int +12, Wis +12"
+damage_immunities: "fire, lightning, poison"
+damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
+condition_immunities: "poisoned"
 speed: "30 ft., fly 50 ft."
 hit_points: "195  (26d8 + 78)"
 armor_class: "19 (natural armor)"
-condition_immunities: "poisoned"
-damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
 ***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
@@ -31,14 +31,22 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 ***Magic Weapons.*** The abishai's weapon attacks are magical.
 
 ***Spellcasting.*** The abishai is a 13th-level spellcaster. Its spellcasting ability is Intelligence. The abishai has the following wizard spells prepared:
-* Cantrips (at will): friends, mage hand, message, minor illusion, shocking grasp
-* 1st level (4 slots): chromatic orb, disguise self, expeditious retreat, magic missile, charm person, thunderwave
-* 2nd level (3 slots): darkness, mirror image, misty step
-* 3rd level (3 slots): dispel magic, fear, lightning bolt
-* 4th level (3 slots): dimension door, greater invisibility, ice storm
-* 5th level (2 slots): cone of cold, wall of force
-* 6th level (1 slot): chain lightning
-* 7th level (1 slot): teleport
+
+* Cantrips (at will): <i>friends, mage hand, message, minor illusion, shocking grasp</i>
+
+* 1st level (4 slots): <i>chromatic orb, disguise self, expeditious retreat, magic missile, charm person, thunderwave</i>
+
+* 2nd level (3 slots): <i>darkness, mirror image, misty step</i>
+
+* 3rd level (3 slots): <i>dispel magic, fear, lightning bolt</i>
+
+* 4th level (3 slots): <i>dimension door, greater invisibility, ice storm</i>
+
+* 5th level (2 slots): <i>cone of cold, wall of force</i>
+
+* 6th level (1 slot): <i>chain lightning</i>
+
+* 7th level (1 slot): <i>teleport</i>
 
 ### Actions
 
