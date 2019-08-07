@@ -21,21 +21,21 @@ armor_class: "12 (15 with mage armor)"
 
 ***Spellcasting.*** The abjurer is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The abjurer has the following wizard spells prepared:
 
-Cantrips (at will): blade ward. dancing lights, mending, message, ray of frost
+* Cantrips (at will): <i>blade ward. dancing lights, mending, message, ray of frost</i>
 
-1st level (4 slots): alarm*, mage armor, magic missile, shield*
+* 1st level (4 slots): <i>alarm* , mage armor, magic missile, shield* </i>
 
-2nd level (3 slots): arcane lock*, invisibility
+* 2nd level (3 slots): <i>arcane lock* , invisibility</i>
 
-3rd level (3 slots): counterspell*, dispel magic*, fireball
+* 3rd level (3 slots): <i>counterspell* , dispel magic* , fireball</i>
 
-4th level (3 slots): banishment*, stoneskin*
+* 4th level (3 slots): <i>banishment* , stoneskin* </i>
 
-5th level (2 slots): cone of cold, wall of force
+* 5th level (2 slots): <i>cone of cold, wall of force</i>
 
-6th level (1 slot): flesh to stone, globe of invulnerability*
+* 6th level (1 slot): <i>flesh to stone, globe of invulnerability* </i>
 
-7th level (1 slot): symbol* teleport
+* 7th level (1 slot): <i>symbol* , teleport</i>
 
 *Abjuration spell of 1st level or higher
 
