@@ -24,7 +24,7 @@ damage_resistances: "fire"
 
 * At will: <i>thaumaturgy</i>
 
-* 1/long rest: <i>hellish rebuke</i> (at 2nd level)<i>, darkness</i>
+* 1/long rest each: <i>hellish rebuke</i> (at 2nd level)<i>, darkness</i>
 
 ***Spellcasting.*** Rilleth is a 5th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). She knows the following sorcerer spells:
 
