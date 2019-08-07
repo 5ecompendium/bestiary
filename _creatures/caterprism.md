@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Caterprism"
 tags: [large, elemental, cr7, tome-of-horrors]
