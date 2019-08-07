@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Aeshma (Rage Demon)"
 tags: [large, fiend, cr10, tome-of-horrors]
