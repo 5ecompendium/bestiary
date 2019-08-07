@@ -12,33 +12,33 @@ size: Medium humanoid (fire genasi)
 alignment: neutral evil
 challenge: "8 (3,900 XP)"
 languages: "Common, Ignan"
-senses: "darkvision 60 ft."
 skills: "Arcana +3, Deception +7"
+senses: "darkvision 60 ft."
+damage_resistances: "fire"
 speed: "30 ft."
 hit_points: "78 (12d8+24)"
 armor_class: "12 (15 with mage armor)"
-damage_resistances: "fire"
 ---
 
 ***Innate Spellcasting.*** Bastian's innate spellcasting ability is Constitution (spell save DC 13, +5 to hit with spell attacks). He can innately cast the following spells:
 
-* At will: produce flame
+* At will: <i>produce flame</i>
 
-* 1/day: burning hands
+* 1/day: <i>burning hands</i>
 
 ***Spellcasting.*** Bastian is a 9th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). Bastian knows the following sorcerer spells:
 
-* Cantrips (at will): fire bolt, mage hand, message, prestidigitation, shocking grasp
+* Cantrips (at will): <i>fire bolt, mage hand, message, prestidigitation, shocking grasp</i>
 
-* 1st level (4 slots): mage armor, magic missile, shield
+* 1st level (4 slots): <i>mage armor, magic missile, shield</i>
 
-* 2nd level (3 slots): misty step, scorching ray
+* 2nd level (3 slots): <i>misty step, scorching ray</i>
 
-* 3rd level (3 slots): counterspell, fireball
+* 3rd level (3 slots): <i>counterspell, fireball</i>
 
-* 4th level (3 slots): dimension door, wall of fire
+* 4th level (3 slots): <i>dimension door, wall of fire</i>
 
-* 5th level (1 slot): hold monster
+* 5th level (1 slot): <i>hold monster</i>
 
 ### Actions
 
