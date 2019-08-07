@@ -27,9 +27,9 @@ armor_class: "17 (natural armor)"
 
 ***Innate Spellcasting.*** The hag's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
-* At will: <i>hold person,* ray of frost</i>
+* At will: <i>hold person* , ray of frost</i>
 
-* 3/day each: <i>cone of cold,* ice storm,* wall of ice* </i>
+* 3/day each: <i>cone of cold* , ice storm* , wall of ice* </i>
 
 * 1/day each: <i>control weather</i>
 
@@ -89,7 +89,7 @@ A hag coven can have only one hag eye at a time, and creating a new one requires
 
 * 1st level (4 slots): <i>bane, bless</i>
 
-* 2nd level (3 slots): <i><i>augury, detect thoughts</i>
+* 2nd level (3 slots): <i>augury, detect thoughts</i>
 
 * 3rd level (3 slots): <i>calirvoyance, dispel magic, nondetection</i>
 
