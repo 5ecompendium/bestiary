@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Cadaver Lord"
 tags: [medium, undead, cr4, tome-of-horrors]
