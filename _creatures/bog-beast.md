@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Bog Beast"
 tags: [large, monstrosity, cr3, tome-of-horrors]
