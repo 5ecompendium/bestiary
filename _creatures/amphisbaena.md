@@ -27,8 +27,7 @@ original amphisbaena’s current hit points. The
 split amphisbaena can rejoin its two halves after
 completing a short or long rest. If one of the
 split creatures is slain, the amphisbaena can
-regrow the lost portion over the course of 1d4
-+ 2 weeks.
+regrow the lost portion over the course of 1d4 + 2 weeks.
 
 ### Actions
 
