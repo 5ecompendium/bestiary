@@ -23,6 +23,6 @@ armor_class: "11 (natural armor)"
 
 ***Multiattack.*** The bear makes two attacks: one with its bite and one with its claws.
 
-***Bite.*** Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
+***Bite.*** Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.
 
-***Claws.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
+***Claws.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.
