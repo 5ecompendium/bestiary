@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Blood Orchid"
 tags: [large, aberration, cr5, tome-of-horrors]
