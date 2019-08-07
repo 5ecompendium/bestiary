@@ -29,22 +29,21 @@ needs to be submerged at least once every 2 hours to avoid suffocating.
 save DC 12, +4 to hit with spell attacks). It can innately cast the following
 spells, requiring no material components:
 
-3/day: fog cloud
+* 3/day: <i>fog cloud</i>
 
-1/day: control water
+* 1/day: <i>control water</i>
 
 ***Spellcasting.*** The asrai is a 5th level spellcaster. Its spellcasting ability
 is Charisma (spell save DC 12, +4 to hit with spell attacks.) The asrai can
 cast the following spells:
 
-Cantrips (at will): dancing lights, ray of frost, resistance, thaumaturgy
+* Cantrips (at will): <i>dancing lights, ray of frost, resistance, thaumaturgy</i>
 
-1st level (4 slots): charm person, create or destroy water, detect magic,
-thunderwave
+* 1st level (4 slots): <i>charm person, create or destroy water, detect magic, thunderwave</i>
 
-2nd level (3 slots): hideous laughter, misty step
+* 2nd level (3 slots): <i>hideous laughter, misty step</i>
 
-3rd level (2 slots): hypnotic pattern
+* 3rd level (2 slots): <i>hypnotic pattern</i>
 
 ### Actions
 
