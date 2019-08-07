@@ -20,9 +20,9 @@ armor_class: "10"
 
 ***Spellcasting.*** The apprentice is a 1st-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:
 
-Cantrips (at will): fire bolt, mending, prestidigitation
+* Cantrips (at will): <i>fire bolt, mending, prestidigitation</i>
 
-1st level (2 slots): burning hands, disguise self, shield
+* 1st level (2 slots): <i>burning hands, disguise self, shield</i>
 
 ### Actions
 
