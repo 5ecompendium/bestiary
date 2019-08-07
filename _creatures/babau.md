@@ -24,7 +24,7 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Innate Spellcasting.*** The babau's innate spellcasting ability is Wisdom (spell save DC 11). The babau can innately cast the following spells, requiring no material components:
 
-At will: darkness, dispel magic, fear, heat metal, levitate
+* At will: <i>darkness, dispel magic, fear, heat metal, levitate</i>
 
 ### Actions
 
