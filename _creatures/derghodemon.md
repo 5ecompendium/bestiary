@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Derghodemon (Cockroach Demon)"
 tags: [large, fiend, cr9, tome-of-horrors]
