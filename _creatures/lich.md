@@ -29,25 +29,25 @@ damage_resistances: "cold, lightning, necrotic"
 
 ***Spellcasting.*** The lich is an 18th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The lich has the following wizard spells prepared:
 
-* Cantrips (at will): mage hand, prestidigitation, ray of frost
+* Cantrips (at will): <i>mage hand, prestidigitation, ray of frost</i>
 
-* 1st level (4 slots): detect magic, magic missile, shield, thunderwave
+* 1st level (4 slots): <i>detect magic, magic missile, shield, thunderwave</i>
 
-* 2nd level (3 slots): detect thoughts, invisibility, Melf's acid arrow, mirror image
+* 2nd level (3 slots): <i>detect thoughts, invisibility, Melf's acid arrow, mirror image</i>
 
-* 3rd level (3 slots): animate dead, counterspell, dispel magic, fireball
+* 3rd level (3 slots): <i>animate dead, counterspell, dispel magic, fireball</i>
 
-* 4th level (3 slots): blight, dimension door
+* 4th level (3 slots): <i>blight, dimension door</i>
 
-* 5th level (3 slots): cloudkill, scrying
+* 5th level (3 slots): <i>cloudkill, scrying</i>
 
-* 6th level (1 slot): disintegrate, globe of invulnerability
+* 6th level (1 slot): <i>disintegrate, globe of invulnerability</i>
 
-* 7th level (1 slot): finger of death, plane shift
+* 7th level (1 slot): <i>finger of death, plane shift</i>
 
-* 8th level (1 slot): dominate monster, power word stun
+* 8th level (1 slot): <i>dominate monster, power word stun</i>
 
-* 9th level (1 slot): power word kill
+* 9th level (1 slot): <i>power word kill</i>
 
 ***Turn Resistance.*** The lich has advantage on saving throws against any effect that turns undead.
 
