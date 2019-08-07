@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Cadaver"
 tags: [medium, undead, cr1, tome-of-horrors]
