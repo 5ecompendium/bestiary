@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Death Cow"
 tags: [large, monstrosity, cr5, tome-of-horrors]
