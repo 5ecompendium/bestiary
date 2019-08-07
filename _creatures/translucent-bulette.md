@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Translucent Bulette"
 tags: [huge, monstrosity, cr15, tome-of-horrors]
