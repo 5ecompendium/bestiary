@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Hydrodemon"
 tags: [large, fiend, cr5, tome-of-horrors]
