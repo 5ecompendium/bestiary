@@ -21,25 +21,25 @@ armor_class: "16 (hide armor, shield)"
 
 ***Spellcasting.*** The archdruid is an 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following druid spells prepared:
 
-Cantrips (at will): druidcraft, mending, poison spray, produce flame
+* Cantrips (at will): <i>druidcraft, mending, poison spray, produce flame</i>
 
-1st level (4 slots): cure wounds, entangle, faerie fire, speak with animals
+* 1st level (4 slots): <i>cure wounds, entangle, faerie fire, speak with animals</i>
 
-2nd level (3 slots): animal messenger, beast sense, hold person
+* 2nd level (3 slots): <i>animal messenger, beast sense, hold person</i>
 
-3rd level (3 slots): conjure animals, meld into stone, water breathing
+* 3rd level (3 slots): <i>conjure animals, meld into stone, water breathing</i>
 
-4th level (3 slots): dominate beast, locate creature, stoneskin, wall of fire
+* 4th level (3 slots): <i>dominate beast, locate creature, stoneskin, wall of fire</i>
 
-5th level (3 slots): commune with nature, mass cure wounds, tree stride
+* 5th level (3 slots): <i>commune with nature, mass cure wounds, tree stride</i>
 
-6th level (1 slot): heal, heroes' feast, sunbeam
+* 6th level (1 slot): <i>heal, heroes' feast, sunbeam</i>
 
-7th level (1 slot): fire storm
+* 7th level (1 slot): <i>fire storm</i>
 
-8th level (1 slot): animal shapes
+* 8th level (1 slot): <i>animal shapes</i>
 
-9th level (1 slot): foresight
+* 9th level (1 slot): <i>foresight</i>
 
 ### Actions
 
@@ -47,6 +47,6 @@ Cantrips (at will): druidcraft, mending, poison spray, produce flame
 
 ***Change Shape (2/Day).*** The archdruid magically polymorphs into a beast or elemental with a challenge rating of 6 or less, and can remain in this form for up to 9 hours. The archdruid can choose whether its equipment falls to the ground, melds with its new form, or is worn by the new form. The archdruid reverts to its true form if it dies or falls unconscious. The archdruid can revert to its true form using a bonus action on its turn.
 
->While in a new form, the archdruid retains its game statistics and ability to speak, but its AC, movement modes, Strength, and Dexterity are replaced by those of the new form, and it gains any special senses, proficiencies, traits, actions, and reactions (except class features, legendary actions, and lair actions) that the new form has but that it lacks. It can cast its spells with verbal or somatic components in its new form.
+While in a new form, the archdruid retains its game statistics and ability to speak, but its AC, movement modes, Strength, and Dexterity are replaced by those of the new form, and it gains any special senses, proficiencies, traits, actions, and reactions (except class features, legendary actions, and lair actions) that the new form has but that it lacks. It can cast its spells with verbal or somatic components in its new form.
 
->The new form's attacks count as magical for the purpose of overcoming resistances and immunity to nonmagical attacks.
+The new form's attacks count as magical for the purpose of overcoming resistances and immunity to nonmagical attacks.
