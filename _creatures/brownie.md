@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Brownie"
-tags: [tiny, fey, CR2, tome-of-horrors]
+tags: [tiny, fey, cr2, tome-of-horrors]
 cha: 16 (+3)
 wis: 14 (+2)
 int: 14 (+2)
