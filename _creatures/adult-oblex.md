@@ -26,8 +26,9 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, prone"
 
 ***Aversion to Fire.*** If the oblex takes fire damage, it has disadvantage on attack rolls and ability checks until the end of its next turn.
 
-***Innate Spellcasting.*** The oblex's innate spellcasting ability is Intelligence It can innately cast the following spells, requiring no components:
-* 3/day each: charm person (as 5th-level spell), color spray, detect thoughts, hold person (as 3rd-level spell)
+***Innate Spellcasting.*** The oblex's innate spellcasting ability is Intelligence (DC 15, +7 to hit). It can innately cast the following spells, requiring no components:
+
+* 3/day each: <i>charm person </i>(as 5th-level spell)<i>, color spray, detect thoughts, hold person </i>(as 3rd-level spell)
 
 ***Sulfurous Impersonation.*** As a bonus action, the oblex can extrude a piece of itself that assumes the appearance of one Medium or smaller creature whose memories it has stolen. This simulacrum appears, feels, and sounds exactly like the creature it impersonates, though it smells faintly of sulfur. The oblex can impersonate 1d4 + 1 different creatures, each one tethered to its body by a strand of slime that can extend up to 120 feet away. For all practical purposes, the simulacrum is the oblex, meaning that the oblex occupies its space and the simulacrum's space simultaneously. The slimy tether is immune to damage, but it is severed if there is no opening at least 1 inch wide between the oblex's main body and the simulacrum. The simulacrum disappears if the tether is severed.
 
