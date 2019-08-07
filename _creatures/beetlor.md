@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Beetlor"
 tags: [large, monstrosity, cr5, tome-of-horrors]
