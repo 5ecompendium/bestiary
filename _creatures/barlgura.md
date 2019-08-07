@@ -25,9 +25,9 @@ damage_resistances: "cold, fire, lightning"
 
 ***Innate Spellcasting.*** The barlgura's spellcasting ability is Wisdom (spell save DC 13). The barlgura can innately cast the following spells, requiring no material components:
 
-1/day each: entangle, phantasmal force
+* 1/day each: <i>entangle, phantasmal force</i>
 
-2/day each: disguise self, invisibility (self only)
+* 2/day each: <i>disguise self, invisibility </i>(self only)
 
 ***Reckless.*** At the start of its turn, the barlgura can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.
 
