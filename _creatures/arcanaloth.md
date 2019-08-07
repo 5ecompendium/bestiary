@@ -25,7 +25,7 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Innate Spellcasting.*** The arcanaloth's innate spellcasting ability is Charisma (spell save DC 15). The arcanaloth can innately cast the following spells, requiring no material components:
 
-At will: alter self, darkness, heat metal, invisibility (self only), magic missile
+* At will: <i>alter self, darkness, heat metal, invisibility </i>(self only)</i> <i>, magic missile</i>
 
 ***Magic Resistance.*** The arcanaloth has advantage on saving throws against spells and other magical effects.
 
@@ -33,23 +33,23 @@ At will: alter self, darkness, heat metal, invisibility (self only), magic missi
 
 ***Spellcasting.*** The arcanaloth is a 16th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). The arcanaloth has the following wizard spells prepared:
 
-* Cantrips (at will): fire bolt, mage hand, minor illusion, prestidigitation
+* Cantrips (at will): <i>fire bolt, mage hand, minor illusion, prestidigitation</i>
 
-* 1st level (4 slots): detect magic, identify, shield, Tenser's floating disk
+* 1st level (4 slots): <i>detect magic, identify, shield, Tenser's floating disk</i>
 
-* 2nd level (3 slots): detect thoughts, mirror image, phantasmal force, suggestion
+* 2nd level (3 slots): <i>detect thoughts, mirror image, phantasmal force, suggestion</i>
 
-* 3rd level (3 slots): counterspell, fear, fireball
+* 3rd level (3 slots): <i>counterspell, fear, fireball</i>
 
-* 4th level (3 slots): banishment, dimension door
+* 4th level (3 slots): <i>banishment, dimension door</i>
 
-* 5th level (2 slots): contact other plane, hold monster
+* 5th level (2 slots): <i>contact other plane, hold monster</i>
 
-* 6th level (1 slot): chain lightning
+* 6th level (1 slot): <i>chain lightning</i>
 
-* 7th level (1 slot): finger of death
+* 7th level (1 slot): <i>finger of death</i>
 
-* 8th level (1 slot): mind blank
+* 8th level (1 slot): <i>mind blank</i>
 
 ### Actions
 
