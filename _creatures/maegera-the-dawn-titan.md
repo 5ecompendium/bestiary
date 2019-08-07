@@ -42,10 +42,10 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ### Legendary Actions
 
-The maegera the dawn titan can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The maegera the dawn titan regains spent legendary actions at the start of its turn.
+Maegera the Dawn Titan can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. Maegera regains spent legendary actions at the start of its turn.
 
 ***Quench Magic.*** Maegera targets one creature that it can see within 60 feet of it. Any resistence or immunity to fire damage that the target gains from a spell or magic item is suppressed.  The effect lasts until the end of Maegera's next turn.
 
-***Smoke Cloud (Costs 2 Actions).*** Maegera exhales a billowing cloud of hot smoke and embers that fills a 60 feet cube. Each creature in the area takes 11 (2d10) fire damage. The cloud lasts until the end of Maegera's next turn. Creatures completely in the cloud are blinded and can't be seen.
+***Smoke Cloud (Costs 2 Actions).*** Maegera exhales a billowing cloud of hot smoke and embers that fills a 60 foot cube. Each creature in the area takes 11 (2d10) fire damage. The cloud lasts until the end of Maegera's next turn. Creatures completely in the cloud are blinded and can't be seen.
 
-***Create Fire Elemental (Costs 3 Actions).*** Maegera's hit points are reduced by 50 as part of it separates and becomes a fire elemental with 102 hit points. The fire element appears in an unoccupied space within 15 feet of Maegera and acts on Maegera's initiative count. Maegera can't use this action if it has 50 hit points or fewer. The fire element obeys Maegera's commands and fights until destroyed.
+***Create Fire Elemental (Costs 3 Actions).*** Maegera's hit points are reduced by 50 as part of it separates and becomes a fire elemental with 102 hit points. The fire element appears in an unoccupied space within 15 feet of Maegera and acts on Maegera's initiative count. Maegera can't use this action if it has 50 hit points or fewer. The fire elemental obeys Maegera's commands and fights until destroyed.
