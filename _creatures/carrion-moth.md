@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Carrion Moth"
 tags: [large, aberration, cr5, tome-of-horrors]
