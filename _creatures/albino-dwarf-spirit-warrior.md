@@ -24,7 +24,7 @@ armor_class: "13 (hide armor)"
 
 ***Innate Spellcasting.*** The dwarf's innate spell casting ability is Wisdom. It can inn ately cast the following spells, requiring no material components:
 
-1/day each: hunter's mark, jump, pass without trace, speak with animals, speak with plants.
+* 1/day each: <i>hunter's mark, jump, pass without trace, speak with animals, speak with plants</i>
 
 ### Actions
 
