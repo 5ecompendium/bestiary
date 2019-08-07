@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Azizou (Pain Demon)"
 tags: [small, fiend, cr3, tome-of-horrors]
