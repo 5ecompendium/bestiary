@@ -27,25 +27,25 @@ damage_resistances: "cold, lightning, necrotic"
 
 ***Innate Spellcasting (Psionics).*** The alhoon's innate spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no components:
 
-At will: detect thoughts, levitate
+* At will: <i>detect thoughts, levitate</i>
 
-1/day each: dominate monster, plane shift (self only)
+* 1/day each: <i>dominate monster, plane shift</i> (self only)
 
 ***Spellcasting.*** The alhoon is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The alhoon has the following wizard spells prepared:
 
-Cantrips (at will): chill touch, dancing lights, mage hand, prestidigitation, shocking grasp
+* Cantrips (at will): <i>chill touch, dancing lights, mage hand, prestidigitation, shocking grasp</i>
 
-1st level (4 slots): detect magic, disguise self, magic missile, shield
+* 1st level (4 slots): <i>detect magic, disguise self, magic missile, shield</i>
 
-2nd level (3 slots): invisibility, mirror image, scorching ray
+* 2nd level (3 slots): <i>invisibility, mirror image, scorching ray</i>
 
-3rd level (3 slots): counterspell, fly, lightning bolt
+* 3rd level (3 slots): <i>counterspell, fly, lightning bolt</i>
 
-4th level (3 slots): confusion, Evard's black tentacles, phantasmal killer
+* 4th level (3 slots): <i>confusion, Evard's black tentacles, phantasmal killer</i>
 
-5th level (2 slots): modify memory, wall of force
+* 5th level (2 slots): <i>modify memory, wall of force</i>
 
-6th level (1 slot): disintegrate, globe of invulnerability
+* 6th level (1 slot): <i>disintegrate, globe of invulnerability</i>
 
 ***Turn Resistance.*** The alhoon has advantage on saving throws against any effect that turns undead.
 
