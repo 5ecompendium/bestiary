@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Geruzou (Slime Demon)"
 tags: [small, fiend, cr2, tome-of-horrors]
