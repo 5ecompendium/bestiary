@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Crystalline Horror"
 tags: [medium, aberration, cr3, tome-of-horrors]
