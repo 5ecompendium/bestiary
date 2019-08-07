@@ -21,11 +21,11 @@ armor_class: "18 (plate)"
 
 ***Spellcasting.*** The blackguard is a 10th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It has the following paladin spells prepared:
 
-1st level (4 slots): command, protection from evil and good, thunderous smite
+* 1st level (4 slots): <i>command, protection from evil and good, thunderous smite</i>
 
-2nd level (3 slots): branding smite, find steed
+* 2nd level (3 slots): <i>branding smite, find steed</i>
 
-3rd level (2 slots): blinding smite, dispel magic
+* 3rd level (2 slots): <i>blinding smite, dispel magic</i>
 
 ### Actions
 
