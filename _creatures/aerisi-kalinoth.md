@@ -28,19 +28,19 @@ damage_resistances: "lightning"
 
 ***Spellcasting.*** Aerisi is a 12th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Aerisi has the following wizard spells prepared:
 
-* Cantrips (at will): gust, mage hand, message, prestidigitation, ray of frost, shocking grasp
+* Cantrips (at will): <i>gust, mage hand, message, prestidigitation, ray of frost, shocking grasp</i>
 
-* 1st level (4 slots): charm person, feather fall, mage armor, thunderwave
+* 1st level (4 slots): <i>charm person, feather fall, mage armor, thunderwave</i>
 
-* 2nd level (3 slots): dust devil, gust of wind, invisibility
+* 2nd level (3 slots): <i>dust devil, gust of wind, invisibility</i>
 
-* 3rd level (3 slots): fly, gaseous form, lightning bolt
+* 3rd level (3 slots): <i>fly, gaseous form, lightning bolt</i>
 
-* 4th level (3 slots): ice storm, storm sphere
+* 4th level (3 slots): <i>ice storm, storm sphere</i>
 
-* 5th level (2 slots): cloudkill, seeming (cast each day)
+* 5th level (2 slots): <i>cloudkill, seeming</i> (cast each day)
 
-* 6th level (1 slot): chain lightning
+* 6th level (1 slot): <i>chain lightning</i>
 
 ### Actions
 
