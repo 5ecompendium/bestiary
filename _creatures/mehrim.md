@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Mehrim (Goat Demon)"
 tags: [medium, fiend, cr3, tome-of-horrors]
