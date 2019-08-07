@@ -1,4 +1,4 @@
-﻿---
+---
 layout: creature
 name: "Light Cadejo"
 tags: [medium, fey, cr3, tome-of-horrors]
