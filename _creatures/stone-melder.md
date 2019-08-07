@@ -23,15 +23,15 @@ armor_class: "17 (splint)"
 
 ***Spellcasting.*** The Stonemelder is a 7th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): acid splash, blade ward, light, mending, mold earth
+* Cantrips (at will): <i>acid splash, blade ward, light, mending, mold earth</i>
 
-* 1st level (4 slots): expeditious retreat, false life, shield
+* 1st level (4 slots): <i>expeditious retreat, false life, shield</i>
 
-* 2nd level (3 slots): Maximilian's earthen grasp, shatter
+* 2nd level (3 slots): <i>Maximilian's earthen grasp, shatter</i>
 
-* 3rd level (3 slots): erupting earth, meld into stone
+* 3rd level (3 slots): <i>erupting earth, meld into stone</i>
 
-* 4th level (1 slot): stoneskin
+* 4th level (1 slot): <i>stoneskin</i>
 
 ### Actions
 
