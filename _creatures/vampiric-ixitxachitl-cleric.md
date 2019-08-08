@@ -20,13 +20,13 @@ armor_class: "16 (natural armor)"
 
 ***Spellcasting.*** The ixtachitl is a 5th-level spellcaster that uses Wisdom as its spellcasting ability (Spell save DC 11, +3 to hit with spell attacks). The ixitxachitl has the following cleric spells prepared:
 
-Cantrips (at will): guidance, thaumaturgy
+* Cantrips (at will): <i>guidance, thaumaturgy</i>
 
-1st level (4 slots): charm person, create or destroy water
+* 1st level (4 slots): <i>charm person, create or destroy water</i>
 
-2nd level (3 slots): hold person, silence
+* 2nd level (3 slots): <i>hold person, silence</i>
 
-3rd level (2 slots): dispel magic, tongues
+* 3rd level (2 slots): <i>dispel magic, tongues</i>
 
 ### Actions
 
