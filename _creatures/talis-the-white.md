@@ -26,17 +26,17 @@ armor_class: "18 (scale mail +1, shield)"
 
 ***Spellcasting.*** Talis is a 9th-level spellcaster that uses Wisdom as her spellcasting ability (spell save DC 14, +6 to hit with spell attacks). Talis has the following spells prepared from the cleric spell list:
 
-* Cantrips (at will): guidance, resistance, thaumaturgy
+* Cantrips (at will): <i>guidance, resistance, thaumaturgy</i>
 
-* 1st level (4 slots): command, cure wounds, healing word, inflict wounds
+* 1st level (4 slots): <i>command, cure wounds, healing word, inflict wounds</i>
 
-* 2nd level (3 slots): blindness/deafness, lesser restoration, spiritual weapon (spear)
+* 2nd level (3 slots): <i>blindness/deafness, lesser restoration, spiritual weapon </i>(spear)
 
-* 3rd level (3 slots): dispel magic, mass healing word, sending
+* 3rd level (3 slots): <i>dispel magic, mass healing word, sending</i>
 
-* 4th level (3 slots): death ward, freedom of movement
+* 4th level (3 slots): <i>death ward, freedom of movement</i>
 
-* 5th level (1 slot): insect plague
+* 5th level (1 slot): <i>insect plague</i>
 
 ***Winter Strike (3/Day).*** Once per turn, when Talis hits with a melee attack, she can expend a use of this trait to deal an extra 9 (2d8) cold damage.
 
