@@ -25,9 +25,12 @@ damage_resistances: "cold, fire, lightning"
 ---
 
 ***Innate Spellcasting.*** Demogorgon's spellcasting ability is Charisma. Demogorgon can innately cast the following spells, requiring no material components:
-* At will: detect magic, major image
-* 3/day each: dispel magic, fear, telekinesis
-* 1/day each: feeblemind, project image
+
+* At will: <i>detect magic, major image</i>
+
+* 3/day each: <i>dispel magic, fear, telekinesis</i>
+
+* 1/day each: <i>feeblemind, project image</i>
 
 ***Legendary Resistance (3/Day).*** If Demogorgon fails a saving throw, he can choose to succeed instead.
 
@@ -45,8 +48,11 @@ damage_resistances: "cold, fire, lightning"
 
 ***Gaze*** Demogorgon turns his magical gaze toward one creature that he can see within 120 feet of him. That target must make a DC 23 Wisdom saving throw. Unless the target is incapacitated, it can avert its eyes to avoid the gaze and to automatically succeed on the save. If the target does so, it can't see Demogorgon until the start of his next turn. If the target looks at him in the meantime, it must immediately make the save.
 If the target fails the save, the target suffers one of the following effects of Demogorgon's choice or at random:
+
 1. Beguiling Gaze. The target is stunned until the start of Demogorgon's next turn or until Demogorgon is no longer within line of sight.
+
 2. Hypnotic Gaze. The target is charmed by Demogorgon until the start of Demogorgon's next turn. Demogorgon chooses how the charmed target uses its actions, reactions, and movement. Because this gaze requires Demogorgon to focus both heads on the target, he can't use his Maddening Gaze legendary action until the start of his next turn.
+
 3. Insanity Gaze. The target suffers the effect of the confusion spell without making a saving throw. The effect lasts until the start of Demogorgon's next turn. Demogorgon doesn't need to concentrate on the spell.
 
 ### Legendary Actions
