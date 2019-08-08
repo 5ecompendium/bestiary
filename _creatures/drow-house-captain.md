@@ -26,8 +26,10 @@ armor_class: "16 (chain mail)"
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
 ***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma (spell save DC 13). He can innately cast the following spells, requiring no material components:
-* At will: dancing lights
-* 1/day each: darkness, faerie fire , levitate (self only)
+
+* At will: <i>dancing lights</i>
+
+* 1/day each: <i>darkness, faerie fire , levitate </i>(self only)
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
