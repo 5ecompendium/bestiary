@@ -26,9 +26,9 @@ damage_resistances: "cold, fire, lightning"
 
 ***Innate Spellcasting.*** The draegloth's innate spellcasting ability is Charisma (spell save DC 11). The draegloth can innately cast the following spells, requiring no material components:
 
-At will: darkness
+* At will: <i>darkness</i>
 
-1/day each: confusion, dancing lights, faerie fire
+* 1/day each: <i>confusion, dancing lights, faerie fire</i>
 
 ### Actions
 
