@@ -26,13 +26,13 @@ damage_resistances: "poison"
 
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
-***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
+***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:
 
 * At will: <i>dancing lights</i>
 
 * 1/day each: <i>darkness, faerie fire, levitate </i>(self only)
 
-***Spellcasting.*** The drow is a 16th-level spellcaster. Its spellcasting ability is Charisma. It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+***Spellcasting.*** The drow is a 16th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
 * Cantrips (at will): <i>chill touch, eldritch blast, mage hand, poison spray</i>
 
