@@ -141,7 +141,7 @@ rises as a zombie under Orcus’ control.
 
 If Orcus dies, this effect fade over the course of 1d10 days.
 
-## Wand of Orcus
+# Wand of Orcus
 
 <i>Rod, artifact (requires attunement)</i>
 
