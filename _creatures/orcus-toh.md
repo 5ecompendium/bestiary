@@ -125,7 +125,7 @@ subsequent initiative 20 at will if on that plane.
 cages around two creatures of its choice. The cages can be attacked and
 destroyed (AC 15; hp 30; vulnerability to bludgeoning damage; resistance
 to piercing, poison, slashing, and psychic damage). While in a bone-cage,
-a creature is retrained.
+a creature is restrained.
 
 ***Fountain of Blood.*** Orcus chooses a point on the ground that it can see
 within 100 feet of it. A geyser of caustic blood erupts from the ground
