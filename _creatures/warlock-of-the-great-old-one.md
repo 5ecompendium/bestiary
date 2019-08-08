@@ -23,15 +23,15 @@ damage_resistances: "psychic"
 
 ***Innate Spellcasting.*** The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:
 
-At will: detect magic, jump, levitate, mage armor (self only), speak with dead
+* At will: <i>detect magic, jump, levitate, mage armor </i>(self only)<i>, speak with dead</i>
 
-1/day each: arcane gate, true seeing
+* 1/day each: <i>arcane gate, true seeing</i>
 
 ***Spellcasting.*** The warlock is a 14th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
-Cantrips (at will): chill touch, eldritch blast, guidance, mage hand, minor illusion, prestidigitation, shocking grasp
+* Cantrips (at will): <i>chill touch, eldritch blast, guidance, mage hand, minor illusion, prestidigitation, shocking grasp</i>
 
-1st-5th level (3 5th-level slots): armor of Agathys, arms of Hadar, crown of madness, clairvoyance, contact other plane, detect thoughts, dimension door, dissonant whispers, dominate beast, telekinesis, vampiric touch
+* 1st-5th level (3 5th-level slots): <i>armor of Agathys, arms of Hadar, crown of madness, clairvoyance, contact other plane, detect thoughts, dimension door, dissonant whispers, dominate beast, telekinesis, vampiric touch</i>
 
 ***Whispering Aura.*** At the start of each of the warlock's turns, each creature of its choice within 5 feet of it must succeed on a DC 15 Wisdom saving throw or take 10 (3d6) psychic damage, provided that the warlock isn't incapacitated.
 
