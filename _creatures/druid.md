@@ -20,11 +20,11 @@ armor_class: "11 (16 with barkskin)"
 
 ***Spellcasting.*** The druid is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 
-* Cantrips (at will): druidcraft, produce flame, shillelagh
+* Cantrips (at will): <i>druidcraft, produce flame, shillelagh</i>
 
-* 1st level (4 slots): entangle, longstrider, speak with animals, thunderwave
+* 1st level (4 slots): <i>entangle, longstrider, speak with animals, thunderwave</i>
 
-* 2nd level (3 slots): animal messenger, barkskin
+* 2nd level (3 slots): <i>animal messenger, barkskin</i>
 
 ### Actions
 
