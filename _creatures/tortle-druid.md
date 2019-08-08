@@ -22,7 +22,7 @@ armor_class: "17 (natural)"
 
 ***Hold Breath.*** The tortle can hold its breath for 1 hour.
 
-***Spellcasting.*** The tortle is a 4th-level spellcaster. Its spellcasting ability is Wisdom. It has the following druid spells prepared:
+***Spellcasting.*** The tortle is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It has the following druid spells prepared:
 
 * Cantrips (at will): <i>druidcraft, guidance, produce flame</i>
 
