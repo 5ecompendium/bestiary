@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: ""
-tags: [size, creaturetype, CRXX, tome-of-horrors]
+tags: [size, creaturetype, crXX, tome-of-horrors]
 cha: 10 (+0)
 wis: 10 (+0)
 int: 10 (+0)
@@ -24,7 +24,7 @@ hit_points: ""
 armor_class: ""
 ---
 
-Status effects
+[Status effects]
 
 ### Actions
 
