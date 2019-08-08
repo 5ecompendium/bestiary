@@ -24,17 +24,26 @@ armor_class: "15 (18 with mage armor)"
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
 ***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
-* At will: dancing lights
-* 1/day each: darkness, faerie fire, levitate (self only)
+
+* At will: <i>dancing lights</i>
+
+* 1/day each: <i>darkness, faerie fire, levitate </i>(self only)
 
 ***Spellcasting.*** The drow is a 11th-level spellcaster. Its spellcasting ability is Intelligence. It has the following wizard spells prepared:
-* Cantrips (at will): mage hand, message, poison spray, shocking grasp, ray of frost
-* 1st level (4 slots): burning hands, mage armor, magic missile, shield
-* 2nd level (3 slots): gust of wind, invisibility, misty step, shatter
-* 3rd level (3 slots): counterspell, fireball, haste
-* 4th level (3 slots): dimension door, Otiluke's resilient sphere
-* 5th level (2 slots): cone of cold
-* 6th level (1 slot): chain lightning
+
+* Cantrips (at will): <i>mage hand, message, poison spray, shocking grasp, ray of frost</i>
+
+* 1st level (4 slots): <i>burning hands, mage armor, magic missile, shield</i>
+
+* 2nd level (3 slots): <i>gust of wind, invisibility, misty step, shatter</i>
+
+* 3rd level (3 slots): <i>counterspell, fireball, haste</i>
+
+* 4th level (3 slots): <i>dimension door, Otiluke's resilient sphere</i>
+
+* 5th level (2 slots): <i>cone of cold</i>
+
+* 6th level (1 slot): <i>chain lightning</i>
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
