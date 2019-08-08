@@ -144,7 +144,7 @@ of Sonechard’s lair.
 If Sonechard dies, the effects fade immediately, but animated undead
 remain until destroyed.
 
-### Fool's Errand
+# Fool's Errand
 
 <i>Weapon (war pick), artifact (requires attunement)</i>
 
