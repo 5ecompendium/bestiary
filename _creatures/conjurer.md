@@ -21,17 +21,17 @@ armor_class: "12 (15 with mage armor)"
 
 ***Spellcasting.*** The conjurer is a 9th-level spellcaster. Its spellcasting ability is intelligence (spell save DC 14, +6 to hit with spell attacks). The conjurer has the following wizard spells prepared:
 
-Cantrips (at will): acid splash, mage hand, poison spray, prestidigitation
+* Cantrips (at will): <i>acid splash, mage hand, poison spray, prestidigitation</i>
 
-1st level (4 slots): mage armor, magic missile, unseen servant\*
+* 1st level (4 slots): <i>mage armor, magic missile, unseen servant\* </i>
 
-2nd level (3 slots): cloud of daggers\*, misty step\*, web\*
+* 2nd level (3 slots): <i>cloud of daggers\*, misty step\*, web\* </i>
 
-3rd level (3 slots): fireball, stinking cloud\*
+* 3rd level (3 slots): <i>fireball, stinking cloud\* </i>
 
-4th level (3 slots): Evard's black tentacles\*, stoneskin
+* 4th level (3 slots): <i>Evard's black tentacles\*, stoneskin</i>
 
-5th level (2 slots): cloudkill\*, conjure elemental\*
+* 5th level (2 slots): <i>cloudkill\*, conjure elemental\* </i>
 
 *Conjuration spell of 1st level or higher
 
