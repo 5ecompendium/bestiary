@@ -21,17 +21,17 @@ armor_class: "12 (15 with mage armor)"
 
 ***Spellcasting.*** The transmuter is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The transmuter has the following wizard spells prepared:
 
-Cantrips (at will): light, mending, prestidigitation, ray of frost
+* Cantrips (at will): <i>light, mending, prestidigitation, ray of frost</i>
 
-1st level (4 slots): chromatic orb, expeditious retreat*, mage armor
+* 1st level (4 slots): <i>chromatic orb, expeditious retreat\*, mage armor</i>
 
-2nd level (3 slots): alter self*, hold person, knock*
+* 2nd level (3 slots): <i>alter self\*, hold person, knock\* </i>
 
-3rd level (3 slots): blink*, fireball, slow*
+* 3rd level (3 slots): <i>blink\*, fireball, slow\* </i>
 
-4th level (3 slots): polymorph*, stoneskin
+* 4th level (3 slots): <i>polymorph\*, stoneskin</i>
 
-5th level (1 slot): telekinesis*
+* 5th level (1 slot): <i>telekinesis\* </i>
 
 *Transmutation spell of 1st level or higher
 
@@ -45,7 +45,7 @@ Cantrips (at will): light, mending, prestidigitation, ray of frost
 
 * Resistance to acid, cold, fire, lightning, or thunder damage (transmuter's choice whenever the transmuter chooses this benefit)
 
->If the transmuter has the stone and casts a transmutation spell of 1st level or higher, it can change the effect of the stone.
+If the transmuter has the stone and casts a transmutation spell of 1st level or higher, it can change the effect of the stone.
 
 ### Actions
 
