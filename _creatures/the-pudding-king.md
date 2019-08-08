@@ -28,25 +28,25 @@ damage_resistances: "acid, poison"
 
 ***Innate Spellcasting.*** The Pudding King's innate spellcasting ability is Intelligence (spell save DC 12). He can innately cast the following spells, requiring no material components:
 
-At will: nondetection (self only)
+* At will: <i>nondetection </i>(self only)
 
-1/day each: blindness/deafness, blur, disguise self
+* 1/day each: <i>blindness/deafness, blur, disguise self</i>
 
 ***Insanity.*** The Pudding King has advantage on saving throws against being charmed or frightened.
 
 ***Spellcasting.*** The Pudding King is a 9th-level spellcaster. His spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). The Pudding King knows the following sorcerer spells:
 
-Cantrips (at will): acid splash, light, mage hand, poison spray, prestidigitation
+* Cantrips (at will): <i>acid splash, light, mage hand, poison spray, prestidigitation</i>
 
-1st level (4 slots): false life, mage armor, ray of sickness, shield
+* 1st level (4 slots): <i>false life, mage armor, ray of sickness, shield</i>
 
-2nd level (3 slots): crown of madness, misty step
+* 2nd level (3 slots): <i>crown of madness, misty step</i>
 
-3rd level (3 slots): gaseous form, stinking cloud
+* 3rd level (3 slots): <i>gaseous form, stinking cloud</i>
 
-4th level (3 slots): blight, confusion
+* 4th level (3 slots): <i>blight, confusion</i>
 
-5th level (1 slot): cloudkill
+* 5th level (1 slot): <i>cloudkill</i>
 
 ### Actions
 
