@@ -136,8 +136,9 @@ and lightning storms crash through the days and nights.
 language within 10 miles of its lair. It knows the exact location of the
 creature who spoke its name.
 
-### Carriontooth
 ---
+### Carriontooth
+
 <i>Weapon (greatsword), artifact (requires attunement)</i>
 
 This single-edged, blood-stained greatsword is the personal
