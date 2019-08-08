@@ -26,20 +26,29 @@ condition_immunities: "frightened"
 
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
-***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma. She can innately cast the following spells, requiring no material components:
-* At will: dancing lights, detect magic
-* 1/day each: clairvoyance, darkness, detect thoughts, dispel magic, faerie fire , levitate (self only), suggestion
+***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma (spell save DC 18). She can innately cast the following spells, requiring no material components:
+
+* At will: <i>dancing lights, detect magic</i>
+
+* 1/day each: <i>clairvoyance, darkness, detect thoughts, dispel magic, faerie fire , levitate </i>(self only)<i>, suggestion</i>
 
 ***Magic Resistance.*** The drow has advantage on saving throws against spells and other magical effects.
 
-***Spellcasting.*** The drow is a 12th-level spellcaster. Her spellcasting ability is Wisdom. She has the following cleric spells prepared:
-* Cantrips (at will): guidance, message, poison spray, resistance, thaumaturgy
-* 1st level (4 slots): bane, cure wounds, inflict wounds
-* 2nd level (3 slots): blindness/deafness, silence, spiritual weapon
-* 3rd level (3 slots): bestow curse, dispel magic, magic circle
-* 4th level (3 slots): banishment, divination, freedom of movement
-* 5th level (2 slots): contagion, dispel evil and good, insect plague
-* 6th level (1 slot): harm, true seeing
+***Spellcasting.*** The drow is a 12th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). She has the following cleric spells prepared:
+
+* Cantrips (at will): <i>guidance, message, poison spray, resistance, thaumaturgy</i>
+
+* 1st level (4 slots): <i>bane, cure wounds, inflict wounds</i>
+
+* 2nd level (3 slots): <i>blindness/deafness, silence, spiritual weapon</i>
+
+* 3rd level (3 slots): <i>bestow curse, dispel magic, magic circle</i>
+
+* 4th level (3 slots): <i>banishment, divination, freedom of movement</i>
+
+* 5th level (2 slots): <i>contagion, dispel evil and good, insect plague</i>
+
+* 6th level (1 slot): <i>harm, true seeing</i>
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
