@@ -24,11 +24,11 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Innate Spellcasting.*** The ultroloth's innate spellcasting ability is Charisma (spell save DC 17). The ultroloth can innately cast the following spells, requiring no material components:
 
-At will: alter self, clairvoyance, darkness, detect magic, detect thoughts, dispel magic, invisibility (self only), suggestion
+* At will: <i>alter self, clairvoyance, darkness, detect magic, detect thoughts, dispel magic, invisibility </i>(self only)<i>, suggestion</i>
 
-3/day each: dimension door, fear, wall of fire
+* 3/day each: <i>dimension door, fear, wall of fire</i>
 
-1/day each: fire storm, mass suggestion
+* 1/day each: <i>fire storm, mass suggestion</i>
 
 ***Magic Resistance.*** The ultroloth has advantage on saving throws against spells and other magical effects.
 
