@@ -21,23 +21,23 @@ armor_class: "12 (15 with mage armor)"
 
 ***Spellcasting.*** The diviner is a 15th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The diviner has the following wizard spells prepared:
 
-Cantrips (at will): fire bolt, light, mage hand, message, true strike
+* Cantrips (at will): <i>fire bolt, light, mage hand, message, true strike</i>
 
-1st level (4 slots): detect magic/*, feather fall, mage armor
+* 1st level (4 slots): <i>detect magic\*, feather fall, mage armor</i>
 
-2nd level (3 slots): detect thoughts/*, locate object/*, scorching ray
+* 2nd level (3 slots): <i>detect thoughts\*, locate object\*, scorching ray</i>
 
-3rd level (3 slots): clairvoyance/*, fly, fireball
+* 3rd level (3 slots): <i>clairvoyance\*, fly, fireball</i>
 
-4th level (3 slots): arcane eye/*, ice storm, stoneskin
+* 4th level (3 slots): <i>arcane eye\*, ice storm, stoneskin</i>
 
-5th level (2 slots): Rary's telepathic bond/*, seeming/*
+* 5th level (2 slots): <i>Rary's telepathic bond\*, seeming\* </i>
 
-6th level (1 slot): mass suggestion, true seeing/*
+* 6th level (1 slot): <i>mass suggestion, true seeing\* </i>
 
-7th level (1 slot): delayed blast fireball, teleport
+* 7th level (1 slot): <i>delayed blast fireball, teleport</i>
 
-8th level (1 slot): maze
+* 8th level (1 slot): <i>maze</i>
 
 *Divination spell of 1st level or higher
 
