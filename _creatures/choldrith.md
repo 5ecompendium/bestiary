@@ -23,11 +23,11 @@ armor_class: "15 (studded leather armor)"
 
 ***Spellcasting.*** The choldrith is a 4th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The choldrith has the following cleric spells prepared:
 
-* Cantrips (at will): guidance, mending, resistance, thaumaturgy
+* Cantrips (at will): <i>guidance, mending, resistance, thaumaturgy</i>
 
-* 1st level (4 slots): bane, healing word, sanctuary, shield of faith
+* 1st level (4 slots): <i>bane, healing word, sanctuary, shield of faith</i>
 
-* 2nd level (3 slots): hold person, spiritual weapon (dagger)
+* 2nd level (3 slots): <i>hold person, spiritual weapon </i>(dagger)
 
 ***Spider Climb.*** The choldrith can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
