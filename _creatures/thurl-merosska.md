@@ -20,13 +20,13 @@ armor_class: "16 (breastplate)"
 
 ***Spellcasting.*** Thurl is a 5th-level spellcaster. His spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). Thurl knows the following sorcerer spells:
 
-* Cantrips (at will): friends, gust, light, message, ray of frost
+* Cantrips (at will): <i>friends, gust, light, message, ray of frost</i>
 
-* 1st level (4 slots): expeditious retreat, feather fall, jump
+* 1st level (4 slots): <i>expeditious retreat, feather fall, jump</i>
 
-* 2nd level (3 slots): levitate, misty step
+* 2nd level (3 slots): <i>levitate, misty step</i>
 
-* 3rd level (2 slots): haste
+* 3rd level (2 slots): <i>haste</i>
 
 ### Actions
 
