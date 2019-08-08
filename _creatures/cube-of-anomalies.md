@@ -44,7 +44,6 @@ and unable to breathe unless it can breathe water. At
 the start of each of the grappled creature’s turns, it
 takes 14 (2d8 + 5) cold damage as freezing cold water
 churns around them.
-
 Another creature within 5 feet of the prison can
 attempt to pull the trapped creature free by taking an
 action to make a DC 15 Athletics check. On a success,
