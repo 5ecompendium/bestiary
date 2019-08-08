@@ -23,7 +23,7 @@ armor_class: "17 (breastplate, shield)"
 ***Divine Health.*** Dragonbait is immune to disease.
 
 ***Magic Resistan ce Aura.*** While holding his holy avenger,
-Dragon bait creates an aura in a 10-foot radius around him. While this aura is active , Dragonbait and all creatures friendly to him in the aura have advantage on saving throws against spells and other magical effects.
+Dragonbait creates an aura in a 10-foot radius around him. While this aura is active , Dragonbait and all creatures friendly to him in the aura have advantage on saving throws against spells and other magical effects.
 
 ### Actions
 
