@@ -29,15 +29,15 @@ condition_immunities: "exhaustion, frightened, poisoned"
 
 ***Spellcasting.*** The death knight is a 19th-level spell caster. Its spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). It has the following paladin spells prepared:
 
-* 1st level (4 slots): command, compelled duel, searing smite
+* 1st level (4 slots): <i>command, compelled duel, searing smite</i>
 
-* 2nd level (3 slots): hold person, magic weapon
+* 2nd level (3 slots): <i>hold person, magic weapon</i>
 
-* 3rd level (3 slots): dispel magic, elemental weapon
+* 3rd level (3 slots): <i>dispel magic, elemental weapon</i>
 
-* 4th level (3 slots): banishment, staggering smite
+* 4th level (3 slots): <i>banishment, staggering smite</i>
 
-* 5th level (2 slots): destructive wave (necrotic)
+* 5th level (2 slots): <i>destructive wave </i>(necrotic)
 
 ### Actions
 
