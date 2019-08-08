@@ -24,9 +24,9 @@ condition_immunities: "charmed, paralyzed, poisoned"
 
 ***Innate Spellcasting.*** The unicorn's innate spellcasting ability is Charisma (spell save DC 14). The unicorn can innately cast the following spells, requiring no components:
 
-At will: detect evil and good, druidcraft, pass without trace
+* At will: <i>detect evil and good, druidcraft, pass without trace</i>
 
-1/day each: calm emotions, dispel evil and good, entangle
+* 1/day each: <i>calm emotions, dispel evil and good, entangle</i>
 
 ***Magic Resistance.*** The unicorn has advantage on saving throws against spells and other magical effects.
 
