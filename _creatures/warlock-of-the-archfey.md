@@ -22,15 +22,15 @@ condition_immunities: "charmed"
 
 ***Innate Spellcasting.*** The warlock's innate spellcasting ability is Charisma. It can innately cast the following spells (spell save DC 15), requiring no material components:
 
-At will: disguise self, mage armor (self only), silent image, speak with animals
+* At will: <i>disguise self, mage armor </i>(self only)<i>, silent image, speak with animals</i>
 
-1/day: conjure fey
+* 1/day: <i>conjure fey</i>
 
 ***Spellcasting.*** The warlock is a 11th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
-Cantrips (at will): dancing lights, eldritch blast, friends, mage hand, minor illusion, prestidigitation, vicious mockery
+* Cantrips (at will): <i>dancing lights, eldritch blast, friends, mage hand, minor illusion, prestidigitation, vicious mockery</i>
 
-1st-5th level (3 5th-level slots): blink, charm person, dimension door, dominate beast, faerie fire, fear, hold monster, misty step, phantasmal force, seeming, sleep
+* 1st-5th level (3 5th-level slots): <i>blink, charm person, dimension door, dominate beast, faerie fire, fear, hold monster, misty step, phantasmal force, seeming, sleep</i>
 
 ### Actions
 
