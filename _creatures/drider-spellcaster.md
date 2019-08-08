@@ -23,9 +23,9 @@ armor_class: "19 (natural armor)"
 
 ***Innate Spellcasting.*** The drider's innate spellcasting ability is Wisdom (spell save DC 13). The drider can innately cast the following spells, requiring no material components:
 
-At will: dancing lights
+* At will: <i>dancing lights</i>
 
-1/day each: darkness, faerie fire
+* 1/day each: <i>darkness, faerie fire</i>
 
 ***Spider Climb.*** The drider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
@@ -35,15 +35,15 @@ At will: dancing lights
 
 ***Spellcasting.*** The drider is a 7th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The drider has the following spells prepared from the cleric spell list:
 
-* Cantrips (at will): poison spray, thaumaturgy
+* Cantrips (at will): <i>poison spray, thaumaturgy</i>
 
-* 1st level (4 slots): bane, detect magic, sanctuary
+* 1st level (4 slots): <i>bane, detect magic, sanctuary</i>
 
-* 2nd level (3 slots): hold person, silence
+* 2nd level (3 slots): <i>hold person, silence</i>
 
-* 3rd level (3 slots): clairvoyance, dispel magic
+* 3rd level (3 slots): <i>clairvoyance, dispel magic</i>
 
-* 4th level (2 slots): divination,freedom of movement
+* 4th level (2 slots): <i>divination,freedom of movement</i>
 
 ### Actions
 
