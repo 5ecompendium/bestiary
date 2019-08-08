@@ -24,10 +24,10 @@ armor_class: "14"
 
 ***Innate Spellcasting.*** The cadaver lord’s spellcasting ability is
 Charisma (spell save DC 13, +5 to hit with spell attacks). The
-cadaver lord can innately cast each of the following spells,
+cadaver lord can innately cast the following spells,
 requiring no material components: 
 
-1/day: darkness, fear, create undead.
+* 1/day each: <i>darkness, fear, create undead</i>
 
 ***Create Cadaver.*** A humanoid slain by a cadaver lord rises 24
 hours later as a cadaver under the cadaver lord’s control. The
