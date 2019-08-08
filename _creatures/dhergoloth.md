@@ -24,8 +24,10 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 ---
 
 ***Innate Spellcasting.*** The dhergoloth's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
-* At will: darkness, fear
-* 3/day: sleep
+
+* At will: <i>darkness, fear</i>
+
+* 3/day: <i>sleep</i>
 
 ***Magic Resistance.*** The dhergoloth has advantage on saving throws against spells and other magical effects.
 
