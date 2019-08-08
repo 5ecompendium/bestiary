@@ -28,9 +28,9 @@ armor_class: "15 (breastplate)"
 
 ***Innate Spellcasting (Psionics).*** The ulitharid's innate spellcasting ability is Intelligence (spell save DC 17). It can innately cast the following spells, requiring no components:
 
-At will: detect thoughts, levitate
+* At will: <i>detect thoughts, levitate</i>
 
-1/day each: confusion, dominate monster, eyebite, feeblemind, mass suggestion, plane shift (self only), project image, scrying, telekinesis
+* 1/day each: <i>confusion, dominate monster, eyebite, feeblemind, mass suggestion, plane shift </i>(self only)<i>, project image, scrying, telekinesis</i>
 
 ### Actions
 
