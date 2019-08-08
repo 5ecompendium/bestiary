@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "5 (1,800 XP)"
 languages: "understands the languages of its creator but can't speak"
 senses: "darkvision 60 ft."
-damage_immunities: "lightning, poison, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
+damage_immunities: "lightning, poison; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 speed: "30 ft."
 hit_points: "93 (11d8+44)"
 armor_class: "9"
