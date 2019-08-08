@@ -21,21 +21,21 @@ armor_class: "15 (natural armor)"
 
 ***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma (spell save DC 15). It can innately cast the following spells, requiring no material components:
 
-At will: detect magic, fog cloud, light
+* At will: <i>detect magic, fog cloud, light</i>
 
-3/day each: featherfall, fly, misty step, telekinesis
+* 3/day each: <i>featherfall, fly, misty step, telekinesis</i>
 
-1/day each: control weather, gaseous form
+* 1/day each: <i>control weather, gaseous form</i>
 
 ***Spellcasting.*** The giant is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). The giant has the following bard spells prepared:
 
-Cantrips (at will): minor illusion, prestidigitation, vicious mockery
+* Cantrips (at will): <i>minor illusion, prestidigitation, vicious mockery</i>
 
-1st level (4 slots): cure wounds, disguise self, silent image, Tasha's hideous laughter
+* 1st level (4 slots): <i>cure wounds, disguise self, silent image, Tasha's hideous laughter</i>
 
-2nd level (3 slots): invisibility, suggestion
+* 2nd level (3 slots): <i>invisibility, suggestion</i>
 
-3rd level (2 slots): major image, tongues
+* 3rd level (2 slots): <i>major image, tongues</i>
 
 ***Keen Smell.*** The giant has advantage on Wisdom (Perception) checks that rely on smell.
 
