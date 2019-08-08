@@ -24,9 +24,13 @@ condition_immunities: "charmed, exhaustion, frightened, poisoned"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
-***Innate Spellcasting.*** Titivilus's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
-* At will: alter self, animate dead, bestow curse, confusion, major image, modify memory, nondetection, sending, suggestion
-* 3/day each: greater invisibility (self only), mislead 1/day each: feeblemind, symbol (discord or sleep only)
+***Innate Spellcasting.*** Titivilus's innate spellcasting ability is Charisma (spell save DC 21). He can innately cast the following spells, requiring no material components:
+
+* At will: <i>alter self, animate dead, bestow curse, confusion, major image, modify memory, nondetection, sending, suggestion</i>
+
+* 3/day each: <i>greater invisibility </i>(self only)<i>, mislead</i>
+
+* 1/day each: <i>feeblemind, symbol </i>(discord or sleep only)
 
 ***Legendary Resistance (3/Day).*** If Titivilus fails a saving throw, he can choose to succeed instead.
 
