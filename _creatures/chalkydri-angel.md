@@ -33,11 +33,11 @@ damage (included in the attack).
 (spell save DC 16, +8 to hit with spell attacks). It can innately cast the
 following spells, requiring no material components:
 
-At will: detect evil and good
+* At will: <i>detect evil and good</i>
 
-3/day: dispel evil and good, flame strike
+* 3/day: <i>dispel evil and good, flame strike</i>
 
-1/day: commune, raise dead
+* 1/day: <i>commune, raise dead</i>
 
 ***Magic Resistance.*** The chalkydri has advantage on saving throws
 against spells and other magic effects.
