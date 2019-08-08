@@ -25,8 +25,10 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 ---
 
 ***Innate Spellcasting.*** The wight's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no verbal or material components:
-* At will: detect magic, disguise self, mage armor
-* 1/day each: fear, hold person, misty step
+
+* At will: <i>detect magic, disguise self, mage armor</i>
+
+* 1/day each: <i>fear, hold person, misty step</i>
 
 ***Sunlight Sensitivity.*** While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
@@ -37,4 +39,5 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 ***Grave Bolt*** Ranged Spell Attack: +5 to hit, range 120 ft., one target. Hit: 7 (1d8 + 3) necrotic damage.
 
 ***Life Drain*** Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 9 (2d6 + 2) necrotic damage. The target must succeed on a DC 13 Constitution saving throw or its hit point maximum is reduced by an amount equal to the damage taken. This reduction lasts until the target finishes a long rest. The target dies if this effect reduces its hit point maximum to 0.
+
 A humanoid slain by this attack rises 24 hours later as a zombie under the wight's control, unless the humanoid is restored to life or its body is destroyed. The wight can have no more than twelve zombies under its control at one time.
