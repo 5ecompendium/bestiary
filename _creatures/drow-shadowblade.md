@@ -23,9 +23,11 @@ armor_class: "17 (studded leather)"
 
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
-***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
-* At will: dancing lights
-* 1/day each: darkness, faerie fire , levitate (self only)
+***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
+
+* At will: <i>dancing lights</i>
+
+* 1/day each: <i>darkness, faerie fire , levitate </i>(self only)
 
 ***Shadow Step.*** While in dim light or darkness, the drow can teleport as a bonus action up to 60 feet to an unoccupied space it can see that is also in dim light or darkness. It then has advantage on the first melee attack it makes before the end of the turn.
 
