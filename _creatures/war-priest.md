@@ -21,17 +21,17 @@ armor_class: "18 (plate)"
 
 ***Spellcasting.*** The priest is a 9th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). It has the following cleric spells prepared:
 
-Cantrips (at will): light, mending, sacred flame, spare the dying
+* Cantrips (at will): <i>light, mending, sacred flame, spare the dying</i>
 
-1st level (4 slots): divine favor, guiding bolt, healing word, shield of faith
+* 1st level (4 slots): <i>divine favor, guiding bolt, healing word, shield of faith</i>
 
-2nd level (3 slots): lesser restoration, magic weapon, prayer of healing, silence, spiritual weapon
+* 2nd level (3 slots): <i>lesser restoration, magic weapon, prayer of healing, silence, spiritual weapon</i>
 
-3rd level (3 slots): beacon of hope, crusader's mantle, dispel magic, revivify, spirit guardians, water wall
+* 3rd level (3 slots): <i>beacon of hope, crusader's mantle, dispel magic, revivify, spirit guardians, water wall</i>
 
-4th level (3 slots): banishment, freedom of movement, guardian of faith, stoneskin
+* 4th level (3 slots): <i>banishment, freedom of movement, guardian of faith, stoneskin</i>
 
-5th level (1 slot): flame strike, mass cure wounds, hold monster
+* 5th level (1 slot): <i>flame strike, mass cure wounds, hold monster</i>
 
 ### Actions
 
