@@ -23,23 +23,23 @@ armor_class: "12 (15 with mage armor)"
 
 ***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
 
-At will: dancing lights
+* At will: <i>dancing lights</i>
 
-1/day each: darkness, faerie fire, levitate (self only)
+* 1/day each: <i>darkness, faerie fire, levitate </i>(self only)
 
 ***Spellcasting.*** The drow is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The drow has the following wizard spells prepared:
 
-* Cantrips (at will): mage hand, minor illusion, poison spray, ray of frost
+* Cantrips (at will): <i>mage hand, minor illusion, poison spray, ray of frost</i>
 
-* 1st level (4 slots): mage armor, magic missile, shield, witch bolt
+* 1st level (4 slots): <i>mage armor, magic missile, shield, witch bolt</i>
 
-* 2nd level (3 slots): alter self, misty step, web
+* 2nd level (3 slots): <i>alter self, misty step, web</i>
 
-* 3rd level (3 slots): fly, lightning bolt
+* 3rd level (3 slots): <i>fly, lightning bolt</i>
 
-* 4th level (3 slots): Evard's black tentacles, greater invisibility
+* 4th level (3 slots): <i>Evard's black tentacles, greater invisibility</i>
 
-* 5th level (2 slots): cloudkill
+* 5th level (2 slots): <i>cloudkill</i>
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
