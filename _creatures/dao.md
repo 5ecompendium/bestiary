@@ -26,21 +26,21 @@ condition_immunities: "petrified"
 
 ***Innate Spellcasting.*** The dao's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-At will: detect evil and good, detect magic, stone shape
+* At will: detect evil and good, detect magic, stone shape</i>
 
-3/day each: passwall, move earth, tongues
+* 3/day each: <i>passwall, move earth, tongues</i>
 
-1/day each: conjure elemental (earth elemental only), gaseous form, invisibility, phantasmal killer, plane shift, wall of stone
+* 1/day each: <i>conjure elemental </i>(earth elemental only)<i>, gaseous form, invisibility, phantasmal killer, plane shift, wall of stone</i>
 
 ***Sure-Footed.*** The dao has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
 ***Variant: Genie Powers.*** Genies have a variety of magical capabilities, including spells. A few have even greater powers that allow them to alter their appearance or the nature of reality.
 
-Disguises.
+***Disguises.***
 
 Some genies can veil themselves in illusion to pass as other similarly shaped creatures. Such genies can innately cast the disguise self spell at will, often with a longer duration than is normal for that spell. Mightier genies can cast the true polymorph spell one to three times per day, possibly with a longer duration than normal. Such genies can change only their own shape, but a rare few can use the spell on other creatures and objects as well.
 
-Wishes.
+***Wishes.***
 
 The genie power to grant wishes is legendary among mortals. Only the most potent genies, such as those among the nobility, can do so. A particular genie that has this power can grant one to three wishes to a creature that isn't a genie. Once a genie has granted its limit of wishes, it can't grant wishes again for some amount of time (usually 1 year). and cosmic law dictates that the same genie can expend its limit of wishes on a specific creature only once in that creature's existence.
 
