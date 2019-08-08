@@ -27,13 +27,13 @@ armor_class: "13 (leather armor)"
 
 ***Spellcasting.*** The derro is a 5th-level spellcaster. It's spellcasting ability is Charisma (save DC 12, +4 to hit with spell attacks). The derro knows the following sorcerer spells:
 
-Cantrips (at will): acid splash, light, mage hand, message, ray of frost
+* Cantrips (at will): <i>acid splash, light, mage hand, message, ray of frost</i>
 
-1st level (4 slots): burning hands, chromatic orb, sleep
+* 1st level (4 slots): <i>burning hands, chromatic orb, sleep</i>
 
-2nd level (3 slots): invisibility, spider climb
+* 2nd level (3 slots): <i>invisibility, spider climb</i>
 
-3rd level (2 slots): blink, lightning bolt
+* 3rd level (2 slots): <i>blink, lightning bolt</i>
 
 ### Actions
 
