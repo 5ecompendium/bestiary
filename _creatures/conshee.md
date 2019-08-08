@@ -23,9 +23,9 @@ armor_class: "12"
 Charisma (spell save DC 11, +3 to hit with spell attacks). It can cast the
 following spells, requiring no material components.
 
-At will: detect evil and good, light
+* At will: <i>detect evil and good, light</i>
 
-1/day each: faerie fire, silent image
+* 1/day each: <i>faerie fire, silent image</i>
 
 ### Actions
 
