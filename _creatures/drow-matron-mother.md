@@ -25,24 +25,36 @@ condition_immunities: "charmed, frightened, poisoned"
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
 ***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma (spell save DC 20). She can innately cast the following spells, requiring no material components:
-* At will: dancing lights, detect magic
-* 1/day each: clairvoyance, darkness, detect thoughts, dispel magic, faerie fire , levitate (self only), suggestion
+
+* At will: <i>dancing lights, detect magic</i>
+
+* 1/day each: <i>clairvoyance, darkness, detect thoughts, dispel magic, faerie fire , levitate </i>(self only)<i>, suggestion</i>
 
 ***Lolth's Fickle Favor.*** As a bonus action, the matron can bestow the Spider Queen's blessing on one ally she can see within 30 feet of her. The ally takes 7 (2d6) psychic damage but has advantage on the next attack roll it makes until the end of its next turn.
 
 ***Magic Resistance.*** The drow has advantage on saving throws against spells and other magical effects.
 
-***Spellcasting.*** The drow is a 20th-level spellcaster. Her spellcasting ability is Wisdom. The drow has the following cleric spells prepared:
-* Cantrips (at will): guidance, mending, resistance, sacred flame , thaumaturgy
-* 1st level (4 slots): bane, command, cure wounds, guiding bolt
-* 2nd level (3 slots): hold person, silence, spiritual weapon
-* 3rd level (3 slots): bestow curse, clairvoyance, dispel magic, spirit guardians
-* 4th level (3 slots): banishment, death ward, freedom of movement, guardian of faith
-* 5th level (3 slots): contagion, flame strike , geas, mass cure wounds
-* 6th level (2 slots): blade barrier, harm
-* 7th level (2 slots): divine word, plane shift
-* 8th level (1 slot): holy aura
-* 9th level (1 slot): gate
+***Spellcasting.*** The drow is a 20th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 19, +11 to hit with spell attacks). The drow has the following cleric spells prepared:
+
+* Cantrips (at will): <i>guidance, mending, resistance, sacred flame , thaumaturgy</i>
+
+* 1st level (4 slots): <i>bane, command, cure wounds, guiding bolt</i>
+
+* 2nd level (3 slots): <i>hold person, silence, spiritual weapon</i>
+
+* 3rd level (3 slots): <i>bestow curse, clairvoyance, dispel magic, spirit guardians</i>
+
+* 4th level (3 slots): <i>banishment, death ward, freedom of movement, guardian of faith</i>
+
+* 5th level (3 slots): <i>contagion, flame strike , geas, mass cure wounds</i>
+
+* 6th level (2 slots): <i>blade barrier, harm</i>
+
+* 7th level (2 slots): <i>divine word, plane shift</i>
+
+* 8th level (1 slot): <i>holy aura</i>
+
+* 9th level (1 slot): <i>gate</i>
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
