@@ -24,23 +24,23 @@ armor_class: "15 (scale mail)"
 
 ***Innate Spellcasting.*** The drow's spellcasting ability is Charisma (spell save DC 15. She can innately cast the following spells, requiring no material components:
 
-At will: dancing lights
+* At will: <i>dancing lights</i>
 
-1/day each: darkness, faerie fire, levitate (self only)
+* 1/day each: <i>darkness, faerie fire, levitate </i>(self only)
 
 ***Spellcasting.*** The drow is a 10th-level spellcaster. Her spellcasting ability is Wisdom (save DC 14, +6 to hit with spell attacks). The drow has the following cleric spells prepared:
 
-* Cantrips (at will): guidance, poison spray, resistance, spare the dying, thaumaturgy
+* Cantrips (at will): <i>guidance, poison spray, resistance, spare the dying, thaumaturgy</i>
 
-* 1st level (4 slots): animal friendship, cure wounds, detect poison and disease, ray of sickness
+* 1st level (4 slots): <i>animal friendship, cure wounds, detect poison and disease, ray of sickness</i>
 
-* 2nd level (3 slots): lesser restoration, protection from poison, web
+* 2nd level (3 slots): <i>lesser restoration, protection from poison, web</i>
 
-* 3rd level (3 slots): conjure animals (2 giant spiders), dispel magic
+* 3rd level (3 slots): <i>conjure animals </i>(2 giant spiders)<i>, dispel magic</i>
 
-* 4th level (3 slots): divination, freedom of movement
+* 4th level (3 slots): <i>divination, freedom of movement</i>
 
-* 5th level (2 slots): insect plague, mass cure wounds
+* 5th level (2 slots): <i>insect plague, mass cure wounds</i>
 
 ***Sunlight Sensitivity.*** While in sunlight, the drow has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
