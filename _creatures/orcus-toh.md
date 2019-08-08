@@ -133,6 +133,14 @@ at that point and rains down in a 40-foot high, 10-foot cylinder. Each
 creature in that area must make a DC 24 Dexterity saving throw, taking
 24 (7d6) acid damage on a failure, or half as much damage on a success.
 
+### Regional Effects
+
+The region containing Orcus’s lair is warped by its magic. If a creature
+within 10 miles of Orcus’ lair dies, roll a d20. On a 19 or 20, the creature
+rises as a zombie under Orcus’ control.
+
+If Orcus dies, this effect fade over the course of 1d10 days.
+
 ### Wand of Orcus
 
 <i>Rod, artifact (requires attunement)</i>
