@@ -25,9 +25,9 @@ armor_class: "15 (chain shirt)"
 
 ***Innate Spellcasting.*** The gnome's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:
 
-At will: nondetection (self only)
+* At will: <i>nondetection </i>(self only)
 
-1/day each: blindness/deafness, blur, disguise self
+* 1/day each: <i>blindness/deafness, blur, disguise self</i>
 
 ### Actions
 
