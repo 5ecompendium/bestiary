@@ -24,11 +24,11 @@ armor_class: "16 (studded leather, shield)"
 
 ***Spellcasting.*** Dralmorrer is a 7th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Dralmorrer has the following spells prepared from the wizard spell list:
 
-* Cantrips (at will): fire bolt, prestidigitation, shocking grasp
+* Cantrips (at will): <i>fire bolt, prestidigitation, shocking grasp</i>
 
-* 1st level (4 slots): longstrider, magic missile, shield, thunderwave
+* 1st level (4 slots): <i>longstrider, magic missile, shield, thunderwave</i>
 
-* 2nd level (2 slots): magic weapon, misty step
+* 2nd level (2 slots): <i>magic weapon, misty step</i>
 
 ***War Magic.*** When Dralmorrer uses his action to cast a cantrip, he can also take a bonus action to make one weapon attack.
 
