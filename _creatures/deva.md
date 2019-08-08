@@ -26,9 +26,9 @@ damage_resistances: "radiant, bludgeoning, piercing, and slashing from nonmagica
 
 ***Innate Spellcasting.*** The deva's spellcasting ability is Charisma (spell save DC 17). The deva can innately cast the following spells, requiring only verbal components:
 
-At will: detect evil and good
+* At will: <i>detect evil and good</i>
 
-1/day each: commune, raise dead
+* 1/day each: <i>commune, raise dead</i>
 
 ***Magic Resistance.*** The deva has advantage on saving throws against spells and other magical effects.
 
