@@ -25,9 +25,9 @@ armor_class: "15 (studded leather)"
 
 ***Innate Spellcasting.*** Droki's innate spellcasting ability is Charisma (spell save DC 13). He can innately cast the following spells, requiring no material components:
 
-At will: minor illusion
+* At will: <i>minor illusion</i>
 
-1/day each: darkness, fear, shatter
+* 1/day each: <i>darkness, fear, shatter</i>
 
 ***Sneak Attack (1/Turn).*** Droki deals an extra 7 (2d6) damage when he hits a target with a weapon attack and has advantage ont he attack roll, or when the target is within 5 feet of an ally of Droki that isn't incapacitated and Droki doesn't have disadvantage on the attack roll.
 
