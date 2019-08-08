@@ -23,10 +23,14 @@ armor_class: "13 (leather armor)"
 ***Magic Resistance.*** The derro savant has advantage on saving throws against spells and other magical effects.
 
 ***Spellcasting.*** The derro savant is a 5th-level spellcaster. Its spellcasting ability is Charisma. The derro knows the following sorcerer spells:
-* Cantrips (at will): acid splash, mage hand, message, prestidigitation, ray of frost
-* 1st level (4 slots): burning hands, chromatic orb, sleep
-* 2nd level (3 slots): invisibility, spider climb
-* 3rd level (2 slots): lightning bolt
+
+* Cantrips (at will): <i>acid splash, mage hand, message, prestidigitation, ray of frost</i>
+
+* 1st level (4 slots): <i>burning hands, chromatic orb, sleep</i>
+
+* 2nd level (3 slots): <i>invisibility, spider climb</i>
+
+* 3rd level (2 slots): <i>lightning bolt</i>
 
 ***Sunlight Sensitivity.*** While in sunlight, the derro savant has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
