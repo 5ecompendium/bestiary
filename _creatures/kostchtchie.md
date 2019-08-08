@@ -126,7 +126,7 @@ creatures who would not normally be their prey.
 
 If Kostchtchie dies, these effects fade over the course of 1d10 days.
 
-### Gorynya
+# Gorynya
 
 <i>Weapon (warhammer), artifact (requires attunement)</i>
 
