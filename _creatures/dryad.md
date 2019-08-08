@@ -21,11 +21,11 @@ armor_class: "11 (16 with barkskin)"
 
 ***Innate Spellcasting.*** The dryad's innate spellcasting ability is Charisma (spell save DC 14). The dryad can innately cast the following spells, requiring no material components:
 
-At will: druidcraft
+* At will: <i>druidcraft</i>
 
-3/day each: entangle, goodberry
+* 3/day each: <i>entangle, goodberry</i>
 
-1/day each: barkskin, pass without trace, shillelagh
+* 1/day each: <i>barkskin, pass without trace, shillelagh</i>
 
 ***Magic Resistance.*** The dryad has advantage on saving throws against spells and other magical effects.
 
