@@ -24,7 +24,7 @@ condition_immunities: "blinded, charmed, deafened, frightened, poisoned, stunned
 
 ***Discorporation.*** When Tiamat drops to 0 hit points or dies, her body is destroyed but her essence travels back to her domain in the Nine Hells, and she is unable to take physical form for a time.
 
-***Innate Spellcasting (3/Day).*** Tiamat can innately cast divine word (spell save DC 26). Her spellcasting ability is Charisma.
+***Innate Spellcasting (3/Day).*** Tiamat can innately cast <i>divine word</i> (spell save DC 26). Her spellcasting ability is Charisma.
 
 ***Legendary Resistance (5/Day).*** If Tiamat fails a saving throw, she can choose to succeed instead.
 
@@ -48,13 +48,11 @@ condition_immunities: "blinded, charmed, deafened, frightened, poisoned, stunned
 
 ### Legendary Actions
 
-The tiamat can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The tiamat regains spent legendary actions at the start of its turn.
-
-***Bite.*** Tiamat can take 5 legendary actions, choosing from the options listed. Only one legendary action option can be used at a time and only at the end of another creature's turn. Tiamat regains spent legendary actions at the start of her turn.
+Tiamat can take 5 legendary actions, choosing from the options listed. Only one legendary action option can be used at a time and only at the end of another creature's turn. Tiamat regains spent legendary actions at the start of her turn.
 
 Tiamat's legendary action options are associated with her five dragon heads (a bite and a breath weapon for each). Once Tiamat chooses a legendary action option for one of her heads, she can't choose another one associated with that head until the start of her next turn.
 
-Melee Weapon Attack: +19 to hit, reach 20 ft., one target. Hit: 32 (4d10 + 10) slashing damage plus 14 (4d6) acid damage (black dragon head), lightning damage (blue dragon head), poison damage (green dragon head), fire damage (red dragon head), or cold damage (white dragon head).
+***Bite.*** Melee Weapon Attack: +19 to hit, reach 20 ft., one target. Hit: 32 (4d10 + 10) slashing damage plus 14 (4d6) acid damage (black dragon head), lightning damage (blue dragon head), poison damage (green dragon head), fire damage (red dragon head), or cold damage (white dragon head).
 
 ***Black Dragon Head: Acid Breath (Costs 2 Actions).*** Tiamat breathes acid in a 120-foot line that is 10 feet wide. Each creature in that line must make a DC 27 Dexterity saving throw, taking 67 (15d8) acid damage on a failed save, or half as much damage on a successful one.
 
