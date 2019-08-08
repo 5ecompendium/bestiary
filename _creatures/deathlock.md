@@ -25,11 +25,14 @@ damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagic
 ---
 
 ***Innate Spellcasting.*** The deathlock's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
-* At will: detect magic, disguise self, mage armor
+
+* At will: <i>detect magic, disguise self, mage armor</i>
 
 ***Spellcasting.*** The deathlock is a 5th-level spellcaster. Its spellcasting ability is Charisma. It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
-* Cantrips (at will): chill touch, eldritch blast, mage hand
-* 3rd level (2 slots): arms of Hadar, dispel magic, hold person, hunger of Hadar, invisibility, spider climb
+
+* Cantrips (at will): <i>chill touch, eldritch blast, mage hand</i>
+
+* 3rd level (2 slots): <i>arms of Hadar, dispel magic, hold person, hunger of Hadar, invisibility, spider climb</i>
 
 ***Turn Resistance.*** The deathlock has advantage on saving throws against any effect that turns undead.
 
