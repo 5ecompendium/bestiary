@@ -23,23 +23,23 @@ armor_class: "12 (15 with mage armor)"
 
 Cantrips (at will): fire bolt, light, mage hand, message, true strike
 
-1st level (4 slots): detect magic*, feather fall, mage armor
+1st level (4 slots): detect magic/*, feather fall, mage armor
 
-2nd level (3 slots): detect thoughts*, locate object*, scorching ray
+2nd level (3 slots): detect thoughts/*, locate object/*, scorching ray
 
-3rd level (3 slots): clairvoyance*, fly, fireball
+3rd level (3 slots): clairvoyance/*, fly, fireball
 
-4th level (3 slots): arcane eye*, ice storm, stoneskin
+4th level (3 slots): arcane eye/*, ice storm, stoneskin
 
-5th level (2 slots): Rary's telepathic bond*, seeming*
+5th level (2 slots): Rary's telepathic bond/*, seeming/*
 
-6th level (1 slot): mass suggestion, true seeing*
+6th level (1 slot): mass suggestion, true seeing/*
 
 7th level (1 slot): delayed blast fireball, teleport
 
 8th level (1 slot): maze
 
-* Divination spell of 1st level or higher
+*Divination spell of 1st level or higher
 
 ***Portent (Recharges after the Diviner Casts a Divination Spell of 1st Level or Higher).*** When the diviner or a creature it can see makes an attack roll, a saving throw, or an ability check, the diviner can roll a d20 and choose to use this roll in place of the attack roll, saving throw, or ability check.
 
