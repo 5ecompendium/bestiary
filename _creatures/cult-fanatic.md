@@ -22,11 +22,11 @@ armor_class: "13 (leather armor)"
 
 ***Spellcasting.*** The fanatic is a 4th-level spellcaster. Its spell casting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The fanatic has the following cleric spells prepared:
 
-Cantrips (at will): light, sacred flame, thaumaturgy
+* Cantrips (at will): <i>light, sacred flame, thaumaturgy</i>
 
-* 1st level (4 slots): command, inflict wounds, shield of faith
+* 1st level (4 slots): <i>command, inflict wounds, shield of faith</i>
 
-* 2nd level (3 slots): hold person, spiritual weapon
+* 2nd level (3 slots): <i>hold person, spiritual weapon</i>
 
 ### Actions
 
