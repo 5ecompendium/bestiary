@@ -25,9 +25,9 @@ damage_resistances: "cold, fire, lightning, poison, bludgeoning, piercing, and s
 
 ***Innate Spellcasting.*** The cambion's spellcasting ability is Charisma (spell save DC 14). The cambion can innately cast the following spells, requiring no material components:
 
-3/day each: alter self, command, detect magic
+* 3/day each: <i>alter self, command, detect magic</i>
 
-1/day: plane shift (self only)
+* 1/day: <i>plane shift </i>(self only)
 
 ### Actions
 
