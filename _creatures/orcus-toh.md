@@ -180,9 +180,8 @@ midnight.
 ***Sentience.*** The Wand of Orcus is a sentient chaotic evil magic
 item, with an Intelligence of 20, a Wisdom of 18, and a Charisma
 of 23. It has truesight out to 120 feet and understands Abyssal and
-
-***Infernal.*** It can communicate with its wielder telepathically. Its
-goal is the subjugation and destruction of all realms under the allencompassing
+ Infernal. It can communicate with its wielder telepathically. Its
+goal is the subjugation and destruction of all realms under the all encompassing
 gaze of Orcus. It will attempt to sway or control an
 attuned creature to further the goals of Orcus.
 
