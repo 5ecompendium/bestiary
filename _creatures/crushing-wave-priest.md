@@ -20,13 +20,13 @@ armor_class: "13 (chain shirt)"
 
 ***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): chill touch, mage hand, minor illusion, prestidigitation, ray of frost
+* Cantrips (at will): <i>chill touch, mage hand, minor illusion, prestidigitation, ray of frost</i>
 
-* 1st level (4 slots): expeditious retreat, ice knife, magic missile, shield
+* 1st level (4 slots): <i>expeditious retreat, ice knife, magic missile, shield</i>
 
-* 2nd level (3 slots): blur, hold person
+* 2nd level (3 slots): <i>blur, hold person</i>
 
-* 3rd level (2 slots): sleet storm
+* 3rd level (2 slots): <i>sleet storm</i>
 
 ### Actions
 
