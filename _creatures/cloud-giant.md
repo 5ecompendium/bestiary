@@ -23,11 +23,11 @@ armor_class: "14 (natural armor)"
 
 ***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
 
-At will: detect magic, fog cloud, light
+* At will: <i>detect magic, fog cloud, light</i>
 
-3/day each: feather fall, fly, misty step, telekinesis
+* 3/day each: <i>feather fall, fly, misty step, telekinesis</i>
 
-1/day each: control weather, gaseous form
+* 1/day each: <i>control weather, gaseous form</i>
 
 ### Actions
 
