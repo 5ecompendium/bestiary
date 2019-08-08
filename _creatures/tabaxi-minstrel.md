@@ -27,6 +27,6 @@ armor_class: "12"
 
 ***Multiattack.*** The tabaxi makes two claws attacks or two dart attacks.
 
-***Claws.*** Melee Weapon Attack: +2 to hit, reach 5 ft., o e target. Hit: 2 (ld4) slashing damage.
+***Claws.*** Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (ld4) slashing damage.
 
 ***Dart.*** Ranged Weapon Attack: +4 to hit, range 20/ 60 ft., one target. Hit: 4 (ld4 +2) piercing damage.
