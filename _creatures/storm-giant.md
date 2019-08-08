@@ -25,9 +25,9 @@ damage_resistances: "cold"
 
 ***Innate Spellcasting.*** The giant's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 
-At will: detect magic, feather fall, levitate, light
+* At will: <i>detect magic, feather fall, levitate, light</i>
 
-3/day each: control weather, water breathing
+* 3/day each: <i>control weather, water breathing</i>
 
 ### Actions
 
