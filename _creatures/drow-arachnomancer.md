@@ -27,15 +27,22 @@ damage_resistances: "poison"
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
 ***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
-* At will: dancing lights
-* 1/day each: darkness, faerie fire, levitate (self only)
+
+* At will: <i>dancing lights</i>
+
+* 1/day each: <i>darkness, faerie fire, levitate </i>(self only)
 
 ***Spellcasting.*** The drow is a 16th-level spellcaster. Its spellcasting ability is Charisma. It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
-* Cantrips (at will): chill touch, eldritch blast, mage hand, poison spray
-* 5th level (3 slots): conjure animals (spiders only), crown of madness, dimension door, dispel magic, fear, fly, giant insect, hold monster, insect plague, invisibility, vampiric touch, web, witch bolt
-* 6th Level (1 slot): eyebite - Can only be cast 1/day
-* 7th Level (1 slot): etherealness - Can only be cast 1/day
-* 8th Level (1 slot): dominate monster - Can only be cast 1/day
+
+* Cantrips (at will): <i>chill touch, eldritch blast, mage hand, poison spray</i>
+
+* 5th level (3 slots): <i>conjure animals </i>(spiders only)<i>, crown of madness, dimension door, dispel magic, fear, fly, giant insect, hold monster, insect plague, invisibility, vampiric touch, web, witch bolt</i>
+
+* 6th Level (1 slot): <i>eyebite</i> - Can only be cast 1/day
+
+* 7th Level (1 slot): <i>etherealness</i> - Can only be cast 1/day
+
+* 8th Level (1 slot): <i>dominate monster</i> - Can only be cast 1/day
 
 
 ***Spider Climb.*** The drow can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
