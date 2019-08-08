@@ -23,13 +23,13 @@ armor_class: "15 (18 with mage armor)"
 
 ***Fey Ancestry.*** The drow has advantage on saving throws against being charmed, and magic can't put the drow to sleep.
 
-***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
+***Innate Spellcasting.*** The drow's innate spellcasting ability is Charisma (spell save DC 18). It can innately cast the following spells, requiring no material components:
 
 * At will: <i>dancing lights</i>
 
 * 1/day each: <i>darkness, faerie fire, levitate </i>(self only)
 
-***Spellcasting.*** The drow is a 11th-level spellcaster. Its spellcasting ability is Intelligence. It has the following wizard spells prepared:
+***Spellcasting.*** The drow is a 11th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 18, +10 to hit with spell attacks). It has the following wizard spells prepared:
 
 * Cantrips (at will): <i>mage hand, message, poison spray, shocking grasp, ray of frost</i>
 
