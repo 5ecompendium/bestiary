@@ -48,7 +48,7 @@ Another creature within 5 feet of the prison can
 attempt to pull the trapped creature free by taking an
 action to make a DC 15 Athletics check. On a success,
 they free the target from the prison. On a natural 1,
-they are pulled into the prison is well.
+they are pulled into the prison as well.
 
 3. ***Yellow.*** <i>Blinding Beam.</i> The targeted creature must
 succeed on a DC 15 Constitution saving throw, taking
