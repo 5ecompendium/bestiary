@@ -26,17 +26,17 @@ armor_class: "15 (studded leather)"
 
 ***Spellcasting.*** Vanifer is a 10th-level spellcaster. Her spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). Vanifer knows the following sorcerer spells:
 
-* Cantrips (at will): chill touch, fire bolt, friends, mage hand, message, produce flame, thaumaturgy
+* Cantrips (at will): <i>chill touch, fire bolt, friends, mage hand, message, produce flame, thaumaturgy</i>
 
-* 1st level (4 slots): burning hands, chromatic orb, hellish rebuke, shield
+* 1st level (4 slots): <i>burning hands, chromatic orb, hellish rebuke, shield</i>
 
-* 2nd level (3 slots): darkness, detect thoughts, misty step, scorching ray
+* 2nd level (3 slots): <i>darkness, detect thoughts, misty step, scorching ray</i>
 
-* 3rd level (3 slots): counterspell, fireball, hypnotic pattern
+* 3rd level (3 slots): <i>counterspell, fireball, hypnotic pattern</i>
 
-* 4th level (3 slots): wall of fire
+* 4th level (3 slots): <i>wall of fire</i>
 
-* 5th level (2 slots): dominate person
+* 5th level (2 slots): <i>dominate person</i>
 
 ### Actions
 
