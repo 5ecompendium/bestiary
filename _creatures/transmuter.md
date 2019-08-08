@@ -38,11 +38,8 @@ armor_class: "12 (15 with mage armor)"
 ***Transmuter's Stone.*** The transmuter carries a magic stone it crafted that grants its bearer one of the following effects:
 
 * Darkvision out to a range of 60 feet
-
 * An extra 10 feet of speed while the bearer is unencumbered
-
 * Proficiency with Constitution saving throws
-
 * Resistance to acid, cold, fire, lightning, or thunder damage (transmuter's choice whenever the transmuter chooses this benefit)
 
 If the transmuter has the stone and casts a transmutation spell of 1st level or higher, it can change the effect of the stone.
