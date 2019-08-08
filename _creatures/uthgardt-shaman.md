@@ -20,9 +20,9 @@ armor_class: "13"
 
 ***Innate Spellcasting.*** The shaman can innately cast the following spells. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks).
 
-* At Will: dancing lights, message, mage hand, thaumaturgy
+* At Will: <i>dancing lights, message, mage hand, thaumaturgy</i>
 
-* 1/day: augury, bestow curse, cordon of arrows, detect magic, hex, prayer of healing, speak with dead, spirit guardians
+* 1/day: <i>augury, bestow curse, cordon of arrows, detect magic, hex, prayer of healing, speak with dead, spirit guardians</i>
 
 ### Actions
 
