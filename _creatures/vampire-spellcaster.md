@@ -49,17 +49,17 @@ Sunlight Hypersensitivity. The vampire takes 20 radiant damage when it starts it
 
 ***Spellcasting.*** The vampire is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). The vampire has the following wizard spells prepared:
 
-* Cantrips (at will): mage hand, prestidigitation, ray of frost
+* Cantrips (at will): <i>mage hand, prestidigitation, ray of frost</i>
 
-* 1st level (4 slots): comprehend languages, fog cloud, sleep
+* 1st level (4 slots): <i>comprehend languages, fog cloud, sleep</i>
 
-* 2nd level (3 slots): detect thoughts, gust of wind, mirror image
+* 2nd level (3 slots): <i>detect thoughts, gust of wind, mirror image</i>
 
-* 3rd level (3 slots): animate dead, bestow curse, nondetection
+* 3rd level (3 slots): <i>animate dead, bestow curse, nondetection</i>
 
-* 4th level (3 slots): blight, greater invisibility
+* 4th level (3 slots): <i>blight, greater invisibility</i>
 
-* 5th level (1 slot): dominate person
+* 5th level (1 slot): <i>dominate person</i>
 
 ### Actions
 
