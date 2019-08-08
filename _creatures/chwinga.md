@@ -22,7 +22,7 @@ armor_class: "15"
 
 ***Innate Spellcasting.*** The chwinga's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no material or verbal components:
 
-At will: druldcraft, guidance, pass without trace, resistance
+* At will: <i>druidcraft, guidance, pass without trace, resistance</i>
 
 ### Actions
 
