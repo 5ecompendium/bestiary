@@ -145,7 +145,7 @@ failed save, the creature does not benefit from that long rest.
 If Dagon is slain, changed weather reverts to normal as described in the
 spell, and the other effects fade in 1d10 days.
 
-### Embrace of the Uncaring Sea
+# Embrace of the Uncaring Sea
 
 <i>Weapon (trident), artifact (requires attunement)</i>
 
