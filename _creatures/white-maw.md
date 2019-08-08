@@ -21,16 +21,13 @@ condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, poiso
 damage_resistances: "acid, cold, fire"
 ---
 
-
-***Source.*** tales from the yawning portal,  page 248
-
 ***Ooze Nature.*** White Maw doesn't require sleep.
 
 ***Amorphous Form.*** White Maw can occupy another creature's space and vice versa.
 
 ***Corrode Metal.*** Any nonmagical weapon made of metal that hits White Maw corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition made of metal that hits White Maw is destroyed after dealing damage.
 
->White Maw can eat through 2-inch-thick, nonmagical metal in 1 round.
+White Maw can eat through 2-inch-thick, nonmagical metal in 1 round.
 
 ***False Appearance.*** While White Maw remains motionless, it is indistinguishable from white stone.
 
