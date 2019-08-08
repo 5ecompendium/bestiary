@@ -25,11 +25,11 @@ armor_class: "15 (natural armor)"
 
 ***Innate Spellcasting (Psionics).*** The thri-kreen's innate spellcasting ability is Wisdom. The thri-kreen can innately cast the following spells, requiring no components:
 
-At will: mage hand (the hand is invisible)
+* At will: <i>mage hand </i>(the hand is invisible)
 
-2/day each: blur, magic weapon
+* 2/day each: <i>blur, magic weapon</i>
 
-1/day: invisibility (self only)
+* 1/day: <i>invisibility </i>(self only)
 
 ### Actions
 
