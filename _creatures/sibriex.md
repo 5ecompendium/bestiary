@@ -26,9 +26,11 @@ damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing 
 
 ***Contamination.*** The sibriex emits an aura of corruption 30 feet in every direction. Plants that aren't creatures wither in the aura, and the ground in it is difficult terrain for other creatures. Any creature that starts its turn in the aura must succeed on a DC 20 Constitution saving throw or take 14 (4d6) poison damage. A creature that succeeds on the save is immune to this sibriex's Contamination for 24 hours.
 
-***Innate Spellcasting.*** The sibriex's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
-* At will: charm person, command, dispel magic, hold monster
-* 3/day: feeblemind
+***Innate Spellcasting.*** The sibriex's innate spellcasting ability is Charisma (spell save DC 21). It can innately cast the following spells, requiring no material components:
+
+* At will: <i>charm person, command, dispel magic, hold monster</i>
+
+* 3/day: <i>feeblemind</i>
 
 ***Legendary Resistance (3/Day).*** If the sibriex fails a saving throw, it can choose to succeed instead.
 
