@@ -24,17 +24,17 @@ armor_class: "12 (leather armor)"
 
 ***Spellcasting.*** Rictavio is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). Rictavio has the following cleric spells prepared:
 
-* Cantrips (at will): guidance, light, mending, thaumaturgy
+* Cantrips (at will): <i>guidance, light, mending, thaumaturgy</i>
 
-* 1st level (4 slots): cure wounds, detect evil and good, protection from evil and good, sanctuary
+* 1st level (4 slots): <i>cure wounds, detect evil and good, protection from evil and good, sanctuary</i>
 
-* 2nd level (3 slots): augury, lesser restoration, protection from poison
+* 2nd level (3 slots): <i>augury, lesser restoration, protection from poison</i>
 
-* 3rd level (3 slots): magic circle, remove curse, speak with dead
+* 3rd level (3 slots): <i>magic circle, remove curse, speak with dead</i>
 
-* 4th level (3 slots): death ward, freedom of movement
+* 4th level (3 slots): <i>death ward, freedom of movement</i>
 
-* 5th level (1 slot): dispel evil and good
+* 5th level (1 slot): <i>dispel evil and good</i>
 
 ***Undead Slayer.*** When Rictavio hits an undead with a weapon attack, the undead takes an extra 10 (3d6) damage of the weapon's type.
 
