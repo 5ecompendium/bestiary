@@ -28,11 +28,11 @@ damage_resistances: "radiant, bludgeoning, piercing, and slashing from nonmagica
 
 ***Innate Spellcasting.*** The planetar's spellcasting ability is Charisma (spell save DC 20). The planetar can innately cast the following spells, requiring no material components:
 
-At will: detect evil and good, invisibility (self only)
+* At will: <i>detect evil and good, invisibility </i>(self only)
 
-3/day each: blade barrier, dispel evil and good, flame strike, raise dead
+* 3/day each: <i>blade barrier, dispel evil and good, flame strike, raise dead</i>
 
-1/day each: commune, control weather, insect plague
+* 1/day each: <i>commune, control weather, insect plague</i>
 
 ***Magic Resistance.*** The planetar has advantage on saving throws against spells and other magical effects.
 
