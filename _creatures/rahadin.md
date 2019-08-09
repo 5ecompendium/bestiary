@@ -25,11 +25,11 @@ armor_class: "18 (studded leather)"
 
 ***Fey Ancestry.*** Rahadin has advantage on saving throws against being charmed, and magic can't put him to sleep.
 
-***Innate Spellcasting.*** Rahadin's innate spellcasting ability is Intelligence. He can innately cast the following spells, requiring no components:
+***Innate Spellcasting.*** Rahadin's innate spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). He can innately cast the following spells, requiring no components:
 
-3/day: misty step, phantom steed
+* 3/day: <i>misty step, phantom steed</i>
 
-1/day: magic weapon, nondetection
+* 1/day: <i>magic weapon, nondetection</i>
 
 ***Mask of the Wild.*** Rahadin can attempt to hide even when he is only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.
 
