@@ -23,19 +23,19 @@ armor_class: "13 (16 with mage armor)"
 
 ***Spellcasting.*** Rath is an 11th-level spellcaster who uses Intelligence as his spellcasting ability (spell save DC 15, +7 to hit with spell attacks). Rath has the following spells prepared from the wizard spell list:
 
-* Cantrips (at will): fire bolt, minor illusion, prestidigitation, shocking grasp
+* Cantrips (at will): <i>fire bolt, minor illusion, prestidigitation, shocking grasp</i>
 
-* 1st level (4 slots): chromatic orb, color spray, mage armor, magic missile
+* 1st level (4 slots): <i>chromatic orb, color spray, mage armor, magic missile</i>
 
-* 2nd level (3 slots): detect thoughts, mirror image, phantasmal force
+* 2nd level (3 slots): <i>detect thoughts, mirror image, phantasmal force</i>
 
-* 3rd level (3 slots): counterspell, fireball, major image
+* 3rd level (3 slots): <i>counterspell, fireball, major image</i>
 
-* 4th level (3 slots): confusion, greater invisibility
+* 4th level (3 slots): <i>confusion, greater invisibility</i>
 
-* 5th level (2 slots): mislead, seeming
+* 5th level (2 slots): <i>mislead, seeming</i>
 
-* 6th level (1 slot): globe of invulnerability
+* 6th level (1 slot): <i>globe of invulnerability</i>
 
 ### Actions
 
