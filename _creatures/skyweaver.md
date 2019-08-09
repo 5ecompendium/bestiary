@@ -20,13 +20,13 @@ armor_class: "12 (15 with mage armor)"
 
 ***Spellcasting.*** The Skyweaver is a 6th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): blade ward, light, message, ray of frost, shocking grasp
+* Cantrips (at will): <i>blade ward, light, message, ray of frost, shocking grasp</i>
 
-* 1st level (4 slots): feather fall, mage armor, witch bolt
+* 1st level (4 slots): <i>feather fall, mage armor, witch bolt</i>
 
-* 2nd level (3 slots): gust of wind, invisibility
+* 2nd level (3 slots): <i>gust of wind, invisibility</i>
 
-* 3rd level (3 slots): fly, lightning bolt
+* 3rd level (3 slots): <i>fly, lightning bolt</i>
 
 ### Actions
 
