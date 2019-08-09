@@ -22,13 +22,13 @@ armor_class: "13 (chain shirt)"
 
 ***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). The priest has the following cleric spells prepared:
 
-* Cantrips (at will): light, sacred flame, thaumaturgy
+* Cantrips (at will): <i>light, sacred flame, thaumaturgy</i>
 
-* 1st level (4 slots): cure wounds, guiding bolt, sanctuary
+* 1st level (4 slots): <i>cure wounds, guiding bolt, sanctuary</i>
 
-* 2nd level (3 slots): lesser restoration, spiritual weapon
+* 2nd level (3 slots): <i>lesser restoration, spiritual weapon</i>
 
-* 3rd level (2 slots): dispel magic, spirit guardians
+* 3rd level (2 slots): <i>dispel magic, spirit guardians</i>
 
 ### Actions
 
