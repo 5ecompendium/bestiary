@@ -29,11 +29,11 @@ damage_resistances: "radiant, bludgeoning, piercing, and slashing from nonmagica
 
 ***Innate Spellcasting.*** The solar's spell casting ability is Charisma (spell save DC 25). It can innately cast the following spells, requiring no material components:
 
-At will: detect evil and good, invisibility (self only)
+* At will: <i>detect evil and good, invisibility </i>(self only)
 
-3/day each: blade barrier, dispel evil and good, resurrection
+* 3/day each: <i>blade barrier, dispel evil and good, resurrection</i>
 
-1/day each: commune, control weather
+* 1/day each: <i>commune, control weather</i>
 
 ***Magic Resistance.*** The solar has advantage on saving throws against spells and other magical effects.
 
