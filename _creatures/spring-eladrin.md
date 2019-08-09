@@ -24,9 +24,12 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 ***Fey Step (Recharge 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
 
 ***Innate Spellcasting.*** The eladrin's innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:
-* At will: charm person, Tasha's hideous laughter
-* 3/day each: confusion, enthrall, suggestion
-* 1/day each: hallucinatory terrain, Otto's irresistible dance
+
+* At will: <i>charm person, Tasha's hideous laughter</i>
+
+* 3/day each: <i>confusion, enthrall, suggestion</i>
+
+* 1/day each: <i>hallucinatory terrain, Otto's irresistible dance</i>
 
 ***Joyful Presence.*** Any non-eladrin creature that starts its turn within 60 feet of the eladrin must make a DC 16 Wisdom saving throw. On a failed save, the creature is charmed for 1 minute. On a successful save, the creature becomes immune to any eladrin's Joyful Presence for 24 hours.
 Whenever the eladrin deals damage to the charmed creature, it can repeat the saving throw, ending the effect on itself on a success.
