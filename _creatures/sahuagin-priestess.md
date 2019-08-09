@@ -27,13 +27,13 @@ armor_class: "12 (natural armor)"
 
 ***Spellcasting.*** The sahuagin is a 6th-level spellcaster. Her spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). She has the following cleric spells prepared:
 
-* Cantrips (at will): guidance, thaumaturgy
+* Cantrips (at will): <i>guidance, thaumaturgy</i>
 
-* 1st level (4 slots): bless, detect magic, guiding bolt
+* 1st level (4 slots): <i>bless, detect magic, guiding bolt</i>
 
-* 2nd level (3 slots): hold person, spiritual weapon (trident)
+* 2nd level (3 slots): <i>hold person, spiritual weapon </i>(trident)
 
-* 3rd level (3 slots): mass healing word, tongues
+* 3rd level (3 slots): <i>mass healing word, tongues</i>
 
 ### Actions
 
