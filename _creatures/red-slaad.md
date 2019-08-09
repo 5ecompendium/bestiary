@@ -36,9 +36,7 @@ Someone who is proficient in Wisdom (Medicine) can remove the gem from an incapa
 
 ***Multiattack.*** The slaad makes three attacks: one with its bite and two with its claws.
 
-***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target.
-
-Hit: 8 (2d4 + 3) piercing damage.
+***Bite.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (2d4 + 3) piercing damage.
 
 ***Claw.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage. If the target is a humanoid, it must succeed on a DC 14 Constitution saving throw or be infected with a disease - a minuscule slaad egg.
 
