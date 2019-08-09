@@ -25,9 +25,11 @@ condition_immunities: "charmed, exhaustion, frightened"
 
 ***Fey Ancestry.*** The soul monger has advantage on saving throws against being charmed, and magic can't put it to sleep.
 
-***Innate Spellcasting.*** The soul monger's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no material components:
-* At will: chill touch (3d8 damage), poison spray (3d12 damage)
-* 1/day each: bestow curse, chain lightning, finger of death, gaseous form, phantasmal killer, seeming
+***Innate Spellcasting.*** The soul monger's innate spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
+
+* At will: <i>chill touch </i>(3d8 damage)<i>, poison spray </i>(3d12 damage)
+
+* 1/day each: <i>bestow curse, chain lightning, finger of death, gaseous form, phantasmal killer, seeming</i>
 
 ***Magic Resistance.*** The soul monger has advantage on saving throws against spells and other magical effects.
 
