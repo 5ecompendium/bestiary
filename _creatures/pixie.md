@@ -22,9 +22,9 @@ armor_class: "15"
 
 ***Innate Spellcasting.*** The pixie's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring only its pixie dust as a component:
 
-At will: druidcraft
+* At will: <i>druidcraft</i>
 
-1/day each: confusion, dancing lights, detect evil and good, detect thoughts, dispel magic, entangle, fly, phantasmal force, polymorph, sleep
+* 1/day each: <i>confusion, dancing lights, detect evil and good, detect thoughts, dispel magic, entangle, fly, phantasmal force, polymorph, sleep</i>
 
 ### Actions
 
