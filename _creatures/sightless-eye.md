@@ -9,7 +9,7 @@ con: 14 (+2)
 dex: 10 (+0)
 str: 14 (+2)
 size: Medium aberration
-alignment: lawful evil
+alignment: neutral evil
 challenge: "5 (1,800 XP)"
 languages: "Common, Deep Speech"
 skills: "Perception +4"
