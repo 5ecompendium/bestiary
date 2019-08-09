@@ -26,9 +26,9 @@ armor_class: "16 (Barkskin trait)"
 
 ***Spellcasting.*** Sharwyn is a 1st-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). She has the following wizard spells prepared:
 
-Cantrips (at will): light, prestidigitation, ray of frost
+* Cantrips (at will): <i>light, prestidigitation, ray of frost</i>
 
-1st level (2 slots): color spray, magic missile, shield, sleep.
+* 1st level (2 slots): <i>color spray, magic missile, shield, sleep</i>
 
 ***Tree Thrall.*** If the Gulthias Tree dies, Sharwyn dies 24 hours later.
 
