@@ -25,9 +25,12 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 ---
 
 ***Innate Spellcasting.*** The larva mage's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
-* At will: eldritch blast (3 beams, +3 bonus to each damage roll), minor illusion
-* 3/day: dominate monster
-* 1/day: circle of death
+
+* At will: <i>eldritch blast </i>(3 beams, +3 bonus to each damage roll)<i>, minor illusion</i>
+
+* 3/day: <i>dominate monster</i>
+
+* 1/day: <i>circle of death</i>
 
 
 ***Return to Worms.*** When the larva mage is reduced to 0 hit points, it breaks apart into a swarm of insects in the same space. Unless the swarm is destroyed, the larva mage reforms from it 24 hours later.
