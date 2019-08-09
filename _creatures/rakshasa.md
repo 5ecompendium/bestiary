@@ -25,11 +25,11 @@ damage_vulnerabilities: "piercing from magic weapons wielded by good creatures"
 
 ***Innate Spellcasting.*** The rakshasa's innate spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). The rakshasa can innately cast the following spells, requiring no material components:
 
-At will: detect thoughts, disguise self, mage hand, minor illusion
+* At will: <i>detect thoughts, disguise self, mage hand, minor illusion</i>
 
-3/day each: charm person, detect magic, invisibility, major image, suggestion
+* 3/day each: <i>charm person, detect magic, invisibility, major image, suggestion</i>
 
-1/day each: dominate person, fly, plane shift, true seeing
+* 1/day each: <i>dominate person, fly, plane shift, true seeing</i>
 
 ### Actions
 
