@@ -25,17 +25,17 @@ condition_immunities: "charmed, poisoned"
 
 ***Spellcasting.*** The naga is a 10th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks), and it needs only verbal components to cast its spells. It has the following wizard spells prepared:
 
-* Cantrips (at will): mage hand, minor illusion, ray of frost
+* Cantrips (at will): <i>mage hand, minor illusion, ray of frost</i>
 
-* 1st level (4 slots): charm person, detect magic, sleep
+* 1st level (4 slots): <i>charm person, detect magic, sleep</i>
 
-* 2nd level (3 slots): detect thoughts, hold person
+* 2nd level (3 slots): <i>detect thoughts, hold person</i>
 
-* 3rd level (3 slots): lightning bolt, water breathing
+* 3rd level (3 slots): <i>lightning bolt, water breathing</i>
 
-* 4th level (3 slots): blight, dimension door
+* 4th level (3 slots): <i>blight, dimension door</i>
 
-* 5th level (2 slots): dominate person
+* 5th level (2 slots): <i>dominate person</i>
 
 ### Actions
 
