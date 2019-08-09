@@ -29,15 +29,23 @@ damage_resistances: "cold, necrotic; bludgeoning, piercing, and slashing from no
 
 ***Evasion.*** If the skull lord is subjected to an effect that allows it to make a Dexterity saving throw to take only half the damage, the skull lord instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.
 
-***Spellcasting.*** The skull lord is a 13th-level spellcaster. Its spellcasting ability is Charisma. The skull lord knows the following sorcerer spells:
-* Cantrips (at will): chill touch, fire bolt, mage hand, poison spray, ray of frost, shocking grasp
-* 1st level (4 slots): magic missile, expeditious retreat, thunderwave
-* 2nd level (3 slots): mirror image, scorching ray
-* 3rd level (3 slots): fear, haste
-* 4th level (3 slots): dimension door, ice storm
-* 5th level (2 slots): cloudkill, cone of cold
-* 6th level (1 slot): eyebite
-* 7th level (1 slot): finger of death
+***Spellcasting.*** The skull lord is a 13th-level spellcaster. Its spellcasting ability is Charisma (spell save DC18, +10 to hit with spell attacks). The skull lord knows the following sorcerer spells:
+
+* Cantrips (at will): <i>chill touch, fire bolt, mage hand, poison spray, ray of frost, shocking grasp</i>
+
+* 1st level (4 slots): <i>magic missile, expeditious retreat, thunderwave</i>
+
+* 2nd level (3 slots): <i>mirror image, scorching ray</i>
+
+* 3rd level (3 slots): <i>fear, haste</i>
+
+* 4th level (3 slots): <i>dimension door, ice storm</i>
+
+* 5th level (2 slots): <i>cloudkill, cone of cold</i>
+
+* 6th level (1 slot): <i>eyebite</i>
+
+* 7th level (1 slot): <i>finger of death</i>
 
 ### Actions
 
