@@ -21,10 +21,13 @@ hit_points: "187  (22d8 + 88)"
 armor_class: "18 (plate)"
 ---
 
-***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
-* At will: mage hand (the hand is invisible)
-* 3/day each: jump, levitate (self only), misty step, nondetection (self only)
-* 1/day each: Bigby's hand, mass suggestion, plane shift, telekinesis
+***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+
+* At will: <i>mage hand </i>(the hand is invisible)
+
+* 3/day each: <i>jump, levitate </i>(self only)<i>, misty step, nondetection </i>(self only)
+
+* 1/day each: <i>Bigby's hand, mass suggestion, plane shift, telekinesis</i>
 
 ### Actions
 
