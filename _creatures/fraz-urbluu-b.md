@@ -24,10 +24,13 @@ condition_immunities: "charmed, exhaustion, frightened, poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
 
-***Innate Spellcasting.*** Fraz-Urb'luu's spellcasting ability is Charisma. Fraz-Urb'luu can innately cast the following spells, requiring no material components:
-* At will: alter self (can become Medium when changing his appearance), detect magic, dispel magic, phantasmal force
-* 3/day each: confusion, dream, mislead, programmed illusion, seeming
-* 1/day each: mirage arcane, modify memory, project image
+***Innate Spellcasting.*** Fraz-Urb'luu's spellcasting ability is Charisma (spell save DC 23). Fraz-Urb'luu can innately cast the following spells, requiring no material components:
+
+* At will: <i>alter self </i>(can become Medium-sized when changing his appearance)<i>, detect magic, dispel magic, phantasmal force</i>
+
+* 3/day each: <i>confusion, dream, mislead, programmed illusion, seeming</i>
+
+* 1/day each: <i>mirage arcane, modify memory, project image</i>
 
 ***Legendary Resistance (3/Day).*** If Fraz-Urb'luu fails a saving throw, he can choose to succeed instead.
 
