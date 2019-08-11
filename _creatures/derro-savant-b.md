@@ -22,7 +22,7 @@ armor_class: "13 (leather armor)"
 
 ***Magic Resistance.*** The derro savant has advantage on saving throws against spells and other magical effects.
 
-***Spellcasting.*** The derro savant is a 5th-level spellcaster. Its spellcasting ability is Charisma. The derro knows the following sorcerer spells:
+***Spellcasting.*** The derro savant is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). The derro knows the following sorcerer spells:
 
 * Cantrips (at will): <i>acid splash, mage hand, message, prestidigitation, ray of frost</i>
 
