@@ -29,8 +29,10 @@ Furthermore, when a creature moves into the blighted area or starts its turn the
 The poisoned creature can't regain hit points. After every 24 hours that elapse, the poisoned creature can repeat the saving throw. On a failed save, the creature's hit point maximum is reduced by 5 (1d10). This reduction lasts until the poison ends, and the target dies if its hit point maximum is reduced to 0. The poison ends after the creature successfully saves against it three times.
 
 ***Innate Spellcasting.*** The oinoloth's innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:
-* At will: darkness, detect magic, dispel magic, invisibility (self only)
-* 1/day each: feeblemind, globe of invulnerability, wall of fire, wall of ice
+
+* At will: <i>darkness, detect magic, dispel magic, invisibility </i>(self only)
+
+* 1/day each: <i>feeblemind, globe of invulnerability, wall of fire, wall of ice</i>
 
 ***Magic Resistance.*** The oinoloth has advantage on saving throws against spells and other magical effects.
 
