@@ -23,8 +23,10 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 ***Fey Step (Recharge 4-6).*** As a bonus action, the eladrin can teleport up to 30 feet to an unoccupied space it can see.
 
 ***Innate Spellcasting.*** The eladrin's innate spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no material components:
-* At will: fog cloud, gust of wind
-* 1/day each: cone of cold, ice storm
+
+* At will: <i>fog cloud, gust of wind</i>
+
+* 1/day each: <i>cone of cold, ice storm</i>
 
 ***Magic Resistance.*** The eladrin has advantage on saving throws against spells and other magical effects.
 
