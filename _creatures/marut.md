@@ -28,7 +28,7 @@ damage_resistances: "thunder; bludgeoning, piercing, and slashing from nonmagica
 
 ***Innate Spellcasting.*** The marut's innate spellcasting ability is Intelligence (spell save DC 20). The marut can innately cast the following spell, requiring no material components.
 
-At will: <i>plane shift </i>(self only)
+* At will: <i>plane shift </i>(self only)
 
 ***Legendary Resistance (3/Day).*** If the marut fails a saving throw, it can choose to succeed instead.
 
