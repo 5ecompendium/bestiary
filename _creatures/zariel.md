@@ -28,9 +28,11 @@ damage_resistances: "cold, fire, radiant; bludgeoning, piercing, and slashing fr
 
 ***Magic Weapons.*** Zariel's weapon attacks are magical. When she hits with any weapon, the weapon deals an extra 36 (8d8) fire damage (included in the weapon attacks below).
 
-***Innate Spellcasting.*** Zariel's innate spellcasting ability is Charisma. She can innately cast the following spells, requiring no material components:
-* At will: alter self (can become Medium when changing her appearance), detect evil and good, fireball, invisibility (self only), wall of fire
-* 3/day each: blade barrier, dispel evil and good, finger of death
+***Innate Spellcasting.*** Zariel's innate spellcasting ability is Charisma (spell save DC 26). She can innately cast the following spells, requiring no material components:
+
+* At will: <i>alter self </i>(can become Medium when changing her appearance)<i>, detect evil and good, fireball, invisibility </i>(self only)<i>, wall of fire</i>
+
+* 3/day each: <i>blade barrier, dispel evil and good, finger of death</i>
 
 ***Legendary Resistance (3/Day).*** If Zariel fails a saving throw, she can choose to succeed instead.
 
