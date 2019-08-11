@@ -26,7 +26,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Dreadful.*** Bael can use a bonus action to appear dreadful until the start of his next turn. Each creature, other than a devil, that starts its turn within 10 feet of Bael must succeed on a DC 22 Wisdom saving throw or be frightened until the start of the creature's next turn.
 
-***Innate Spellcasting.*** Bael's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
+***Innate Spellcasting.*** Bael's innate spellcasting ability is Charisma (spell save DC 21, +13 to hit with spell attacks). He can innately cast the following spells, requiring no material components:
 
 * At will: <i>alter self </i>(can become Medium when changing his appearance)<i>, animate dead, charm person, detect magic, inflict wounds </i>(as an 8th-level spell)<i>, invisibility </i>(self only)<i>, major image</i>
 
