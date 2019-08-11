@@ -25,7 +25,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Innate Spellcasting.*** Fraz-Urb'luu's spellcasting ability is Charisma (spell save DC 23). Fraz-Urb'luu can innately cast the following spells, requiring no material components:
 
-* At will: <i>alter self </i>(can become Medium-sized when changing his appearance)<i>, detect magic, dispel magic, phantasamal force</i>
+* At will: <i>alter self </i>(can become medium-sized when changing his appearance)<i>, detect magic, dispel magic, phantasamal force</i>
 
 * 3/day each: <i>confusion, dream, mislead, programmed illusion, seeming</i>
 
