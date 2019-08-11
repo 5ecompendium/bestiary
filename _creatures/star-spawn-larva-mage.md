@@ -24,7 +24,7 @@ condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned, rest
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
-***Innate Spellcasting.*** The larva mage's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
+***Innate Spellcasting.*** The larva mage's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
 * At will: <i>eldritch blast </i>(3 beams, +3 bonus to each damage roll)<i>, minor illusion</i>
 
