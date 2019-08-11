@@ -25,7 +25,7 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 
 ***Faultless Tracker.*** The retriever is given a quarry by its master. The quarry can be a specific creature or object the master is personally acquainted with, or it can be a general type of creature or object the master has seen before. The retriever knows the direction and distance to its quarry as long as the two of them are on the same plane of existence. The retriever can have only one such quarry at a time. The retriever also always knows the location of its master.
 
-***Innate Spellcasting.*** The retriever's innate spellcasting ability is Wisdom. The retriever can innately cast the following spells, requiring no material components.
+***Innate Spellcasting.*** The retriever's innate spellcasting ability is Wisdom (spell save DC 13). The retriever can innately cast the following spells, requiring no material components.
 
 * 3/day each: <i>plane shift </i>(only self and up to one incapacitated creature which is considered willing for the spell)<i>, web</i>
 
