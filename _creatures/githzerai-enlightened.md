@@ -21,10 +21,13 @@ hit_points: "112  (15d8 + 45)"
 armor_class: "18"
 ---
 
-***Innate Spellcasting (Psionics).*** The githzerai's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
-* At will: mage hand (the hand is invisible)
-* 3/day each: blur, expeditious retreat, feather fall, jump, see invisibility, shield
-* 1/day each: haste, plane shift, teleport
+***Innate Spellcasting (Psionics).*** The githzerai's innate spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+
+* At will: <i>mage hand </i>(the hand is invisible)
+
+* 3/day each: <i>blur, expeditious retreat, feather fall, jump, see invisibility, shield</i>
+
+* 1/day each: <i>haste, plane shift, teleport</i>
 
 ***Psychic Defense.*** While the githzerai is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 
