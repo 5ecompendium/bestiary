@@ -32,6 +32,6 @@ damage_resistances: "necrotic"
 ***Multiattack*** The shadow dancer makes three spiked chain attacks.
 
 ***Spiked Chain*** Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 10 (2d6 + 3) piercing damage, and the target must succeed on a DC 14 Dexterity saving throw or suffer one additional effect of the shadow dancer's choice:
-> The target is grappled (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is restrained, and the shadow dancer can't grapple another target.
-> The target is knocked prone.
-> The target takes 22 (4d10) necrotic damage.
+* The target is grappled (escape DC 14) if it is a Medium or smaller creature. Until the grapple ends, the target is restrained, and the shadow dancer can't grapple another target.
+* The target is knocked prone.
+* The target takes 22 (4d10) necrotic damage.
