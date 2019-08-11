@@ -27,11 +27,11 @@ damage_resistances: "cold, fire, lightning"
 
 ***Innate Spellcasting.*** Graz'zt's spellcasting ability is Charisma (spell save DC 23). Graz'zt can innately cast the following spells, requiring no material components:
 
-At will: charm person, crown of madness, detect magic, dispel magic, dissonant whispers
+* At will: <i>charm person, crown of madness, detect magic, dispel magic, dissonant whispers</i>
 
-3/day each: counterspell, darkness, dominate person, sanctuary, telekinesis, teleport
+* 3/day each: <i>counterspell, darkness, dominate person, sanctuary, telekinesis, teleport</i>
 
-1/day each: dominate monster, greater invisibility
+* 1/day each: <i>dominate monster, greater invisibility</i>
 
 ***Legendary Resistance (3/Day).*** If Graz'zt fails a saving throw, he can choose to succeed instead.
 
