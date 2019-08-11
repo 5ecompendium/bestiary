@@ -21,17 +21,25 @@ hit_points: "123  (19d8 + 38)"
 armor_class: "17 (half plate)"
 ---
 
-***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
-* At will: mage hand (the hand is invisible)
-* 3/day each: jump, misty step, nondetection (self only)
-* 1/day each: plane shift, telekinesis
+***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
-***Spellcasting.*** The githyanki is an 8th-level spellcaster. Its spellcasting ability is Intelligence. The githyanki has the following wizard spells prepared:
-* Cantrips (at will): blade ward, light, message, true strike
-* 1st level (4 slots): expeditious retreat, magic missile, sleep, thunderwave
-* 2nd level (3 slots): blur, invisibility, levitate
-* 3rd level (3 slots): counterspell, fireball, haste
-* 4th level (2 slots): dimension door
+* At will: <i>mage hand </i>(the hand is invisible)
+
+* 3/day each: <i>jump, misty step, nondetection </i>(self only)
+
+* 1/day each: <i>plane shift, telekinesis</i>
+
+***Spellcasting.*** The githyanki is an 8th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The githyanki has the following wizard spells prepared:
+
+* Cantrips (at will): <i>blade ward, light, message, true strike</i>
+
+* 1st level (4 slots): <i>expeditious retreat, magic missile, sleep, thunderwave</i>
+
+* 2nd level (3 slots): <i>blur, invisibility, levitate</i>
+
+* 3rd level (3 slots): <i>counterspell, fireball, haste</i>
+
+* 4th level (2 slots): <i>dimension door</i>
 
 ***War Magic.*** When the githyanki uses its action to cast a spell, it can make one weapon attack as a bonus action
 
