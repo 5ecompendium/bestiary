@@ -26,7 +26,7 @@ damage_resistances: "cold, fire, lightning"
 
 ***Charge.*** If Baphomet moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 16 (3d10) piercing damage. If the target is a creature, it must succeed on a DC 25 Strength saving throw or be pushed up to 10 feet away and knocked prone.
 
-***Innate Spellcasting.*** Baphomet's spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
+***Innate Spellcasting.*** Baphomet's spellcasting ability is Charisma (spell save DC 18). He can innately cast the following spells, requiring no material components:
 
 * At will: <i>detect magic</i>
 
