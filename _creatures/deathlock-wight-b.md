@@ -24,7 +24,7 @@ condition_immunities: "exhaustion, poisoned"
 damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
-***Innate Spellcasting.*** The wight's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no verbal or material components:
+***Innate Spellcasting.*** The wight's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no verbal or material components:
 
 * At will: <i>detect magic, disguise self, mage armor</i>
 
