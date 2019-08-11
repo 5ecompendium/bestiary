@@ -24,11 +24,11 @@ condition_immunities: "exhaustion, poisoned"
 damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
-***Innate Spellcasting.*** The deathlock's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
+***Innate Spellcasting.*** The deathlock's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
 
 * At will: <i>detect magic, disguise self, mage armor</i>
 
-***Spellcasting.*** The deathlock is a 5th-level spellcaster. Its spellcasting ability is Charisma. It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+***Spellcasting.*** The deathlock is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
 * Cantrips (at will): <i>chill touch, eldritch blast, mage hand</i>
 
