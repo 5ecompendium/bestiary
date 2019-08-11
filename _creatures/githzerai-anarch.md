@@ -21,10 +21,13 @@ hit_points: "144  (17d8 + 68)"
 armor_class: "20"
 ---
 
-***Innate Spellcasting (Psionics).*** The anarch's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
-* At will: mage hand (the hand is invisible)
-* 3/day each: feather fall, jump, see invisibility, shield, telekinesis
-* 1/day each: globe of invulnerability, plane shift, teleportation circle, wall of force
+***Innate Spellcasting (Psionics).*** The anarch's innate spellcasting ability is Wisdom (spell save DC 18, +10 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+
+* At will: <i>mage hand </i>(the hand is invisible)
+
+* 3/day each: <i>feather fall, jump, see invisibility, shield, telekinesis</i>
+
+* 1/day each: <i>globe of invulnerability, plane shift, teleportation circle, wall of force</i>
 
 ***Psychic Defense.*** While the anarch is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 
