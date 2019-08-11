@@ -24,9 +24,11 @@ condition_immunities: "charmed, exhaustion, frightened, poisoned"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
-***Innate Spellcasting.*** Moloch's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
-* At will: alter self (can become Medium when changing his appearance), animate dead, burning hands (as a 7th-level spell), confusion, detect magic, fly, geas, major image, stinking cloud, suggestion, wall of fire
-* 1/day each: flame strike, symbol (stunning only)
+***Innate Spellcasting.*** Moloch's innate spellcasting ability is Charisma (spell save DC 21). He can innately cast the following spells, requiring no material components:
+
+* At will: <i>alter self </i>(can become Medium when changing his appearance)<i>, animate dead, burning hands </i>(as a 7th-level spell)<i>, confusion, detect magic, fly, geas, major image, stinking cloud, suggestion, wall of fire</i>
+
+* 1/day each: <i>flame strike, symbol </i>(stunning only)
 
 ***Legendary Resistance (3/Day).*** If Moloch fails a saving throw, he can choose to succeed instead.
 
