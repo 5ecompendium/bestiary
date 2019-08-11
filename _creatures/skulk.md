@@ -25,11 +25,9 @@ condition_immunities: "blinded"
 
 ***Fallible Invisibility.*** The skulk is invisible. This invisibility can be circumvented by three things:
 
-The skulk appears as a drab, smooth-skinned humanoid if its reflection can be seen in a mirror or on another surface.
-
-The skulk appears as a dim, translucent form in the light of a candle made of fat rendered from a corpse whose identity is unknown.
-
-Humanoid children, aged 10 and under, can see through this invisibility.
+* The skulk appears as a drab, smooth-skinned humanoid if its reflection can be seen in a mirror or on another surface.
+* The skulk appears as a dim, translucent form in the light of a candle made of fat rendered from a corpse whose identity is unknown.
+* Humanoid children, aged 10 and under, can see through this invisibility.
 
 ***Trackless.*** The skulk leaves no tracks to indicate where it has been or where it's headed.
 
