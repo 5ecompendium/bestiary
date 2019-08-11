@@ -25,9 +25,11 @@ damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing
 
 ***Incorporeal Movement.*** The dybbuk can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-***Innate Spellcasting.*** The dybbuk's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
-* At will: dimension door
-* 3/day each: fear, phantasmal force
+***Innate Spellcasting.*** The dybbuk's innate spellcasting ability is Charisma (spell save DC 12). It can innately cast the following spells, requiring no material components:
+
+* At will: <i>dimension door</i>
+
+* 3/day each: <i>fear, phantasmal force</i>
 
 ***Magic Resistance.*** The dybbuk has advantage on saving throws against spells and other magical effects.
 
