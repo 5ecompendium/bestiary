@@ -25,9 +25,9 @@ damage_resistances: "poison"
 
 ***Innate Spellcasting (Psionics).*** The duergar's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
-At will: blade ward, true strike
+* At will: <i>blade ward, true strike</i>
 
-1/day each: jump, hunter's mark
+* 1/day each: <i>jump, hunter's mark</i>
 
 ### Actions
 
