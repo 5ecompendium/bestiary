@@ -26,7 +26,7 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Devil's Sight.*** Magical darkness doesn't impede the amnizu's darkvision.
 
-***Innate Spellcasting.*** The amnizu's innate spellcasting ability is Intelligence. The amnizu can innately cast the following spells, requiring no material components:
+***Innate Spellcasting.*** The amnizu's innate spellcasting ability is Intelligence (spell save DC 19, +11 to hit with spell attacks). The amnizu can innately cast the following spells, requiring no material components:
 
 * At will: <i>charm person, command</i>
 
