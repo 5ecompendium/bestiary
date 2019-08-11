@@ -26,10 +26,13 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Infernal Despair.*** Each creature within 15 feet of Hutijin that isn't a devil makes saving throws with disadvantage.
 
-***Innate Spellcasting.*** Hutijin's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
-* At will: alter self (can become Medium when changing his appearance), animate dead, detect magic, hold monster, invisibility (self only), lightning bolt, suggestion, wall of fire
-* 3/day: dispel magic
-* 1/day each: heal, symbol (hopelessness only)
+***Innate Spellcasting.*** Hutijin's innate spellcasting ability is Charisma (spell save DC 22). He can innately cast the following spells, requiring no material components:
+
+* At will: <i>alter self </i>(can become Medium when changing his appearance)<i>, animate dead, detect magic, hold monster, invisibility </i>(self only)<i>, lightning bolt, suggestion, wall of fire</i>
+
+* 3/day: <i>dispel magic</i>
+
+* 1/day each: <i>heal, symbol </i>(hopelessness only)
 
 ***Legendary Resistance (3/Day).*** If Hutijin fails a saving throw, he can choose to succeed instead.
 
