@@ -25,7 +25,7 @@ armor_class: "14 (natural armor)"
 
 The duplicate has the same statistics and knowledge as the berbalang, and everything experienced by the duplicate is known by the berbalang. All damage dealt by the duplicate's attacks is psychic damage.
 
-***Innate Spellcasting.*** The berbalang's innate spellcasting ability is Intelligence. The berbalang can innately cast the following spells, requiring no material components:
+***Innate Spellcasting.*** The berbalang's innate spellcasting ability is Intelligence (spell save DC 13). The berbalang can innately cast the following spells, requiring no material components:
 
 * At will: <i>speak with dead</i>
 
