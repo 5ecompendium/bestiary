@@ -24,9 +24,11 @@ damage_resistances: "poison"
 
 ***Create Soulblade.*** As a bonus action, the duergar can create a shortsword-sized, visible blade of psionic energy. The weapon appears in the duergar's hand and vanishes if it leaves the duergar's grip, or if the duergar dies or is incapacitated.
 
-***Innate Spellcasting (Psionics).*** The duergar's innate spellcasting ability is Wisdom. It can innately cast the following spells, requiring no components:
-* At will: blade ward, true strike
-* 3/day each: jump, hunter's mark
+***Innate Spellcasting (Psionics).*** The duergar's innate spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+
+* At will: <i>blade ward, true strike</i>
+
+* 3/day each: <i>jump, hunter's mark</i>
 
 ***Sunlight Sensitivity.*** While in sunlight, the duergar has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
