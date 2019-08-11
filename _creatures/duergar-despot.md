@@ -22,9 +22,11 @@ armor_class: "21 (natural armor)"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 ---
 
-***Innate Spellcasting (Psionics).*** The duergar despot's innate spellcasting ability is Intelligence. It can cast the following spells, requiring no components:
-* At will: mage hand, minor illusion
-* 1/day each: counterspell, misty step, stinking cloud
+***Innate Spellcasting (Psionics).*** The duergar despot's innate spellcasting ability is Intelligence (spell save DC 12). It can cast the following spells, requiring no components:
+
+* At will: <i>mage hand, minor illusion</i>
+
+* 1/day each: <i>counterspell, misty step, stinking cloud</i>
 
 ***Magic Resistance.*** The duergar has advantage on saving throws against spells and other magical effects.
 
