@@ -25,9 +25,12 @@ damage_resistances: "cold, fire, lightning"
 ---
 
 ***Innate Spellcasting.*** Yeenoghu's spellcasting ability is Charisma (spell save DC 17, +9 to hit with spell attacks). He can innately cast the following spells, requiring no material components:
-* At will: detect magic
-* 3/day each: dispel magic, fear, invisibility
-* 1/day: teleport
+
+* At will: <i>detect magic</i>
+
+* 3/day each: <i>dispel magic, fear, invisibility</i>
+
+* 1/day: <i>teleport</i>
 
 ***Legendary Resistance (3/Day).*** If Yeenoghu fails a saving throw, he can choose to succeed instead.
 
