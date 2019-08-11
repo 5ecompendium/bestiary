@@ -24,10 +24,13 @@ condition_immunities: "poisoned"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical attacks"
 ---
 
-***Innate Spellcasting.*** The merrenoloth's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no material components:
-* At will: charm person, darkness, detect magic, dispel magic, gust of wind
-* 3/day: control water
-* 1/day: control weather
+***Innate Spellcasting.*** The merrenoloth's innate spellcasting ability is Intelligence (spell save DC 13). It can innately cast the following spells, requiring no material components:
+
+* At will: <i>charm person, darkness, detect magic, dispel magic, gust of wind</i>
+
+* 3/day: <i>control water</i>
+
+* 1/day: <i>control weather</i>
 
 ***Magic Resistance.*** The merrenoloth has advantage on saving throws against spells and other magical effects.
 
