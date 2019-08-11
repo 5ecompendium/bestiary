@@ -27,10 +27,13 @@ damage_resistances: "cold, fire, lightning"
 ***Wand of Orcus.*** The wand has 7 charges, and any of its properties that require a saving throw have a save DC of 18. While holding it, Orcus can use an action to cast animate dead, blight, or speak with dead. Alternatively, he can expend 1 or more of the wand's charges to cast one of the following spells from it: circle of death (1 charge), finger of death (1 charge), or power word kill (2 charges). The wand regains 1d4 + 3 charges daily at dawn.
 While holding the wand, Orcus can use an action to conjure undead creatures whose combined average hit points don't exceed 500. These undead magically rise up from the ground or otherwise form in unoccupied spaces within 300 feet of Orcus and obey his commands until they are destroyed or until he dismisses them as an action. Once this property of the wand is used, the property can't be used again until the next dawn.
 
-***Innate Spellcasting.*** Orcus's spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
-* At will: chill touch (17th level), detect magic
-* 3/day each: create undead, dispel magic
-* 1/day: time stop
+***Innate Spellcasting.*** Orcus's spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). He can innately cast the following spells, requiring no material components:
+
+* At will: <i>chill touch </i>(17th level)<i>, detect magic</i>
+
+* 3/day each: <i>create undead, dispel magic</i>
+
+* 1/day: <i>time stop</i>
 
 ***Legendary Resistance (3/Day).*** If Orcus fails a saving throw, he can choose to succeed instead.
 
