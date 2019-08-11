@@ -21,10 +21,13 @@ hit_points: "180  (24d8 + 72)"
 armor_class: "18 (plate)"
 ---
 
-***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no components:
-* At will: mage hand (the hand is invisible)
-* 3/day each: blur, jump, misty step, nondetection (self only)
-* 1/day each: plane shift, telekinesis
+***Innate Spellcasting (Psionics).*** The githyanki's innate spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It can innately cast the following spells, requiring no components:
+
+* At will: <i>mage hand </i>(the hand is invisible)
+
+* 3/day each: <i>blur, jump, misty step, nondetection </i>(self only)
+
+* 1/day each: <i>plane shift, telekinesis</i>
 
 ***Rally the Troops.*** As a bonus action, the githyanki can magically end the charmed and frightened conditions on itself and each creature of its choice that it can see within 30 feet of it.
 
