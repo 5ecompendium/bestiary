@@ -24,9 +24,11 @@ condition_immunities: "charmed, exhaustion, frightened, poisoned"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks that aren't silvered"
 ---
 
-***Innate Spellcasting.*** Geryon's innate spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
-* At will: alter self (can become Medium when changing his appearance), detect magic, geas, ice storm, invisibility (self only), locate object, suggestion, wall of ice
-* 1/day each: divine word, symbol (pain only)
+***Innate Spellcasting.*** Geryon's innate spellcasting ability is Charisma (spell save DC 21). He can innately cast the following spells, requiring no material components:
+
+* At will: <i>alter self </i>(can become Medium when changing his appearance)<i>, detect magic, geas, ice storm, invisibility </i>(self only)<i>, locate object, suggestion, wall of ice</i>
+
+* 1/day each: <i>divine word, symbol </i>(pain only)
 
 ***Legendary Resistance (3/Day).*** If Geryon fails a saving throw, he can choose to succeed instead.
 
