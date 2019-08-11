@@ -30,7 +30,7 @@ armor_class: "19 (natural armor)"
 
 ***Magic Weapons.*** The abishai's weapon attacks are magical.
 
-***Spellcasting.*** The abishai is a 13th-level spellcaster. Its spellcasting ability is Intelligence. The abishai has the following wizard spells prepared:
+***Spellcasting.*** The abishai is a 13th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 20, +12 to hit with spell attacks). The abishai has the following wizard spells prepared:
 
 * Cantrips (at will): <i>friends, mage hand, message, minor illusion, shocking grasp</i>
 
