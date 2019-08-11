@@ -24,10 +24,13 @@ condition_immunities: "charmed, exhaustion, frightened, poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
 
-***Innate Spellcasting.*** Zuggtmoy's spellcasting ability is Charisma. She can innately cast the following spells, requiring no material components:
-* At will: detect magic, locate animals or plants, ray of sickness
-* 3/day each: dispel magic, ensnaring strike, entangle, plant growth
-* 1/day each: etherealness, teleport
+***Innate Spellcasting.*** Zuggtmoy's spellcasting ability is Charisma (spell save DC 22). She can innately cast the following spells, requiring no material components:
+
+* At will: <i>detect magic, locate animals or plants, ray of sickness</i>
+
+* 3/day each: <i>dispel magic, ensnaring strike, entangle, plant growth</i>
+
+* 1/day each: <i>etherealness, teleport</i>
 
 ***Legendary Resistance (3/Day).*** If Zuggtmoy fails a saving throw, she can choose to succeed instead.
 
