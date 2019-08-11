@@ -24,7 +24,7 @@ condition_immunities: "charmed, exhaustion, frightened, poisoned"
 damage_resistances: "cold, fire, lightning"
 ---
 
-***Innate Spellcasting.*** Demogorgon's spellcasting ability is Charisma. Demogorgon can innately cast the following spells, requiring no material components:
+***Innate Spellcasting.*** Demogorgon's spellcasting ability is Charisma (spell save DC 23). Demogorgon can innately cast the following spells, requiring no material components:
 
 * At will: <i>detect magic, major image</i>
 
