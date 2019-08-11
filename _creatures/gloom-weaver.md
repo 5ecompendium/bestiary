@@ -26,13 +26,17 @@ condition_immunities: "charmed, exhaustion"
 
 ***Fey Ancestry.*** The gloom weaver has advantage on saving throws against being charmed, and magic can't put it to sleep.
 
-***Innate Spellcasting.*** The gloom weaver's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
-* At will: arcane eye, mage armor, speak with dead
-* 1/day each: arcane gate, bane, compulsion, confusion, true seeing
+***Innate Spellcasting.*** The gloom weaver's innate spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-***Spellcasting.*** The gloom weaver is a 12th-level spellcaster. Its spellcasting ability is Charisma. It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
-* Cantrips (at will): minor illusion, prestidigitation, chill touch (3d8 damage), eldritch blast (3 beams +4 bonus to each damage roll)
-* 5th level (3 slots): armor of Agathys, blight, darkness, dream, invisibility, fear, hypnotic pattern, major image, contact other plane, vampiric touch, witch bolt
+* At will: <i>arcane eye, mage armor, speak with dead</i>
+
+* 1/day each: <i>arcane gate, bane, compulsion, confusion, true seeing</i>
+
+***Spellcasting.*** The gloom weaver is a 12th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 16, +8 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
+
+* Cantrips (at will): <i>minor illusion, prestidigitation, chill touch </i>(3d8 damage)<i>, eldritch blast </i>(3 beams +4 bonus to each damage roll)
+
+* 5th level (3 slots): <i>armor of Agathys, blight, darkness, dream, invisibility, fear, hypnotic pattern, major image, contact other plane, vampiric touch, witch bolt</i>
 
 
 ### Actions
