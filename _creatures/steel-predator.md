@@ -24,7 +24,8 @@ damage_resistances: "cold, lightning, necrotic, thunder"
 ---
 
 ***Innate Spellcasting.*** The steel predator's innate spellcasting ability is Wisdom. The steel predator can innately cast the following spells, requiring no components:
-3/day each: dimension door (self only), plane shift (self only)
+
+* 3/day each: <i>dimension door </i>(self only)<i>, plane shift </i>(self only)
 
 ***Magic Resistance.*** The steel predator has advantage on saving throws against spells and other magical effects.
 
