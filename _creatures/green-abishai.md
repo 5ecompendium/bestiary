@@ -26,10 +26,13 @@ damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical a
 
 ***Devil's Sight.*** Magical darkness doesn't impede the abishai's darkvision.
 
-***Innate Spellcasting.*** The abishai's innate spellcasting ability is Charisma. It can innately cast the following spells, requiring no material components:
-* At will: alter self, major image
-* 3/day each: charm person, detect thoughts, fear
-* 1/day each: confusion, dominate person, mass suggestion
+***Innate Spellcasting.*** The abishai's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
+
+* At will: <i>alter self, major image</i>
+
+* 3/day each: <i>charm person, detect thoughts, fear</i>
+
+* 1/day each: <i>confusion, dominate person, mass suggestion</i>
 
 ***Magic Resistance.*** The abishai has advantage on saving throws against spells and other magical effects.
 
