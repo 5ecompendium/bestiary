@@ -26,10 +26,13 @@ damage_resistances: "cold, fire, lightning"
 
 ***Shapechanger.*** Graz'zt can use his action to polymorph into a form that resembles a Medium humanoid, or back into his true form. Aside from his size, his statistics are the same in each form. Any equipment he is wearing or carrying isn't transformed.
 
-***Innate Spellcasting.*** Graz'zt's spellcasting ability is Charisma. He can innately cast the following spells, requiring no material components:
-* At will: charm person, crown of madness, detect magic, dispel magic, dissonant whispers
-* 3/day each: counterspell, darkness, dominate person, sanctuary, telekinesis, teleport
-* 1/day each: dominate monster, greater invisibility
+***Innate Spellcasting.*** Graz'zt's spellcasting ability is Charisma (spell save DC 23). He can innately cast the following spells, requiring no material components:
+
+* At will: <i>charm person, crown of madness, detect magic, dispel magic, dissonant whispers</i>
+
+* 3/day each: <i>counterspell, darkness, dominate person, sanctuary, telekinesis, teleport</i>
+
+* 1/day each: <i>dominate monster, greater invisibility</i>
 
 ***Legendary Resistance (3/Day).*** If Graz'zt fails a saving throw, he can choose to succeed instead.
 
