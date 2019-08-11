@@ -26,9 +26,11 @@ damage_resistances: "cold, fire, lightning"
 
 ***Foul.*** Any creature, other than an ooze, that starts its turn within 10 feet of Juiblex must succeed on a DC 21 Constitution saving throw or be poisoned until the start of the creature's next turn.
 
-***Innate Spellcasting.*** Juiblex's spellcasting ability is Charisma. Juiblex can innately cast the following spells, requiring no material components:
-* At will: acid splash (17th level), detect magic
-* 3/day each: blight, contagion, gaseous form
+***Innate Spellcasting.*** Juiblex's spellcasting ability is Charisma (spell save DC 18, +10 to hit with spell attacks). Juiblex can innately cast the following spells, requiring no material components:
+
+* At will: <i>acid splash </i>(17th level)<i>, detect magic</i>
+
+* 3/day each: <i>blight, contagion, gaseous form</i>
 
 ***Legendary Resistance (3/Day).*** If Juiblex fails a saving throw, it can choose to succeed instead.
 
