@@ -25,9 +25,11 @@ damage_resistances: "cold, lightning; bludgeoning, piercing, and slashing from n
 
 ***Amphibious.*** The hydroloth can breathe air and water.
 
-***Innate Spellcasting.*** The hydroloth's innate spellcasting ability is Intelligence. It can innately cast the following spells, requiring no material components:
-* At will: darkness, detect magic, dispel magic, invisibility (self only), water walk
-* 3/day each: control water, crown of madness, fear, phantasmal killer, suggestion
+***Innate Spellcasting.*** The hydroloth's innate spellcasting ability is Intelligence (spell save DC 16). It can innately cast the following spells, requiring no material components:
+
+* At will: <i>darkness, detect magic, dispel magic, invisibility </i>(self only)<i>, water walk</i>
+
+* 3/day each: <i>control water, crown of madness, fear, phantasmal killer, suggestion</i>
 
 ***Magic Resistance.*** The hydroloth has advantage on saving throws against spells and other magical effects.
 
