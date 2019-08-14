@@ -23,9 +23,9 @@ condition_immunities: "poisoned"
 
 ***Innate Spellcasting.*** The ki-rin's innate spellcasting ability is Charisma (spell save DC 17). The ki-rin can innately cast the following spells, requiring no material components:
 
-At will: gaseous form, major image (6th-level version), wind walk
+* At will: <i>gaseous form, major image </i>(6th-level version)<i>, wind walk</i>
 
-1/day: create food and water
+* 1/day: <i>create food and water</i>
 
 ***Legendary Resistance (3/Day).*** If the ki-rin fails a saving throw, it can choose to succeed instead.
 
@@ -35,25 +35,25 @@ At will: gaseous form, major image (6th-level version), wind walk
 
 ***Spellcasting.*** The ki-rin is a 18th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). It has the following cleric spells prepared:
 
-Cantrips (at will): light, mending, sacred flame, spare the dying, thaumaturgy
+* Cantrips (at will): <i>light, mending, sacred flame, spare the dying, thaumaturgy</i>
 
-1st level (4 slots): command, cure wounds, detect evil and good, protection from evil and good, sanctuary
+* 1st level (4 slots): <i>command, cure wounds, detect evil and good, protection from evil and good, sanctuary</i>
 
-2nd level (3 slots): calm emotions, lesser restoration, silence
+* 2nd level (3 slots): <i>calm emotions, lesser restoration, silence</i>
 
-3rd level (3 slots): dispel magic, remove curse, sending
+* 3rd level (3 slots): <i>dispel magic, remove curse, sending</i>
 
-4th level (3 slots): banishment, freedom of movement, guardian of faith
+* 4th level (3 slots): <i>banishment, freedom of movement, guardian of faith</i>
 
-5th level (3 slots): greater restoration, mass cure wounds, scrying
+* 5th level (3 slots): <i>greater restoration, mass cure wounds, scrying</i>
 
-6th level (1 slot): heroes' feast, true seeing
+* 6th level (1 slot): <i>heroes' feast, true seeing</i>
 
-7th level (1 slot): etherealness, plane shift
+* 7th level (1 slot): <i>etherealness, plane shift</i>
 
-8th level (1 slot): control weather
+* 8th level (1 slot): <i>control weather</i>
 
-9th level (1 slot): true resurrection
+* 9th level (1 slot): <i>true resurrection</i>
 
 ### Actions
 
