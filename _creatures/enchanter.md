@@ -21,17 +21,17 @@ armor_class: "12 (15 with mage armor)"
 
 ***Spellcasting.*** The enchanter is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The enchanter has the following wizard spells prepared:
 
-Cantrips (at will): friends, mage hand, mending, message
+* Cantrips (at will): <i>friends, mage hand, mending, message</i>
 
-1st level (4 slots): charm person*, mage armor, magic missile
+* 1st level (4 slots): <i>charm person\*, mage armor, magic missile</i>
 
-2nd level (3 slots): hold person*, invisibility, suggestion*
+* 2nd level (3 slots): <i>hold person\*, invisibility, suggestion* </i>
 
-3rd level (3 slots): fireball, haste, tongues
+* 3rd level (3 slots): <i>fireball, haste, tongues</i>
 
-4th level (3 slots): dominate beast*, stoneskin
+* 4th level (3 slots): <i>dominate beast\*, stoneskin</i>
 
-5th level (2 slots): hold monster*
+* 5th level (2 slots): <i>hold monster* </i>
 
 *Enchantment spell of 1st level or higher
 
@@ -43,4 +43,4 @@ Cantrips (at will): friends, mage hand, mending, message
 
 ***Instinctive Charm (Recharges after the Enchanter Casts an Enchantment Spell of 1st level or Higher).*** The enchanter tries to magically divert an attack made against it, provided that the attacker is within 30 feet of it and visible to it. The enchanter must decide to do so before the attack hits or misses.
 
->The attacker must make a DC 14 Wisdom saving throw. On a failed save, the attacker targets the creature closest to it, other than the enchanter or itself. If multiple creatures are closest, the attacker chooses which one to target.
+The attacker must make a DC 14 Wisdom saving throw. On a failed save, the attacker targets the creature closest to it, other than the enchanter or itself. If multiple creatures are closest, the attacker chooses which one to target.
