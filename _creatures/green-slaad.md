@@ -24,11 +24,11 @@ damage_resistances: "acid, cold, fire, lightning, thunder"
 
 ***Innate Spellcasting.*** The slaad's innate spellcasting ability is Charisma (spell save DC 12). The slaad can innately cast the following spells, requiring no material components:
 
-At will: detect magic, detect thoughts, mage hand
+* At will: <i>detect magic, detect thoughts, mage hand</i>
 
-2/day each: fear, invisibility (self only)
+* 2/day each: <i>fear, invisibility </i>(self only)
 
-1/day: fireball
+* 1/day: <i>fireball</i>
 
 ***Magic Resistance.*** The slaad has advantage on saving throws against spells and other magical effects
 
