@@ -29,19 +29,19 @@ condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 
 ***Spellcasting.*** The mummy lord is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The mummy lord has the following cleric spells prepared:
 
-* Cantrips (at will): sacred flame, thaumaturgy
+* Cantrips (at will): <i>sacred flame, thaumaturgy</i>
 
-* 1st level (4 slots): command, guiding bolt, shield of faith
+* 1st level (4 slots): <i>command, guiding bolt, shield of faith</i>
 
-* 2nd level (3 slots): hold person, silence, spiritual weapon
+* 2nd level (3 slots): <i>hold person, silence, spiritual weapon</i>
 
-* 3rd level (3 slots): animate dead, dispel magic
+* 3rd level (3 slots): <i>animate dead, dispel magic</i>
 
-* 4th level (3 slots): divination, guardian of faith
+* 4th level (3 slots): <i>divination, guardian of faith</i>
 
-* 5th level (2 slots): contagion, insect plague
+* 5th level (2 slots): <i>contagion, insect plague</i>
 
-* 6th level (1 slot): harm
+* 6th level (1 slot): <i>harm</i>
 
 ### Actions
 
