@@ -21,17 +21,17 @@ armor_class: "12 (15 with mage armor)"
 
 ***Spellcasting.*** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). The mage has the following wizard spells prepared:
 
-* Cantrips (at will): fire bolt, light, mage hand, prestidigitation
+* Cantrips (at will): <i>fire bolt, light, mage hand, prestidigitation</i>
 
-* 1st level (4 slots): detect magic, mage armor, magic missile, shield
+* 1st level (4 slots): <i>detect magic, mage armor, magic missile, shield</i>
 
-* 2nd level (3 slots): misty step, suggestion
+* 2nd level (3 slots): <i>misty step, suggestion</i>
 
-* 3rd level (3 slots): counterspell, fireball, fly
+* 3rd level (3 slots): <i>counterspell, fireball, fly</i>
 
-* 4th level (3 slots): greater invisibility, ice storm
+* 4th level (3 slots): <i>greater invisibility, ice storm</i>
 
-* 5th level (1 slot): cone of cold
+* 5th level (1 slot): <i>cone of cold</i>
 
 ### Actions
 
