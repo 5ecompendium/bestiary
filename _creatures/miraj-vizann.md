@@ -22,23 +22,23 @@ armor_class: "10 (13 with mage armor)"
 
 ***Innate Spellcasting.*** Miraj's innate spellcasting ability is Constitution (spell save DC 14). He can innately cast the following spell, requiring no material components:
 
-* 1/day: pass without trace
+* 1/day: <i>pass without trace</i>
 
 ***Spellcasting.*** Miraj is an 11th-level spellcaster. His spellcasting ability is Charisma (spell save DC 15, +7 to hit with spell attacks). He knows the following sorcerer spells:
 
-* Cantrips (at will): acid splash, blade ward, friends, light, message, mold earth
+* Cantrips (at will): <i>acid splash, blade ward, friends, light, message, mold earth</i>
 
-* 1st level (4 slots): chromatic orb, mage armor, magic missile
+* 1st level (4 slots): <i>chromatic orb, mage armor, magic missile</i>
 
-* 2nd level (3 slots): Maximilian's earthen grasp, shatter, suggestion
+* 2nd level (3 slots): <i>Maximilian's earthen grasp, shatter, suggestion</i>
 
-* 3rd level (3 slots): counterspell, erupting earth
+* 3rd level (3 slots): <i>counterspell, erupting earth</i>
 
-* 4th level (3 slots): polymorph, stoneskin
+* 4th level (3 slots): <i>polymorph, stoneskin</i>
 
-* 5th level (2 slots): wall of stone
+* 5th level (2 slots): <i>wall of stone</i>
 
-* 6th level (1 slot): move earth
+* 6th level (1 slot): <i>move earth</i>
 
 ### Actions
 
