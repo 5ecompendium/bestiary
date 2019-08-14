@@ -21,9 +21,9 @@ damage_resistances: "poison"
 
 ***Innate Spellcasting (Psionics).*** The darkhaft's innate spellcasting ability is Intelligence (spell save DC 10) it can innately cast the following spells, requiring no components:
 
-At will: friends, mage hand
+At will: <i>friends, mage hand</i>
 
-1/day each: disguise self, sleep
+1/day each: <i>disguise self, sleep</i>
 
 ***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
 
