@@ -29,9 +29,9 @@ armor_class: "11 (natural armor)"
 
 ***Spellcasting.*** The kuo-toa is a 2nd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:
 
-* Cantrips (at will): sacred flame, thaumaturgy
+* Cantrips (at will): <i>sacred flame, thaumaturgy</i>
 
-* 1st level (3 slots): bane, shield of faith
+* 1st level (3 slots): <i>bane, shield of faith</i>
 
 ### Actions
 
