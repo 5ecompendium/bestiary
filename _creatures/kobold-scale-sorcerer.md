@@ -29,9 +29,9 @@ armor_class: "15 (natural armor)"
 
 ***Sorcery Points.*** Sorcery Points. The kobold has 3 sorcery points. It can spend 1 or more sorcery points as a bonus action to gain one of the following benefits:
 
-Heightened Spell: When it casts a spell that forces a creature to a saving throw to resist the spell's effects, the kobold can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw against the spell.
+* <i>Heightened Spell:</i> When it casts a spell that forces a creature to a saving throw to resist the spell's effects, the kobold can spend 3 sorcery points to give one target of the spell disadvantage on its first saving throw against the spell.
 
-Subtle Spell: When the kobold casts a spell, it can spend 1 sorcery point to cast the spell without any somatic or verbal components.
+* <i>Subtle Spell:</i> When the kobold casts a spell, it can spend 1 sorcery point to cast the spell without any somatic or verbal components.
 
 ***Pack Tactics.*** The kobold has advantage on an attack roll against a creature it at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
