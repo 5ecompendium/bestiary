@@ -21,13 +21,13 @@ senses: " passive Perception 11"
 
 ***Spellcasting.*** Naxene is a 6th level spellcaster. Her spellcasting ability is Intelligence (spell save DC 13; +5 to hit with spell attacks). She has the following wizard spells prepared:
 
-Cantrips (at will): fire bolt, light, mage hand, prestidigitation
+* Cantrips (at will): <i>fire bolt, light, mage hand, prestidigitation</i>
 
-1st level (4 slots): mage armor, magic missile, shield
+* 1st level (4 slots): <i>mage armor, magic missile, shield</i>
 
-2nd level (3 slots): misty step, suggestion
+* 2nd level (3 slots): <i>misty step, suggestion</i>
 
-3rd level (3 slots): fly, lightning bolt
+* 3rd level (3 slots): <i>fly, lightning bolt</i>
 
 ### Actions
 
