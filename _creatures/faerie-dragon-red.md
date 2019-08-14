@@ -45,7 +45,7 @@ A green or older faerie dragon's CR increases to 2.
 
 ***Innate Spellcasting.*** The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components. As the dragon ages and changes color, it gains additional spells as shown below.
 
-1/day each: dancing lights, mage hand, minor illusion
+* 1/day each: <i>dancing lights, mage hand, minor illusion</i>
 
 ### Actions
 
@@ -53,6 +53,6 @@ A green or older faerie dragon's CR increases to 2.
 
 ***Euphoria Breath (Recharge 5-6).*** The dragon exhales a puff of euphoria gas at one creature within 5 feet of it. The target must succeed on a DC 11 Wisdom saving throw, or for 1 minute, the target can't take reactions and must roll a d6 at the start of each of its turns to determine its behavior during the turn:
 
-1-4. The target takes no action or bonus action and uses all of its movement to move in a random direction.
+* ***1-4.*** The target takes no action or bonus action and uses all of its movement to move in a random direction.
 
-5-6. The target doesn't move, and the only thing it can do on its turn is make a DC 11 Wisdom saving throw, ending the effect on itself on a success.
+* ***5-6.*** The target doesn't move, and the only thing it can do on its turn is make a DC 11 Wisdom saving throw, ending the effect on itself on a success.
