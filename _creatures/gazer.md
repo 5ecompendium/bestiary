@@ -38,4 +38,4 @@ condition_immunities: "prone"
 
 4. Telekinetic Ray: If the target is a creature that is Medium or smaller, it must succeed on a DC 12 Strength saving throw or be moved up to 30 feet directly away from the gazer.
 
->If the target is an object weighing 10 pounds or less that isn't being worn or carried, the gazer moves it up to 30 feet in any direction. The gazer can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a container.
+If the target is an object weighing 10 pounds or less that isn't being worn or carried, the gazer moves it up to 30 feet in any direction. The gazer can also exert fine control on objects with this ray, such as manipulating a simple tool or opening a container.
