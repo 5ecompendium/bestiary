@@ -30,13 +30,13 @@ damage_resistances: "lightning, necrotic, piercing"
 
 ***Spellcasting.*** The flameskull is a 5th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It requires no somatic or material components to cast its spells. The flameskull has the following wizard spells prepared:
 
-* Cantrips (at will): mage hand
+* Cantrips (at will): <i>mage hand</i>
 
-* 1st level (3 slots): magic missile, shield
+* 1st level (3 slots): <i>magic missile, shield</i>
 
-* 2nd level (2 slots): blur, flaming sphere
+* 2nd level (2 slots): <i>blur, flaming sphere</i>
 
-* 3rd level (1 slot): fireball
+* 3rd level (1 slot): <i>fireball</i>
 
 ### Actions
 
