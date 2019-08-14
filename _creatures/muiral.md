@@ -23,21 +23,21 @@ armor_class: "16 (natural armor)"
 
 ***Spellcasting.*** Muiral is a 13th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 17, +9 to hit with spell attacks). He has the following wizard spells prepared:
 
-* Cantrips (at will): dancing lights, mage hand, prestidigitation, ray of frost, shocking grasp
+* Cantrips (at will): <i>dancing lights, mage hand, prestidigitation, ray of frost, shocking grasp</i>
 
-* 1st level (4 slots): expeditious retreat, fog cloud, magic missile, shield
+* 1st level (4 slots): <i>expeditious retreat, fog cloud, magic missile, shield</i>
 
-* 2nd level (3 slots): darkness, knock, see invisibility, spider climb
+* 2nd level (3 slots): <i>darkness, knock, see invisibility, spider climb</i>
 
-* 3rd level (3 slots): animate dead, counterspell, lightning bolt
+* 3rd level (3 slots): <i>animate dead, counterspell, lightning bolt</i>
 
-* 4th level (3 slots): greater invisibility, polymorph
+* 4th level (3 slots): <i>greater invisibility, polymorph</i>
 
-* 5th level (2 slots): animate objects, wall of force
+* 5th level (2 slots): <i>animate objects, wall of force</i>
 
-* 6th level (1 slot): create undead, flesh to stone
+* 6th level (1 slot): <i>create undead, flesh to stone</i>
 
-* 7th level (1 slot): finger of death
+* 7th level (1 slot): <i>finger of death</i>
 
 ***Legendary Resistance (3/Day).*** If Muiral fails a saving throw, he can choose to succeed instead.
 
