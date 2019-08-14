@@ -24,23 +24,23 @@ armor_class: "15 (breastplate)"
 
 ***Innate Spellcasting (Psionics).*** The mind flayer's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
 
-At will: detect thoughts, levitate
+* At will: <i>detect thoughts, levitate</i>
 
-1/day each: dominate monster, plane shift (self only)
+* 1/day each: <i>dominate monster, plane shift </i>(self only)
 
 ***Spellcasting.*** The mind flayer is a 10th-level spellcaster. Its spellcasting ability is Intelligence (save DC 15, +7 to hit with spell attacks). The mind flayer has the following wizard spells prepared:
 
-* Cantrips (at will): blade ward, dancing lights, mage hand, shocking grasp
+* Cantrips (at will): <i>blade ward, dancing lights, mage hand, shocking grasp</i>
 
-* 1st level (4 slots): detect magic, disguise self, shield, sleep
+* 1st level (4 slots): <i>detect magic, disguise self, shield, sleep</i>
 
-* 2nd level (3 slots): blur, invisibility, ray of enfeeblement
+* 2nd level (3 slots): <i>blur, invisibility, ray of enfeeblement</i>
 
-* 3rd level (3 slots): clairvoyance, lightning bolt, sending
+* 3rd level (3 slots): <i>clairvoyance, lightning bolt, sending</i>
 
-* 4th level (3 slots): confusion, hallucinatory terrain
+* 4th level (3 slots): <i>confusion, hallucinatory terrain</i>
 
-* 5th level (2 slots): telekinesis, wall of force
+* 5th level (2 slots): <i>telekinesis, wall of force</i>
 
 ### Actions
 
