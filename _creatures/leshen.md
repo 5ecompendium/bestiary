@@ -26,13 +26,13 @@ armor_class: "19 (natural armor)"
 
 ***Magic Resistance.*** The leshen has advantage on all saving throws against magical effects and spells.
 
-***Innate Spellcasting.*** The leshen's innate spellcasting ability is Wisdom (+9 spell attack, spell save DC 17). The leshen can innately cast the following spells, requiring no material components:
+***Innate Spellcasting.*** The leshen's innate spellcasting ability is Wisdom (spell save DC 17, +9 to hit with spell attacks). The leshen can innately cast the following spells, requiring no material components:
 
-At will: entangle
+* At will: <i>entangle</i>
 
-3/day: misty step
+* 3/day: <i>misty step</i>
 
-1/day: conjure animals
+* 1/day: <i>conjure animals </i>(wolves and/or dire wolves)
 
 ***Rough Bark.*** At the start of each of its turns, the leshen deals 5 (1d10) piercing damage to any creature grappling it.
 
