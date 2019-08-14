@@ -24,9 +24,9 @@ armor_class: "10"
 
 ***Innate Spellcasting (Psionics).*** The elder brain's innate spellcasting ability is Intelligence (spell save DC 18). It can innately cast the following spells, requiring no components:
 
-At will: detect thoughts, levitate
+* At will: <i>detect thoughts, levitate</i>
 
-1/day each: dominate monster, plane shift (self only)
+* 1/day each: <i>dominate monster, plane shift </i>(self only)
 
 ***Legendary Resistance (3/Day).*** If the elder brain fails a saving throw, it can choose to succeed instead.
 
