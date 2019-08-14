@@ -24,9 +24,9 @@ armor_class: "15 (breastplate)"
 
 ***Innate Spellcasting (Psionics).*** The mind flayer's innate spellcasting ability is Intelligence (spell save DC 15). It can innately cast the following spells, requiring no components:
 
-At will: detect thoughts, levitate
+* At will: <i>detect thoughts, levitate</i>
 
-1/day each: dominate monster, plane shift (self only)
+* 1/day each: <i>dominate monster, plane shift </i>(self only)
 
 ### Actions
 
