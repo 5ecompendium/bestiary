@@ -24,7 +24,7 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Innate Spellcasting.*** The nycaloth's innate spellcasting ability is Charisma. The nycaloth can innately cast the following spells, requiring no material components:
 
-At will: darkness, detect magic, dispel magic, invisibility (self only), mirror image
+* At will: <i>darkness, detect magic, dispel magic, invisibility </i>(self only)<i>, mirror image</i>
 
 ***Magic Resistance.*** The nycaloth has advantage on saving throws against spells and other magical effects.
 
