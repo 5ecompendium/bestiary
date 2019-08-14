@@ -20,15 +20,15 @@ armor_class: "14 (hide)"
 
 ***Spellcasting.*** Elizar is a 7th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 15, +7 to hit with spell attacks). Elizar has the following druid spells prepared:
 
-* Cantrips (at will): druidcraft, guidance, poison spray, produce flame
+* Cantrips (at will): <i>druidcraft, guidance, poison spray, produce flame</i>
 
-* 1st level (4 slots): animal friendship, faerie fire, healing word, jump, thunderwave
+* 1st level (4 slots): <i>animal friendship, faerie fire, healing word, jump, thunderwave</i>
 
-* 2nd level (3 slots): flame blade, spike growth
+* 2nd level (3 slots): <i>flame blade, spike growth</i>
 
-* 3rd level (3 slots): dispel magic, stinking cloud
+* 3rd level (3 slots): <i>dispel magic, stinking cloud</i>
 
-* 4th level (2 slots): blight, wall of fire
+* 4th level (2 slots): <i>blight, wall of fire</i>
 
 ***Summon Mephits (Recharges after a Long Rest).*** By puffing on his pipe, Elizar can use an action to cast conjure minor elementals. If he does so, he summons four smoke mephits.
 
