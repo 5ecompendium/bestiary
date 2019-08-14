@@ -23,13 +23,13 @@ armor_class: "11 (14 with mage armor)"
 
 ***Spellcasting.*** Oreioth is a 6th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). He has the following wizard spells prepared:
 
-* Cantrips (at will): chill touch, minor illusion, prestidigitation, shocking grasp
+* Cantrips (at will): <i>chill touch, minor illusion, prestidigitation, shocking grasp</i>
 
-* 1st level (4 slots): false life, mage armor, magic missile, ray of sickness
+* 1st level (4 slots): <i>false life, mage armor, magic missile, ray of sickness</i>
 
-* 2nd level (3 slots): crown of madness, misty step
+* 2nd level (3 slots): <i>crown of madness, misty step</i>
 
-* 3rd level (3 slots): animate dead, vampiric touch
+* 3rd level (3 slots): <i>animate dead, vampiric touch</i>
 
 ***Swift Animation (Recharges after a Long Rest).*** When a living Medium or Small humanoid within 30 feet of Oreioth dies, he can use an action on his next turn to cast animate dead on that humanoid's corpse, instead of using the spell's normal casting time.
 
