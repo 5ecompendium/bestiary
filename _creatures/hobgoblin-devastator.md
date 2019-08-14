@@ -27,15 +27,15 @@ armor_class: "13 (studded leather armor)"
 
 ***Spellcasting.*** The hobgoblin is a 7th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It has the following wizard spells prepared:
 
-Cantrips (at will): acid splash, fire bolt, ray of frost, shocking grasp
+* Cantrips (at will): <i>acid splash, fire bolt, ray of frost, shocking grasp</i>
 
-1st level (4 slots): fog cloud, magic missile, thunderwave
+* 1st level (4 slots): <i>fog cloud, magic missile, thunderwave</i>
 
-2nd level (3 slots): gust of wind, Melf's acid arrow, scorching ray
+* 2nd level (3 slots): <i>gust of wind, Melf's acid arrow, scorching ray</i>
 
-3rd level (3 slots): fireball, fly, lightning bolt
+* 3rd level (3 slots): <i>fireball, fly, lightning bolt</i>
 
-4th level (1 slot): ice storm
+* 4th level (1 slot): <i>ice storm</i>
 
 ### Actions
 
