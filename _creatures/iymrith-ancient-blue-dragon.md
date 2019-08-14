@@ -23,7 +23,7 @@ armor_class: "22 (natural armor)"
 
 ***Innate Spellcasting.*** Iymrith's innate spellcasting ability is Charisma (spell save DC 20).  Iymrith's stone shape can create a living gargoyle instead of altering the stone as described in the spell description. She can innately cast the following spells, requiring no material components:
 
-1/day: counterspell, detect magic, ice storm, stone shape, teleport
+* 1/day: <i>counterspell, detect magic, ice storm, stone shape, teleport</i>
 
 ### Actions
 
@@ -45,7 +45,7 @@ In storm giant form, Iymrith retains her alignment, hit points, Hit Dice, abilit
 
 ### Legendary Actions
 
-The iymrith, ancient blue dragon can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The iymrith, ancient blue dragon regains spent legendary actions at the start of its turn.
+Iymrith can take 3 legendary actions, choosing from the options below. Only one legendary action option can be used at a time, and only at the end of another creature's turn. The iymrith, ancient blue dragon regains spent legendary actions at the start of its turn.
 
 ***Detect.*** The dragon makes a Wisdom (Perception) check.
 
