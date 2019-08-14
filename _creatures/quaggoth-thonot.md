@@ -25,9 +25,9 @@ condition_immunities: "poisoned"
 
 ***Innate Spellcasting (Psionics).*** The quaggoth's innate spellcasting ability is Wisdom (spell save DC 11 ). The quaggoth can innately cast the following spells, requiring no components:
 
-At will: feather fall, mage hand (the hand is invisible)
+* At will: <i>feather fall, mage hand </i>(the hand is invisible)
 
-1/day each: cure wounds, enlarge/reduce, heat metal, mirror image
+* 1/day each: <i>cure wounds, enlarge/reduce, heat metal, mirror image</i>
 
 ### Actions
 
