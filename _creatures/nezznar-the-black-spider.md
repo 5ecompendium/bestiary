@@ -28,17 +28,17 @@ armor_class: "11 (14 with mage armor)"
 
 ***Innate Spellcasting.*** Nezznar can innately cast the following spells, requiring no material components:
 
-* At will: dancing lights
+* At will: <i>dancing lights</i>
 
-* 1/day each: darkness, faerie fire (save DC 12)
+* 1/day each: <i>darkness, faerie fire </i>(save DC 12)
 
 ***Spellcasting.*** Nezznar is a 4th-level spellcaster that uses Intelligence as his spellcasting ability (spell save DC 13; +5 to hit with spell attacks). Nezznar has the following spells prepared from the wizard's spell list:
 
-* Cantrips (at will): mage hand, ray of frost, shocking grasp
+* Cantrips (at will): <i>mage hand, ray of frost, shocking grasp</i>
 
-* 1st Level (4 slots): mage armor, magic missile, shield
+* 1st Level (4 slots): <i>mage armor, magic missile, shield</i>
 
-* 2nd Level (3 slots): invisibility, suggestion
+* 2nd Level (3 slots): <i>invisibility, suggestion</i>
 
 ### Actions
 
