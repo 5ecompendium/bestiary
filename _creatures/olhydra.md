@@ -26,11 +26,11 @@ damage_resistances: "lightning; bludgeoning, piercing, and slashing from nonmagi
 
 ***Innate Spellcasting.*** Olhydra's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). She can innately cast the following spells, requiring no material components:
 
-* At will: wall of ice
+* At will: <i>wall of ice</i>
 
-* 3/day: ice storm
+* 3/day: <i>ice storm</i>
 
-* 1/day: storm of vengeance
+* 1/day: <i>storm of vengeance</i>
 
 ***Legendary Resistance (3/Day).*** If Olhydra fails a saving throw, she can choose to succeed instead.
 
