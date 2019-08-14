@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dwarf Priest"
-tags: [medium, humanoid, cr2, unofficial]
+tags: [medium, humanoid, cr2, homebrew]
 page_number: 999
 cha: 13 (+1)
 wis: 16 (+3)
@@ -25,11 +25,15 @@ damage_resistances: "poison"
 
 ***Divine Eminence.*** As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn. If the priest expends a spell slot of 2nd level or higher, the extra damage increases by 1d6 for each level above 1st.
 
-***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom. The priest has the following cleric spells prepared:
-* Cantrips (at will): light, sacred flame, thaumaturgy
-* 1st level (4 slots): cure wounds, guiding bolt, sanctuary
-* 2nd level (3 slots): lesser restoration, spiritual weapon
-* 3rd level (2 slots): dispel magic, spirit guardians
+***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The priest has the following cleric spells prepared:
+
+* Cantrips (at will): <i>light, sacred flame, thaumaturgy</i>
+
+* 1st level (4 slots): <i>cure wounds, guiding bolt, sanctuary</i>
+
+* 2nd level (3 slots): <i>lesser restoration, spiritual weapon</i>
+
+* 3rd level (2 slots): <i>dispel magic, spirit guardians</i>
 
 ### Actions
 
