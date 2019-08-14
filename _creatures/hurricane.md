@@ -20,11 +20,11 @@ armor_class: "14"
 
 ***Spellcasting.*** The hurricane is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): blade ward, gust, light, prestidigitation
+* Cantrips (at will): <i>blade ward, gust, light, prestidigitation</i>
 
-* 1st level (4 slots): feather fall, jump, thunderwave
+* 1st level (4 slots): <i>feather fall, jump, thunderwave</i>
 
-* 2nd level (2 slots): gust of wind
+* 2nd level (2 slots): <i>gust of wind</i>
 
 ***Unarmored Defense.*** While the hurricane is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 
