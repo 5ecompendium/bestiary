@@ -22,19 +22,19 @@ damage_resistances: "necrotic"
 
 ***Spellcasting.*** The necromancer is a 12th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The necromancer has the following wizard spells prepared:
 
-Cantrips (at will): chill touch, dancing lights, mage hand, mending
+* Cantrips (at will): <i>chill touch, dancing lights, mage hand, mending</i>
 
-1st level (4 slots):false life*, mage armor, ray of sickness*
+* 1st level (4 slots): <i>false life\*, mage armor, ray of sickness* </i>
 
-2nd level (3 slots): blindness/deafness*, ray of enfeeblement*, web
+* 2nd level (3 slots): <i>blindness/deafness\*, ray of enfeeblement\*, web</i>
 
-3rd level (3 slots): animate dead*, bestow curse*, vampiric touch*
+* 3rd level (3 slots): <i>animate dead\*, bestow curse\*, vampiric touch* </i>
 
-4th level (3 slots): blight*, dimension door, stoneskin
+* 4th level (3 slots): <i>blight\*, dimension door, stoneskin</i>
 
-5th level (2 slots): Bigby's hand, cloudkill
+* 5th level (2 slots): <i>Bigby's hand, cloudkill</i>
 
-6th level (1 slot): circle of death*
+* 6th level (1 slot): <i>circle of death* </i>
 
 *Necromancy spell of 1st level or higher
 
