@@ -21,7 +21,7 @@ armor_class: "13"
 
 ***Innate Spellcasting.*** The eblis's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:
 
-1/day each: blur, hypnotic pattern, minor illusion
+* 1/day each: <i>blur, hypnotic pattern, minor illusion</i>
 
 ### Actions
 
