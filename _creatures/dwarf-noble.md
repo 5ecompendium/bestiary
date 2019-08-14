@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dwarf Noble"
-tags: [medium, humanoid, cr1/8, unofficial]
+tags: [medium, humanoid, cr1/8, homebrew]
 page_number: 999
 cha: 16 (+3)
 wis: 14 (+2)
