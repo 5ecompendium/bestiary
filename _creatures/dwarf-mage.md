@@ -24,13 +24,19 @@ damage_resistances: "poison"
 
 ***Dwarven Resilience.*** The dwarf has advantage on saving throws against poison and has resistance to poison damage
 
-***Spellcasting.*** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence. The mage has the following wizard spells prepared:
-* Cantrips (at will): fire bolt, light, mage hand, prestidigitation
-* 1st level (4 slots): detect magic, mage armor, magic missile, shield
-* 2nd level (3 slots): misty step, suggestion
-* 3rd level (3 slots): counterspell, fireball, fly
-* 4th level (3 slots): greater invisibility, ice storm
-* 5th level (1 slot): cone of cold
+***Spellcasting.*** The mage is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). The mage has the following wizard spells prepared:
+
+* Cantrips (at will): <i>fire bolt, light, mage hand, prestidigitation</i>
+
+* 1st level (4 slots): <i>detect magic, mage armor, magic missile, shield</i>
+
+* 2nd level (3 slots): <i>misty step, suggestion</i>
+
+* 3rd level (3 slots): <i>counterspell, fireball, fly</i>
+
+* 4th level (3 slots): <i>greater invisibility, ice storm</i>
+
+* 5th level (1 slot): <i>cone of cold</i>
 
 ### Actions
 
