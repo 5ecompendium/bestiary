@@ -38,23 +38,23 @@ Halaster also wears a *horned ring* (a very rare magic item that requires attune
 
 * Cantrips (at will): <i>dancing lights, fire bolt, light, mage hand, prestidigitation</i>
 
-* 1st level (4 slots): mage armor, magic missile, shield, silent image
+* 1st level (4 slots): <i>mage armor, magic missile, shield, silent image</i>
 
-* 2nd level (3 slots): arcane lock, cloud of daggers, darkvision, knock
+* 2nd level (3 slots): <i>arcane lock, cloud of daggers, darkvision, knock</i>
 
-* 3rd level (3 slots): counterspell, dispel magic, fireball
+* 3rd level (3 slots): <i>counterspell, dispel magic, fireball</i>
 
-* 4th level (3 slots): confusion, hallucinatory terrain, polymorph
+* 4th level (3 slots): <i>confusion, hallucinatory terrain, polymorph</i>
 
-* 5th level (3 slots): Bigby’s hand, geas, wall of force
+* 5th level (3 slots): <i>Bigby’s hand, geas, wall of force</i>
 
-* 6th level (2 slots): chain lightning, globe of invulnerability, programmed illusion
+* 6th level (2 slots): <i>chain lightning, globe of invulnerability, programmed illusion</i>
 
-* 7th level (2 slots): finger of death, symbol, teleport
+* 7th level (2 slots): <i>finger of death, symbol, teleport</i>
 
-* 8th level (1 slot): maze, mind blank
+* 8th level (1 slot): <i>maze, mind blank</i>
 
-* 9th level (1 slot): meteor swarm, wish
+* 9th level (1 slot): <i>meteor swarm, wish</i>
 
 ### Actions
 
