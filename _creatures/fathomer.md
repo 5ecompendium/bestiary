@@ -26,13 +26,13 @@ While in serpent form, the fathomer gains a swimming speed of 40 feet, the abili
 
 ***Spellcasting (Human Form Only).*** The fathomer is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has two 3rd-level spell slots, which it regains after finishing a short or long rest, and knows the following warlock spells:
 
-* Cantrips (at will): chill touch, eldritch blast, mage hand
+* Cantrips (at will): <i>chill touch, eldritch blast, mage hand</i>
 
-* 1st level: armor of Agathys, expeditious retreat, hex
+* 1st level: <i>armor of Agathys, expeditious retreat, hex</i>
 
-* 2nd level: invisibility
+* 2nd level: <i>invisibility</i>
 
-* 3rd level: Vampiric touch
+* 3rd level: <i>vampiric touch</i>
 
 ### Actions
 
