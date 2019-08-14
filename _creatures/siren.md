@@ -25,7 +25,7 @@ armor_class: "14"
 
 ***Innate Spellcasting.*** Siren's innate spellcasting ability is Charisma (spell save DC 13). She can innately cast the following spells, requiring no material components:
 
-1/day each: charm person, fog cloud, greater invisibility, polymorph (self only).
+* 1/day each: <i>charm person, fog cloud, greater invisibility, polymorph </i>(self only).
 
 ***Magic Resistance.*** Siren has advantage on saving throws against spells and other magical effects.
 
