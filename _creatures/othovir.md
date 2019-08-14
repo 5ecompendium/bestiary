@@ -21,9 +21,9 @@ senses: "passive Perception 12"
 
 Spellcasting. Othovir is a 2nd-level spellcaster. His spellcasting ability is Charisma (spell save DC 13; +5 to hit with spell attacks). He has the following sorcerer spells prepared:
 
-Cantrips (at will): blade ward, fire bolt, mending, prestidigitation
+* Cantrips (at will): <i>blade ward, fire bolt, mending, prestidigitation</i>
 
-1st level (3 slots): mage armor, thunderwave, witch bolt
+* 1st level (3 slots): <i>mage armor, thunderwave, witch bolt</i>
 
 ### Actions
 
