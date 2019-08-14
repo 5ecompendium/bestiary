@@ -29,23 +29,23 @@ damage_resistances: "lightning, necrotic; bludgeoning, piercing, and slashing fr
 
 ***Corrosive Form.*** A creature that touches the Ooze Master or hits it with a melee attack while within 5 feet of it takes 9 (2d8) acid damage. Any nonmagical weapon that hits the Ooze Master corrodes. After dealing damage, the weapon takes a permanent and cumulative -1 penalty to damage rolls. If its penalty drops to -5, the weapon is destroyed. Nonmagical ammunition that hits the Ooze Master is destroyed after dealing damage.
 
->The Ooze Master can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
+The Ooze Master can eat through 2-inch-thick, nonmagical wood or metal in 1 round.
 
 ***Instinctive Attack.*** When the Ooze Master casts a spell with a casting time of 1 action, it can make one pseudopod attack as a bonus action.
 
 ***Spellcasting.*** The Ooze Master is a 9th-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 15, +7 to hit with spell attacks). It has the following wizard spells prepared:
 
-Cantrips (at will): acid splash, friends, mage hand, poison spray
+* Cantrips (at will): <i>acid splash, friends, mage hand, poison spray</i>
 
-1st level (4 slots): charm person, detect magic, magic missile, ray of sickness
+* 1st level (4 slots): <i>charm person, detect magic, magic missile, ray of sickness</i>
 
-2nd level (3 slots): detect thoughts, Melf's acid arrow, suggestion
+* 2nd level (3 slots): <i>detect thoughts, Melf's acid arrow, suggestion</i>
 
-3rd level (3 slots):fear, slow, stinking cloud
+* 3rd level (3 slots): <i>fear, slow, stinking cloud</i>
 
-4th level (3 slots): confusion, Evard's evard's black tentacles
+* 4th level (3 slots): <i>confusion, Evard's evard's black tentacles</i>
 
-5th level (1 slot): cloudkill.
+* 5th level (1 slot): <i>cloudkill</i>
 
 ***Spider Climb.*** The Ooze Master can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
