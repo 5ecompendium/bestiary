@@ -23,13 +23,13 @@ armor_class: "12 (15 with mage armor)"
 
 ***Spellcasting.*** The one-eyed shiver is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): chill touch, mage hand
+* Cantrips (at will): <i>chill touch, mage hand</i>
 
-* 1st level (4 slots): fog cloud, mage armor, thunderwave
+* 1st level (4 slots): <i>fog cloud, mage armor, thunderwave</i>
 
-* 2nd level (3 slots): mirror image, misty step
+* 2nd level (3 slots): <i>mirror image, misty step</i>
 
-* 3rd level (2 slots): fear
+* 3rd level (2 slots): <i>fear</i>
 
 ### Actions
 
