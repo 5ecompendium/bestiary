@@ -25,19 +25,19 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Spellcasting.*** The morkoth is an 11th-level spellcaster. Its spellcasting ability is Intelligence (save DC 17, +9 to hit with spell attacks). The morkoth has the following wizard spells prepared:
 
-Cantrips (at will): acid splash, mage hand, mending, ray of frost, shocking grasp
+* Cantrips (at will): <i>acid splash, mage hand, mending, ray of frost, shocking grasp</i>
 
-1st level (4 slots): detect magic, identify, shield, witch bolt
+* 1st level (4 slots): <i>detect magic, identify, shield, witch bolt</i>
 
-2nd level (3 slots): darkness, detect thoughts, shatter
+* 2nd level (3 slots): <i>darkness, detect thoughts, shatter</i>
 
-3rd level (3 slots): dispel magic, lightning bolt, sending
+* 3rd level (3 slots): <i>dispel magic, lightning bolt, sending</i>
 
-4th level (3 slots): dimension door, Evard's black tentacles
+* 4th level (3 slots): <i>dimension door, Evard's black tentacles</i>
 
-5th level (3 slots): geas, scrying
+* 5th level (3 slots): <i>geas, scrying</i>
 
-6th level (1 slot): chain lightning
+* 6th level (1 slot): <i>chain lightning</i>
 
 ### Actions
 
