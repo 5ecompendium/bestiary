@@ -22,9 +22,9 @@ armor_class: "16 (chain mail)"
 
 ***Innate Spellcasting.*** The oni's innate spellcasting ability is Charisma (spell save DC 13). The oni can innately cast the following spells, requiring no material components:
 
-At will: darkness, invisibility
+* At will: <i>darkness, invisibility</i>
 
-1/day each: charm person, cone of cold, gaseous form, sleep
+* 1/day each: <i>charm person, cone of cold, gaseous form, sleep</i>
 
 ***Magic Weapons.*** The oni's weapon attacks are magical.
 
