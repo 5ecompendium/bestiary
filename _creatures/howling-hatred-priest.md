@@ -22,13 +22,13 @@ armor_class: "15 (studded leather)"
 
 ***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): blade ward, gust, light, prestidigitation, shocking grasp
+* Cantrips (at will): <i>blade ward, gust, light, prestidigitation, shocking grasp</i>
 
-* 1st level (4 slots): featherfall, shield, witch bolt
+* 1st level (4 slots): <i>featherfall, shield, witch bolt</i>
 
-* 2nd level (3 slots): dust devil, gust of wind
+* 2nd level (3 slots): <i>dust devil, gust of wind</i>
 
-* 3rd level (2 slots): gaseous form
+* 3rd level (2 slots): <i>gaseous form</i>
 
 ### Actions
 
