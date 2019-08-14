@@ -21,13 +21,13 @@ damage_resistances: "fire"
 
 ***Spellcasting.*** The priest is a 5th-level spellcaster. Its spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It knows the following sorcerer spells:
 
-* Cantrips (at will): control flames, create bonfire, fire bolt, light, minor illusion
+* Cantrips (at will): <i>control flames, create bonfire, fire bolt, light, minor illusion</i>
 
-* 1st level (4 slots): burning hands, expeditious retreat, mage armor
+* 1st level (4 slots): <i>burning hands, expeditious retreat, mage armor</i>
 
-* 2nd level (3 slots): blur, scorching ray
+* 2nd level (3 slots): <i>blur, scorching ray</i>
 
-* 3rd level (2 slots): fireball
+* 3rd level (2 slots): <i>fireball</i>
 
 ### Actions
 
