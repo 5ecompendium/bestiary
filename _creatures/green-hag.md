@@ -31,21 +31,19 @@ At will: dancing lights, minor illusion, vicious mockery
 
 A coven consists of three hags so that any arguments between two hags can be settled by the third. If more than three hags ever come together, as might happen if two covens come into conflict, the result is usually chaos.
 
-***Shared Spellcasting (Coven Only).*** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves:
+***Shared Spellcasting (Coven Only).*** While all three members of a hag coven are within 30 feet of one another, they can each cast the following spells from the wizard's spell list but must share the spell slots among themselves.  For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability (spell save DC 13, +5 to hit with spell attacks):
 
-* 1st level (4 slots): identify, ray of sickness
+* 1st level (4 slots): <i>identify, ray of sickness</i>
 
-* 2nd level (3 slots): hold person, locate object
+* 2nd level (3 slots): <i>hold person, locate object</i>
 
-* 3rd level (3 slots): bestow curse, counterspell, lightning bolt
+* 3rd level (3 slots): <i>bestow curse, counterspell, lightning bolt</i>
 
-* 4th level (3 slots): phantasmal killer, polymorph
+* 4th level (3 slots): <i>phantasmal killer, polymorph</i>
 
-* 5th level (2 slots): contact other plane, scrying
+* 5th level (2 slots): <i>contact other plane, scrying</i>
 
-* 6th level (1 slot): eye bite
-
-For casting these spells, each hag is a 12th-level spellcaster that uses Intelligence as her spellcasting ability. The spell save DC is 12+the hag's Intelligence modifier, and the spell attack bonus is 4+the hag's Intelligence modifier.
+* 6th level (1 slot): <i>eye bite</i>
 
 ***Hag Eye (Coven Only).*** A hag coven can craft a magic item called a hag eye, which is made from a real eye coated in varnish and often fitted to a pendant or other wearable item. The hag eye is usually entrusted to a minion for safekeeping and transport. A hag in the coven can take an action to see what the hag eye sees if the hag eye is on the same plane of existence. A hag eye has AC 10, 1 hit point, and darkvision with a radius of 60 feet. If it is destroyed, each coven member takes 3d10 psychic damage and is blinded for 24 hours.
 
