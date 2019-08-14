@@ -21,11 +21,11 @@ armor_class: "12"
 
 ***Spellcasting.*** The mage is a 4th-level spellcaster that uses Intelligence as its spellcasting ability (spell save DC 13; +5 to hit with spell attacks). The mage knows the following spells from the wizard's spell list:
 
-* Cantrips (at will): light, mage hand, shocking grasp
+* Cantrips (at will): <i>light, mage hand, shocking grasp</i>
 
-* 1st Level (4 slots): charm person, magic missile
+* 1st Level (4 slots): <i>charm person, magic missile</i>
 
-* 2nd Level (3 slots): hold person, misty step
+* 2nd Level (3 slots): <i>hold person, misty step</i>
 
 ### Actions
 
