@@ -23,11 +23,11 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Innate Spellcasting.*** The priest's spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-At will: command, create or destroy water
+* At will: <i>command, create or destroy water</i>
 
-3/day each: control water, darkness, water breathing, water walk
+* 3/day each: <i>control water, darkness, water breathing, water walk</i>
 
-1/day each: call lightning, Evard's black tentacles
+* 1/day each: <i>call lightning, Evard's black tentacles</i>
 
 ### Actions
 
