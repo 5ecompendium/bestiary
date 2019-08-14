@@ -47,12 +47,12 @@ restrained until the grapple ends.
 
 ***Eye Rays.*** The sightless eye creates the following two eye rays. The sightless eye can aim both of its eye rays in any direction and they have a range of 150 feet.
 
-<i>Paralytic Ray.</i> The sightless eye unleashes a
+1. <i>Paralytic Ray.</i> The sightless eye unleashes a
 powerful paralytic beam. The target must make a DC 15 Wisdom saving
 throw or be paralyzed for 1 minute. A creature can repeat the saving throw
 at the end of each of its turns, ending the effect on itself on a success.
 
-<i>Enfeeblement Ray.</i> The sightless eye unleashes
+2. <i>Enfeeblement Ray.</i> The sightless eye unleashes
 a powerful ray of enfeeblement. The target must make a DC 15 Wisdom
 saving throw or deal half damage with all attacks that use Strength for 1
 minute. A creature can repeat the saving throw at the end of each of its
