@@ -21,9 +21,9 @@ armor_class: "15"
 
 ***Spellcasting.*** The hobgoblin is a 2nd-level spellcaster. Its spellcasting ability is Intelligence (spell save DC 12, +4 to hit with spell attacks). It has the following wizard spells prepared:
 
-Cantrips (at will): minor illusion, prestidigitation, true strike
+* Cantrips (at will): <i>minor illusion, prestidigitation, true strike</i>
 
-1st level (3 slots): charm person, disguise self, expeditious retreat, silent image
+* 1st level (3 slots): <i>charm person, disguise self, expeditious retreat, silent image</i>
 
 ***Unarmored Defense.*** While the hobgoblin is wearing no armor and wielding no shield, its AC includes its Wisdom modifier.
 
