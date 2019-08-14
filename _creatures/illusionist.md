@@ -21,15 +21,15 @@ armor_class: "12 (15 with mage armor)"
 
 ***Spellcasting.*** The illusionist is a 7th-level spellcaster. its spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). The illusionist has the following wizard spells prepared:
 
-Cantrips (at will): dancing lights, mage hand, minor illusion, poison spray
+* Cantrips (at will): <i>dancing lights, mage hand, minor illusion, poison spray</i>
 
-1st level (4 slots): color spray*, disguise self*, mage armor, magic missile
+* 1st level (4 slots): <i>color spray\*, disguise self\*, mage armor, magic missile</i>
 
-2nd level (3 slots): invisibility*, mirror image*, phantasmal force
+* 2nd level (3 slots): <i>invisibility\*, mirror image\*, phantasmal force</i>
 
-3rd level (3 slots): major image*, phantom steed*
+* 3rd level (3 slots): <i>major image\*, phantom steed* </i>
 
-4th level (1 slot): phantasmal killer*
+* 4th level (1 slot): <i>phantasmal killer* </i>
 
 *Illusion spell of 1st level or higher
 
