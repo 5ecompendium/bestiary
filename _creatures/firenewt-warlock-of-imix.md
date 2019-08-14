@@ -25,9 +25,9 @@ armor_class: "10 (13 with mage armor)"
 
 ***Spellcasting.*** The firenewt is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It regains its expended spell slots when it finishes a short or long rest. It knows the following warlock spells:
 
-Cantrips (at will): fire bolt, guidance, light, mage hand, prestidigitation
+* Cantrips (at will): <i>fire bolt, guidance, light, mage hand, prestidigitation</i>
 
-1st-2nd level (2 2nd-level slots): burning hands, flaming sphere, hellish rebuke, scorching ray
+* 1st-2nd level (2 2nd-level slots): <i>burning hands, flaming sphere, hellish rebuke, scorching ray</i>
 
 ***Imix's Blessing.*** When the firenewt reduces an enemy to 0 hit points, the firenewt gains 5 temporary hit points.
 
