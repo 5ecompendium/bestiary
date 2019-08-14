@@ -21,17 +21,17 @@ damage_resistances: "poison"
 
 ***Innate Spellcasting (Psionics).*** The Keeper of the Flame's innate spellcasting ability is Wisdom (spell save DC 12.) It can innately cast the following spells, requiring no components:
 
-At will: friends, message
+* At will: <i>friends, message</i>
 
-1/day: command
+* 1/day: <i>command</i>
 
 ***Spellcasting.*** The Keeper of the Flame is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The Keeper of the Flame has the following cleric spells prepared:
 
-Cantrips (at will): guidance, mending, sacred flame
+* Cantrips (at will): <i>guidance, mending, sacred flame</i>
 
-1st level (4 slots): bane, inflict wounds, shield of faith
+* 1st level (4 slots): <i>bane, inflict wounds, shield of faith</i>
 
-2nd level (2 slots): enhance ability, spiritual weapon
+* 2nd level (2 slots): <i>enhance ability, spiritual weapon </i>(hammer)
 
 ***Duergar Resilience.*** The duergar has advantage on saving throws against poison, spells, and illusions, as well as to resist being charmed or paralyzed.
 
