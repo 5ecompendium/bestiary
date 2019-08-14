@@ -24,9 +24,9 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Innate Spellcasting.*** The mezzoloth's innate spellcasting ability is Charisma (spell save DC 11). The mezzoloth can innately cast the following spells, requiring no material components:
 
-2/day each: darkness, dispel magic
+* 2/day each: <i>darkness, dispel magic</i>
 
-1/day: cloudkill
+* 1/day: <i>cloudkill</i>
 
 ***Magic Resistance.*** The mezzoloth has advantage on saving throws against spells and other magical effects.
 
