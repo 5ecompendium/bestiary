@@ -34,9 +34,9 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Innate Spellcasting.*** Imix's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components:
 
-* At will: fireball, wall of fire
+* At will: <i>fireball, wall of fire</i>
 
-* 3/day each: fire storm, haste, teleport
+* 3/day each: <i>fire storm, haste, teleport</i>
 
 ***Magic Resistance.*** Imix has advantage on saving throws against spells and other magical effects.
 
