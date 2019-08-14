@@ -24,15 +24,15 @@ armor_class: "17 (studded leather armor +1)"
 
 ***Spellcasting.*** Ezmerelda is a 7th-level spellcaster. Her spellcasting ability is Intelligence (spell save DC 14, +6 to hit with spell attacks). Ezmerelda has the following wizard spells prepared:
 
-* Cantrips (at will): fire bolt, light, mage hand, prestidigitation
+* Cantrips (at will): <i>fire bolt, light, mage hand, prestidigitation</i>
 
-* 1st level (4 slots): protection from good and evil, magic missile, shield
+* 1st level (4 slots): <i>protection from good and evil, magic missile, shield</i>
 
-* 2nd level (3 slots): darkvision, knock, mirror image
+* 2nd level (3 slots): <i>darkvision, knock, mirror image</i>
 
-* 3rd level (3 slots): clairvoyance, lightning bolt, magic circle
+* 3rd level (3 slots): <i>clairvoyance, lightning bolt, magic circle</i>
 
-* 4th level (1 slot): greater invisibility
+* 4th level (1 slot): <i>greater invisibility</i>
 
 ### Actions
 
