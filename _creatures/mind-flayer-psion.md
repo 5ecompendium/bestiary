@@ -24,17 +24,17 @@ armor_class: "15 (breastplate)"
 
 ***Innate Spellcasting (Psionics).*** The mind flayer is a 10th-level spellcaster. Its innate spellcasting ability is Intelligence (spell save DC 15; +7 to hit with spell attacks). It can innately cast the following spells, requiring no components:
 
-At will: guidance, mage hand, vicious mockery, true strike
+* At will: <i>guidance, mage hand, vicious mockery, true strike</i>
 
-1st-level (4 slots): charm person, command, comprehend languages, sanctuary
+* 1st level (4 slots): <i>charm person, command, comprehend languages, sanctuary</i>
 
-2nd level (3 slots): crown of madness, phantasmal force, see invisibility
+* 2nd level (3 slots): <i>crown of madness, phantasmal force, see invisibility</i>
 
-3rd level (3 slots): clairvoyance, fear, meld into stone
+* 3rd level (3 slots): <i>clairvoyance, fear, meld into stone</i>
 
-4th level (3 slots): confusion, stone shape
+* 4th level (3 slots): <i>confusion, stone shape</i>
 
-5th level (2 slots): scrying, telekinesis
+* 5th level (2 slots): <i>scrying, telekinesis</i>
 
 ### Actions
 
