@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dwarf Scout"
-tags: [medium, humanoid, cr1/2, unofficial]
+tags: [medium, humanoid, cr1/2, homebrew]
 page_number: 999
 cha: 11 (0)
 wis: 13 (+1)
