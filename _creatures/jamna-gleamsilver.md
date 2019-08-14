@@ -26,9 +26,9 @@ armor_class: "15 (leather armor)"
 
 ***Spellcasting.*** Jamna is a 4th-level spellcaster that uses Intelligence as her spellcasting ability (spell save DC 12, +4 to hit with spell attacks). Jamna has the following spells prepared from the wizard spell list.
 
-* Cantrips (at will): mage hand, minor illusion, prestidigitation, ray of frost
+* Cantrips (at will): <i>mage hand, minor illusion, prestidigitation, ray of frost</i>
 
-* 1st level (3 slots): charm person, color spray, disguise self, longstrider
+* 1st level (3 slots): <i>charm person, color spray, disguise self, longstrider</i>
 
 ### Actions
 
