@@ -25,11 +25,11 @@ armor_class: "16 (ring mail, shield)"
 
 ***Spellcasting.*** The orc is a 3rd-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 11, +3 to hit with spell attacks). The orc has the following cleric spells prepared:
 
-* Cantrips (at will): guidance, resistance, thaumaturgy
+* Cantrips (at will): <i>guidance, resistance, thaumaturgy</i>
 
-* 1st level (4 slots): bless, command
+* 1st level (4 slots): <i>bless, command</i>
 
-* 2nd level (2 slots): augury, spiritual weapon (spear)
+* 2nd level (2 slots): <i>augury, spiritual weapon </i>(spear)
 
 ### Actions
 
