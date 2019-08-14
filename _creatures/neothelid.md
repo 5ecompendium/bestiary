@@ -22,9 +22,9 @@ armor_class: "16 (natural armor)"
 
 ***Innate Spellcasting (Psionics).*** The neothelid's innate spellcasting ability is Wisdom (spell save DC 16). It can innately cast the following spells, requiring no components:
 
-At will: levitate
+* At will: <i>levitate</i>
 
-1/day each: confusion, feeblemind, telekinesis
+* 1/day each: <i>confusion, feeblemind, telekinesis</i>
 
 ***Magic Resistance.*** The neothelid has advantage on saving throws against spells and other magical effects.
 
