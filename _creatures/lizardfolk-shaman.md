@@ -22,13 +22,13 @@ armor_class: "13 (natural armor)"
 
 ***Spellcasting (Lizardfolk Form Only).*** The lizardfolk is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The lizardfolk has the following druid spells prepared:
 
-* Cantrips (at will): druidcraft, produce flame, thorn whip
+* Cantrips (at will): <i>druidcraft, produce flame, thorn whip</i>
 
-* 1st Level (4 slots): entangle, fog cloud
+* 1st Level (4 slots): <i>entangle, fog cloud</i>
 
-* 2nd Level (3 slots): heat metal, spike growth
+* 2nd Level (3 slots): <i>heat metal, spike growth</i>
 
-* 3rd Level (2 slots): conjure animals (reptiles only), plant growth
+* 3rd Level (2 slots): <i>conjure animals </i>(reptiles only)<i>, plant growth</i>
 
 ### Actions
 
