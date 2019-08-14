@@ -21,11 +21,11 @@ armor_class: "15 (natural armor)"
 
 ***Spellcasting.*** The kobold is a 3rd-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It has the following sorcerer spells prepared:
 
-Cantrips (at will): fire bolt, mage hand, mending, poison spray
+* Cantrips (at will): <i>fire bolt, mage hand, mending, poison spray</i>
 
-1st level (4 slots): charm person, chromatic orb, expeditious retreat
+* 1st level (4 slots): <i>charm person, chromatic orb, expeditious retreat</i>
 
-2nd level (2 slots): scorching ray
+* 2nd level (2 slots): <i>scorching ray</i>
 
 ***Sorcery Points.*** Sorcery Points. The kobold has 3 sorcery points. It can spend 1 or more sorcery points as a bonus action to gain one of the following benefits:
 
