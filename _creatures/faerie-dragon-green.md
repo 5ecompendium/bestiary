@@ -45,7 +45,7 @@ A green or older faerie dragon's CR increases to 2.
 
 ***Innate Spellcasting.*** The dragon's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast a number of spells, requiring no material components. As the dragon ages and changes color, it gains additional spells as shown below.
 
-1/day each: <i>color spray, dancing lights, mage hand, minor illusion, mirror image, suggestion</i>
+* 1/day each: <i>color spray, dancing lights, mage hand, minor illusion, mirror image, suggestion</i>
 
 ### Actions
 
