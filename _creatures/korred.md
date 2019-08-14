@@ -22,13 +22,13 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks
 
 ***Command Hair.*** The korred has at least one 50-foot-long rope woven out of its hair. As a bonus action, the korred commands one such rope within 30 feet of it to move up to 20 feet and entangle a Large or smaller creature that the korred can see. The target must succeed on a DC 13 Dexterity saving throw or become grappled by the rope (escape DC 13). Until this grapple ends. the target is restrained. The korred can use a bonus action to release the target, which is also freed if the korred dies or becomes incapacitated.
 
->A rope of korred hair has AC 20 and 20 hit points. It regains 1 hit point at the start of each of the korred's turns while it has at least 1 hit point and the korred is alive. If the rope drops to 0 hit points, it is destroyed.
+A rope of korred hair has AC 20 and 20 hit points. It regains 1 hit point at the start of each of the korred's turns while it has at least 1 hit point and the korred is alive. If the rope drops to 0 hit points, it is destroyed.
 
 ***Innate Spellcasting.*** The korred's innate spellcasting ability is Wisdom (save DC 13). It can innately cast the following spells, requiring no components:
 
-At will: commune with nature, meld into stone, stone shape
+* At will: <i>commune with nature, meld into stone, stone shape</i>
 
-1/day each: conjure elemental (as 6th-level spell; galeb duhr, gargoyle, earth elemental, or xorn only), Otto's irresistible dance
+* 1/day each: <i>conjure elemental </i>(as 6th-level spell; galeb duhr, gargoyle, earth elemental, or xorn only)<i>, Otto's irresistible dance</i>
 
 ***Stone Camouflage.*** The korred has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
