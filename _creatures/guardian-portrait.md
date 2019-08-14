@@ -29,6 +29,6 @@ condition_immunities: "charmed, exhaustion, frightened, grappled, paralyzed, pet
 
 ***Innate Spellcasting.*** The portrait's innate spellcasting ability os Intelligence (spell save DC 12). The portrait can innately cast the following spells, requiring no material components:
 
->3/day each: counterspell, crown of madness, hypnotic pattern, telekinesis
+* 3/day each: <i>counterspell, crown of madness, hypnotic pattern, telekinesis</i>
 
 ***False Appearance.*** While the figure in the portrait remains motionless, it is indistinguishable from a normal painting.
