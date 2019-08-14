@@ -29,17 +29,17 @@ armor_class: "13 (natural armor)"
 
 ***Spellcasting.*** The kuo-toa is a 10th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 14, +6 to hit with spell attacks). The kuo-toa has the following cleric spells prepared:
 
-* Cantrips (at will): guidance, sacred flame, thaumaturgy
+* Cantrips (at will): <i>guidance, sacred flame, thaumaturgy</i>
 
-* 1st level (4 slots): detect magic, sanctuary, shield of faith
+* 1st level (4 slots): <i>detect magic, sanctuary, shield of faith</i>
 
-* 2nd level (3 slots): hold person, spiritual weapon
+* 2nd level (3 slots): <i>hold person, spiritual weapon</i>
 
-* 3rd level (3 slots): spirit guardians, tongues
+* 3rd level (3 slots): <i>spirit guardians, tongues</i>
 
-* 4th level (3 slots): control water, divination
+* 4th level (3 slots): <i>control water, divination</i>
 
-* 5th level (2 slots): mass cure wounds, scrying
+* 5th level (2 slots): <i>mass cure wounds, scrying</i>
 
 ### Actions
 
