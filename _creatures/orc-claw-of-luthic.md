@@ -25,13 +25,13 @@ armor_class: "14 (hide armor)"
 
 ***Spellcasting.*** The orc is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 12, +4 to hit with spell attacks). The orc has the following cleric spells prepared:
 
-Cantrips (at will): guidance, mending, resistance, thaumaturgy
+* Cantrips (at will): <i>guidance, mending, resistance, thaumaturgy</i>
 
-1st level (4 slots): bane, cure wounds, guiding bolt
+* 1st level (4 slots): <i>bane, cure wounds, guiding bolt</i>
 
-2nd level (3 slots): augury, warding bond
+* 2nd level (3 slots): <i>augury, warding bond</i>
 
-3rd level (2 slots): bestow curse, create food and water
+* 3rd level (2 slots): <i>bestow curse, create food and water</i>
 
 ### Actions
 
