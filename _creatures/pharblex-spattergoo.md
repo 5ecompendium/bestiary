@@ -25,13 +25,13 @@ armor_class: "15 (studded leather armor, shield)"
 
 ***Spellcasting.*** Pharblex is a 6th-level spellcaster that uses Wisdom as his spellcasting ability (spell save DC 13, +5 to hit with spell attacks). Pharblex has the following spells prepared from the druid spell list:
 
-* Cantrips (at will): druidcraft, guidance, poison spray
+* Cantrips (at will): <i>druidcraft, guidance, poison spray</i>
 
-* 1st level (4 slots): cure wounds, entangle, healing word, thunderwave
+* 1st level (4 slots): <i>cure wounds, entangle, healing word, thunderwave</i>
 
-* 2nd level (3 slots): barkskin, beast sense, spike growth
+* 2nd level (3 slots): <i>barkskin, beast sense, spike growth</i>
 
-* 3rd level (3 slots): plant growth, water walk
+* 3rd level (3 slots): <i>plant growth, water walk</i>
 
 ***Standing Leap.*** As part of his movement and without a running start, Pharblex can long jump up to 20 feet and high jump up to 10 feet.
 
