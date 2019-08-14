@@ -26,9 +26,7 @@ damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons
 
 ***Innate Spellcasting.*** Ogremoch's innate spellcasting ability is Charisma (spell save DC 20, +12 to hit with spell attacks). He can innately cast the following spells, requiring no material components:
 
-
-
-* At will: meld into stone, move earth, wall of stone
+* At will: <i>meld into stone, move earth, wall of stone</i>
 
 ***Legendary Resistance (3/Day).*** If Ogremoch fails a saving throw, he can choose to succeed instead.
 
