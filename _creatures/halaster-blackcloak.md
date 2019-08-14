@@ -36,7 +36,7 @@ Halaster also wears a *horned ring* (a very rare magic item that requires attune
 
 ***Spellcasting.***  Halaster is a 20th-level spellcaster. His spellcasting ability is Intelligence (spell save DC 22, +14 to hit with spell attacks). He can cast *disguise self* and *invisibility* at will. He can cast *fly* and *lightning bolt* once each without expending a spell slot, but can’t do so again until he finishes a short or long rest. Halaster has the following wizard spells prepared:
 
-* Cantrips (at will): dancing lights, fire bolt, light, mage hand, prestidigitation
+* Cantrips (at will): <i>dancing lights, fire bolt, light, mage hand, prestidigitation</i>
 
 * 1st level (4 slots): mage armor, magic missile, shield, silent image
 
