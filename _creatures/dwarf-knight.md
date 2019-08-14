@@ -1,7 +1,7 @@
 ---
 layout: creature
 name: "Dwarf Knight"
-tags: [medium, humanoid, cr3, unofficial]
+tags: [medium, humanoid, cr3, homebrew]
 page_number: 999
 cha: 15 (+2)
 wis: 11 (0)
