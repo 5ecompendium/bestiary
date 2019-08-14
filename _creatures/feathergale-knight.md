@@ -20,9 +20,9 @@ armor_class: "16 (scale)"
 
 ***Spellcasting.*** The knight is a 1st-level spellcaster. Its spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It knows the following sorcerer spell:
 
-* Cantrips (at will): gust, light, message, ray of frost
+* Cantrips (at will): <i>gust, light, message, ray of frost</i>
 
-* 1st level (2 slots): expeditious retreat, feather fall
+* 1st level (2 slots): <i>expeditious retreat, feather fall</i>
 
 ### Actions
 
