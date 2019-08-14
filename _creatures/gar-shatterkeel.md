@@ -25,17 +25,17 @@ damage_resistances: "cold"
 
 ***Spellcasting.*** Gar is a 9th-level spellcaster. His spellcasting ability is Wisdom (spell save DC 16, +8 to hit with spell attacks). He has the following druid spells prepared:
 
-* Cantrips (at will): mending, resistance, shape water
+* Cantrips (at will): <i>mending, resistance, shape water</i>
 
-* 1st level (4 slots): create or destroy water, cure wounds, fog cloud, thunderwave
+* 1st level (4 slots): <i>create or destroy water, cure wounds, fog cloud, thunderwave</i>
 
-* 2nd level (3 slots): darkvision, hold person, protection from poison
+* 2nd level (3 slots): <i>darkvision, hold person, protection from poison</i>
 
-* 3rd level (3 slots): call lightning, sleet storm, tidal wave
+* 3rd level (3 slots): <i>call lightning, sleet storm, tidal wave</i>
 
-* 4th level (3 slots): control water, ice storm
+* 4th level (3 slots): <i>control water, ice storm</i>
 
-* 5th level (1 slot): scrying
+* 5th level (1 slot): <i>scrying</i>
 
 ***Water Walk.*** Gar can stand and move on liquid surfaces as if they were solid ground.
 
