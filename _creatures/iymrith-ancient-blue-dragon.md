@@ -23,7 +23,7 @@ armor_class: "22 (natural armor)"
 
 ***Innate Spellcasting.*** Iymrith's innate spellcasting ability is Charisma (spell save DC 20).  Iymrith's stone shape can create a living gargoyle instead of altering the stone as described in the spell description. She can innately cast the following spells, requiring no material components:
 
-* 1/day: <i>counterspell, detect magic, ice storm, stone shape, teleport</i>
+* 1/day each: <i>counterspell, detect magic, ice storm, stone shape, teleport</i>
 
 ### Actions
 
