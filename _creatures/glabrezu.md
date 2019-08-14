@@ -24,9 +24,9 @@ damage_resistances: "cold, fire, lightning, bludgeoning, piercing, and slashing 
 
 ***Innate Spellcasting.*** The glabrezu's spellcasting ability is Intelligence (spell save DC 16). The glabrezu can innately cast the following spells, requiring no material components:
 
-At will: darkness, detect magic, dispel magic
+* At will: <i>darkness, detect magic, dispel magic</i>
 
-1/day each: confusion, fly, power word stun
+* 1/day each: <i>confusion, fly, power word stun</i>
 
 ***Magic Resistance.*** The glabrezu has advantage on saving throws against spells and other magical effects.
 
