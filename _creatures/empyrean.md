@@ -23,9 +23,9 @@ armor_class: "22 (natural armor)"
 
 ***Innate Spellcasting.*** The empyrean's innate spellcasting ability is Charisma (spell save DC 23, +15 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-At will: greater restoration, pass without trace, water breathing, water walk
+* At will: <i>greater restoration, pass without trace, water breathing, water walk</i>
 
-1/day each: commune, dispel evil and good, earthquake, fire storm, plane shift (self only)
+* 1/day each: <i>commune, dispel evil and good, earthquake, fire storm, plane shift </i>(self only)
 
 ***Legendary Resistance (3/Day).*** If the empyrean fails a saving throw, it can choose to succeed instead.
 
