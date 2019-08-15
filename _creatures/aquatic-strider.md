@@ -49,4 +49,5 @@ taking 7 (2d6) bludgeoning damage and 7 (2d6)
 cold damage and be pushed 15 feet on a failed
 save, or half as much damage and not pushed on a
 successful one. Any creatures behind the initial
-target hit by this
+target hit by this ability have advantage on this
+saving throw.
