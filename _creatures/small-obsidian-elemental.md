@@ -8,7 +8,7 @@ int: 4 (-3)
 con: 18 (+4)
 dex: 8 (-1)
 str: 16 (+3)
-size: Medium elemental
+size: Small elemental
 alignment: neutral
 challenge: "2 (450 XP)"
 languages: "Terran"
