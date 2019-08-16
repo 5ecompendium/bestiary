@@ -21,7 +21,7 @@ armor_class: "17 (natural armor)"
 
 ***Amphibious.*** The crab can breathe air and water.
 
-***Shell Camouflage.*** While the crab remains motionless with it's eyestalks and pincers tucked close to it's body, it resembles a natural formation or a pile of detritus. A creature within 30 feet of it can discren its true nature with a successful DC 15 intelligence (Nature) check.
+***Shell Camouflage.*** While the crab remains motionless with its eyestalks and pincers tucked close to it's body, it resembles a natural formation or a pile of detritus. A creature within 30 feet of it can discren its true nature with a successful DC 15 intelligence (Nature) check.
 
 ### Actions
 
