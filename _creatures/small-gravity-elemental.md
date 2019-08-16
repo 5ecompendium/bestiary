@@ -60,7 +60,7 @@ elemental, and at the beginning of each of the elemental’s turns, a target
 takes 14 (2d10 + 3) force damage. If this damage drops a target to 0 hit
 points, it is rendered down to its constituent atoms and cannot be brought
 back to life by any magic short of true resurrection or wish.
-A grappled target can attempt to break free with a DC 14 Strength
+A grappled target can attempt to break free with a DC 13 Strength
 saving throw at the end of each of its turns, ending the effect on a success
 and moving 5 feet in a random direction.
 
