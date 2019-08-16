@@ -8,7 +8,7 @@ int: 6 (-2)
 con: 19 (+4)
 dex: 15 (+2)
 str: 21 (+5)
-size: Medium elemental
+size: Small elemental
 alignment: neutral
 challenge: "3 (700 XP)"
 languages: "--"
