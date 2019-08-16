@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Lightning Elemental"
+name: "Medium Lightning Elemental"
 tags: [medium, elemental, cr6, tome-of-horrors]
 cha: 11 (+0)
 wis: 11 (+0)
