@@ -42,12 +42,12 @@ at a creature it can detect within 20 feet. The targets must make a DC
 a failed saving throw, or half as much damage on a success. A gravity
 elemental can drop an object it is lifting without taking an action.
 
-2. ***Hold.*** The gravity elemental increases local gravity. Creatures within 20
+2. ***Hold.*** The gravity elemental increases local gravity. Creatures within 15
 feet of the elemental must succeed on a DC 13 Strength saving throw or be
 restrained until the beginning of the elemental’s next turn.
 
 3. ***Crush (1/Long Rest).*** The gravity elemental greatly increases local gravity
-within a 20-foot radius of itself. All creatures, other than the elemental,
+within a 15-foot radius of itself. All creatures, other than the elemental,
 within that area make a DC 13 Constitution saving throw, taking 19 (3d10 + 3) force damage on a failed saving throw, or half as much damage on a success.
 
 ***Engulf.*** The gravity elemental attempts to engulf one target it can see
@@ -73,5 +73,5 @@ is reduced by 8 (1d6 + 5). If the damage is reduced to 0, the gravity
 elemental can destroy the missile entirely, or cause the missile to orbit
 around it, and the elemental can make a ranged attack with the weapon
 or piece of ammunition it just caught, as part of the same reaction. The
-elemental has a +6 to hit with the attack, which has a normal range of 20
+elemental has a +5 to hit with the attack, which has a normal range of 20
 feet and a long range of 60 feet.
