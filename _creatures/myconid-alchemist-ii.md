@@ -20,7 +20,7 @@ hit_points: "13 (2d8 + 4)"
 armor_class: "14 (natural armor)"
 ---
 
-***Stalk-still.*** A fungal folk that remains perfectly still has advantage on
+***Stalk-still.*** A myconid that remains perfectly still has advantage on
 Dexterity (Stealth) checks made to hide.
 
 ### Actions
