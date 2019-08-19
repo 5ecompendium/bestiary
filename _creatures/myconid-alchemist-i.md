@@ -20,7 +20,7 @@ hit_points: "6 (1d8 + 2)"
 armor_class: "14 (natural armor)"
 ---
 
-***Stalk-still.*** A fungal folk that remains perfectly still has advantage on
+***Stalk-still.*** A myconid that remains perfectly still has advantage on
 Dexterity (Stealth) checks made to hide.
 
 ### Actions
@@ -30,7 +30,7 @@ slashing damage.
 
 ***Spore Bomb.*** Ranged weapon attack: +3 to hit, range 30/60 ft. Hit: 2
 (1d4) poison damage and the target must succeed on a DC 12 Constitution
-saving throw or see 4 versions of the fungal folk for 1 minute. An affected
+saving throw or see 4 versions of the myconid for 1 minute. An affected
 creature making an attack against one of the visions has a 25% chance to
-hit the real fungal folk. The affected creature can attempt the saving throw
+hit the real myconid. The affected creature can attempt the saving throw
 at the end of each of its turns, ending the effect on a success.
