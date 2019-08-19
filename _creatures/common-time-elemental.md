@@ -23,7 +23,7 @@ armor_class: "17 (natural armor)"
 
 ***Cell Death.*** Damage dealt by the elemental can only be healed
 magically. In addition, a creature that is slain by a time elemental can only
-be restored to life by a true resurrection or wish spell.
+be restored to life by a <i>true resurrection</i> or <i>wish</i> spell.
 
 ***Foresight.*** A time elemental can see a few seconds into the future. This
 ability prevents it from being surprised.
