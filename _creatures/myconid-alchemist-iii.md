@@ -29,6 +29,6 @@ Dexterity (Stealth) checks made to hide.
 slashing damage.
 
 ***Spore Bomb.*** Ranged weapon attack: +4 to hit, range 30/60 ft. Hit: 10
-(4d4) poison damage and the target must succeed on a DC 12 Constitution
+(4d4) poison damage and the target must succeed on a DC 14 Constitution
 saving throw or fall asleep for 1 minute. A sleeping creature is awakened
 if it takes damage or if another creature uses an action to awaken it.
