@@ -43,7 +43,7 @@ time-related spells and effects that are not cast by other time elementals.
 ***Alter Age (1/day).*** The elemental can attempt to age a target creature
 within 5 feet of it. The target must make a DC 17 Constitution saving
 throw or be aged 1d4 x 10 years. The aging effect can be reversed with a
-greater restoration spell, but only within 24 hours of it occurring.
+<i>greater restoration</i> spell, but only within 24 hours of it occurring.
 
 ***Multi-Manifestation (Recharge 5–6).*** The time elemental summons 1d4
 duplicate manifestations of itself from alternate dimensions. Each of these
