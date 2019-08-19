@@ -68,7 +68,7 @@ before being displaced. If the space is occupied when the creature returns,
 it appears in the nearest open space and takes no damage.
 
 ***Time Jaunt.*** A time elemental can slip through the time stream and
-appear anywhere on the same plane of existence as if by teleport. This
+appear anywhere on the same plane of existence as if by <i>teleport</i>. This
 ability transports the time elemental and up to four other creatures of the
 elemental’s choice that are within 30 feet of it. Unwilling creatures must
 succeed on a DC 15 Wisdom saving throw to avoid being carried away.
