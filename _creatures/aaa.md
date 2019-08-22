@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sergeant Gobbypants"
+name: "Sergeant Gobbypants"
 date: 2017-05-28
 tags: [medium, humanoid, cr1, homebrew]
 ---
