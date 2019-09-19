@@ -23,15 +23,15 @@ armor_class: "15 (studded leather)"
 
 ***Spellcasting.*** Windharrow is an 8th-level spellcaster. His spellcasting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). Windharrow knows the following bard spells:
 
-* Cantrips (at will): friends, prestidigitation, vicious mockery
+* Cantrips (at will): <i>friends, prestidigitation, vicious mockery</i>
 
-* 1st level (4 slots): disguise self, dissonant whispers, thunderwave
+* 1st level (4 slots): <i>disguise self, dissonant whispers, thunderwave</i>
 
-* 2nd level (3 slots): invisibility, shatter, silence
+* 2nd level (3 slots): <i>invisibility, shatter, silence</i>
 
-* 3rd level (3 slots): nondetection, sending, tongues
+* 3rd level (3 slots): <i>nondetection, sending, tongues</i>
 
-* 4th level (2 slots): confusion, dimension door
+* 4th level (2 slots): <i>confusion, dimension door</i>
 
 ### Actions
 
