@@ -24,11 +24,11 @@ damage_resistances: "acid, fire, lightning"
 
 ***Innate Spellcasting (Anathema Form Only).*** The anathema's innate spellcasting ability is Charisma (spell save DC 17). It can innately cast the following spells, requiring no material components:
 
-At will: animal friendship (snakes only)
+* At will: <i>animal friendship </i>(snakes only)
 
-3/day each: darkness, entangle, fear, haste, suggestion, polymorph
+* 3/day each: <i>darkness, entangle, fear, haste, suggestion, polymorph</i>
 
-1/day: divine word
+* 1/day: <i>divine word</i>
 
 ***Magic Resistance.*** The anathema has advantage on saving throws against spells and other magical effects.
 
