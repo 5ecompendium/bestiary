@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "1 (200 XP)"
 languages: "--"
 senses: "blindsight 30 ft., passive Perception 10"
-speed: "50 ft., swim 20 ft."
+speed: "5 ft., swim 20 ft."
 hit_points: "26 (4d8 + 8)"
 armor_class: "11"
 ---
