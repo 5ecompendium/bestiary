@@ -31,7 +31,7 @@ hours ago are not lost.)
 
 Once a memory moss steals a creature’s memories, it sinks back down
 and does not attack again for one day. If a creature loses its memories
-to the memory moss, it acts as if affected by a confusion spell for the
+to the memory moss, it acts as if affected by a <i>confusion</i> spell for the
 next 1d4 hours. Lost memories can be regained by eating the memory
 moss that absorbed them. Doing so requires a DC 11 Constitution saving
 throw, with failure resulting in the creature being nauseated for 1d6
