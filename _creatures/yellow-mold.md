@@ -1,7 +1,7 @@
 ---
 layout: creature
-name: "Yellow Mold "
-tags: [medium, plant, cr2, tome-of-horrors]
+name: "Yellow Mold"
+tags: [medium, plant, cr2, homebrew]
 cha: 1 (-5)
 wis: 10 (+0)
 int: 1 (-5)
