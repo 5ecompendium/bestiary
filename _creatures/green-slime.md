@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Green Slime "
+name: "Green Slime"
 tags: [medium, plant, cr2, homebrew]
 cha: 1 (-5)
 wis: 10 (+0)
