@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Brown Mold "
+name: "Brown Mold"
 tags: [large, plant, cr2, tome-of-horrors]
 cha: 1 (-5)
 wis: 10 (+0)
