@@ -11,7 +11,7 @@ str: 10 (0)
 size: Medium beast
 alignment: unaligned
 challenge: "1/2 (100 XP)"
-speed: "10 ft., fly 50 ft., swim 50 ft."
+speed: "10 ft., fly 50 ft."
 hit_points: "13 (3d8)"
 armor_class: "12"
 ---
