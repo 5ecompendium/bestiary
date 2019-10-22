@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Undead Ooze"
-tags: [huge, undead, cr5, tome-of-horrors]
+tags: [huge, ooze, cr5, tome-of-horrors]
 cha: 10 (+0)
 wis: 12 (+1)
 int: 2 (-4)
 con: 13 (+1)
 dex: 1 (-5)
 str: 12 (+1)
-size: Huge undead
+size: Huge ooze (undead)
 alignment: neutral evil
 challenge: "5 (1,800 XP)"
 languages: "--"
