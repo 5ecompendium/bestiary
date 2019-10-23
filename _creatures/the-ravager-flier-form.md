@@ -58,9 +58,6 @@ If the Ravager takes damage from an artifact or from a legendary action,
 this trait doesn’t function at the start of the Ravager’s next turn. The
 Ravager only dies if it starts its turn at 0 hit points and doesn’t regenerate.
 
-***Tunneler.*** The Ravager can burrow through solid rock at half of its
-burrowing speed, leaving a 10 foot-wide, 16-foot-high tunnel in its wake.
-
 ***Vampiric Healing.*** Whenever the Ravager hits with a melee attack, it
 regains hit points equal to half the damage it inflicts on its opponent, up to
 its hit point maximum.
