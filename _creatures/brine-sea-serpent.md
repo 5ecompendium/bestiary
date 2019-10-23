@@ -42,3 +42,19 @@ on that attack.
 ***Brine Blast (Recharge 6).*** The brine serpent releases a 50-foot cone
 of briny acid. Creatures in the area must make a DC 18 Dexterity saving
 throw. On a failed saving throw, the target takes 72 (16d8) acid damage.
+
+### Legendary Actions
+
+The brine sea serpent can take up to 3 legendary actions, choosing from
+the options below. Only one legendary action option can be used at a time
+and only at the end of another creature’s turn. The serpent regains spent
+legendary actions at the start of its turn.
+
+***Tail Attack.*** The brine serpent uses its tail attack.
+
+***Coiling Maneuver (Costs 2 Actions).*** The brine sea serpent attempts to
+grapple a Large or smaller target. The target must make a DC 18 Strength
+saving throw or be grappled and restrained. The sea serpent can’t use its
+other legendary actions or its Tail Slap if it’s grappling a target. At the
+beginning of each of the brine serpent’s turns, the grappled target takes 18
+(3d8 + 5) bludgeoning damage.
