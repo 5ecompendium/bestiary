@@ -19,7 +19,7 @@ damage_resistances: "acid, cold, fire, lightning, thunder;
 bludgeoning, piercing, and slashing from nonmagical weapons"
 condition_immunities: "charmed, frightened, paralyzed, petrified, poisoned"
 speed: "70 ft."
-hit_points: "984 (48d20 + 480)"
+hit_points: "738 (36d20 + 360)"
 armor_class: "27 (natural armor)"
 ---
 
