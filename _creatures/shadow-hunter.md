@@ -23,7 +23,7 @@ armor_class: "14 (natural armor)"
 ***Keen Smell.*** The shadow hunter has advantage on Wisdom (Perception)
 checks that rely on smell.
 
-***Shadow Stealth.*** While in dim light or darkness, the shadow can take
+***Shadow Stealth.*** While in dim light or darkness, the shadow hunter can take
 the Hide action as a bonus action.
 
 ### Actions
