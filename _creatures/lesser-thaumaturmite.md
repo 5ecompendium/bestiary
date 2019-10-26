@@ -29,12 +29,13 @@ the bearer of the item must make
 a successful DC 12 Dexterity
 saving throw or the item starts
 corroding. After two failed
-savings throws the item loses
+saving throws the item loses
 its magical qualities.
 
 ***Spider Climb.*** The thaumaturmite can climb difficult surfaces, including
 upside down on ceilings, without needing to make an ability check.
-Magic Resistance. The thaumaturmite has advantage on saving throws
+
+***Magic Resistance.*** The thaumaturmite has advantage on saving throws
 against spells and other magical effects.
 
 ### Actions
