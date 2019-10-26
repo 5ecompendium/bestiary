@@ -15,7 +15,7 @@ languages: "--"
 skills: "Athletics +9"
 senses: "passive Perception 11"
 speed: "30 ft., climb 30 ft., swim 30 ft."
-hit_points: "38 (7d10)"
+hit_points: "76 (8d12 + 24)"
 armor_class: "16 (natural armor)"
 ---
 
