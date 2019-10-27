@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Avatar Of Boreas"
-tags: [medium, elemental (shapechanger), cr17, tome-of-beasts]
+tags: [medium, elemental, cr17, tome-of-beasts]
 cha: 21 (+5)
 wis: 19 (+4)
 int: 18 (+4)
 con: 22 (+6)
 dex: 22 (+6)
 str: 25 (+7)
-size: Medium elemental (shapechanger)
+size: Medium elemental
 alignment: chaotic evil
 challenge: "17 (18000 XP)"
 languages: "Common, Dwarvish, Giant, Infernal"

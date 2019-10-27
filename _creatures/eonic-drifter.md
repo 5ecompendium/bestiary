@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Eonic Drifter"
-tags: [medium, humanoid (human), cr1, tome-of-beasts]
+tags: [medium, humanoid, cr1, tome-of-beasts]
 cha: 13 (+1)
 wis: 11 (+0)
 int: 18 (+4)
 con: 14 (+2)
 dex: 14 (+2)
 str: 9 (-1)
-size: Medium humanoid (human)
+size: Medium humanoid
 alignment: chaotic neutral
 challenge: "1 (200 XP)"
 languages: "Common, Eonic, Giant, Sylvan"

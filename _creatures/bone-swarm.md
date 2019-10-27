@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Bone Swarm"
-tags: [large, swarm of Tiny undead, cr10, tome-of-beasts]
+tags: [large, swarm, cr10, tome-of-beasts]
 cha: 20 (+5)
 wis: 15 (+2)
 int: 9 (-1)
 con: 10 (+0)
 dex: 18 (+4)
 str: 22 (+6)
-size: Large swarm of Tiny undead
+size: Large swarm
 alignment: chaotic evil
 challenge: "10 (5900 XP)"
 languages: "Common, Void Speech"

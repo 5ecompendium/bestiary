@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Tosculi Elite Bow Raider"
-tags: [medium, humanoid (tosculi), cr5, tome-of-beasts]
+tags: [medium, humanoid, cr5, tome-of-beasts]
 cha: 12 (+1)
 wis: 14 (+2)
 int: 12 (+1)
 con: 17 (+3)
 dex: 18 (+4)
 str: 14 (+2)
-size: Medium humanoid (tosculi)
+size: Medium humanoid
 alignment: lawful evil
 challenge: "5 (1800 XP)"
 languages: "Gnoll, Infernal, Tosculi"

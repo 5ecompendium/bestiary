@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Dune Mimic"
-tags: [huge, monstrosity (shapechanger), cr8, tome-of-beasts]
+tags: [huge, monstrosity, cr8, tome-of-beasts]
 cha: 10 (+0)
 wis: 13 (+1)
 int: 9 (-1)
 con: 18 (+4)
 dex: 8 (-1)
 str: 20 (+5)
-size: Huge monstrosity (shapechanger)
+size: Huge monstrosity
 alignment: neutral
 challenge: "8 (3900 XP)"
 languages: "--"

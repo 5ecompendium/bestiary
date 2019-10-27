@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Ia'affrat"
-tags: [large, swarm of Tiny elementals, cr15, tome-of-beasts]
+tags: [large, swarm, cr15, tome-of-beasts]
 cha: 23 (+6)
 wis: 18 (+4)
 int: 20 (+5)
 con: 16 (+3)
 dex: 21 (+5)
 str: 3 (-4)
-size: Large swarm of Tiny elementals
+size: Large swarm
 alignment: lawful evil
 challenge: "15 (13000 XP)"
 languages: "Common, Draconic, Infernal, Primordial"

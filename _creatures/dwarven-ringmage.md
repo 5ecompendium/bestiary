@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Dwarven Ringmage"
-tags: [m, Humanoid (dwarf), cr7, tome-of-beasts]
+tags: [medium, Humanoid, cr7, tome-of-beasts]
 cha: 9 (-1)
 wis: 12 (+1)
 int: 18 (+4)
 con: 13 (+1)
 dex: 14 (+2)
 str: 10 (+0)
-size: m Humanoid (dwarf)
+size: Medium Humanoid
 alignment: any
 challenge: "7 (2900 XP)"
 languages: "Common, Dwarvish"

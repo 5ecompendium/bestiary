@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Ravenfolk Scout"
-tags: [medium, humanoid (kenku), cr1/2, tome-of-beasts]
+tags: [medium, humanoid, cr1/2, tome-of-beasts]
 cha: 12 (+1)
 wis: 15 (+2)
 int: 10 (+0)
 con: 8 (-1)
 dex: 14 (+2)
 str: 10 (+0)
-size: Medium humanoid (kenku)
+size: Medium humanoid
 alignment: neutral
 challenge: "1/2 (100 XP)"
 languages: "Common, Feather Speech, Huginn"

@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Spawn Of Akyishigal"
-tags: [medium, fiend (demon), cr5, tome-of-beasts]
+tags: [medium, fiend, cr5, tome-of-beasts]
 cha: 12 (+1)
 wis: 11 (+0)
 int: 10 (+0)
 con: 19 (+4)
 dex: 13 (+1)
 str: 15 (+2)
-size: Medium fiend (demon)
+size: Medium fiend
 alignment: chaotic evil
 challenge: "5 (1800 XP)"
 languages: "Infernal, Spawn of Akyishigal"

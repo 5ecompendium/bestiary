@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Ravenfolk Doom Croaker"
-tags: [medium, humanoid (kenku), cr5, tome-of-beasts]
+tags: [medium, humanoid, cr5, tome-of-beasts]
 cha: 14 (+2)
 wis: 18 (+4)
 int: 12 (+1)
 con: 12 (+1)
 dex: 14 (+2)
 str: 10 (+0)
-size: Medium humanoid (kenku)
+size: Medium humanoid
 alignment: neutral
 challenge: "5 (1800 XP)"
 languages: "Common, Feather Speech, Huginn"

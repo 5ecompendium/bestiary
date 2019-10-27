@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Hulking Whelp"
-tags: [small, fey (shapechanger), cr5, tome-of-beasts]
+tags: [small, fey, cr5, tome-of-beasts]
 cha: 9 (-1)
 wis: 14 (+2)
 int: 7 (-2)
 con: 18 (+4)
 dex: 10 (+0)
 str: 21 (+5)
-size: Small fey (shapechanger)
+size: Small fey
 alignment: chaotic neutral
 challenge: "5 (1800 XP)"
 languages: "--"

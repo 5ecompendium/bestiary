@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Chort Devil"
-tags: [medium, fiend (devil), cr12, tome-of-beasts]
+tags: [medium, fiend, cr12, tome-of-beasts]
 cha: 20 (+5)
 wis: 20 (+5)
 int: 18 (+4)
 con: 26 (+8)
 dex: 20 (+5)
 str: 24 (+7)
-size: Medium fiend (devil)
+size: Medium fiend
 alignment: lawful evil
 challenge: "12 (8400 XP)"
 languages: "Celestial, Common, Draconic, Infernal, Primordial; telepathy (120 ft.)"

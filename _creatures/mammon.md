@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Mammon"
-tags: [huge, fiend (devil), cr25, tome-of-beasts]
+tags: [huge, fiend, cr25, tome-of-beasts]
 cha: 26 (+8)
 wis: 21 (+5)
 int: 23 (+6)
 con: 24 (+7)
 dex: 13 (+1)
 str: 22 (+6)
-size: Huge fiend (devil)
+size: Huge fiend
 alignment: lawful evil
 challenge: "25 (75000 XP)"
 languages: "all, telepathy 120 ft."

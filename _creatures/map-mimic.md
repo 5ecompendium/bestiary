@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Map Mimic"
-tags: [tiny, aberration (shapechanger), cr1/4, tome-of-beasts]
+tags: [tiny, aberration, cr1/4, tome-of-beasts]
 cha: 16 (+3)
 wis: 15 (+2)
 int: 13 (+1)
 con: 14 (+2)
 dex: 15 (+2)
 str: 10 (+0)
-size: Tiny aberration (shapechanger)
+size: Tiny aberration
 alignment: neutral
 challenge: "1/4 (50 XP)"
 languages: "--"

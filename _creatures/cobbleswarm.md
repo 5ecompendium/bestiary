@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Cobbleswarm"
-tags: [medium, swarm of Tiny monstrosities, cr2, tome-of-beasts]
+tags: [medium, swarm, cr2, tome-of-beasts]
 cha: 5 (-3)
 wis: 12 (+1)
 int: 5 (-3)
 con: 11 (+0)
 dex: 11 (+0)
 str: 12 (+1)
-size: Medium swarm of Tiny monstrosities
+size: Medium swarm
 alignment: unaligned
 challenge: "2 (450 XP)"
 languages: "--"

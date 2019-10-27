@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Gilded Devil"
-tags: [medium, fiend (devil), cr7, tome-of-beasts]
+tags: [medium, fiend, cr7, tome-of-beasts]
 cha: 17 (+3)
 wis: 18 (+4)
 int: 15 (+2)
 con: 17 (+3)
 dex: 15 (+2)
 str: 17 (+3)
-size: Medium fiend (devil)
+size: Medium fiend
 alignment: lawful evil
 challenge: "7 (2900 XP)"
 languages: "Celestial, Common, Draconic, Infernal; telepathy (120 ft.)"

@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Crystalline Devil"
-tags: [medium, fiend (devil), cr6, tome-of-beasts]
+tags: [medium, fiend, cr6, tome-of-beasts]
 cha: 15 (+2)
 wis: 13 (+1)
 int: 14 (+2)
 con: 18 (+4)
 dex: 12 (+1)
 str: 18 (+4)
-size: Medium fiend (devil)
+size: Medium fiend
 alignment: lawful evil
 challenge: "6 (2300 XP)"
 languages: "Celestial, Common, Infernal, telepathy 120 ft."

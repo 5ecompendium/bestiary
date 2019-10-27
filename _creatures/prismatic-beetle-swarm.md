@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Prismatic Beetle Swarm"
-tags: [medium, swarm of Tiny beasts, cr3, tome-of-beasts]
+tags: [medium, swarm, cr3, tome-of-beasts]
 cha: 2 (-4)
 wis: 13 (+1)
 int: 1 (-5)
 con: 12 (+1)
 dex: 16 (+3)
 str: 3 (-4)
-size: Medium swarm of Tiny beasts
+size: Medium swarm
 alignment: unaligned
 challenge: "3 (700 XP)"
 languages: "--"

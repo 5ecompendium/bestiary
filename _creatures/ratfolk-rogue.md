@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Ratfolk Rogue"
-tags: [small, humanoid (ratfolk), cr1, tome-of-beasts]
+tags: [small, humanoid, cr1, tome-of-beasts]
 cha: 10 (+0)
 wis: 10 (+0)
 int: 14 (+2)
 con: 12 (+1)
 dex: 16 (+3)
 str: 7 (-2)
-size: Small humanoid (ratfolk)
+size: Small humanoid
 alignment: neutral
 challenge: "1 (200 XP)"
 languages: "Common, Thieves Cant"

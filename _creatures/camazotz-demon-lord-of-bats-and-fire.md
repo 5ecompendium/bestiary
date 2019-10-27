@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Camazotz, Demon Lord Of Bats And Fire"
-tags: [large, fiend (demon), cr22, tome-of-beasts]
+tags: [large, fiend, cr22, tome-of-beasts]
 cha: 25 (+7)
 wis: 22 (+6)
 int: 12 (+1)
 con: 25 (+7)
 dex: 22 (+6)
 str: 30 (+10)
-size: Large fiend (demon)
+size: Large fiend
 alignment: chaotic evil
 challenge: "22 (41000 XP)"
 languages: "Common, Darakhul, Derro, Draconic, Dwarvish, Infernal, Nurian, Primordial, Void Speech; telepathy 300 ft."

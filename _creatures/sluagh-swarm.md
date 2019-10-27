@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Sluagh Swarm"
-tags: [medium, swarm of Tiny fey, cr3, tome-of-beasts]
+tags: [medium, swarm, cr3, tome-of-beasts]
 cha: 10 (+0)
 wis: 13 (+1)
 int: 6 (-2)
 con: 11 (+0)
 dex: 16 (+3)
 str: 6 (-2)
-size: Medium swarm of Tiny fey
+size: Medium swarm
 alignment: chaotic evil
 challenge: "3 (700 XP)"
 languages: "Common, Sylvan"

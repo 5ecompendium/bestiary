@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Berstuc"
-tags: [large, fiend (demon), cr11, tome-of-beasts]
+tags: [large, fiend, cr11, tome-of-beasts]
 cha: 19 (+4)
 wis: 14 (+2)
 int: 12 (+1)
 con: 20 (+5)
 dex: 10 (+0)
 str: 22 (+6)
-size: Large fiend (demon)
+size: Large fiend
 alignment: chaotic evil
 challenge: "11 (7200 XP)"
 languages: "Abyssal, Common, Sylvan; telepathy 120 ft."

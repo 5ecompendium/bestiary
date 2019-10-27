@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Alquam, Demon Lord Of Night"
-tags: [huge, fiend (demon), cr21, tome-of-beasts]
+tags: [huge, fiend, cr21, tome-of-beasts]
 cha: 16 (+3)
 wis: 20 (+5)
 int: 16 (+3)
 con: 23 (+6)
 dex: 19 (+4)
 str: 14 (+2)
-size: Huge fiend (demon)
+size: Huge fiend
 alignment: chaotic evil
 challenge: "21 (33000 XP)"
 languages: "all, telepathy 120 ft."

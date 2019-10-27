@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Bandit Lord"
-tags: [m, Humanoid (Any Race), cr4, tome-of-beasts]
+tags: [medium, Humanoid, cr4, tome-of-beasts]
 cha: 14 (+2)
 wis: 11 (+0)
 int: 14 (+2)
 con: 14 (+2)
 dex: 15 (+2)
 str: 16 (+3)
-size: m Humanoid (Any Race)
+size: Medium Humanoid
 alignment: any non-lawful
 challenge: "4 (1100 XP)"
 languages: "any two languages"

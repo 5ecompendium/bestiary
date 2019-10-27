@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Automata Devil"
-tags: [large, fiend (devil), cr10, tome-of-beasts]
+tags: [large, fiend, cr10, tome-of-beasts]
 cha: 19 (+4)
 wis: 14 (+2)
 int: 11 (+0)
 con: 20 (+5)
 dex: 17 (+3)
 str: 24 (+7)
-size: Large fiend (devil)
+size: Large fiend
 alignment: lawful evil
 challenge: "10 (5900 XP)"
 languages: "Common, Infernal; telepathy 100 ft."

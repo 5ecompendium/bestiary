@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Black Knight Commander"
-tags: [m, Humanoid (Any Race), cr5, tome-of-beasts]
+tags: [medium, Humanoid, cr5, tome-of-beasts]
 cha: 15 (+2)
 wis: 13 (+1)
 int: 12 (+1)
 con: 14 (+2)
 dex: 10 (+0)
 str: 18 (+4)
-size: m Humanoid (Any Race)
+size: Medium Humanoid
 alignment: lawful evil
 challenge: "5 (1800 XP)"
 languages: "any two languages"

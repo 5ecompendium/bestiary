@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Nkosi Pridelord"
-tags: [medium, humanoid (shapechanger, cr4, tome-of-beasts]
+tags: [medium, humanoid, cr4, tome-of-beasts]
 cha: 14 (+2)
 wis: 10 (+0)
 int: 10 (+0)
 con: 12 (+1)
 dex: 18 (+4)
 str: 18 (+4)
-size: Medium humanoid (shapechanger
+size: Medium humanoid
 alignment: nkosi), lawful neutral
 challenge: "4 (1100 XP)"
 languages: "Common"

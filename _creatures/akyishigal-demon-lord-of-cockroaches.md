@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Akyishigal, Demon Lord Of Cockroaches"
-tags: [large, fiend (demon), cr12, tome-of-beasts]
+tags: [large, fiend, cr12, tome-of-beasts]
 cha: 24 (+7)
 wis: 14 (+2)
 int: 19 (+4)
 con: 22 (+6)
 dex: 17 (+3)
 str: 21 (+5)
-size: Large fiend (demon)
+size: Large fiend
 alignment: chaotic evil
 challenge: "12 (8400 XP)"
 languages: "Abyssal, Common, Draconic, Elvish, Infernal; telepathy 60 ft."

@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Shadow Fey Duelist"
-tags: [medium, humanoid (elf), cr6, tome-of-beasts]
+tags: [medium, humanoid, cr6, tome-of-beasts]
 cha: 16 (+3)
 wis: 12 (+1)
 int: 13 (+1)
 con: 14 (+2)
 dex: 20 (+5)
 str: 13 (+1)
-size: Medium humanoid (elf)
+size: Medium humanoid
 alignment: lawful evil
 challenge: "6 (2300 XP)"
 languages: "Common, Elvish, Umbral"

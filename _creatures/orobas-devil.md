@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Orobas Devil"
-tags: [large, fiend (devil), cr14, tome-of-beasts]
+tags: [large, fiend, cr14, tome-of-beasts]
 cha: 21 (+5)
 wis: 26 (+8)
 int: 23 (+6)
 con: 28 (+9)
 dex: 14 (+2)
 str: 26 (+8)
-size: Large fiend (devil)
+size: Large fiend
 alignment: lawful evil
 challenge: "14 (11500 XP)"
 languages: "Celestial, Darakhul, Draconic, Giant, Infernal, Undercommon, Void Speech; telepathy 100 ft."

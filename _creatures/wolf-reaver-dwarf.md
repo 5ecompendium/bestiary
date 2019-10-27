@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Wolf Reaver Dwarf"
-tags: [medium, Humanoid (dwarf), cr3, tome-of-beasts]
+tags: [medium, Humanoid, cr3, tome-of-beasts]
 cha: 9 (-1)
 wis: 11 (+0)
 int: 9 (-1)
 con: 19 (+4)
 dex: 12 (+1)
 str: 18 (+4)
-size: Medium Humanoid (dwarf)
+size: Medium Humanoid
 alignment: any chaotic
 challenge: "3 (700 XP)"
 languages: "Common, Dwarvish"

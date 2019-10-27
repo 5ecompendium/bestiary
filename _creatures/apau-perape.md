@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Apau Perape"
-tags: [large, fiend (demon), cr6, tome-of-beasts]
+tags: [large, fiend, cr6, tome-of-beasts]
 cha: 15 (+2)
 wis: 12 (+1)
 int: 10 (+0)
 con: 19 (+4)
 dex: 18 (+4)
 str: 21 (+5)
-size: Large fiend (demon)
+size: Large fiend
 alignment: chaotic evil
 challenge: "6 (2300 XP)"
 languages: "Ape, Infernal, telepathy 120 ft."

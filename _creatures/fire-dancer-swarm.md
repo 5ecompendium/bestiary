@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Fire Dancer Swarm"
-tags: [medium, swarm of Tiny elementals, cr7, tome-of-beasts]
+tags: [medium, swarm, cr7, tome-of-beasts]
 cha: 7 (-2)
 wis: 10 (+0)
 int: 6 (-2)
 con: 16 (+3)
 dex: 20 (+5)
 str: 10 (+0)
-size: Medium swarm of Tiny elementals
+size: Medium swarm
 alignment: neutral evil
 challenge: "7 (2900 XP)"
 languages: "Ignan"

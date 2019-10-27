@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Totivillus, Scribe Of Hell"
-tags: [medium, fiend (devil), cr24, tome-of-beasts]
+tags: [medium, fiend, cr24, tome-of-beasts]
 cha: 18 (+4)
 wis: 22 (+6)
 int: 26 (+8)
 con: 24 (+7)
 dex: 18 (+4)
 str: 18 (+4)
-size: Medium fiend (devil)
+size: Medium fiend
 alignment: lawful evil
 challenge: "24 (62000 XP)"
 languages: "Common, Celestial, Draconic, Infernal, Void Speech; telepathy 120 ft."

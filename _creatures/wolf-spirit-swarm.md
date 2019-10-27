@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Wolf Spirit Swarm"
-tags: [large, swarm of Medium undead, cr6, tome-of-beasts]
+tags: [large, swarm, cr6, tome-of-beasts]
 cha: 12 (+1)
 wis: 10 (+0)
 int: 4 (-3)
 con: 12 (+1)
 dex: 16 (+3)
 str: 14 (+2)
-size: Large swarm of Medium undead
+size: Large swarm
 alignment: neutral evil
 challenge: "6 (2300 XP)"
 languages: "understands Common"

@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "City Watch Captian"
-tags: [m, Humanoid (Any Race), cr4, tome-of-beasts]
+tags: [medium, Humanoid, cr4, tome-of-beasts]
 cha: 13 (+1)
 wis: 11 (+0)
 int: 10 (+0)
 con: 14 (+2)
 dex: 16 (+3)
 str: 13 (+1)
-size: m Humanoid (Any Race)
+size: Medium Humanoid
 alignment: lawful neutral
 challenge: "4 (1100 XP)"
 languages: "one language (usually Common)"

@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Mechuiti, Demon Lord Of Apes"
-tags: [gargantuan, fiend (demon), cr27, tome-of-beasts]
+tags: [gargantuan, fiend, cr27, tome-of-beasts]
 cha: 22 (+6)
 wis: 18 (+4)
 int: 18 (+4)
 con: 27 (+8)
 dex: 19 (+4)
 str: 29 (+9)
-size: Gargantuan fiend (demon)
+size: Gargantuan fiend
 alignment: chaotic evil
 challenge: "27 (105000 XP)"
 languages: "Celestial, Common, Draconic, Infernal, Primordial, telepathy 300 ft."

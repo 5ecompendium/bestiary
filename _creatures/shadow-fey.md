@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Shadow Fey"
-tags: [medium, humanoid (elf), cr1/4, tome-of-beasts]
+tags: [medium, humanoid, cr1/4, tome-of-beasts]
 cha: 13 (+1)
 wis: 11 (+0)
 int: 11 (+0)
 con: 10 (+0)
 dex: 14 (+2)
 str: 10 (+0)
-size: Medium humanoid (elf)
+size: Medium humanoid
 alignment: lawful evil
 challenge: "1/4 (50 XP)"
 languages: "Common, Elvish, Umbral"

@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Qorgeth, Demon Lord Of The Devouring Worm"
-tags: [gargantuan, fiend (demon), cr23, tome-of-beasts]
+tags: [gargantuan, fiend, cr23, tome-of-beasts]
 cha: 18 (+4)
 wis: 19 (+4)
 int: 9 (-1)
 con: 26 (+8)
 dex: 6 (-2)
 str: 29 (+9)
-size: Gargantuan fiend (demon)
+size: Gargantuan fiend
 alignment: chaotic evil
 challenge: "23 (50000 XP)"
 languages: "all, telepathy 120 ft."

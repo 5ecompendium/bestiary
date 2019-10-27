@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Clockwork Beetle Swarm"
-tags: [large, swarm of Tiny constructs, cr3, tome-of-beasts]
+tags: [large, swarm, cr3, tome-of-beasts]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 4 (-3)
 con: 12 (+1)
 dex: 16 (+3)
 str: 8 (-1)
-size: Large swarm of Tiny constructs
+size: Large swarm
 alignment: neutral
 challenge: "3 (700 XP)"
 languages: "--"

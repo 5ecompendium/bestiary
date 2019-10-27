@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Kobold Chieftain"
-tags: [small, humanoid (kobold), cr4, tome-of-beasts]
+tags: [small, humanoid, cr4, tome-of-beasts]
 cha: 14 (+2)
 wis: 13 (+1)
 int: 11 (+0)
 con: 14 (+2)
 dex: 17 (+3)
 str: 10 (+0)
-size: Small humanoid (kobold)
+size: Small humanoid
 alignment: lawful evil
 challenge: "4 (1100 XP)"
 languages: "Common, Draconic"

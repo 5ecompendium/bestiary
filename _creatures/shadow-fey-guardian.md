@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Shadow Fey Guardian"
-tags: [large, humanoid (elf), cr4, tome-of-beasts]
+tags: [large, humanoid, cr4, tome-of-beasts]
 cha: 8 (-1)
 wis: 14 (+2)
 int: 6 (-2)
 con: 16 (+3)
 dex: 14 (+2)
 str: 18 (+4)
-size: Large humanoid (elf)
+size: Large humanoid
 alignment: neutral evil
 challenge: "4 (1100 XP)"
 languages: "Common, Elvish, Umbral"

@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Oculo Swarm"
-tags: [large, swarm of Tiny aberrations, cr4, tome-of-beasts]
+tags: [large, swarm, cr4, tome-of-beasts]
 cha: 17 (+3)
 wis: 15 (+2)
 int: 8 (-1)
 con: 16 (+3)
 dex: 20 (+5)
 str: 10 (+0)
-size: Large swarm of Tiny aberrations
+size: Large swarm
 alignment: neutral evil
 challenge: "4 (1100 XP)"
 languages: "understands Common but can't speak"

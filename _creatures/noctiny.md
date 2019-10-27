@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Noctiny"
-tags: [medium, humanoid (noctiny), cr2, tome-of-beasts]
+tags: [medium, humanoid, cr2, tome-of-beasts]
 cha: 16 (+3)
 wis: 11 (+0)
 int: 10 (+0)
 con: 14 (+2)
 dex: 13 (+1)
 str: 12 (+1)
-size: Medium humanoid (noctiny)
+size: Medium humanoid
 alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Common, plus the language spoken by the noctini's fext master"

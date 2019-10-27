@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Shadow Fey Enchantress"
-tags: [medium, humanoid (shadow fey), cr7, tome-of-beasts]
+tags: [medium, humanoid, cr7, tome-of-beasts]
 cha: 18 (+4)
 wis: 17 (+3)
 int: 12 (+1)
 con: 14 (+2)
 dex: 15 (+2)
 str: 10 (+0)
-size: Medium humanoid (shadow fey)
+size: Medium humanoid
 alignment: lawful evil
 challenge: "7 (2900 XP)"
 languages: "Common, Elvish, Umbral"

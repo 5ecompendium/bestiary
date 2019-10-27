@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Ghost Knight"
-tags: [m, undead, cr6, tome-of-beasts]
+tags: [medium, undead, cr6, tome-of-beasts]
 cha: 7 (-2)
 wis: 10 (+0)
 int: 8 (-1)
 con: 14 (+2)
 dex: 15 (+2)
 str: 17 (+3)
-size: m undead
+size: Medium undead
 alignment: lawful evil
 challenge: "6 (2300 XP)"
 languages: "Common"

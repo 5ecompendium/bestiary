@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Vampire Warlock - Variant"
-tags: [medium, undead (shapechanger), cr13, tome-of-beasts]
+tags: [medium, undead, cr13, tome-of-beasts]
 cha: 18 (+4)
 wis: 15 (+2)
 int: 17 (+3)
 con: 18 (+4)
 dex: 18 (+4)
 str: 18 (+4)
-size: Medium undead (shapechanger)
+size: Medium undead
 alignment: lawful evil
 challenge: "13 (10000 XP)"
 languages: "the languages it knew in life"

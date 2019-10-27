@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Malakbel"
-tags: [medium, fiend (demon), cr9, tome-of-beasts]
+tags: [medium, fiend, cr9, tome-of-beasts]
 cha: 20 (+5)
 wis: 16 (+3)
 int: 13 (+1)
 con: 19 (+4)
 dex: 17 (+3)
 str: 14 (+2)
-size: Medium fiend (demon)
+size: Medium fiend
 alignment: chaotic evil
 challenge: "9 (5000 XP)"
 languages: "Abyssal, telepathy 120 ft."

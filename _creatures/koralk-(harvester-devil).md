@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Koralk (Harvester Devil)"
-tags: [large, fiend (devil), cr11, tome-of-beasts]
+tags: [large, fiend, cr11, tome-of-beasts]
 cha: 13 (+1)
 wis: 11 (+0)
 int: 10 (+0)
 con: 17 (+3)
 dex: 13 (+1)
 str: 16 (+3)
-size: Large fiend (devil)
+size: Large fiend
 alignment: lawful evil
 challenge: "11 (7200 XP)"
 languages: "Infernal, telepathy 120 ft."

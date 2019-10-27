@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Shadow Fey Forest Hunter"
-tags: [medium, humanoid (elf), cr5, tome-of-beasts]
+tags: [medium, humanoid, cr5, tome-of-beasts]
 cha: 16 (+3)
 wis: 12 (+1)
 int: 11 (+0)
 con: 12 (+1)
 dex: 18 (+4)
 str: 12 (+1)
-size: Medium humanoid (elf)
+size: Medium humanoid
 alignment: lawful evil
 challenge: "5 (1800 XP)"
 languages: "Common, Elvish, Umbral"

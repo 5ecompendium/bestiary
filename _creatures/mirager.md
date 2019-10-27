@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Mirager"
-tags: [medium, fey (shapechanger), cr3, tome-of-beasts]
+tags: [medium, fey, cr3, tome-of-beasts]
 cha: 20 (+5)
 wis: 14 (+2)
 int: 10 (+0)
 con: 14 (+2)
 dex: 16 (+3)
 str: 12 (+1)
-size: Medium fey (shapechanger)
+size: Medium fey
 alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Common, Sylvan"

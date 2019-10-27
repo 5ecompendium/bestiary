@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Ratfolk"
-tags: [small, humanoid (ratfolk), cr1/4, tome-of-beasts]
+tags: [small, humanoid, cr1/4, tome-of-beasts]
 cha: 10 (+0)
 wis: 10 (+0)
 int: 14 (+2)
 con: 11 (+0)
 dex: 15 (+2)
 str: 7 (-2)
-size: Small humanoid (ratfolk)
+size: Small humanoid
 alignment: neutral
 challenge: "1/4 (50 XP)"
 languages: "Common"

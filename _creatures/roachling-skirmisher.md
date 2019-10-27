@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Roachling Skirmisher"
-tags: [small, humanoid (roachling), cr1/4, tome-of-beasts]
+tags: [small, humanoid, cr1/4, tome-of-beasts]
 cha: 8 (-1)
 wis: 9 (-1)
 int: 10 (+0)
 con: 11 (+0)
 dex: 14 (+2)
 str: 10 (+0)
-size: Small humanoid (roachling)
+size: Small humanoid
 alignment: chaotic neutral
 challenge: "1/4 (50 XP)"
 languages: "Common"

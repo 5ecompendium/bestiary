@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Rubezahl"
-tags: [medium, fiend (demon), cr10, tome-of-beasts]
+tags: [medium, fiend, cr10, tome-of-beasts]
 cha: 18 (+4)
 wis: 12 (+1)
 int: 11 (+0)
 con: 14 (+2)
 dex: 15 (+2)
 str: 20 (+5)
-size: Medium fiend (demon)
+size: Medium fiend
 alignment: chaotic evil
 challenge: "10 (5900 XP)"
 languages: "Abyssal, Common, telepathy 120 ft."

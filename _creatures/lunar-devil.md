@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Lunar Devil"
-tags: [large, fiend (devil), cr8, tome-of-beasts]
+tags: [large, fiend, cr8, tome-of-beasts]
 cha: 18 (+4)
 wis: 15 (+2)
 int: 16 (+3)
 con: 20 (+5)
 dex: 21 (+5)
 str: 21 (+5)
-size: Large fiend (devil)
+size: Large fiend
 alignment: lawful evil
 challenge: "8 (3900 XP)"
 languages: "Celestial, Draconic, Elvish, Infernal, Sylvan, telepathy 120 ft."

@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Hraesvelgr The Corpse Swallower"
-tags: [huge, giant (shapechanger, cr19, tome-of-beasts]
+tags: [huge, giant, cr19, tome-of-beasts]
 cha: 20 (+5)
 wis: 17 (+3)
 int: 16 (+3)
 con: 20 (+5)
 dex: 10 (+0)
 str: 25 (+7)
-size: Huge giant (shapechanger
+size: Huge giant
 alignment: titan), neutral
 challenge: "19 (22000 XP)"
 languages: "Auran, Common, Giant (can't speak in roc form)"

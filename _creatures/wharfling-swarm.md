@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Wharfling Swarm"
-tags: [large, swarm of Tiny beasts, cr4, tome-of-beasts]
+tags: [large, swarm, cr4, tome-of-beasts]
 cha: 7 (-2)
 wis: 12 (+1)
 int: 2 (-4)
 con: 8 (-1)
 dex: 16 (+3)
 str: 10 (+0)
-size: Large swarm of Tiny beasts
+size: Large swarm
 alignment: unaligned
 challenge: "4 (1100 XP)"
 languages: "--"

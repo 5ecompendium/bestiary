@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Morphoi"
-tags: [medium, plant (shapechanger), cr1/2, tome-of-beasts]
+tags: [medium, plant, cr1/2, tome-of-beasts]
 cha: 15 (+2)
 wis: 10 (+0)
 int: 14 (+2)
 con: 13 (+1)
 dex: 16 (+3)
 str: 11 (+0)
-size: Medium plant (shapechanger)
+size: Medium plant
 alignment: chaotic evil
 challenge: "1/2 (100 XP)"
 languages: "Common"

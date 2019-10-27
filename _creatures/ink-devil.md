@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Ink Devil"
-tags: [small, fiend (devil), cr2, tome-of-beasts]
+tags: [small, fiend, cr2, tome-of-beasts]
 cha: 18 (+4)
 wis: 8 (-1)
 int: 20 (+5)
 con: 12 (+1)
 dex: 18 (+4)
 str: 12 (+1)
-size: Small fiend (devil)
+size: Small fiend
 alignment: lawful evil
 challenge: "2 (450 XP)"
 languages: "Celestial, Common, Draconic, Infernal; telepathy (120 ft.)"

@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Kobold Alchemist"
-tags: [small, humanoid (kobold), cr2, tome-of-beasts]
+tags: [small, humanoid, cr2, tome-of-beasts]
 cha: 8 (-1)
 wis: 9 (-1)
 int: 16 (+3)
 con: 15 (+2)
 dex: 16 (+3)
 str: 7 (-2)
-size: Small humanoid (kobold)
+size: Small humanoid
 alignment: lawful neutral
 challenge: "2 (450 XP)"
 languages: "Common, Draconic"

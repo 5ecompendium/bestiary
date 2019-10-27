@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Trollkin Reaver"
-tags: [medium, humanoid (trollkin), cr4, tome-of-beasts]
+tags: [medium, humanoid, cr4, tome-of-beasts]
 cha: 13 (+1)
 wis: 12 (+1)
 int: 11 (+0)
 con: 16 (+3)
 dex: 13 (+1)
 str: 19 (+4)
-size: Medium humanoid (trollkin)
+size: Medium humanoid
 alignment: neutral
 challenge: "4 (1100 XP)"
 languages: "Common, Trollkin"

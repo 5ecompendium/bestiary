@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Lemurfolk Greyfur"
-tags: [small, humanoid (lemurfolk), cr4, tome-of-beasts]
+tags: [small, humanoid, cr4, tome-of-beasts]
 cha: 10 (+0)
 wis: 12 (+1)
 int: 16 (+3)
 con: 12 (+1)
 dex: 16 (+3)
 str: 9 (-1)
-size: Small humanoid (lemurfolk)
+size: Small humanoid
 alignment: neutral
 challenge: "4 (1100 XP)"
 languages: "Common, Lemurfolk"

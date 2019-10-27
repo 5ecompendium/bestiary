@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Kishi Demon"
-tags: [medium, fiend (demon), cr8, tome-of-beasts]
+tags: [medium, fiend, cr8, tome-of-beasts]
 cha: 22 (+6)
 wis: 11 (+0)
 int: 15 (+2)
 con: 19 (+4)
 dex: 20 (+5)
 str: 19 (+4)
-size: Medium fiend (demon)
+size: Medium fiend
 alignment: chaotic evil
 challenge: "8 (3900 XP)"
 languages: "Celestial, Common, Draconic, Infernal, telepathy"

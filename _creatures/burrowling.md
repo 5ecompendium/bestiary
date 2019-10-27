@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Burrowling"
-tags: [small, humanoid (burrowling), cr1/2, tome-of-beasts]
+tags: [small, humanoid, cr1/2, tome-of-beasts]
 cha: 13 (+1)
 wis: 12 (+1)
 int: 9 (-1)
 con: 12 (+1)
 dex: 16 (+3)
 str: 10 (+0)
-size: Small humanoid (burrowling)
+size: Small humanoid
 alignment: lawful neutral
 challenge: "1/2 (100 XP)"
 languages: "Common"

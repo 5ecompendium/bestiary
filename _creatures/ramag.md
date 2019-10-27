@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Ramag"
-tags: [medium, humanoid (ramag), cr1/4, tome-of-beasts]
+tags: [medium, humanoid, cr1/4, tome-of-beasts]
 cha: 11 (+0)
 wis: 12 (+1)
 int: 16 (+3)
 con: 10 (+0)
 dex: 14 (+2)
 str: 9 (-1)
-size: Medium humanoid (ramag)
+size: Medium humanoid
 alignment: neutral
 challenge: "1/4 (50 XP)"
 languages: "Common"

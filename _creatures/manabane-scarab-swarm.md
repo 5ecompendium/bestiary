@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Manabane Scarab Swarm"
-tags: [medium, swarm of Tiny beasts, cr4, tome-of-beasts]
+tags: [medium, swarm, cr4, tome-of-beasts]
 cha: 2 (-4)
 wis: 13 (+1)
 int: 1 (-5)
 con: 16 (+3)
 dex: 16 (+3)
 str: 3 (-4)
-size: Medium swarm of Tiny beasts
+size: Medium swarm
 alignment: unaligned
 challenge: "4 (1100 XP)"
 languages: "--"

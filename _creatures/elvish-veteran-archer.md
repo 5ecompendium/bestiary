@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Elvish Veteran Archer"
-tags: [m, Humanoid (elf), cr3, tome-of-beasts]
+tags: [medium, Humanoid, cr3, tome-of-beasts]
 cha: 11 (+0)
 wis: 13 (+1)
 int: 11 (+0)
 con: 12 (+1)
 dex: 16 (+3)
 str: 11 (+0)
-size: m Humanoid (elf)
+size: Medium Humanoid
 alignment: chaotic good or chaotic neutral
 challenge: "3 (700 XP)"
 languages: "Common, Elvish"

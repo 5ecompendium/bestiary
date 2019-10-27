@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Psoglav Demon"
-tags: [large, fiend (demon), cr7, tome-of-beasts]
+tags: [large, fiend, cr7, tome-of-beasts]
 cha: 18 (+4)
 wis: 19 (+4)
 int: 16 (+3)
 con: 20 (+5)
 dex: 23 (+6)
 str: 21 (+5)
-size: Large fiend (demon)
+size: Large fiend
 alignment: chaotic evil
 challenge: "7 (2900 XP)"
 languages: "Common, Infernal; telepathy 60 ft."

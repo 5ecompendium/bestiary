@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Derro Shadow Antipaladin"
-tags: [small, humanoid (derro), cr5, tome-of-beasts]
+tags: [small, humanoid, cr5, tome-of-beasts]
 cha: 14 (+2)
 wis: 5 (-3)
 int: 11 (+0)
 con: 18 (+4)
 dex: 18 (+4)
 str: 11 (+0)
-size: Small humanoid (derro)
+size: Small humanoid
 alignment: chaotic evil
 challenge: "5 (1800 XP)"
 languages: "Derro, Undercommon"

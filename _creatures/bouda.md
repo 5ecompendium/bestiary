@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Bouda"
-tags: [medium, fiend (shapechanger), cr5, tome-of-beasts]
+tags: [medium, fiend, cr5, tome-of-beasts]
 cha: 15 (+2)
 wis: 12 (+1)
 int: 10 (+0)
 con: 18 (+4)
 dex: 14 (+2)
 str: 19 (+4)
-size: Medium fiend (shapechanger)
+size: Medium fiend
 alignment: neutral evil
 challenge: "5 (1800 XP)"
 languages: "Common, Celestial, Infernal, Nurian; telepathy 100 ft."

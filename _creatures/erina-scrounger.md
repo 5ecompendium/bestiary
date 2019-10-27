@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Erina Scrounger"
-tags: [small, humanoid (erina), cr1/4, tome-of-beasts]
+tags: [small, humanoid, cr1/4, tome-of-beasts]
 cha: 11 (+0)
 wis: 10 (+0)
 int: 13 (+1)
 con: 14 (+2)
 dex: 12 (+1)
 str: 9 (-1)
-size: Small humanoid (erina)
+size: Small humanoid
 alignment: neutral
 challenge: "1/4 (50 XP)"
 languages: "Common, Erina"

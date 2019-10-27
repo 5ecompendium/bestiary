@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Mamura"
-tags: [small, aberration (fey), cr6, tome-of-beasts]
+tags: [small, aberration, cr6, tome-of-beasts]
 cha: 16 (+3)
 wis: 11 (+0)
 int: 17 (+3)
 con: 19 (+4)
 dex: 18 (+4)
 str: 8 (-1)
-size: Small aberration (fey)
+size: Small aberration
 alignment: neutral evil
 challenge: "6 (2300 XP)"
 languages: "Common, Elvish, Goblin, Sylvan, Void Speech"

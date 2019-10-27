@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Roachling Lord"
-tags: [small, humanoid (roachling), cr2, tome-of-beasts]
+tags: [small, humanoid, cr2, tome-of-beasts]
 cha: 10 (+0)
 wis: 10 (+0)
 int: 10 (+0)
 con: 12 (+1)
 dex: 16 (+3)
 str: 10 (+0)
-size: Small humanoid (roachling)
+size: Small humanoid
 alignment: chaotic neutral
 challenge: "2 (450 XP)"
 languages: "Common"

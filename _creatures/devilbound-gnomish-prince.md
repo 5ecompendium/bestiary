@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Devilbound Gnomish Prince"
-tags: [s, Humanoid (gnome), cr9, tome-of-beasts]
+tags: [small, Humanoid, cr9, tome-of-beasts]
 cha: 22 (+6)
 wis: 12 (+1)
 int: 16 (+3)
 con: 15 (+2)
 dex: 14 (+2)
 str: 10 (+0)
-size: s Humanoid (gnome)
+size: Small Humanoid
 alignment: any evil
 challenge: "9 (5000 XP)"
 languages: "Common, Infernal, Gnomish"

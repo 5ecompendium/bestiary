@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Salt Devil"
-tags: [medium, fiend (devil), cr6, tome-of-beasts]
+tags: [medium, fiend, cr6, tome-of-beasts]
 cha: 15 (+2)
 wis: 14 (+2)
 int: 13 (+1)
 con: 18 (+4)
 dex: 13 (+1)
 str: 18 (+4)
-size: Medium fiend (devil)
+size: Medium fiend
 alignment: lawful evil
 challenge: "6 (2300 XP)"
 languages: "Celestial, Common, Gnoll, Infernal, telepathy 120 ft."

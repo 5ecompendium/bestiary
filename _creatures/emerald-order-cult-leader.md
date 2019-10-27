@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Emerald Order Cult Leader"
-tags: [m, Humanoid (any race), cr8, tome-of-beasts]
+tags: [medium, Humanoid, cr8, tome-of-beasts]
 cha: 15 (+2)
 wis: 20 (+5)
 int: 15 (+2)
 con: 14 (+2)
 dex: 10 (+0)
 str: 10 (+0)
-size: m Humanoid (any race)
+size: Medium Humanoid
 alignment: lawful neutral or evil
 challenge: "8 (3900 XP)"
 languages: "any three languages"

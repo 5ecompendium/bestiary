@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Greater Death Butterfly Swarm"
-tags: [huge, swarm of tiny beasts, cr6, tome-of-beasts]
+tags: [huge, swarm, cr6, tome-of-beasts]
 cha: 12 (+1)
 wis: 15 (+2)
 int: 1 (-5)
 con: 10 (+0)
 dex: 16 (+3)
 str: 1 (-5)
-size: Huge swarm of tiny beasts
+size: Huge swarm
 alignment: chaotic evil
 challenge: "6 (2300 XP)"
 languages: "--"

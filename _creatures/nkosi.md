@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Nkosi"
-tags: [medium, humanoid (shapechanger, cr1/2, tome-of-beasts]
+tags: [medium, humanoid, cr1/2, tome-of-beasts]
 cha: 8 (-1)
 wis: 10 (+0)
 int: 10 (+0)
 con: 12 (+1)
 dex: 16 (+3)
 str: 16 (+3)
-size: Medium humanoid (shapechanger
+size: Medium humanoid
 alignment: nkosi), lawful neutral
 challenge: "1/2 (100 XP)"
 languages: "Common"

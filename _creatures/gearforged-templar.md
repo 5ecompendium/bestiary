@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Gearforged Templar"
-tags: [medium, humanoid (gearforged), cr6, tome-of-beasts]
+tags: [medium, humanoid, cr6, tome-of-beasts]
 cha: 10 (+0)
 wis: 16 (+3)
 int: 12 (+1)
 con: 15 (+2)
 dex: 9 (-1)
 str: 20 (+5)
-size: Medium humanoid (gearforged)
+size: Medium humanoid
 alignment: lawful neutral
 challenge: "6 (2300 XP)"
 languages: "Common"

@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Bear King"
-tags: [medium, fey (shapechanger), cr12, tome-of-beasts]
+tags: [medium, fey, cr12, tome-of-beasts]
 cha: 16 (+3)
 wis: 17 (+3)
 int: 12 (+1)
 con: 20 (+5)
 dex: 10 (+0)
 str: 21 (+5)
-size: Medium fey (shapechanger)
+size: Medium fey
 alignment: lawful neutral
 challenge: "12 (8400 XP)"
 languages: "Common, Elvish, Giant, Sylvan"

@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Arbeyach"
-tags: [large, fiend (devil), cr21, tome-of-beasts]
+tags: [large, fiend, cr21, tome-of-beasts]
 cha: 25 (+7)
 wis: 21 (+5)
 int: 19 (+4)
 con: 25 (+7)
 dex: 20 (+5)
 str: 22 (+6)
-size: Large fiend (devil)
+size: Large fiend
 alignment: lawful evil
 challenge: "21 (33000 XP)"
 languages: "Celestial, Common, Draconic, Infernal, telepathy 120 ft."

@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Subek"
-tags: [large, humanoid (subek), cr5, tome-of-beasts]
+tags: [large, humanoid, cr5, tome-of-beasts]
 cha: 13 (+1)
 wis: 13 (+1)
 int: 14 (+2)
 con: 18 (+4)
 dex: 10 (+0)
 str: 19 (+4)
-size: Large humanoid (subek)
+size: Large humanoid
 alignment: lawful neutral
 challenge: "5 (1800 XP)"
 languages: "Common"

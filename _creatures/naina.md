@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Naina"
-tags: [large, dragon (shapechanger), cr11, tome-of-beasts]
+tags: [large, dragon, cr11, tome-of-beasts]
 cha: 18 (+4)
 wis: 18 (+4)
 int: 15 (+2)
 con: 21 (+5)
 dex: 16 (+3)
 str: 20 (+5)
-size: Large dragon (shapechanger)
+size: Large dragon
 alignment: lawful evil
 challenge: "11 (7200 XP)"
 languages: "Common, Darakhul, Draconic, Elvish, Sylvan"

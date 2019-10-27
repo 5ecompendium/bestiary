@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Dust Goblin"
-tags: [small, humanoid (goblinoid), cr1/4, tome-of-beasts]
+tags: [small, humanoid, cr1/4, tome-of-beasts]
 cha: 8 (-1)
 wis: 8 (-1)
 int: 10 (+0)
 con: 14 (+2)
 dex: 16 (+3)
 str: 8 (-1)
-size: Small humanoid (goblinoid)
+size: Small humanoid
 alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "Common, Goblin"

@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Scorpion Cultist"
-tags: [medium, humanoid (any race), cr1/2, tome-of-beasts]
+tags: [medium, humanoid, cr1/2, tome-of-beasts]
 cha: 10 (+0)
 wis: 13 (+1)
 int: 10 (+0)
 con: 15 (+2)
 dex: 14 (+2)
 str: 11 (+0)
-size: Medium humanoid (any race)
+size: Medium humanoid
 alignment: neutral
 challenge: "1/2 (100 XP)"
 languages: "Common"

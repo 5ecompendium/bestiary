@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Spawn Of Arbeyach"
-tags: [medium, fiend (devil), cr5, tome-of-beasts]
+tags: [medium, fiend, cr5, tome-of-beasts]
 cha: 12 (+1)
 wis: 13 (+1)
 int: 10 (+0)
 con: 15 (+2)
 dex: 15 (+2)
 str: 18 (+4)
-size: Medium fiend (devil)
+size: Medium fiend
 alignment: lawful evil
 challenge: "5 (1800 XP)"
 languages: "Infernal"

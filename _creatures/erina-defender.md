@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Erina Defender"
-tags: [small, humanoid (erina), cr1, tome-of-beasts]
+tags: [small, humanoid, cr1, tome-of-beasts]
 cha: 11 (+0)
 wis: 12 (+1)
 int: 13 (+1)
 con: 14 (+2)
 dex: 14 (+2)
 str: 11 (+0)
-size: Small humanoid (erina)
+size: Small humanoid
 alignment: neutral
 challenge: "1 (200 XP)"
 languages: "Common, Erina"

@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Ancient Titan"
-tags: [gargantuan, celestial (titan), cr12, tome-of-beasts]
+tags: [gargantuan, celestial, cr12, tome-of-beasts]
 cha: 20 (+5)
 wis: 16 (+3)
 int: 16 (+3)
 con: 22 (+6)
 dex: 13 (+1)
 str: 27 (+8)
-size: Gargantuan celestial (titan)
+size: Gargantuan celestial
 alignment: neutral good
 challenge: "12 (8400 XP)"
 languages: "Common, Giant, Primordial, Titan, telepathy 120 ft."

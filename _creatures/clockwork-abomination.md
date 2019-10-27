@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Clockwork Abomination"
-tags: [large, construct (devil), cr5, tome-of-beasts]
+tags: [large, construct, cr5, tome-of-beasts]
 cha: 12 (+1)
 wis: 10 (+0)
 int: 10 (+0)
 con: 18 (+4)
 dex: 12 (+1)
 str: 21 (+5)
-size: Large construct (devil)
+size: Large construct
 alignment: lawful evil
 challenge: "5 (1800 XP)"
 languages: "Common, Infernal"

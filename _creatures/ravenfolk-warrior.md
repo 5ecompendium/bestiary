@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Ravenfolk Warrior"
-tags: [medium, humanoid (kenku), cr3, tome-of-beasts]
+tags: [medium, humanoid, cr3, tome-of-beasts]
 cha: 10 (+0)
 wis: 13 (+1)
 int: 10 (+0)
 con: 14 (+2)
 dex: 16 (+3)
 str: 12 (+1)
-size: Medium humanoid (kenku)
+size: Medium humanoid
 alignment: neutral
 challenge: "3 (700 XP)"
 languages: "Common, Feather Speech, Huginn"

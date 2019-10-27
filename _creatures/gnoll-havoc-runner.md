@@ -1,14 +1,14 @@
 ---
 layout: creature
 name: "Gnoll Havoc Runner"
-tags: [medium, humanoid (gnoll), cr3, tome-of-beasts]
+tags: [medium, humanoid, cr3, tome-of-beasts]
 cha: 9 (-1)
 wis: 12 (+1)
 int: 8 (-1)
 con: 14 (+2)
 dex: 14 (+2)
 str: 16 (+3)
-size: Medium humanoid (gnoll)
+size: Medium humanoid
 alignment: chaotic evil
 challenge: "3 (700 XP)"
 languages: "Gnoll"
