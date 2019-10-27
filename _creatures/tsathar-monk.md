@@ -69,3 +69,11 @@ tsathar’s next turn.
 reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage,
 and the target must succeed on a DC 14 Constitution saving
 throw or be stunned until the end of the tsathar’s next turn.
+
+### Reactions
+
+***Deflect Missiles.*** If the tsathar has one hand free, it
+can use its reaction in response to being hit with a ranged
+weapon attack. It reduces the damage by 14 (1d10 + 9). If it
+reduces the damage to 0, it can catch the missile if it is small
+enough for it to hold with one hand.
