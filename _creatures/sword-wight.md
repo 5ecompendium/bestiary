@@ -58,3 +58,9 @@ control at one time.
 
 ***Longbow.*** Ranged Weapon Attack: +4 to hit, range 150/600 ft., one
 target. Hit: 5 (1d8 + 1) piercing damage.
+
+### Reactions
+
+***Parry.*** The sword wight adds 2 to its AC against one melee attack
+that would hit it. To do so, the sword wight must see the attacker and be
+wielding a melee weapon.
