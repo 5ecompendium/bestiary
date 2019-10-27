@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "5 (1800 XP)"
 languages: "--"
 skills: "Perception +4, Stealth +7"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 damage_resistances: "acid"
 condition_immunities: "paralyzed"
 speed: "30 ft., fly 60 ft., swim 40 ft."

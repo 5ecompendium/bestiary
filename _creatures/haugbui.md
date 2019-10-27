@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "13 (10000 XP)"
 languages: "the languages it spoke in life; telepathy 120 ft."
 skills: "Arcana +7, History +7, Intimidation +8, Perception +10, Religion +12"
-senses: "truesight 60 ft."
+senses: "truesight 60 ft., passive Perception 20"
 saving_throws: "Dex +8, Con +9, Wis +10"
 damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical weapons"
 damage_resistances: "cold, lightning, necrotic"

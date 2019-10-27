@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "12 (8400 XP)"
 languages: "Common, Darakhul, Draconic, Dwarvish"
 skills: "Perception +6, Stealth +9"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 16"
 saving_throws: "Dex +9, Con +8, Wis +6, Cha +8"
 damage_immunities: "necrotic, poison"
 damage_resistances: "cold, lightning; bludgeoning, piercing, and slashing from nonmagical weapons"

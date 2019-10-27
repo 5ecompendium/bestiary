@@ -13,7 +13,7 @@ alignment: neutral good
 challenge: "12 (8400 XP)"
 languages: "Common, Giant, Primordial, Titan, telepathy 120 ft."
 skills: "Athletics +14, Intimidation +9, Perception +7"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 17"
 saving_throws: "Con +10, Wis +7, Cha +9"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 speed: "50 ft."

@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "5 (1800 XP)"
 languages: "Common, Sylvan"
 skills: "Deception +7, Persuasion +7, Stealth +6"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 damage_resistances: "bludgeoning, piercing, and slashing from"
 speed: "30 ft."
 hit_points: "65 (10d8 + 20)"

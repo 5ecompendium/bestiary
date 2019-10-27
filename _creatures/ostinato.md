@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "4 (1100 XP)"
 languages: "telepathy 200 ft."
 skills: "Perception +3"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 damage_vulnerabilities: "thunder"
 damage_immunities: "poison"
 damage_resistances: "acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons"

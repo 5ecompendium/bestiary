@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "4 (1100 XP)"
 languages: "understands an ancient language, but can't speak"
 skills: "Perception +4, Stealth +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 damage_immunities: "poison"
 damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical weapons"
 condition_immunities: "charmed, exhaustion, frightened, poisoned"

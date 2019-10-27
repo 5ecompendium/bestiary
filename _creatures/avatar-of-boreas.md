@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "17 (18000 XP)"
 languages: "Common, Dwarvish, Giant, Infernal"
 skills: "Deception +11, Nature +10, Perception +10, Stealth +12"
-senses: "darkvision 60 ft., truesight 120 ft."
+senses: "darkvision 60 ft., truesight 120 ft., passive Perception 20"
 saving_throws: "Dex +12, Wis +10, Cha +11"
 damage_immunities: "cold, lightning, poison, thunder"
 damage_resistances: "acid"

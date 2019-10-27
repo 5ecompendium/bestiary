@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "8 (3900 XP)"
 languages: "the languages it knew in life"
 skills: "History +3, Insight +6, Religion +3"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 saving_throws: "Int +3, Cha +5"
 damage_immunities: "necrotic, poison"
 damage_resistances: "cold, lightning; bludgeoning, piercing, and slashing from nonmagical weapons"

@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "12 (8400 XP)"
 languages: "Common, Draconic, Primordial"
 skills: "Acrobatics +5, Athletics +12, Insight +5, Perception +6"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 16"
 saving_throws: "Str +12, Dex +5, Int +6, Wis +5, Cha +6"
 damage_immunities: "lightning"
 condition_immunities: "paralyzed, prone"

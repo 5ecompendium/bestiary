@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "10 (5900 XP)"
 languages: "Common, Celestial, Draconic, Infernal"
 skills: "Athletics +9, Insight +7, Investigation +5, Perception +7"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 17"
 saving_throws: "Dex +6, Con +8, Wis +7, Cha +8"
 damage_immunities: "poison"
 damage_resistances: "acid, cold, lightning"

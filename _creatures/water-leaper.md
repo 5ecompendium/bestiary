@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: unaligned
 challenge: "4 (1100 XP)"
 languages: "--"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 speed: "5 ft., fly 50 ft., swim 40 ft."
 hit_points: "97 (13d10 + 26)"
 armor_class: "14 (natural armor)"

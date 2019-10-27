@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "9 (5000 XP)"
 languages: "understands all languages but can't speak, telepathy 120 ft."
 skills: "Deception +8, History +5, Insight +10, Perception +10"
-senses: "blindsight 60 ft. (blind beyond this radius), tremorsense 120 ft."
+senses: "blindsight 60 ft. (blind beyond this radius), tremorsense 120 ft., passive Perception 20"
 saving_throws: "Int +5, Wis +10, Cha +8"
 damage_vulnerabilities: "thunder"
 damage_immunities: "acid"

@@ -12,7 +12,7 @@ size: Medium humanoid
 alignment: lawful neutral
 challenge: "6 (2300 XP)"
 languages: "Common"
-senses: ""
+senses: ", passive Perception 13"
 saving_throws: "Dex +2, Con +5"
 damage_immunities: "poison"
 damage_resistances: "bludgeoning, piercing, and slashing damage from nonmagical weapons"

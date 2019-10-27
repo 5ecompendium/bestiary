@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "10 (5900 XP)"
 languages: "Common, Elvish, Sylvan"
 skills: "Intimidate +6, Stealth +7"
-senses: "blindsight 30 ft."
+senses: "blindsight 30 ft., passive Perception 12"
 saving_throws: "Wis +6"
 damage_resistances: "bludgeoning, piercing, and slashing from weapons that aren't made of cold iron"
 condition_immunities: "charmed, frightened"

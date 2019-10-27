@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "4 (1100 XP)"
 languages: "Celestial, Common; telepathy 100 ft."
 skills: "Deception +6, Persuasion +6, Stealth +6"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 saving_throws: "Wis +4, Cha +6"
 damage_resistances: "bludgeoning, piercing, and slashing damage from nonmagical weapons"
 speed: "20 ft., climb 20 ft."

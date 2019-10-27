@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "22 (41000 XP)"
 languages: "Common, Darakhul, Derro, Draconic, Dwarvish, Infernal, Nurian, Primordial, Void Speech; telepathy 300 ft."
 skills: "Acrobatics +13, Athletics +17, Deception +14, Insight +13, Intimidation +14, Perception +13"
-senses: "blindsight 120 ft., darkvision 40 ft."
+senses: "blindsight 120 ft., darkvision 40 ft., passive Perception 23"
 saving_throws: "Dex +13, Con +14, Wis +13, Cha +14"
 damage_vulnerabilities: "cold"
 damage_immunities: "fire, poison, thunder"

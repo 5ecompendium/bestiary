@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "2 (450 XP)"
 languages: "Behtu, Common, Infernal"
 skills: "Athletics +5, Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 saving_throws: "Dex +5"
 damage_resistances: "cold, fire, lightning"
 speed: "20 ft., climb 20 ft."

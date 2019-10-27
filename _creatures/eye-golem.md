@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "11 (7200 XP)"
 languages: "understands the language of its creator, but can't speak"
 skills: "Perception +8"
-senses: "truesight 120 ft."
+senses: "truesight 120 ft., passive Perception 18"
 damage_immunities: "fire, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 condition_immunities: "charmed, exhausted, frightened, paralyzed, petrified, poisoned"
 speed: "30 ft."

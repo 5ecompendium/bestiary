@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "4 (1100 XP)"
 languages: "--"
 skills: "Stealth +7"
-senses: "blindsight 100 ft."
+senses: "blindsight 100 ft., passive Perception 10"
 damage_vulnerabilities: "fire"
 damage_immunities: "cold"
 damage_resistances: "bludgeoning and piercing from nonmagical weapons"

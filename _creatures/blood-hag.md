@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "11 (7200 XP)"
 languages: "Common, Giant, Infernal, Sylvan, Trollkin"
 skills: "Deception +7, Intimidation +7, Perception +9, Stealth +7"
-senses: "blood sense 90 ft., darkvision 60 ft."
+senses: "blood sense 90 ft., darkvision 60 ft., passive Perception 19"
 saving_throws: "Dex +7, Con +8, Cha +7"
 condition_immunities: "charmed, poisoned"
 speed: "30 ft., climb 30 ft."

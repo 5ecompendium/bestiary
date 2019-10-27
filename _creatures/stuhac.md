@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "13 (10000 XP)"
 languages: "Common, Infernal; telepathy 100 ft."
 skills: "Deception +12"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 saving_throws: "Str +11, Dex +9, Con +10, Cha +7"
 damage_immunities: "cold, poison"
 damage_resistances: "acid, fire; bludgeoning and piercing from nonmagical weapons"

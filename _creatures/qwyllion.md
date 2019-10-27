@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "8 (3900 XP)"
 languages: "Common, Goblin, Infernal, Sylvan, Void Speech"
 skills: "Acrobatics +11, Perception +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 saving_throws: "Dex +8, Cha +6"
 damage_resistances: "acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons"
 speed: "30 ft."

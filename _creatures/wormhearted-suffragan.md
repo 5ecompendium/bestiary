@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "5 (1800 XP)"
 languages: "the languages it knew in life"
 skills: "Medicine +6, Religion +3"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 damage_vulnerabilities: "radiant"
 damage_resistances: "necrotic; bludgeoning, piercing, and slashing from nonmagical weapons"
 speed: " 30 ft."

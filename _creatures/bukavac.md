@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "9 (5000 XP)"
 languages: "Sylvan"
 skills: "Perception +10, Stealth +11"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 20"
 saving_throws: "Dex +7, Con +8"
 damage_immunities: "thunder"
 speed: "40 ft., swim 20 ft."

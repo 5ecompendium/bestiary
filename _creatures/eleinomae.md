@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "5 (1800 XP)"
 languages: "Aquan, Common, Elvish, Sylvan"
 skills: "Deception +7, Insight +5, Perception +5"
-senses: ""
+senses: ", passive Perception 15"
 saving_throws: "Str +4, Dex +7, Con +6, Int +5, Wis +5, Cha +7"
 speed: "30 ft., swim 30 ft."
 hit_points: "112 (15d8 + 45)"

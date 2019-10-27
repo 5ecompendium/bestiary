@@ -12,7 +12,7 @@ size: Large construct
 alignment: unaligned
 challenge: "7 (2900 XP)"
 languages: "understands the languages of its creator but can't speak"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 10"
 damage_immunities: "poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 speed: "20 ft."

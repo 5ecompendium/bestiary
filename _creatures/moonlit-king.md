@@ -13,7 +13,7 @@ alignment: neutral good
 challenge: "17 (18000 XP)"
 languages: "Abyssal, Celestial, Common, Draconic, Elvish, Infernal, Umbral; telepathy 100 ft."
 skills: "Arcana +11, Perception +10"
-senses: "blindsight 30 ft., darkvision 120 ft."
+senses: "blindsight 30 ft., darkvision 120 ft., passive Perception 20"
 saving_throws: "Con +10, Wis +10, Cha +11"
 damage_immunities: "cold, fire, poison"
 damage_resistances: "acid; bludgeoning, piercing, and slashing from weapons that aren't made of cold iron."

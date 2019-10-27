@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "17 (18000 XP)"
 languages: "Abyssal, Common, Celestial, Dwarvish, Infernal"
 skills: "Arcana +9, Insight +7, Perception +7"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 17"
 saving_throws: "Dex +7, Wis +7, Cha +11"
 damage_immunities: "necrotic; bludgeoning, piercing, and slashing damage from nonmagical weapons"
 damage_resistances: "cold, lightning"

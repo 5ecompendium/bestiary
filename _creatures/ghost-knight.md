@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "6 (2300 XP)"
 languages: "Common"
 skills: "Athletics +6, Animal Handling +3, Perception +3, Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 damage_immunities: "poison"
 damage_resistances: "necrotic"
 condition_immunities: "charmed, exhaustion, poisoned"

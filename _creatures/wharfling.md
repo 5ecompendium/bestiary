@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "1/8 (25 XP)"
 languages: "--"
 skills: "Perception +3, Sleight of Hand +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 speed: "30 ft., climb 30 ft., swim 20 ft."
 hit_points: "6 (4d4 . 4)"
 armor_class: "13"

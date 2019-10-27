@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "9 (5000 XP)"
 languages: "Common, Draconic, Void Speech"
 skills: "Arcana +10, History +10, Perception +8, Persuasion +8, Stealth +4"
-senses: ""
+senses: ", passive Perception 18"
 saving_throws: "Dex +4, Con +9, Wis +4, Cha +8"
 damage_immunities: "cold"
 condition_immunities: "charmed, frightened"

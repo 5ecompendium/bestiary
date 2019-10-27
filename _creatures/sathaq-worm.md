@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "10 (5900 XP)"
 languages: "understands Deep Speech and Terran, but can't speak"
 skills: "Perception +5, Stealth +2 (+6 in sand, mud, or"
-senses: "tremorsense 60 ft."
+senses: "tremorsense 60 ft., passive Perception 15"
 damage_vulnerabilities: "thunder"
 damage_immunities: "acid, poison"
 damage_resistances: "fire; bludgeoning, piercing, and slashing from nonmagical weapons"

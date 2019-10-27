@@ -12,7 +12,7 @@ size: Large plant
 alignment: unaligned
 challenge: "3 (700 XP)"
 languages: "understands Sylvan, but can't speak"
-senses: "blindsight 60 ft. (blind beyond this radius)"
+senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 10"
 damage_vulnerabilities: "fire"
 damage_resistances: "bludgeoning, piercing"
 condition_immunities: "blinded, deafened"

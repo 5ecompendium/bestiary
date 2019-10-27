@@ -12,7 +12,7 @@ size: Medium celestial
 alignment: chaotic neutral
 challenge: "5 (1800 XP)"
 languages: "Common, Celestial, Giant, Infernal, Umbral"
-senses: "truesight 60 ft."
+senses: "truesight 60 ft., passive Perception 12"
 saving_throws: "Dex +7, Cha +7"
 damage_immunities: "poison, psychic"
 damage_resistances: "cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons"

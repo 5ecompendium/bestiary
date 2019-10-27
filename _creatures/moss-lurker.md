@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "1 (200 XP)"
 languages: "Giant, Sylvan, Trollkin"
 skills: "Perception +2, Stealth +4"
-senses: "blindsight 60 ft."
+senses: "blindsight 60 ft., passive Perception 12"
 saving_throws: "Str +4, Dex +4"
 damage_immunities: "fire, poison"
 condition_immunities: "blind, poisoned"

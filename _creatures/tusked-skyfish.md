@@ -12,7 +12,7 @@ size: Large aberration
 alignment: lawful good
 challenge: "4 (1100 XP)"
 languages: "--"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 damage_immunities: "lightning"
 speed: "5 ft., fly 20 ft. (hover)"
 hit_points: "102 (12d10 + 36)"

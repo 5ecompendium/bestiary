@@ -13,7 +13,7 @@ alignment: good
 challenge: "5 (1800 XP)"
 languages: "understands Celestial and Common but can't speak"
 skills: "Perception +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 15"
 saving_throws: "Str +7, Con +5, Int +2, Wis +5"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 speed: "30 ft."

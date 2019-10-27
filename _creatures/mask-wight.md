@@ -12,7 +12,7 @@ size: Medium undead
 alignment: neutral evil
 challenge: "13 (10000 XP)"
 languages: "Common, Giant, Infernal"
-senses: "darkvision 60 ft., truesight 30 ft."
+senses: "darkvision 60 ft., truesight 30 ft., passive Perception 13"
 saving_throws: "Str +11, Dex +9, Con +12, Int +7, Wis +8, Cha +9"
 damage_vulnerabilities: "radiant"
 damage_immunities: "necrotic, poison"

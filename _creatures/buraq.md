@@ -13,7 +13,7 @@ alignment: lawful good
 challenge: "11 (7200 XP)"
 languages: "Celestial, Common, Primordial, telepathy 120 ft."
 skills: "History +8, Religion +8"
-senses: "truesight 120 ft."
+senses: "truesight 120 ft., passive Perception 14"
 saving_throws: "Con +9, Wis +8, Cha +9"
 damage_resistances: "radiant; bludgeoning, piercing, and slashing from nonmagical weapons"
 condition_immunities: "charmed, exhaustion, frightened"

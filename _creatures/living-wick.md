@@ -12,7 +12,7 @@ size: Small construct
 alignment: unaligned
 challenge: "1/4 (50 XP)"
 languages: "shares a telepathic link with the individual that lit its wick"
-senses: "sight 20 ft. (blind beyond the radius of its own light)"
+senses: "sight 20 ft. (blind beyond the radius of its own light), passive Perception 10"
 damage_vulnerabilities: "fire"
 damage_immunities: "poison, psychic"
 condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, petrified, poisoned, unconscious"

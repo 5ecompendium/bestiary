@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "1/2 (100 XP)"
 languages: "Common, Machine Speech"
 skills: "History +4, Investigation +4"
-senses: "blindsight 60 ft., truesight 10 ft."
+senses: "blindsight 60 ft., truesight 10 ft., passive Perception 11"
 damage_immunities: "poison"
 condition_immunities: "charmed, poisoned"
 speed: "30 ft."

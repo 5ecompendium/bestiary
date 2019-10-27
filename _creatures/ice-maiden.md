@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "6 (2300 XP)"
 languages: "Common, Giant, Sylvan"
 skills: "Deception +9, Persuasion +9, Stealth +6"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 saving_throws: "Con +5, Cha +9"
 damage_vulnerabilities: "fire"
 damage_immunities: "cold"

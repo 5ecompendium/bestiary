@@ -12,7 +12,7 @@ size: Tiny aberration
 alignment: neutral
 challenge: "1/4 (50 XP)"
 languages: "--"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 damage_immunities: "acid"
 condition_immunities: "prone"
 speed: "30 ft., fly 15 ft."

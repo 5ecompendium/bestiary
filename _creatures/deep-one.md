@@ -12,7 +12,7 @@ size: Medium humanoid
 alignment: chaotic evil
 challenge: "2 (450 XP)"
 languages: "Common, Void Speech"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 9"
 saving_throws: "Str +5, Con +4, Cha +3"
 damage_vulnerabilities: "fire"
 damage_resistances: "cold"

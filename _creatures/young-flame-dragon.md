@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "9 (5000 XP)"
 languages: "Common, Draconic, Ignan, Giant, Infernal, Orc"
 skills: "Deception +8, Insight +5, Perception +9, Persuasion +8, Stealth +6"
-senses: ""
+senses: ", passive Perception 19"
 saving_throws: "Dex +6, Con +8, Wis +5, Cha +8"
 damage_immunities: "fire"
 speed: "40 ft., climb 40 ft., fly 80 ft."

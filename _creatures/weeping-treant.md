@@ -12,7 +12,7 @@ size: Huge plant
 alignment: neutral
 challenge: "6 (2300 XP)"
 languages: "Common, Druidic, Elvish, Sylvan"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 damage_vulnerabilities: "fire"
 damage_resistances: "bludgeoning and piercing"
 speed: "30 ft."

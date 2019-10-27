@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "1 (200 XP)"
 languages: "understands the languages of its creator but can't speak"
 skills: "Perception +1, Stealth +2"
-senses: "darkvision 60 ft., blindsense 30 ft."
+senses: "darkvision 60 ft., blindsense 30 ft., passive Perception 11"
 damage_vulnerabilities: "bludgeoning"
 damage_immunities: "cold, necrotic, poison"
 condition_immunities: "exhaustion, poisoned"

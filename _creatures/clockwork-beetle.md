@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "1/2 (100 XP)"
 languages: "understands Common, telepathy 100 ft. (creator only)"
 skills: "Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 saving_throws: "Dex +5"
 damage_immunities: "poison, psychic"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"

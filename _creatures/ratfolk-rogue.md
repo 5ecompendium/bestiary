@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1 (200 XP)"
 languages: "Common, Thieves Cant"
 skills: "Acrobatics +5, Perception +2, Stealth +7"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 speed: "25 ft., swim 10 ft."
 hit_points: "18 (4d6 + 4)"
 armor_class: "15 (studded leather armor)"

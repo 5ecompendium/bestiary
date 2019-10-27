@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "3 (700 XP)"
 languages: "Gnoll"
 skills: "Athletics +5, Perception +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 15"
 speed: "30 ft."
 hit_points: "58 (9d8 + 18)"
 armor_class: "15 (chain shirt)"

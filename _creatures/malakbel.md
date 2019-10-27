@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "9 (5000 XP)"
 languages: "Abyssal, telepathy 120 ft."
 skills: "Perception +7"
-senses: "truesight 30 ft."
+senses: "truesight 30 ft., passive Perception 17"
 saving_throws: "Dex +7, Wis +7"
 damage_immunities: "fire, radiant, poison"
 damage_resistances: "cold, lightning; bludgeoning, piercing, and slashing damage from nonmagical weapons"

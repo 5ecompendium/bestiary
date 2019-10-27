@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "2 (450 XP)"
 languages: "understands Elvish and Umbral but can't speak"
 skills: "Stealth +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 speed: "50 ft."
 hit_points: "97 (13d10 + 26)"
 armor_class: "14 (natural)"

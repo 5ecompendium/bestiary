@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "1/2 (100 XP)"
 languages: "Common"
 skills: "Perception +3"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 speed: "30 ft., burrow 10 ft."
 hit_points: "27 (6d6 + 6)"
 armor_class: "13"

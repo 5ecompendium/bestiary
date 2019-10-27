@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "11 (7200 XP)"
 languages: "Celestial, Common, Infernal; telepathy 100 ft."
 skills: "Arcana +7, Athletics +10, History +7, Perception +8"
-senses: ""
+senses: ", passive Perception 18"
 saving_throws: "Dex +4, Wis +8"
 damage_immunities: "fire, lightning, poison"
 damage_resistances: "bludgeoning, piercing, and slashing damage from nonmagical weapons"

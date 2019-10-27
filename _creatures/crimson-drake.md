@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "1 (200 XP)"
 languages: "Common, Draconic, telepathy 60 ft."
 skills: "Acrobatics +4, Perception +1"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 saving_throws: "Dex +4"
 damage_immunities: "fire"
 condition_immunities: "paralyzed, unconscious"

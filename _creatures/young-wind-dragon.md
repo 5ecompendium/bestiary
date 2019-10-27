@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "6 (2300 XP)"
 languages: "Common, Draconic, Primordial"
 skills: "Perception +7, Stealth +7"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 17"
 saving_throws: "Dex +7, Con +7, Wis +4, Cha +6"
 damage_immunities: "lightning"
 condition_immunities: "charmed, exhausted, paralyzed, restrained"

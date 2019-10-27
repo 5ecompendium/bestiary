@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "5 (1800 XP)"
 languages: "Common, Gnoll, Sylvan, Void Speech"
 skills: "Acrobatics +11, Perception +3, Stealth +11"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 saving_throws: "Dex +8"
 speed: "20 ft., fly 60 ft."
 hit_points: "82 (15d6 + 30)"

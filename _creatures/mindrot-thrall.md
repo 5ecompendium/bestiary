@@ -12,7 +12,7 @@ size: Medium plant
 alignment: neutral
 challenge: "3 (700 XP)"
 languages: "understands Common but cannot speak"
-senses: "tremorsense 30 ft."
+senses: "tremorsense 30 ft., passive Perception 12"
 saving_throws: "Con +5"
 damage_immunities: "acid, poison"
 damage_resistances: "bludgeoning and piercing from nonmagical weapons"

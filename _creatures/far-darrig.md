@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "3 (700 XP)"
 languages: "Common, Elvish, Sylvan"
 skills: "Nature +4, Animal Handling +6, Medicine +6, Perception +6, Survival +6"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 16"
 saving_throws: "Dex +5, Con +7, Cha +7"
 speed: "20 ft."
 hit_points: "104 (16d6 + 48)"

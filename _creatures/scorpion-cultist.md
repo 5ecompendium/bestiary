@@ -13,6 +13,7 @@ alignment: neutral
 challenge: "1/2 (100 XP)"
 languages: "Common"
 skills: "Animal Handling +2, Deception +2, Perception +3, Stealth +4"
+senses: "passive Perception 15"
 damage_resistances: "poison"
 speed: "30 ft."
 hit_points: "19 (3d8 + 6)"

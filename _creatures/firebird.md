@@ -13,7 +13,7 @@ alignment: neutral good
 challenge: "4 (1100 XP)"
 languages: "Celestial, Common, Elvish, Primordial, Sylvan"
 skills: "Acrobatics +6, Arcana +5, Insight +4, Medicine +4, Nature +5, Perception +7, Religion +5"
-senses: "truesight 60 ft."
+senses: "truesight 60 ft., passive Perception 17"
 saving_throws: "Dex +6, Con +4, Int +5, Wis +4, Cha +7"
 damage_immunities: "fire"
 damage_resistances: "lightning; bludgeoning, piercing, and slashing from nonmagical weapons"

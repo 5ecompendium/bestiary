@@ -12,7 +12,7 @@ size: Large fiend
 alignment: lawful evil
 challenge: "11 (7200 XP)"
 languages: "Infernal, telepathy 120 ft."
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 10"
 saving_throws: "Con +7, Wis +4, Cha +5"
 damage_immunities: "fire, poison"
 damage_resistances: "cold; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"

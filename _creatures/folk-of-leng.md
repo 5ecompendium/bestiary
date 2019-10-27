@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Common, Void Speech"
 skills: "Arcana +4, Deception +8, Perception +5"
-senses: ""
+senses: ", passive Perception 15"
 saving_throws: "Dex +4, Wis +5"
 damage_immunities: "necrotic"
 damage_resistances: "cold"

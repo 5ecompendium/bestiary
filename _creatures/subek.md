@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "5 (1800 XP)"
 languages: "Common"
 skills: "History +5, Investigation +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 speed: "30 ft., swim 20 ft."
 hit_points: "76 (8d10 + 32)"
 armor_class: "17 (natural armor)"

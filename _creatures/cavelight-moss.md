@@ -12,7 +12,7 @@ size: Large plant
 alignment: neutral
 challenge: "4 (1100 XP)"
 languages: "--"
-senses: "tremorsense 60 ft."
+senses: "tremorsense 60 ft., passive Perception 11"
 damage_resistances: "acid, cold, fire; slashing from nonmagical weapons"
 condition_immunities: "charmed, deafened, frightened, paralyzed, prone, stunned, unconscious"
 speed: "5 ft., climb 5 ft."

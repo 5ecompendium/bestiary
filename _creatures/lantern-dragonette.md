@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "1/2 (100 XP)"
 languages: "Common, Draconic, Elvish, Primordial; telepathy 60 ft."
 skills: "Arcana +5, History +5, Nature +5, Perception +3, Religion +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 saving_throws: "Dex +3, Wis +3, Cha +3"
 condition_immunities: "paralyzed, unconscious"
 speed: "15 ft., fly 40 ft. (hover)"

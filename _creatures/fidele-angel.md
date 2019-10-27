@@ -13,7 +13,7 @@ alignment: lawful good
 challenge: "5 (1800 XP)"
 languages: "Common, Celestial, Infernal"
 skills: "Insight +6, Perception +6"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 16"
 saving_throws: "Dex +7, Con +5, Int +5, Wis +6, Cha +7"
 damage_immunities: "acid, cold"
 damage_resistances: "fire, lightning, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons"

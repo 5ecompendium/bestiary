@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "4 (1100 XP)"
 languages: "Dwarvish, Giant"
 skills: "Perception +3"
-senses: ""
+senses: ", passive Perception 13"
 saving_throws: "Con +5"
 damage_immunities: "poison"
 condition_immunities: "poisoned"

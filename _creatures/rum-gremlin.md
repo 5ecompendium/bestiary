@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "1/2 (100 XP)"
 languages: "Common"
 skills: "Stealth +5"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 10"
 condition_immunities: "poisoned"
 speed: "20 ft., climb 10 ft., swim 10 ft."
 hit_points: "22 (5d4 + 10)"

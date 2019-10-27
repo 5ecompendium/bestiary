@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "1/4 (50 XP)"
 languages: "--"
 skills: "Stealth +7"
-senses: "blindsight 60 ft. (blind beyond this radius)"
+senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
 damage_resistances: "acid"
 condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
 speed: "20 ft., climb 20 ft., swim 20 ft."

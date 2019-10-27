@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "1 (200 XP)"
 languages: "Common, Eonic, Giant, Sylvan"
 skills: "Arcana +6, History +6"
-senses: ""
+senses: ", passive Perception 10"
 speed: "30 ft."
 hit_points: "65 (10d8 + 20)"
 armor_class: "13 (leather armor)"

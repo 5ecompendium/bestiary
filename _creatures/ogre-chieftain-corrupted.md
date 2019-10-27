@@ -12,7 +12,7 @@ size: Large giant
 alignment: chaotic evil
 challenge: "6 (2300 XP)"
 languages: "Common, Giant"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 8"
 saving_throws: "Str +8, Con +6, Cha +2"
 speed: "40 ft."
 hit_points: "127 (15d10 + 45)"

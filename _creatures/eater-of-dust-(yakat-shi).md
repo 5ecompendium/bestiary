@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "9 (5000 XP)"
 languages: "understands Abyssal, Common, Infernal, Void Speech, but cannot speak; telepathy 100 ft."
 skills: "Athletics +9, Intimidate +7, Perception +6"
-senses: "blindsight 60 ft"
+senses: "blindsight 60 ft, passive Perception 16"
 saving_throws: "Str +9, Con +9, Cha +7"
 damage_immunities: "bludgeoning, piercing, poison and slashing from nonmagical weapons"
 damage_resistances: "acid, cold"

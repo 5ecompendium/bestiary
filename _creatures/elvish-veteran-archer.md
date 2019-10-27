@@ -13,6 +13,7 @@ alignment: chaotic good or chaotic neutral
 challenge: "3 (700 XP)"
 languages: "Common, Elvish"
 skills: "Nature +2, Perception +5, Stealth +5, Survival +3"
+senses: "passive Perception 15"
 speed: "30 ft."
 hit_points: "77 (14d8+14)"
 armor_class: "15 (studded leather)"

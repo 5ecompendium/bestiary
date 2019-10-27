@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "8 (3900 XP)"
 languages: "--"
 skills: "Perception +4"
-senses: "darkvision 60 ft., tremorsense 30 ft."
+senses: "darkvision 60 ft., tremorsense 30 ft., passive Perception 14"
 damage_immunities: "acid"
 condition_immunities: "prone"
 speed: "10 ft."

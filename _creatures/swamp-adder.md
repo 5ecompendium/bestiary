@@ -12,7 +12,7 @@ size: Small beast
 alignment: unaligned
 challenge: "1/4 (50 XP)"
 languages: "--"
-senses: "blindsight 10 ft."
+senses: "blindsight 10 ft., passive Perception 10"
 speed: "30 ft."
 hit_points: "18 (4d6 + 4)"
 armor_class: "13"

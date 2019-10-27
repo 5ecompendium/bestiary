@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "5 (1800 XP)"
 languages: "Common, Abyssal, Giant"
 skills: "Performance +7, Stealth +6"
-senses: "blindsight 60 ft."
+senses: "blindsight 60 ft., passive Perception 12"
 damage_vulnerabilities: "thunder"
 speed: "20 ft., fly 80 ft. (hover)."
 hit_points: "112 (15d8 + 45)"

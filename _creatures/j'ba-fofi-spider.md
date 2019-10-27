@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "3 (700 XP)"
 languages: "--"
 skills: "Stealth +5"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 11"
 speed: "40 ft., climb 40 ft."
 hit_points: "75 (10d10 + 20)"
 armor_class: "18 (natural armor)"

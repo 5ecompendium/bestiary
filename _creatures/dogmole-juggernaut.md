@@ -12,7 +12,7 @@ size: Large monstrosity
 alignment: neutral
 challenge: "5 (1800 XP)"
 languages: "--"
-senses: "blindsight 30 ft."
+senses: "blindsight 30 ft., passive Perception 10"
 saving_throws: "Con +11"
 speed: "30 ft., burrow 10 ft., swim 10 ft."
 hit_points: "126 (12d10 + 60)"

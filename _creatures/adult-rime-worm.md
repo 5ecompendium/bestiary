@@ -12,7 +12,7 @@ size: Large elemental
 alignment: neutral
 challenge: "6 (2300 XP)"
 languages: "--"
-senses: "darkvision 200 ft."
+senses: "darkvision 200 ft., passive Perception 12"
 saving_throws: "Str +8, Con +8"
 damage_immunities: "cold, necrotic"
 speed: "30 ft., swim 30 ft, burrow (snow, ice) 30 ft."

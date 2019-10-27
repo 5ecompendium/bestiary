@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "6 (2300 XP)"
 languages: "Common, Giant, Ravenfolk, Sylvan"
 skills: "Perception +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 saving_throws: "Dex +7, Con +6, Wis +4, Cha +5"
 speed: "40 ft., fly 30 ft."
 hit_points: "120 (16d8 + 48)"

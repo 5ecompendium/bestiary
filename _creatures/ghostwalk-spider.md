@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "9 (5000 XP)"
 languages: "understands Undercommon but can't speak"
 skills: "Perception +6"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 16"
 saving_throws: "Dex +9, Cha +3"
 damage_immunities: "poison"
 condition_immunities: "poisoned"

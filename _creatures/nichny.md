@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "6 (2300 XP)"
 languages: "Elvish, Primordial, Sylvan, Void Speech"
 skills: "Acrobatics +7, Insight +7, Perception +7"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 17"
 saving_throws: "Dex +7"
 damage_immunities: "poison"
 damage_resistances: "acid, cold, fire, lightning; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"

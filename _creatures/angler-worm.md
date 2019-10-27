@@ -12,7 +12,7 @@ size: Huge monstrosity
 alignment: unaligned
 challenge: "4 (1100 XP)"
 languages: "--"
-senses: "tremorsense 60 ft."
+senses: "tremorsense 60 ft., passive Perception 12"
 damage_immunities: "poison"
 condition_immunities: "blinded, charmed, deafened, poisoned, prone"
 speed: "20 ft., climb 20 ft."

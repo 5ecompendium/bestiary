@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "12 (8400 XP)"
 languages: "Celestial, telepathy (100 ft.)"
 skills: "History +8, Insight +15, Perception +15"
-senses: "truesight 60 ft."
+senses: "truesight 60 ft., passive Perception 25"
 saving_throws: "Int +8, Wis +10, Cha +10"
 damage_immunities: "fire, lightning, psychic"
 damage_resistances: "radiant"

@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "21 (33000 XP)"
 languages: "Celestial, Common, Elvish, Sylvan, Umbral; telepathy 120 ft."
 skills: "Arcana +12, Deception +15, Intimidation +15, Perception +11, Stealth +12"
-senses: "truesight 120 ft."
+senses: "truesight 120 ft., passive Perception 21"
 saving_throws: "Con +10, Wis +11"
 damage_immunities: "cold; bludgeoning, piercing, and slashing from weapons that aren't made of cold iron"
 damage_resistances: "fire, lightning"

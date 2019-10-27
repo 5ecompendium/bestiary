@@ -12,7 +12,7 @@ size: Medium humanoid
 alignment: chaotic good
 challenge: "3 (700 XP)"
 languages: "Common, Giant"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 speed: "40 ft."
 hit_points: "45 (6d8 + 18)"
 armor_class: "14 (hide armor)"

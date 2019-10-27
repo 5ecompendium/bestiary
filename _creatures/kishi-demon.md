@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "8 (3900 XP)"
 languages: "Celestial, Common, Draconic, Infernal, telepathy"
 skills: "Deception +9, Perception +3, Performance +9"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 13"
 saving_throws: "Dex +8, Con +7, Wis +3"
 damage_immunities: "poison"
 damage_resistances: "cold, fire, lightning, poison; bludgeoning, piercing, and slashing from nonmagical weapons"

@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "15 (13000 XP)"
 languages: "Common, Primordial"
 skills: "Deception +8"
-senses: "darkvision 60 ft., tremorsense 60 ft."
+senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 12"
 damage_immunities: "acid"
 damage_resistances: "bludgeoning from nonmagical weapons"
 condition_immunities: "prone"

@@ -12,7 +12,7 @@ size: Medium swarm
 alignment: unaligned
 challenge: "2 (450 XP)"
 languages: "--"
-senses: ""
+senses: ", passive Perception 11"
 damage_resistances: "bludgeoning, piercing, slashing"
 condition_immunities: "charmed, frightened, paralyzed, petrified, prone, stunned"
 speed: "30 ft."

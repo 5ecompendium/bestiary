@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "18 (20000 XP)"
 languages: "Celestial, Common, Draconic, Primordial"
 skills: "Athletics +15, History +13, Insight +13, Intimidation +13, Perception +13, Persuasion +13"
-senses: "blindsight 60 ft., darkvision 120 ft."
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 23"
 saving_throws: "Dex +9, Con +13, Int +13, Wis +13, Cha +13"
 damage_immunities: "acid, thunder"
 damage_resistances: "bludgeoning, piercing, and slashing from"

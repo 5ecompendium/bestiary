@@ -12,7 +12,7 @@ size: Medium plant
 alignment: lawful neutral
 challenge: "7 (2900 XP)"
 languages: "Common"
-senses: "blindsight 30 ft. (blind beyond this radius)"
+senses: "blindsight 30 ft. (blind beyond this radius), passive Perception 13"
 saving_throws: "Con +6, Wis +6, Cha +7"
 damage_vulnerabilities: "fire"
 condition_immunities: "blinded, deafened"

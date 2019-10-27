@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "9 (5000 XP)"
 languages: "Ancient language of DM's choice"
 skills: "Arcana +4, History +4, Perception +8"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 18"
 saving_throws: "Dex +7, Cha +3"
 damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical weapons"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"

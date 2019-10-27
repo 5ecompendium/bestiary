@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "7 (2900 XP)"
 languages: "the languages it knew in life"
 skills: "Perception +6, Stealth +8"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 16"
 saving_throws: "Dex +8, Con +6, Wis +6"
 damage_immunities: "necrotic, poison"
 damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"

@@ -12,7 +12,7 @@ size: Medium fey
 alignment: chaotic neutral
 challenge: "6 (2300 XP)"
 languages: "Common"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 damage_resistances: "thunder"
 condition_immunities: "charmed, frightened"
 speed: "30 ft., fly 10 ft."

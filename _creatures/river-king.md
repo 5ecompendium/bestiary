@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "16 (15000 XP)"
 languages: "Common, Elemental, Elvish, Giant"
 skills: "Intimidation +8, Nature +7, Perception +6, Stealth +8"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 16"
 saving_throws: "Dex +8, Con +10, Wis +6"
 damage_immunities: "lightning"
 damage_resistances: "fire, cold, thunder; bludgeoning, piercing, and slashing damage from weapons that aren't cold iron"

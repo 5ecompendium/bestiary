@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Primordial"
 skills: "Perception +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 15"
 damage_immunities: "fire, poison"
 condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"
 speed: "40 ft."

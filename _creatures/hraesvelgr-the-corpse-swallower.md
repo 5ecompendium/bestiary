@@ -13,7 +13,7 @@ alignment: titan), neutral
 challenge: "19 (22000 XP)"
 languages: "Auran, Common, Giant (can't speak in roc form)"
 skills: "Athletics +13, Perception +9, Survival +9"
-senses: ""
+senses: ", passive Perception 19"
 saving_throws: "Dex +6, Int +9, Wis +9, Cha +11"
 damage_immunities: "cold; bludgeoning, piercing, and slashing from nonmagical weapons"
 damage_resistances: "lightning, thunder"

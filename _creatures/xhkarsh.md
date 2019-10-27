@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "8 (3900 XP)"
 languages: "Common, Deep Speech, Undercommon"
 skills: "Insight + 6, Perception +6, Stealth +8"
-senses: "darkvision 60 ft., tremorsense 120 ft."
+senses: "darkvision 60 ft., tremorsense 120 ft., passive Perception 16"
 saving_throws: "Cha +5"
 speed: "50 ft., climb 30 ft."
 hit_points: "133 (14d10 + 56)"

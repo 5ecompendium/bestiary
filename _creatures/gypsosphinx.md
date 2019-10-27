@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "14 (11500 XP)"
 languages: "Abyssal, Common, Darakhul, Sphinx"
 skills: "Arcana +9, History +9, Perception +9, Religion +9"
-senses: "truesight 90 ft."
+senses: "truesight 90 ft., passive Perception 19"
 damage_immunities: "psychic, poison"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 condition_immunities: "poisoned"

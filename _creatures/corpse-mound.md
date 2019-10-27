@@ -12,7 +12,7 @@ size: Huge undead
 alignment: neutral evil
 challenge: "11 (7200 XP)"
 languages: "Understands Common but can't speak"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 saving_throws: "Con +9, Int +3, Wis +4"
 damage_immunities: "poison"
 damage_resistances: "necrotic"

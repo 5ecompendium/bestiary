@@ -12,7 +12,7 @@ size: Small fey
 alignment: chaotic evil
 challenge: "6 (2300 XP)"
 languages: "Common, Darakhul, Elvish"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 saving_throws: "Str +10, Con +10"
 condition_immunities: "unconscious"
 speed: "20 ft., climb 15 ft."

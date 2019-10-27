@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "19 (22000 XP)"
 languages: "Void Speech"
 skills: "Perception +9"
-senses: "darkvision 120 ft., tremorsense 60 ft."
+senses: "darkvision 120 ft., tremorsense 60 ft., passive Perception 19"
 damage_immunities: " cold, thunder, slashing"
 damage_resistances: "fire, bludgeoning, piercing"
 condition_immunities: " blinded, deafened, prone, stunned, unconscious"

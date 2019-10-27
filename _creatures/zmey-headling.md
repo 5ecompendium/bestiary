@@ -12,7 +12,7 @@ size: Medium dragon
 alignment: chaotic evil
 challenge: "5 (1800 XP)"
 languages: "Common, Draconic, Sylvan"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 damage_resistances: "cold, fire"
 condition_immunities: "paralyzed, unconscious"
 speed: "30 ft., swim 20 ft."

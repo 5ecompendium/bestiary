@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "15 (13000 XP)"
 languages: "Celestial, Common, Draconic, Dwarvish, Elvish, Infernal, Primordial"
 skills: "Arcana +8, History +8, Insight +12, Perception +12, Religion +8"
-senses: "truesight 120 ft."
+senses: "truesight 120 ft., passive Perception 22"
 saving_throws: "Dex +8, Con +10, Int +8, Wis +12, Cha +10"
 damage_immunities: "cold, fire; bludgeoning, piercing, and slashing from nonmagical weapons"
 condition_immunities: "charmed, frightened, paralyzed, unconscious"

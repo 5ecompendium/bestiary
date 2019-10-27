@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "7 (2900 XP)"
 languages: "Common, Druidic, Giant"
 skills: "Arcana +9, Deception +5, Insight +7, Perception +9"
-senses: "blood sense 90 ft., darkvision 60 ft."
+senses: "blood sense 90 ft., darkvision 60 ft., passive Perception 16"
 condition_immunities: "charmed, poisoned"
 speed: "30 ft., swim 30 ft."
 hit_points: "119 (14d8 + 56)"

@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "2 (450 XP)"
 languages: "Sylvan"
 skills: "Perception +3, Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 speed: "30 ft., swim 40 ft."
 hit_points: "77 (14d8 + 14)"
 armor_class: "14 (natural armor)"

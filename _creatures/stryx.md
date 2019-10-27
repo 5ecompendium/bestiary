@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1/8 (25 XP)"
 languages: "Common, Elvish"
 skills: "Perception +4, Stealth +5"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 14"
 speed: "10 ft., fly 60 ft."
 hit_points: "10 (4d4)"
 armor_class: "13"

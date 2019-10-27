@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "2 (450 XP)"
 languages: "Common"
 skills: "Acrobatics +5, Stealth +7"
-senses: "darkvision 60 ft., tremorsense 10 ft."
+senses: "darkvision 60 ft., tremorsense 10 ft., passive Perception 9"
 saving_throws: "Dexterity +5, Constitution +3"
 speed: "25 ft."
 hit_points: "63 (14d6 + 14)"

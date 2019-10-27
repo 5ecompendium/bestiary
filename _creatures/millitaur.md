@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "3 (700 XP)"
 languages: "Common"
 skills: "Acrobatics +4"
-senses: "darkvision 60 ft., tremorsense 30 ft."
+senses: "darkvision 60 ft., tremorsense 30 ft., passive Perception 11"
 damage_resistances: "poison; bludgeoning and slashing from nonmagical weapons"
 condition_immunities: "prone"
 speed: "40 ft., burrow 20 ft., climb 30 ft."

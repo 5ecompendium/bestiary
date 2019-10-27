@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "2 (450 XP)"
 languages: "understands Common but can't speak"
 skills: "Stealth +3"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 damage_immunities: "poison, psychic"
 damage_resistances: "fire"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"

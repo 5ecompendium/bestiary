@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "1 (200 XP)"
 languages: "--"
 skills: "Perception +2, Stealth +4"
-senses: "Blindsight 30 ft."
+senses: "Blindsight 30 ft., passive Perception 12"
 speed: "30 ft, swim 50 ft"
 hit_points: "45 (7d10 + 7)"
 armor_class: "15 (natural armor)"

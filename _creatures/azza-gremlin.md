@@ -12,7 +12,7 @@ size: Small fey
 alignment: neutral
 challenge: "1/4 (50 XP)"
 languages: "Common, Primordial"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 11"
 damage_immunities: "lightning, thunder"
 speed: "10 ft., fly 40 ft. (hover)"
 hit_points: "7 (2d6)"

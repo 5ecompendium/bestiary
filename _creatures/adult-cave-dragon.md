@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "16 (15000 XP)"
 languages: "Common, Darakhul, Draconic, Dwarvish, Goblin"
 skills: "Perception +10"
-senses: "blindsight 120 ft."
+senses: "blindsight 120 ft., passive Perception 20"
 saving_throws: "Dex +6, Con +12, Wis +6, Cha +10"
 damage_immunities: "acid, poison, thunder"
 condition_immunities: "poisoned"

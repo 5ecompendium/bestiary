@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "6 (2300 XP)"
 languages: "telepathy 100 ft."
 skills: "Arcana +7, History +7, Insight +6, Religion +7"
-senses: "truesight 60 ft."
+senses: "truesight 60 ft., passive Perception 13"
 saving_throws: "Con +5"
 condition_immunities: "charmed, unconscious"
 speed: "40 ft., climb 40 ft."

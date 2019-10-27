@@ -12,7 +12,7 @@ size: Tiny beast
 alignment: unaligned
 challenge: "1/4 (50 XP)"
 languages: "--"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 damage_immunities: "psychic"
 condition_immunities: "charmed, frightened"
 speed: "30 ft., swim 20 ft."

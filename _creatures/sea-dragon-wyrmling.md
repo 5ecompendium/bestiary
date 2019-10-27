@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Common, Draconic, Primordial"
 skills: "Perception +4, Stealth +2"
-senses: "blindsight 10 ft. darkvision 60 ft."
+senses: "blindsight 10 ft. darkvision 60 ft., passive Perception 14"
 saving_throws: "Dex +2, Con +4, Wis +2, Cha +4"
 damage_immunities: "cold"
 speed: "30 ft., fly 60 ft., swim 40 ft."

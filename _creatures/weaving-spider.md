@@ -12,7 +12,7 @@ size: Tiny construct
 alignment: unaligned
 challenge: "1 (200 XP)"
 languages: "understands Common"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 damage_immunities: "poison"
 condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, paralyzed, poisoned"
 speed: "40 ft., climb 40 ft."

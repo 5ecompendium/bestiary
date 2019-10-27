@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "6 (2300 XP)"
 languages: "Common, Giant, Goblin, telepathy 200 ft. (with falsemen only)"
 skills: "Perception +5, Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 15"
 damage_vulnerabilities: "radiant; silvered weapons"
 damage_resistances: "lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 speed: "20 ft. (bipedal), 40 ft. (quadrupedal)"

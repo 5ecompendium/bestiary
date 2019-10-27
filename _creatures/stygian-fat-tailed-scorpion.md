@@ -12,7 +12,7 @@ size: Tiny beast
 alignment: unaligned
 challenge: "3 (700 XP)"
 languages: "--"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 speed: "30 ft., climb 20 ft."
 hit_points: "10 (4d4)"
 armor_class: "14 (natural armor)"

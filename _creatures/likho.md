@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "6 (2300 XP)"
 languages: "Common, Goblin, Void Speech"
 skills: "Acrobatics +7, Perception +6, Stealth +10"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 16"
 saving_throws: "Dex +7, Cha +8"
 speed: "40 ft."
 hit_points: "90 (12d8 + 36)"

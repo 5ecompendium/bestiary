@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "17 (18000 XP)"
 languages: "Primordial"
 skills: "Nature +6, Perception +6"
-senses: "darkvision 120 ft., tremorsense 120 ft."
+senses: "darkvision 120 ft., tremorsense 120 ft., passive Perception 16"
 saving_throws: "Int +6, Wis +6, Cha +6"
 damage_immunities: "acid, cold, fire, lightning, poison, thunder; bludgeoning, piercing, and slashing from nonmagical weapons"
 damage_resistances: "bludgeoning, piercing, and slashing"

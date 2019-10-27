@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1/8 (25 XP)"
 languages: "understands Common; telepathy (touch)"
 skills: "Perception +5, Stealth +9"
-senses: ""
+senses: ", passive Perception 15"
 damage_resistances: "acid, fire, poison"
 speed: "10 ft., fly 40 ft."
 hit_points: "17 (7d4)"

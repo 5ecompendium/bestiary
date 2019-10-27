@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "8 (3900 XP)"
 languages: "Giant"
 skills: "Intimidation +3"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 speed: "40 ft."
 hit_points: "168 (16d10 + 80)"
 armor_class: "15 (natural armor)"

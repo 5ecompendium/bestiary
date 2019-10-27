@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "11 (7200 XP)"
 languages: "Common, Dwarvish, Giant, and see Gift of Tongues"
 skills: "Perception +8"
-senses: "truesight 60 ft."
+senses: "truesight 60 ft., passive Perception 18"
 saving_throws: "Str +12, Dex +12, Con +11, Int +5, Wis +8, Cha +12"
 damage_immunities: "bludgeoning, piercing, and slashing from nonmagical weapons"
 damage_resistances: "acid, cold, fire, lightning, thunder"

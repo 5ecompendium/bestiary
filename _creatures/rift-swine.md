@@ -12,7 +12,7 @@ size: Large aberration
 alignment: chaotic neutral
 challenge: "5 (1800 XP)"
 languages: "--"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 damage_resistances: "force, poison"
 speed: "40 ft."
 hit_points: "110 (13d10 + 39)"

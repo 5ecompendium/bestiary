@@ -13,6 +13,7 @@ alignment: lawful neutral
 challenge: "4 (1100 XP)"
 languages: "one language (usually Common)"
 skills: "Perception +2"
+senses: "passive Perception 12"
 speed: "30 ft."
 hit_points: "91 (14d8 + 28)"
 armor_class: "17 (scale mail)"

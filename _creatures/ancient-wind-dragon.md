@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "22 (41000 XP)"
 languages: "Common, Draconic, Dwarvish, Elvish, Primordial"
 skills: "Acrobatics +11, Arcana +11, Intimidation +12, Perception +17, Stealth +11"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 27"
 saving_throws: "Dex +11, Con +15, Wis +10, Cha +12"
 damage_immunities: "lightning, ranged weapons"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"

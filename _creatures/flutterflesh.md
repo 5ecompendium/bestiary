@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "12 (8400 XP)"
 languages: "Common, Darakhul"
 skills: "Deception +4, Perception +5, Stealth +8"
-senses: "darkvision 240 ft."
+senses: "darkvision 240 ft., passive Perception 15"
 saving_throws: "Str +4, Dex +8"
 damage_vulnerabilities: "radiant"
 damage_immunities: "necrotic, poison"

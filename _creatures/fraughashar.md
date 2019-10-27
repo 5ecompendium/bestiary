@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1/2 (100 XP)"
 languages: "Sylvan"
 skills: "Stealth +4"
-senses: ""
+senses: ", passive Perception 10"
 damage_immunities: "cold"
 speed: "25 ft."
 hit_points: "18 (4d6 + 4)"

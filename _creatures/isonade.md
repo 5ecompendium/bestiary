@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "14 (11500 XP)"
 languages: "understands Aquan and Elvish, but cannot speak"
 skills: "Athletics +14, Perception +8"
-senses: "darkvision 90 ft."
+senses: "darkvision 90 ft., passive Perception 18"
 saving_throws: "Str +14, Con +12, Wis +8"
 damage_immunities: "ability damage/drain"
 speed: "swim 100 ft."

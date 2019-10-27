@@ -12,7 +12,7 @@ size: Small monstrosity
 alignment: lawful evil
 challenge: "2 (450 XP)"
 languages: "Tosculi"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 speed: "20 ft., fly 60 ft."
 hit_points: "58 (9d6 + 27)"
 armor_class: "15"

@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "7 (2900 XP)"
 languages: "any languages it knew in life"
 skills: "Perception +1"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 11"
 saving_throws: "Dex +6"
 speed: "40 ft."
 hit_points: "168 (16d10 + 80)"

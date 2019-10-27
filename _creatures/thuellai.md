@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "10 (5900 XP)"
 languages: "Common, Dwarvish, Primordial"
 skills: "Perception +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 saving_throws: "Int +4, Wis +4, Cha +6"
 damage_vulnerabilities: "fire"
 damage_immunities: "poison"

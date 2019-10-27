@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "11 (7200 XP)"
 languages: "telepathy 60 ft."
 skills: "Stealth +10"
-senses: "truesight 60 ft."
+senses: "truesight 60 ft., passive Perception 13"
 saving_throws: "Con +4, Int +6, Wis +7, Cha +4"
 damage_immunities: "necrotic"
 condition_immunities: "exhaustion, petrified, prone"

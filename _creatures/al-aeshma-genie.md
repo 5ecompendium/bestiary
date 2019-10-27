@@ -12,7 +12,7 @@ size: Large elemental
 alignment: chaotic evil
 challenge: "9 (5000 XP)"
 languages: "Auran, Common, Ignan"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 13"
 saving_throws: "Dex +6, Wis +7, Cha +9"
 damage_immunities: "lightning, thunder"
 speed: "30 ft., fly 90 ft. (hover)"

@@ -12,7 +12,7 @@ size: Large construct
 alignment: unaligned
 challenge: "8 (3900 XP)"
 languages: "Elvish, Umbral"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 damage_immunities: "poison, bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"
 speed: "40 ft."

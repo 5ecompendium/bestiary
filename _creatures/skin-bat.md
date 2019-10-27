@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1/2 (100 XP)"
 languages: "--"
 skills: "Perception +3"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 damage_immunities: "poison"
 condition_immunities: "poisoned"
 speed: "10 ft., fly 40 ft."

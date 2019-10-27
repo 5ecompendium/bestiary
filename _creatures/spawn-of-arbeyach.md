@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "5 (1800 XP)"
 languages: "Infernal"
 skills: "Perception +4, Stealth +5"
-senses: "darkvision 60 ft., tremorsense 60 ft."
+senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 14"
 saving_throws: "Wis +4"
 damage_immunities: "poison"
 condition_immunities: "poisoned"

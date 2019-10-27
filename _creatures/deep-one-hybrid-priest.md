@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "4 (1100 XP)"
 languages: "Common, Void Speech"
 skills: "Athletics +6, Deception +4, Perception +3"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 13"
 saving_throws: "Con +5, Wis +3, Cha +4"
 damage_vulnerabilities: "fire"
 damage_resistances: "cold"

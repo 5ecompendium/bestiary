@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "4 (1100 XP)"
 languages: "Common, Sylvan, can speak with felines"
 skills: "Perception +5, Stealth +7"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 15"
 speed: "40 ft."
 hit_points: "91 (14d8 + 28)"
 armor_class: "16"

@@ -13,7 +13,7 @@ alignment: any chaotic
 challenge: "3 (700 XP)"
 languages: "Common, Dwarvish"
 skills: "Athletics +6, Intimidation +1"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 speed: "35 ft."
 hit_points: "76(9d8+36)"
 armor_class: "16 (chain shirt, shield)"

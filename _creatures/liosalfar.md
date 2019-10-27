@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "8 (3900 XP)"
 languages: "Common, Celestial, Elemental, Elvish, Giant"
 skills: "Arcana +7, Insight +7, Perception +7"
-senses: "blindsight 120 ft., truesight 60 ft."
+senses: "blindsight 120 ft., truesight 60 ft., passive Perception 17"
 saving_throws: "Dex +10, Con +3, Int +7, Wis +7, Cha +4"
 damage_immunities: "poison, psychic, radiant"
 damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons"

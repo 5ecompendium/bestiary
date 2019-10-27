@@ -12,7 +12,7 @@ size: Large elemental
 alignment: unaligned
 challenge: "8 (3900 XP)"
 languages: "Celestial, Infernal"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 damage_immunities: "poison; bludgeoning, piercing, and slashing from nonmagical weapons"
 condition_immunities: "exhaustion, paralyzed, petrified, poisoned, unconscious"
 speed: "30 ft."

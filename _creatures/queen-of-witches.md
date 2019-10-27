@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "17 (18000 XP)"
 languages: "Celestial, Common, Draconic, Elvish, Sylvan, Umbral"
 skills: "Arcana +9, Deception +12, History +9, Insight +10, Perception +10"
-senses: "truesight 60 ft."
+senses: "truesight 60 ft., passive Perception 19"
 saving_throws: "Dex +6, Wis +10, Cha +12"
 damage_immunities: "radiant"
 damage_resistances: "fire, cold; bludgeoning, piercing, and slashing damage from weapons that aren't cold iron"

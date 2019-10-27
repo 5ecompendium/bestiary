@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "12 (8400 XP)"
 languages: "Deep Speech, Giant, Undercommon"
 skills: "Athletics +11, Perception +3, Stealth +4"
-senses: "darkvision 240 ft."
+senses: "darkvision 240 ft., passive Perception 13"
 saving_throws: "Str +12, Dex +4, Con +11, Cha +6"
 damage_immunities: "poison"
 condition_immunities: "confusion, exhaustion, paralysis, poisoned"

@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "1/4 (50 XP)"
 languages: "--"
 skills: "Perception +2, Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 damage_immunities: "psychic"
 condition_immunities: "charmed, frightened"
 speed: "30 ft., climb 30 ft."

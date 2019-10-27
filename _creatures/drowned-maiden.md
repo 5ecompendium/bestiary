@@ -12,7 +12,7 @@ size: Medium undead
 alignment: neutral evil
 challenge: "5 (1800 XP)"
 languages: "Common"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 saving_throws: "Dex +6, Cha +7"
 damage_immunities: "necrotic, poison"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"

@@ -12,7 +12,7 @@ size: Huge monstrosity
 alignment: neutral evil
 challenge: "9 (5000 XP)"
 languages: "Common, Infernal, Primordial, Void Speech"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 saving_throws: "Str +11, Con +10, Int +7, Cha +8"
 damage_immunities: "cold, poison, psychic"
 condition_immunities: "charmed, poisoned"

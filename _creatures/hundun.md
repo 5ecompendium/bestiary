@@ -13,7 +13,7 @@ alignment: chaotic good
 challenge: "10 (5900 XP)"
 languages: "understands Celestial and Primordial, but cannot speak intelligibly"
 skills: "Athletics +9, Insight +9, Perception +9"
-senses: "blindsight 60 ft."
+senses: "blindsight 60 ft., passive Perception 20"
 saving_throws: "Con +7, Wis +9, Cha +8"
 damage_immunities: "acid, psychic"
 damage_resistances: "lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons"

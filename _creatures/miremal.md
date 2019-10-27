@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "1/2 (100 XP)"
 languages: "Sylvan, Umbral"
 skills: "Perception +3, Stealth +5, Survival +3"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 speed: "30 ft., swim 30 ft."
 hit_points: "22 (5d6 + 5)"
 armor_class: "13"

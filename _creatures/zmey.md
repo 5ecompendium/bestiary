@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "14 (11500 XP)"
 languages: "Common, Draconic, Elvish, Sylvan"
 skills: "Perception +8"
-senses: "blindsight 60 ft., darkvision 90 ft."
+senses: "blindsight 60 ft., darkvision 90 ft., passive Perception 18"
 saving_throws: "Con +9, Wis +8, Cha +6"
 damage_resistances: "cold, fire"
 condition_immunities: "paralyzed, unconscious"

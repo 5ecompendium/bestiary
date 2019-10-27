@@ -12,7 +12,7 @@ size: Medium undead
 alignment: neutral evil
 challenge: "6 (2300 XP)"
 languages: "understands the languages it knew in life but can't speak"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
 saving_throws: "Dex +7, Wis +6"
 damage_immunities: "cold, necrotic, poison"
 damage_resistances: "acid, fire, lightning, thunder; bludgeoning, piercing, and slashing damage from nonmagical weapons"

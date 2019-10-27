@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "2 (450 XP)"
 languages: "--"
 skills: "Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 saving_throws: "Dex +5"
 speed: "15 ft., climb 15 ft., swim 15 ft."
 hit_points: "22 (5d4 + 10)"

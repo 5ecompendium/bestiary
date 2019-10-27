@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "1 (200 XP)"
 languages: "Common, Draconic, telepathy 250 ft."
 skills: "Acrobatics +4, Arcana +4, Deception +5, History +4, Perception +3, Persuasion +5, Religion +4"
-senses: ""
+senses: ", passive Perception 13"
 saving_throws: "Dex +4, Con +4, Int +4"
 damage_immunities: "poison"
 damage_resistances: "cold, fire; piercing damage"

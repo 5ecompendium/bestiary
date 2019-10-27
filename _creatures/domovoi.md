@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "4 (1100 XP)"
 languages: "Common, Dwarvish, Elvish"
 skills: "Intimidation +5, Perception +2"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 damage_immunities: "acid, lightning"
 speed: "30 ft."
 hit_points: "93 (11d8 + 44)"

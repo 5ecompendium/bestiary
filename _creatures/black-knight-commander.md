@@ -13,6 +13,7 @@ alignment: lawful evil
 challenge: "5 (1800 XP)"
 languages: "any two languages"
 skills: "Animal Handling + 4, Athletics +7,  Intimidation +5"
+senses: "passive Perception 11"
 saving_throws: "Str +7, Wis +4, Cha +5,"
 speed: "30 ft."
 hit_points: "78 (12d8 + 24)"

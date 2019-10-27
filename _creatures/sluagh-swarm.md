@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "3 (700 XP)"
 languages: "Common, Sylvan"
 skills: "Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 damage_vulnerabilities: "fire"
 damage_resistances: "cold; bludgeoning, piercing, and slashing"
 condition_immunities: "charmed, frightened, paralyzed, petrified, prone, restrained, stunned"

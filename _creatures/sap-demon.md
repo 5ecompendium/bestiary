@@ -12,7 +12,7 @@ size: Small ooze
 alignment: chaotic evil
 challenge: "4 (1100 XP)"
 languages: "none in its natural form; knows the same languages as a creature it dominates"
-senses: "blindsight 90 ft. (blind beyond this radius)"
+senses: "blindsight 90 ft. (blind beyond this radius), passive Perception 12"
 damage_immunities: "bludgeoning; acid, lightning"
 damage_resistances: "piercing and slashing from nonmagical weapons"
 condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"

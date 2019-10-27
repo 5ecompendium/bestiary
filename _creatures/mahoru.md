@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "3 (700 XP)"
 languages: "--"
 skills: "Perception +3, Stealth +6"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 speed: "10 ft., swim 60 ft."
 hit_points: "91 (14d8 + 28)"
 armor_class: "15 (natural armor)"

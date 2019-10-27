@@ -12,7 +12,7 @@ size: Small construct
 alignment: unaligned
 challenge: "1/4 (50 XP)"
 languages: "Understands the languages of its creator but can't"
-senses: "blindsight 120 ft."
+senses: "blindsight 120 ft., passive Perception 10"
 condition_immunities: "charmed, exhaustion, frightened,"
 speed: "25 ft., climb 15 ft."
 hit_points: "18 (4d6 + 4)"

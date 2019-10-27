@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "6 (2300 XP)"
 languages: "Loxodan"
 skills: "Survival +5"
-senses: ""
+senses: ", passive Perception 12"
 speed: "40 ft."
 hit_points: "147 (14d12 + 56)"
 armor_class: "13 (natural armor)"

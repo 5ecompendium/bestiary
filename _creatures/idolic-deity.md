@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "8 (3900 XP)"
 languages: "telepathy 60 ft."
 skills: "Deception +8, Stealth +8"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 saving_throws: "Wis +3"
 damage_vulnerabilities: "fire"
 damage_immunities: "poison"

@@ -12,7 +12,7 @@ size: Large beast
 alignment: neutral
 challenge: "4 (1100 XP)"
 languages: "--"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 condition_immunities: "paralysis"
 speed: "30 ft., burrow 20 ft., climb 10 ft."
 hit_points: "127 (15d10 + 45)"

@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "5 (1800 XP)"
 languages: "understands the languages of its creator but can't speak"
 skills: "Stealth +4"
-senses: "blindsight 60 ft. (blind beyond this radius)"
+senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 11"
 saving_throws: "Wis +4, Cha +4"
 damage_immunities: "poison"
 damage_resistances: "acid, necrotic"

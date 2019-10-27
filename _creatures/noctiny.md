@@ -12,7 +12,7 @@ size: Medium humanoid
 alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Common, plus the language spoken by the noctini's fext master"
-senses: ""
+senses: ", passive Perception 10"
 condition_immunities: "frightened"
 speed: "30 ft."
 hit_points: "52 (8d8 + 16)"

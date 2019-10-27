@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "12 (8400 XP)"
 languages: "Common, Deep Speech, Gnoll, Infernal, Tosculi"
 skills: "Perception +8"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 18"
 saving_throws: "Dex +12, Con +10, Wis +8, Cha +9"
 damage_immunities: "poison"
 condition_immunities: "charmed, poisoned"

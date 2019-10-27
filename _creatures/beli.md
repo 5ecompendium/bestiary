@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Common, Dwarvish, Giant"
 skills: "Perception +4, Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 saving_throws: "Dex +5"
 damage_vulnerabilities: "fire"
 damage_immunities: "cold"

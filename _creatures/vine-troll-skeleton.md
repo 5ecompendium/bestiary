@@ -12,7 +12,7 @@ size: Large plant
 alignment: unaligned
 challenge: "9 (5000 XP)"
 languages: "--"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 saving_throws: "Con +12"
 damage_immunities: "poison"
 damage_resistances: "bludgeoning,"

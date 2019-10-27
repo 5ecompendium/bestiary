@@ -12,7 +12,7 @@ size: Large ooze
 alignment: unaligned
 challenge: "4 (1100 XP)"
 languages: "--"
-senses: "blindsight 60 ft. (blind beyond this radius)"
+senses: "blindsight 60 ft. (blind beyond this radius), passive Perception 8"
 damage_immunities: "acid"
 condition_immunities: "blinded, charmed, deafened, exhaustion, frightened, prone"
 speed: "30 ft."

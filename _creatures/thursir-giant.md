@@ -13,7 +13,7 @@ alignment: neutral evil (50 percent) lawful evil (50 percent)
 challenge: "3 (700 XP)"
 languages: "Common, Dwarven, Giant"
 skills: "Athletics +6, Perception +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 saving_throws: "Con +6"
 speed: "40 ft."
 hit_points: "114 (12d10 + 48)"

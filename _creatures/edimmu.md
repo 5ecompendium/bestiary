@@ -12,7 +12,7 @@ size: Medium undead
 alignment: chaotic evil
 challenge: "4 (1100 XP)"
 languages: "Common but can't speak"
-senses: "blindsight 60 ft."
+senses: "blindsight 60 ft., passive Perception 11"
 damage_immunities: "necrotic, poison"
 damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons"
 condition_immunities: "charmed, exhaustion, grappled, frightened, paralyzed, petrified, poisoned, prone, restrained, unconscious"

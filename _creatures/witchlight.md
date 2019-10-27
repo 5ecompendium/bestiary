@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1/4 (50 XP)"
 languages: "understands the language of its creator but can't speak"
 skills: "Perception +3"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 damage_immunities: "poison, radiant"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"
 speed: "fly 50 ft."

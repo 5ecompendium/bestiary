@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "22 (41000 XP)"
 languages: "Common, Giant"
 skills: "Arcana +10, History +10, Nature +10, Stealth +5"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 15"
 saving_throws: "Con +14, Wis +11, Cha +8"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 speed: "60 ft."

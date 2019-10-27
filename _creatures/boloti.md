@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "Common, Primordial, Sylvan"
 skills: "Perception +3, Stealth +7"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 speed: "20 ft., swim 60 ft."
 hit_points: "63 (14d4 + 28)"
 armor_class: "15"

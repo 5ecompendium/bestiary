@@ -12,7 +12,7 @@ size: Medium undead
 alignment: lawful evil
 challenge: "4 (1100 XP)"
 languages: "the languages it knew in life"
-senses: "truesight 30 ft., darkvision 60 ft."
+senses: "truesight 30 ft., darkvision 60 ft., passive Perception 11"
 saving_throws: "Dex +4, Con +5, Wis +3, Cha +4"
 damage_immunities: "necrotic, poison"
 condition_immunities: "charmed, frightened, poisoned"

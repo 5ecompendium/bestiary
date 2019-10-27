@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "5 (1800 XP)"
 languages: "--"
 skills: "Perception +3"
-senses: ""
+senses: ", passive Perception 13"
 speed: "50 ft., swim 30 ft."
 hit_points: "105 (10d12 + 40)"
 armor_class: "14 (natural armor)"

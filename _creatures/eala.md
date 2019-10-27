@@ -12,7 +12,7 @@ size: Small monstrosity
 alignment: unaligned
 challenge: "2 (450 XP)"
 languages: "--"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 saving_throws: "Dex +5"
 damage_immunities: "fire"
 speed: "10 ft., fly, 60 ft."

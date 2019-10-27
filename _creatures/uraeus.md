@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "2 (450 XP)"
 languages: "understands Celestial and Common but can't speak"
 skills: "Perception +4"
-senses: "blindsight 10 ft."
+senses: "blindsight 10 ft., passive Perception 14"
 damage_immunities: "poison"
 damage_resistances: "fire; bludgeoning, piercing, and slashing damage from nonmagical weapons"
 condition_immunities: "poisoned"

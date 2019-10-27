@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "5 (1800 XP)"
 languages: "Common, Mi-go, Void Speech"
 skills: "Arcana +10, Deception +7, Medicine +5, Perception +5, Stealth +7"
-senses: "blindsight 30 ft., darkvision 240 ft."
+senses: "blindsight 30 ft., darkvision 240 ft., passive Perception 15"
 saving_throws: "Str +6, Con +8, Cha +4"
 damage_resistances: "radiant, cold"
 speed: "30 ft., fly 60 ft."

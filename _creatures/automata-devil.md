@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "10 (5900 XP)"
 languages: "Common, Infernal; telepathy 100 ft."
 skills: "Athletics +11, Intimidation +8"
-senses: ""
+senses: ", passive Perception 12"
 saving_throws: "Str +11, Dex +7, Con +9, Wis +6, Cha +8"
 damage_immunities: "fire, poison"
 damage_resistances: "cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"

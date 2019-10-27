@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "5 (1800 XP)"
 languages: "understands Elvish and Umbral but can't speak"
 skills: "Intimidation + 3, Perception +5, Stealth +6"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 15"
 saving_throws: "Dex +6, Con +5, Wis +5"
 damage_vulnerabilities: "fire"
 damage_immunities: "cold"

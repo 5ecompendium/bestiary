@@ -12,7 +12,7 @@ size: Medium construct
 alignment: lawful evil
 challenge: "5 (1800 XP)"
 languages: "any languages it knew in life"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 saving_throws: "Str +8"
 damage_immunities: "necrotic, poison"
 damage_resistances: "acid, cold, fire, lightning"

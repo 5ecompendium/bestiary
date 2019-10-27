@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "11 (7200 XP)"
 languages: "Common, Draconic, Elven, Sylvan"
 skills: "Deception +12, Perception +7, Performance +12, Persuasion +12"
-senses: ""
+senses: ", passive Perception 17"
 saving_throws: "Dex +8, Con +8, Cha +12"
 damage_immunities: "fire"
 speed: "30 ft."

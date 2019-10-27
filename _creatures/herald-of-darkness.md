@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "7 (2900 XP)"
 languages: "Common, Elvish, Goblin, Infernal, Sylvan"
 skills: "Athletics +8, Deception +8, Perception +5"
-senses: "darkvision 200 ft."
+senses: "darkvision 200 ft., passive Perception 15"
 saving_throws: "Str +8, Con +8, Cha +8"
 damage_immunities: "cold, lightning, necrotic, poison"
 damage_resistances: "bludgeoning, thunder"

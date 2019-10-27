@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "15 (13000 XP)"
 languages: "Common, Celestial, Giant, Sylvan"
 skills: "Arcana +5, Perception +9, Religion +5"
-senses: "darkvision 60 ft., tremorsense 120 ft."
+senses: "darkvision 60 ft., tremorsense 120 ft., passive Perception 19"
 saving_throws: "Con +12, Wis +9, Cha +11"
 damage_immunities: "psychic"
 damage_resistances: "acid, cold, fire, lightning"

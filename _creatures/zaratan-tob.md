@@ -1,18 +1,18 @@
 ---
 layout: creature
 name: "Zaratan"
-tags: [gargantuan, monstrosity (titan), cr26, tome-of-beasts]
+tags: [gargantuan, monstrosity, cr26, tome-of-beasts]
 cha: 11 (+0)
 wis: 11 (+0)
 int: 10 (+0)
 con: 28 (+9)
 dex: 3 (-4)
 str: 30 (+10)
-size: Gargantuan monstrosity (titan)
+size: Gargantuan monstrosity
 alignment: unaligned
 challenge: "26 (90000 XP)"
 languages: "Aquan"
-senses: "blindsight 120 ft."
+senses: "blindsight 120 ft., passive Perception 10"
 saving_throws: "Int +8, Wis +8, Cha +8"
 damage_immunities: "cold, poison"
 damage_resistances: "fire, lightning, thunder; bludgeoning, piercing, slashing"

@@ -12,7 +12,7 @@ size: Small dragon
 alignment: neutral
 challenge: "2 (450 XP)"
 languages: "Common, Draconic, Dwarvish, Elvish"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 condition_immunities: "paralysis, unconscious"
 speed: "40 ft., fly 100 ft."
 hit_points: "78 (12d6 + 36)"

@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "5 (1800 XP)"
 languages: "--"
 skills: "Stealth +3"
-senses: "blindsight 60 ft., tremorsense 60 ft."
+senses: "blindsight 60 ft., tremorsense 60 ft., passive Perception 5"
 damage_immunities: "acid, fire, poison"
 damage_resistances: "slashing, bludgeoning"
 condition_immunities: "exhaustion, frightened, paralyzed, petrified, poisoned"

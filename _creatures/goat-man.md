@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "3 (700 XP)"
 languages: "Common, Giant, Trollkin, but cannot speak"
 skills: "Acrobatics +4, Athletics +6, Stealth +6"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 saving_throws: "Dex +4"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 condition_immunities: "charmed, frightened"

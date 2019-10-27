@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "5 (1800 XP)"
 languages: "Common, Sylvan"
 skills: "Deception +9, Performance +9, Persuasion +9"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 saving_throws: "Dex +8, Cha +9"
 speed: "30 ft., swim 30 ft."
 hit_points: "76 (9d8 + 36)"

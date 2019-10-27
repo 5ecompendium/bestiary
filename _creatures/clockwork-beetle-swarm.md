@@ -12,7 +12,7 @@ size: Large swarm
 alignment: neutral
 challenge: "3 (700 XP)"
 languages: "--"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 damage_immunities: "fire, poison, psychic"
 damage_resistances: "bludgeoning, piercing, and slashing"
 condition_immunities: " charmed, frightened, paralyzed, petrified, prone, restrained, stunned"

@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "20 (25000 XP)"
 languages: "Common, Darakhul, Draconic, Gnoll, Undercommon"
 skills: "Deception +11, Insight +9, Perception +9, Persuasion +11"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 19"
 saving_throws: "Dex +8, Wis +9"
 damage_immunities: "poison; bludgeoning, piercing, and slashing damage from nonmagical weapons."
 damage_resistances: "cold, necrotic"

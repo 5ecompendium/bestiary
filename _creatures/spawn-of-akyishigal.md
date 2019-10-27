@@ -12,7 +12,7 @@ size: Medium fiend
 alignment: chaotic evil
 challenge: "5 (1800 XP)"
 languages: "Infernal, Spawn of Akyishigal"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 saving_throws: "Dex +4"
 damage_immunities: "poison"
 condition_immunities: "poisoned"

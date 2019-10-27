@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "8 (3900 XP)"
 languages: "Titan"
 skills: "Intimidation +1, Perception +2"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 speed: "40 ft."
 hit_points: "161 (14d12 + 70)"
 armor_class: "12 (crude armored coat)"

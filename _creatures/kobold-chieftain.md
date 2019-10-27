@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "4 (1100 XP)"
 languages: "Common, Draconic"
 skills: "Intimidation +6, Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 saving_throws: "Dex +5, Cha +4"
 condition_immunities: "charmed, frightened"
 speed: "30 ft."

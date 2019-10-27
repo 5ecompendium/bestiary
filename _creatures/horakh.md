@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "9 (5000 XP)"
 languages: "understands Undercommon"
 skills: "Athletics +8, Perception +6, Stealth +8"
-senses: "darkvision 60 ft., tremorsense 30 ft."
+senses: "darkvision 60 ft., tremorsense 30 ft., passive Perception 20"
 saving_throws: "Dex +12"
 speed: "40 ft., climb 30 ft."
 hit_points: "161 (19d8 + 76)"

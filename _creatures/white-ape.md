@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "6 (2300 XP)"
 languages: "Common"
 skills: "Acrobatics +6, Athletics +7, Intimidation +2, Perception +5, Stealth +6"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 15"
 speed: "40 ft., climb 40 ft."
 hit_points: "114 (12d10 + 48)"
 armor_class: "14 (natural armor)"

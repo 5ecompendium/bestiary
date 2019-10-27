@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "5 (1800 XP)"
 languages: "--"
 skills: "Acrobatics +8, Athletics +8, Perception +4, Stealth +9"
-senses: "darkvision 60 ft., tremorsense 120 ft. on ice"
+senses: "darkvision 60 ft., tremorsense 120 ft. on ice, passive Perception 14"
 saving_throws: "Str +7, Dex +8, Con +6"
 damage_vulnerabilities: "fire"
 damage_immunities: "cold"

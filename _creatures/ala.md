@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "8 (3900 XP)"
 languages: "Common, Draconic"
 skills: "Athletics +8, Perception +9, Stealth +6"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 19"
 damage_immunities: "lightning, poison, thunder"
 condition_immunities: "poisoned"
 speed: "30 ft., fly 40 ft."

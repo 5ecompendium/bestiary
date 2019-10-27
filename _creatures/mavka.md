@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "12 (8400 XP)"
 languages: "Common, Infernal, Sylvan"
 skills: "Athletics +9, Nature +5, Perception +5"
-senses: "darkvision 90 ft."
+senses: "darkvision 90 ft., passive Perception 15"
 saving_throws: "Str +9, Dex +6, Con +8, Cha +8"
 damage_immunities: "cold, lightning"
 damage_resistances: "acid, fire, necrotic; bludgeoning, piercing, and slashing from nonmagical weapons"

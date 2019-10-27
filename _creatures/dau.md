@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "4 (1100 XP)"
 languages: "Deep Speech, Primordial, Sylvan, telepathy 60 ft."
 skills: "Deception +5, Insight +5, Perception +5, Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 15"
 speed: "20 ft., fly 60 ft. (hover)"
 hit_points: "49 (9d6 + 18)"
 armor_class: "13"

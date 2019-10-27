@@ -12,7 +12,7 @@ size: Medium plant
 alignment: lawful neutral
 challenge: "2 (450 XP)"
 languages: "--"
-senses: "blindsight 30 ft. (blind beyond this radius)"
+senses: "blindsight 30 ft. (blind beyond this radius), passive Perception 8"
 damage_vulnerabilities: "fire"
 condition_immunities: "blinded, deafened"
 speed: "30 ft."

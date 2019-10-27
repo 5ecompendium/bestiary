@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "4 (1100 XP)"
 languages: "understands Darakhul"
 skills: "Acrobatics +6, Perception +4"
-senses: "blindsight 100 ft."
+senses: "blindsight 100 ft., passive Perception 14"
 saving_throws: "Dex +4, Con +4, Cha +3"
 damage_immunities: "poison"
 damage_resistances: "piercing and bludgeoning from nonmagical weapons"

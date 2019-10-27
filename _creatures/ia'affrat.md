@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "15 (13000 XP)"
 languages: "Common, Draconic, Infernal, Primordial"
 skills: "Arcana +10, Deception +11, Insight +9, Perception +9, Persuasion +11"
-senses: "blindsight 10 ft., darkvision 120 ft."
+senses: "blindsight 10 ft., darkvision 120 ft., passive Perception 19"
 saving_throws: "Dex +10, Con +8, Wis +9, Cha +11"
 damage_vulnerabilities: "cold"
 damage_immunities: "fire, poison; bludgeoning, piercing, slashing"

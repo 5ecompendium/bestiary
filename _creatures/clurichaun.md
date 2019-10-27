@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "1/4 (50 XP)"
 languages: "Common, Elvish, Sylvan"
 skills: "Perception +1, Stealth +3"
-senses: "darkvision 60ft."
+senses: "darkvision 60ft., passive Perception 11"
 saving_throws: "Con +5"
 condition_immunities: "frightened, poisoned"
 speed: "30 ft."

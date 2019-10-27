@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "5 (1800 XP)"
 languages: "Giant"
 skills: "Acrobatics +4, Perception +3, Stealth +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 speed: "40 ft., climb 15 ft."
 hit_points: "102 (12d10 + 36)"
 armor_class: "14 (natural armor)"

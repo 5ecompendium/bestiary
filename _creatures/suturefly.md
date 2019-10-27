@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "1/4 (50 XP)"
 languages: "--"
 skills: "Stealth +6"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 speed: "10 ft., fly 40 ft. (hover)"
 hit_points: "7 (3d4)"
 armor_class: "14"

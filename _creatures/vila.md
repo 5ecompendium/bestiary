@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "5 (1800 XP)"
 languages: "Common, Sylvan, telepathy 60 ft. (beasts only)"
 skills: "Animal Handling +8, Insight +5, Intimidation +6, Perception +8, Stealth +8"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 18"
 saving_throws: "Dex +8, Con +4, Wis +5, Cha +6"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 speed: "30 ft."

@@ -12,7 +12,7 @@ size: Medium undead
 alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "understand Void Speech and the languages it knew in life but can't speak"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 8"
 saving_throws: "Wis +0"
 damage_immunities: "cold, necrotic, poison; bludgeoning, piercing and slashing from nonmagical weapons (only when in ethereal form)"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"

@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "11 (7200 XP)"
 languages: "Common, Elvish, Sylvan"
 skills: "Intimidation +7, Perception +6, Persuasion +7, Survival +6"
-senses: "blindsight 60 ft."
+senses: "blindsight 60 ft., passive Perception 16"
 damage_immunities: "necrotic"
 damage_resistances: "bludgeoning, piercing, and slashing damage from nonmagical weapons"
 condition_immunities: "charmed, frightened, exhaustion"

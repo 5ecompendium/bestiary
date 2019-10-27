@@ -12,7 +12,7 @@ size: Tiny elemental
 alignment: chaotic neutral
 challenge: "7 (2900 XP)"
 languages: "Common, Primordial"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 saving_throws: "Dex +8"
 damage_immunities: "lightning"
 damage_resistances: "acid, fire, force, thunder; bludgeoning, piercing, and slashing from nonmagical weapons"

@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1 (200 XP)"
 languages: "Common, Draconic, Sylvan"
 skills: "Acrobatics +6, Perception +2, Stealth +6"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical attacks not made with silver weapons"
 speed: "20 ft., fly 20 ft."
 hit_points: "32 (5d4 + 20)"

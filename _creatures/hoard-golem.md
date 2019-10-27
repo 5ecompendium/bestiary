@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "12 (8400 XP)"
 languages: "understands the language of its creator but can't speak"
 skills: "Athletics +10, Perception +4"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 14"
 saving_throws: "Con +9"
 damage_immunities: "poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 condition_immunities: "charmed, exhausted, frightened, paralyzed, petrified, poisoned"

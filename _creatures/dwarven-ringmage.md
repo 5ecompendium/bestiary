@@ -13,7 +13,7 @@ alignment: any
 challenge: "7 (2900 XP)"
 languages: "Common, Dwarvish"
 skills: "Arcana +7, History +7"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 saving_throws: "Int +7, Con +4, Wis +4"
 damage_resistances: "poison"
 speed: "30 ft."

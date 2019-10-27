@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "14 (11500 XP)"
 languages: "Common, Draconic, Infernal"
 skills: "Arcana +8, Deception +9, Insight +8, Medicine +8, Perception +8, Stealth +8"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 18"
 saving_throws: "Dex +8, Con +11, Int +8, Wis +8, Cha +9"
 damage_immunities: "poison"
 condition_immunities: "exhaustion, poisoned"

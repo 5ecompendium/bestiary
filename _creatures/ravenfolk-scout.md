@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1/2 (100 XP)"
 languages: "Common, Feather Speech, Huginn"
 skills: "Deception +3, Perception +6, Stealth +6"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 16"
 saving_throws: "Dex+4, Con +1, Wis +4, Cha +3"
 speed: "30 ft."
 hit_points: "21 (6d8 . 6)"

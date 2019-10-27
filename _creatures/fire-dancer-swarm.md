@@ -12,7 +12,7 @@ size: Medium swarm
 alignment: neutral evil
 challenge: "7 (2900 XP)"
 languages: "Ignan"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 damage_immunities: "fire, poison"
 damage_resistances: "bludgeoning, piercing, and slashing"
 condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, stunned, unconscious"

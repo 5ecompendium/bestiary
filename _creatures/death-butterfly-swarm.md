@@ -12,7 +12,7 @@ size: Large swarm
 alignment: chaotic evil
 challenge: "4 (1100 XP)"
 languages: "--"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 damage_vulnerabilities: "cold, fire"
 damage_resistances: "bludgeoning, piercing, slashing"
 condition_immunities: "charmed, frightened, paralyzed, petrified, prone, restrained, petrified"

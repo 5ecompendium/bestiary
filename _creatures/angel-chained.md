@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "8 (3900 XP)"
 languages: "Common, Celestial, Infernal"
 skills: "Perception +7"
-senses: "darkvision 200 ft."
+senses: "darkvision 200 ft., passive Perception 17"
 saving_throws: "Dex +6, Wis+7, Cha +8"
 damage_immunities: "fire, radiant"
 damage_resistances: "piercing"

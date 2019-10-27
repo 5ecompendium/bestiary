@@ -13,7 +13,7 @@ alignment: lawful neutral or evil
 challenge: "8 (3900 XP)"
 languages: "any three languages"
 skills: "Arcana +5, Deception +5, History +5, Religion +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 15"
 saving_throws: "Int +5, Wis +8, Cha +5"
 damage_resistances: "cold, fire, lightning"
 speed: "30 ft."

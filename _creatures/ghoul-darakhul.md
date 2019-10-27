@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Common, Darakhul"
 skills: "Deception +3, Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 damage_immunities: "poison"
 damage_resistances: "necrotic"
 condition_immunities: "charmed, exhaustion, poisoned"

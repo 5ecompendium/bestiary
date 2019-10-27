@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "2 (450 XP)"
 languages: "Common, Draconic, Void Speech"
 skills: "Perception +3, Stealth +2"
-senses: ""
+senses: ", passive Perception 13"
 saving_throws: "Dex +4, Con +5, Wis +1, Cha +5"
 damage_immunities: "cold"
 speed: "30 ft., fly 60 ft. (hover)"

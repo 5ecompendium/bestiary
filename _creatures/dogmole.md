@@ -12,7 +12,7 @@ size: Medium beast
 alignment: neutral
 challenge: "1 (200 XP)"
 languages: "--"
-senses: "blindsight 30 ft."
+senses: "blindsight 30 ft., passive Perception 11"
 speed: "30 ft., burrow 10 ft., swim 10 ft."
 hit_points: "71 (11d8 + 22)"
 armor_class: "14 (natural armor)"

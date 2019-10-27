@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "7 (2900 XP)"
 languages: "Common, Elvish, Umbral"
 skills: "Arcana +4, Deception +7, Perception +6, Persuasion +7, Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 16"
 saving_throws: "Dex +5, Wis +6, Cha +7"
 speed: "30 ft."
 hit_points: "123 (19d8 + 38)"

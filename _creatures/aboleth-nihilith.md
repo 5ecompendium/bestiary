@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "12 (8400 XP)"
 languages: "Void Speech, telepathy 120 ft."
 skills: "History +12, Perception +10"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 20"
 saving_throws: "Con +6, Int +8, Wis +6"
 damage_immunities: "cold, necrotic, poison; bludgeoning, piercing and slashing from nonmagical weapons (only when in ethereal form)"
 damage_resistances: "acid, fire, lightning, thunder (only when in ethereal form); bludgeoning, piercing and slashing from nonmagical weapons"

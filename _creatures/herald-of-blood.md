@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "12 (8400 XP)"
 languages: "Common, Draconic, Infernal, Void Speech"
 skills: "Arcana +6, Perception +7"
-senses: "darkvision 240 ft."
+senses: "darkvision 240 ft., passive Perception 17"
 saving_throws: "Str +10, Con +9, Wis +7"
 damage_immunities: "fire, poison"
 damage_resistances: "piercing, lightning"

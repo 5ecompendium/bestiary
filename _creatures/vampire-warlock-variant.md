@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "13 (10000 XP)"
 languages: "the languages it knew in life"
 skills: "Perception +7, Stealth +9"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 17"
 saving_throws: "Dex +9, Wis +7, Cha +9"
 damage_resistances: "necrotic, bludgeoning, piercing, and slashing from nonmagical weapons"
 speed: "30 ft."

@@ -12,7 +12,7 @@ size: Gargantuan beast
 alignment: unaligned
 challenge: "11 (7200 XP)"
 languages: "--"
-senses: ""
+senses: ", passive Perception 11"
 damage_resistances: "bludgeoning"
 condition_immunities: "exhaustion"
 speed: "50 ft."

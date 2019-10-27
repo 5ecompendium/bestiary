@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "4 (1100 XP)"
 languages: "Common, Elvish, Umbral"
 skills: "Athletics +6, Perception +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 saving_throws: "Str +6, Con +5"
 condition_immunities: "charmed, frightened"
 speed: "30 ft."

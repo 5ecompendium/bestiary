@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "2 (450 XP)"
 languages: "understands Common"
 skills: "Athletics +7, Perception +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 saving_throws: "Dex +4, Con +4"
 damage_immunities: "poison, psychic"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"

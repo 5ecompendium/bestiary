@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "5 (1800 XP)"
 languages: "Common, Dwarvish, Giant, Gnomish"
 skills: "Deception +6, Perception +5, Stealth +5"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 15"
 speed: "30 ft., burrow 30 ft."
 hit_points: "112 (15d8 + 45)"
 armor_class: "17 (natural armor)"

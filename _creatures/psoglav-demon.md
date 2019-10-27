@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "7 (2900 XP)"
 languages: "Common, Infernal; telepathy 60 ft."
 skills: "Acrobatics +9, Perception +6, Intimidation +7, Stealth +9"
-senses: "blindsight 30 ft., darkvision 60 ft."
+senses: "blindsight 30 ft., darkvision 60 ft., passive Perception 16"
 saving_throws: "Dex +9, Con +8, Wis +7, Cha +7"
 damage_immunities: "fire, poison"
 damage_resistances: "cold, lightning"

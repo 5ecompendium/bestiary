@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "4 (1100 XP)"
 languages: "Common, Elvish, Sylvan"
 skills: "Perception +5, Stealth +9"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 15"
 saving_throws: "Dex +7"
 damage_immunities: "bludgeoning"
 speed: "20 ft., fly 60 ft."

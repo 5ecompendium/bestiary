@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "1 (200 XP)"
 languages: "Common, Elvish, Sylvan"
 skills: "Deception +5, Perception +4, Stealth +3, Survival +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 speed: "30 ft."
 hit_points: "84 (13d8 + 26)"
 armor_class: "14 (natural armor)"

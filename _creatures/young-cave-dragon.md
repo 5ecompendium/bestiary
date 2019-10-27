@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "8 (3900 XP)"
 languages: "Common, Darakhul, Draconic"
 skills: "Perception +4, Stealth +4"
-senses: "blindsight 120 ft."
+senses: "blindsight 120 ft., passive Perception 14"
 saving_throws: "Dex +4, Con +8, Wis +4, Cha +7"
 damage_immunities: "acid, poison, thunder"
 condition_immunities: "poisoned"

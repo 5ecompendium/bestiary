@@ -13,7 +13,7 @@ alignment: chaotic
 challenge: "3 (700 XP)"
 languages: "Common, Elvish, Sylvan, Umbral"
 skills: "Animal Handling +4, Deception +9, Nature +6, Perception +4, Persuasion +9, Stealth +7"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 15"
 saving_throws: "Con +3, Wis +4"
 speed: "30 ft."
 hit_points: "77 (14d8 + 14)"

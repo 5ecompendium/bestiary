@@ -12,7 +12,7 @@ size: Large beast
 alignment: unaligned
 challenge: "1/2 (100 XP)"
 languages: "--"
-senses: ""
+senses: ", passive Perception 10"
 speed: "60 ft."
 hit_points: "42 (5d10 + 15)"
 armor_class: "11"

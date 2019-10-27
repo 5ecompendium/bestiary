@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "3 (700 XP)"
 languages: "Common"
 skills: "Perception +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 15"
 speed: "30 ft., swim 40 ft."
 hit_points: "75 (10d8 + 30)"
 armor_class: "15 (natural armor)"

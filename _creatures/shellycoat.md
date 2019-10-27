@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "2 (450 XP)"
 languages: "Giant, Sylvan"
 skills: "Perception +1, Stealth +4"
-senses: "Darkvision 60 ft."
+senses: "Darkvision 60 ft., passive Perception 11"
 condition_immunities: "charmed, unconscious"
 speed: "30 ft., swim 20 ft."
 hit_points: "75 (10d8 + 30)"

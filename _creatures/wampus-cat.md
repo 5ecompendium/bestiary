@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "1 (200 XP)"
 languages: "Common"
 skills: "Deception +5, Persuasion +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 speed: "40 ft., climb 20 ft., swim 20 ft."
 hit_points: "58 (9d8 + 18)"
 armor_class: "14"

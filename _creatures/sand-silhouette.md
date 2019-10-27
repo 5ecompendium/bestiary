@@ -12,7 +12,7 @@ size: Medium undead
 alignment: neutral evil
 challenge: "6 (2300 XP)"
 languages: "all languages it knew in life"
-senses: "darkvision 60 ft., tremorsense 60 ft."
+senses: "darkvision 60 ft., tremorsense 60 ft., passive Perception 11"
 damage_immunities: "necrotic, poison"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 condition_immunities: "charmed, exhaustion, grappled, frightened, paralyzed, petrified, poisoned, prone, restrained, unconscious"

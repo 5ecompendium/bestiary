@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "9 (5000 XP)"
 languages: "Common, Darakhul, Draconic, Undercommon"
 skills: "Athletics +9, Insight +6, Perception +6"
-senses: "blindsight 60 ft., darkvision 120 ft."
+senses: "blindsight 60 ft., darkvision 120 ft., passive Perception 16"
 saving_throws: "Dex +8, Con +6"
 damage_immunities: "necrotic"
 condition_immunities: "paralyzed, unconscious"

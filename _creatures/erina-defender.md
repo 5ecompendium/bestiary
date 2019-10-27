@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1 (200 XP)"
 languages: "Common, Erina"
 skills: "Athletics +4, Perception +3"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 damage_resistances: "poison"
 speed: "20 ft., burrow 20 ft."
 hit_points: "44 (8d6 + 16)"

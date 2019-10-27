@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "8 (3900 XP)"
 languages: "--"
 skills: "Perception +3"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 saving_throws: "Con +7, Wis +3, Cha +1"
 damage_immunities: "poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"

@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "2 (450 XP)"
 languages: "Common, Draconic"
 skills: "Arcana +5, Medicine +3"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 9"
 saving_throws: "Dex +5"
 damage_immunities: "poison"
 condition_immunities: "poisoned"

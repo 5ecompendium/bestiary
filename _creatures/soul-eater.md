@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "7 (2900 XP)"
 languages: "Infernal"
 skills: "Intimidation +3, Perception +3, Stealth +9"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 saving_throws: "Dex +9, Con +5, Cha +3"
 damage_immunities: "poison"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"

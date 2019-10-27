@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1 (200 XP)"
 languages: "--"
 skills: "Perception +4, Stealth +6"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 damage_immunities: "poison"
 damage_resistances: "bludgeoning, piercing, and slashing damage from nonmagical weapons"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, petrified, poisoned"

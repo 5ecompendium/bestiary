@@ -12,7 +12,7 @@ size: Small fey
 alignment: chaotic neutral
 challenge: "5 (1800 XP)"
 languages: "--"
-senses: "impaired sight 30 ft."
+senses: "impaired sight 30 ft., passive Perception 12"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 speed: "40 ft."
 hit_points: "94 (9d12 + 36)"

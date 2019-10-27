@@ -12,7 +12,7 @@ size: Medium undead
 alignment: chaotic evil
 challenge: "6 (2300 XP)"
 languages: "Common"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 damage_immunities: "necrotic, poison; piercing and slashing damage from nonmagical weapons"
 condition_immunities: "charmed, frightened, paralyzed, poisoned"
 speed: "30 ft., swim 40 ft."

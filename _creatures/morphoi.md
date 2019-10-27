@@ -12,7 +12,7 @@ size: Medium plant
 alignment: chaotic evil
 challenge: "1/2 (100 XP)"
 languages: "Common"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 speed: "30 ft., swim 30 ft."
 hit_points: "33 (6d8 + 6)"
 armor_class: "13 (may be higher with armor)"

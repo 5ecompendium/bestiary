@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1/4 (50 XP)"
 languages: "Common"
 skills: "Arcana +5, Investigation +5"
-senses: ""
+senses: ", passive Perception 11"
 speed: "30 ft."
 hit_points: "27 (6d8)"
 armor_class: "13 (leather armor)"

@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "4 (1100 XP)"
 languages: "Common, Lemurfolk"
 skills: "Acrobatics +5, Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 speed: "20 ft., climb 10 ft., fly 40 ft."
 hit_points: "67 (15d6 + 15)"
 armor_class: "13 (16 with mage armor)"

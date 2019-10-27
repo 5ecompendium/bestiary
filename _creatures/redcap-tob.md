@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "6 (2300 XP)"
 languages: "Common, Sylvan, Undercommon"
 skills: "Athletics +8, Intimidation +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 saving_throws: "Con +6"
 damage_resistances: "bludgeoning, piercing, and slashing damage from nonmagical weapons"
 condition_immunities: "charmed, frightened"

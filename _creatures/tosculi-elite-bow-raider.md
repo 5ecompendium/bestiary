@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "5 (1800 XP)"
 languages: "Gnoll, Infernal, Tosculi"
 skills: "Perception +6, Stealth +7"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 16"
 speed: "30 ft., fly 60 ft."
 hit_points: "97 (13d8 + 39)"
 armor_class: "16 (natural armor)"

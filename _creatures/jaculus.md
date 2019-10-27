@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Common, Draconic"
 skills: "Acrobatics +6, Perception +3, Stealth +6"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 13"
 saving_throws: "Str +4, Dex +6, Con +5, Wis +3, Cha +3"
 damage_resistances: "acid, lightning"
 speed: "20 ft., climb 20 ft., fly 10 ft."

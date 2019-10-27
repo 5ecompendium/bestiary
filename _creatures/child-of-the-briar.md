@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1 (200 XP)"
 languages: "Briarclick, Common, Sylvan"
 skills: "Perception +4, Stealth +7"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 damage_vulnerabilities: "fire"
 speed: "20 ft., climb 10 ft."
 hit_points: "50 (20d4)"

@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "4 (1100 XP)"
 languages: "--"
 skills: "Perception +3, Stealth +5"
-senses: "blindsight 10 ft., darkvision 30 ft., tremorsense 30 ft."
+senses: "blindsight 10 ft., darkvision 30 ft., tremorsense 30 ft., passive Perception 13"
 damage_resistances: "bludgeoning, piercing, slashing"
 condition_immunities: "charmed, frightened, paralyzed, petrified, prone, restrained, stunned"
 speed: "20 ft., burrow 5 ft., climb 20ft."

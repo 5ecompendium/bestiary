@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "1/2 (100 XP)"
 languages: "Common, Draconic"
 skills: "Deception +5, Insight +3, Persuasion +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 saving_throws: "Dex +5"
 condition_immunities: "paralyzed, unconscious"
 speed: "40 ft., fly 80 ft."

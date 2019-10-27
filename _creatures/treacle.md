@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "1/4 (50 XP)"
 languages: "--"
 skills: "Deception +4"
-senses: "blindsight 60 ft."
+senses: "blindsight 60 ft., passive Perception 10"
 speed: "15 ft., climb 10 ft."
 hit_points: "22 (4d4 + 12)"
 armor_class: "13 (natural armor)"

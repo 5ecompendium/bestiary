@@ -12,7 +12,7 @@ size: Medium monstrosity
 alignment: neutral
 challenge: "3 (700 XP)"
 languages: "Common (Ancient Nurian)"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 saving_throws: "Wis +2"
 damage_vulnerabilities: "fire"
 damage_resistances: "bludgeoning"

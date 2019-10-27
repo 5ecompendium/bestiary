@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "11 (7200 XP)"
 languages: "--"
 skills: "Perception +6"
-senses: "tremorsense 60 ft."
+senses: "tremorsense 60 ft., passive Perception 16"
 damage_resistances: "fire, bludgeoning, piercing"
 condition_immunities: "charmed, blinded, deafened, frightened, prone"
 speed: "0 ft., burrow 5 ft."

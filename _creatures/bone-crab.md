@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1/2 (100 XP)"
 languages: "--"
 skills: "Perception +3, Stealth +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 damage_resistances: "bludgeoning"
 speed: "20 ft., swim 10 ft."
 hit_points: "33 (6d6 + 12)"

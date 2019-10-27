@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "2 (450 XP)"
 languages: "Primordial"
 skills: "Stealth +5"
-senses: "darkvision 60 ft., tremorsense 30 ft."
+senses: "darkvision 60 ft., tremorsense 30 ft., passive Perception 11"
 damage_immunities: "poison"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 condition_immunities: "exhaustion, grappled, paralyzed, petrified, poisoned, prone, restrained, unconscious"

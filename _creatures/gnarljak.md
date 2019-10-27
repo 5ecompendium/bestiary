@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "6 (2300 XP)"
 languages: "--"
 skills: "Perception +5, Stealth +9"
-senses: "blindsight 30 ft."
+senses: "blindsight 30 ft., passive Perception 15"
 saving_throws: "Dex +9"
 damage_immunities: "necrotic, poison, psychic"
 damage_resistances: "cold, acid, fire; bludgeoning, piercing, and slashing from nonmagical weapons"

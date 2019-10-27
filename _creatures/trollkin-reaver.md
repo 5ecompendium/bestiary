@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "4 (1100 XP)"
 languages: "Common, Trollkin"
 skills: "Intimidation +5, Survival +3"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 saving_throws: "Con +5, Wis +3, Cha +3"
 speed: "30 ft."
 hit_points: "82 (11d8 + 33)"

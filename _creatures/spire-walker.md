@@ -12,7 +12,7 @@ size: Tiny fey
 alignment: chaotic neutral
 challenge: "3 (700 XP)"
 languages: "Common, Sylvan"
-senses: ""
+senses: ", passive Perception 10"
 saving_throws: "Dex +7"
 damage_immunities: "lightning, thunder"
 damage_resistances: "piercing from nonmagical weapons"

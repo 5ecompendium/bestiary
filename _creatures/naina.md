@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "11 (7200 XP)"
 languages: "Common, Darakhul, Draconic, Elvish, Sylvan"
 skills: "Arcana +6, Deception +8, Insight +8, Perception +8,"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 18"
 saving_throws: "Dex +7, Con +9, Int +6, Wis +8, Cha +8"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 condition_immunities: "paralyzed, poisoned, unconscious"

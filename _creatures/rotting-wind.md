@@ -12,7 +12,7 @@ size: Large undead
 alignment: neutral evil
 challenge: "6 (2300 XP)"
 languages: "--"
-senses: "blindsight 60 ft. (blind beyond this)"
+senses: "blindsight 60 ft. (blind beyond this), passive Perception 10"
 damage_immunities: "necrotic, poison"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"
 condition_immunities: "charmed, exhaustion, grappled, frightened, paralyzed, petrified, poisoned, prone, restrained, unconscious"

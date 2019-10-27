@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "12 (8400 XP)"
 languages: "Common, Celestial, Draconic, Elvish, Dwarvish, Giant, Infernal, telepathy 60 ft."
 skills: "Arcana +7, Intimidation +6, Religion +12"
-senses: "truesight 60 ft., tremorsense 100 ft."
+senses: "truesight 60 ft., tremorsense 100 ft., passive Perception 14"
 saving_throws: "Dex +7, Con +10, Wis +8"
 damage_immunities: "cold, lightning, poison; bludgeoning, piercing, and slashing from nonmagical weapons"
 damage_resistances: "psychic, radiant"

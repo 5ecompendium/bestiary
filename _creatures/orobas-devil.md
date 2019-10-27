@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "14 (11500 XP)"
 languages: "Celestial, Darakhul, Draconic, Giant, Infernal, Undercommon, Void Speech; telepathy 100 ft."
 skills: "Deception +10, History +11, Insight +13, Perception +13, Persuasion +10"
-senses: "truesight 90 ft."
+senses: "truesight 90 ft., passive Perception 23"
 saving_throws: "Str +13, Dex +7, Con +14, Wis +13"
 damage_immunities: "fire, poison"
 damage_resistances: "acid, cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"

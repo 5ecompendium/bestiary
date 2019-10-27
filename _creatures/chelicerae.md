@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "7 (2900 XP)"
 languages: "--"
 skills: "Acrobatics +6, Athletics +9, Perception +5, Stealth +6"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 15"
 saving_throws: "Dex +6, Wis +5, Cha +5"
 damage_immunities: "poison"
 condition_immunities: "charmed, poisoned"

@@ -12,7 +12,7 @@ size: Medium monstrosity
 alignment: neutral
 challenge: "2 (450 XP)"
 languages: "Common, Sylvan"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 saving_throws: "Dex +5"
 speed: "40 ft., climb 20 ft."
 hit_points: "44 (8d8 + 8)"

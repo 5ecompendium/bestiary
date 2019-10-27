@@ -12,7 +12,7 @@ size: Huge elemental
 alignment: chaotic neutral
 challenge: "15 (13000 XP)"
 languages: "Common, Primordial"
-senses: "blindsight 30 ft., darkvision 120 ft."
+senses: "blindsight 30 ft., darkvision 120 ft., passive Perception 13"
 saving_throws: "Dex +9, Con +11"
 damage_immunities: "lightning"
 damage_resistances: "acid, cold, fire"

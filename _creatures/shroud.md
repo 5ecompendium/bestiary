@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1/8 (25 XP)"
 languages: "Common"
 skills: "Stealth +3"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 damage_vulnerabilities: "radiant"
 damage_immunities: "necrotic, poison"
 damage_resistances: "acid, cold, fire, lightning, thunder; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"

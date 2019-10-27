@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "8 (3900 XP)"
 languages: "Common"
 skills: "Perception +3"
-senses: "darkvision 200 ft."
+senses: "darkvision 200 ft., passive Perception 13"
 saving_throws: "Str +10, Con +8, Dex +3"
 damage_immunities: "fire, cold, poison"
 damage_resistances: "necrotic"

@@ -12,7 +12,7 @@ size: Medium undead
 alignment: chaotic evil
 challenge: "7 (2900 XP)"
 languages: "Common"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 saving_throws: "Con +6"
 damage_immunities: "necrotic, poison"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons"

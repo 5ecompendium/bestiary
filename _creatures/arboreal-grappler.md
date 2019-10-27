@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "--"
 skills: "Acrobatics +5, Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 speed: "10 ft., climb 40 ft."
 hit_points: "90 (12d8 + 36)"
 armor_class: "14 (natural armor)"

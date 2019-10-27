@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "6 (2300 XP)"
 languages: "Celestial, Common, Infernal, telepathy 120 ft."
 skills: "Deception +8, Insight +4"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 11"
 saving_throws: "Wis +4, Cha +5"
 damage_immunities: "fire, poison"
 damage_resistances: "acid, cold; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"

@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "9 (5000 XP)"
 languages: "Common, Giant"
 skills: "Perception +8, Stealth +4, Survival +8"
-senses: ""
+senses: ", passive Perception 18"
 saving_throws: "Str + 12, Con +10, Cha +6"
 damage_immunities: "fire"
 speed: "40 ft."

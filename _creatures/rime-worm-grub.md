@@ -12,7 +12,7 @@ size: Medium elemental
 alignment: neutral
 challenge: "1 (200 XP)"
 languages: "--"
-senses: "darkvision 200 ft."
+senses: "darkvision 200 ft., passive Perception 11"
 saving_throws: "Str +5, Con +5"
 damage_resistances: "cold"
 speed: "30 ft., swim 30 ft, burrow (snow, ice) 20 ft."

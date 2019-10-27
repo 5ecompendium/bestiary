@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "2 (450 XP)"
 languages: "Common"
 skills: "Stealth +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 damage_immunities: "necrotic, poison"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"
 condition_immunities: "charmed, frightened, poisoned, stunned, unconscious"

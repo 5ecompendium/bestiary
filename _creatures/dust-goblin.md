@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "Common, Goblin"
 skills: "Stealth +7"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 9"
 condition_immunities: "charmed, frightened"
 speed: "40 ft."
 hit_points: "5 (1d6 + 2)"

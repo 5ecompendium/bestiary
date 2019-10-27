@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "6 (2300 XP)"
 languages: "--"
 skills: "Perception +7, Stealth +4"
-senses: "darkvision 60 ft., tremorsense 120 ft."
+senses: "darkvision 60 ft., tremorsense 120 ft., passive Perception 17"
 speed: "20 ft., burrow 40 ft."
 hit_points: "142 (15d10 + 60)"
 armor_class: "15 (natural armor)"

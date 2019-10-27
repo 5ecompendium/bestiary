@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "2 (450 XP)"
 languages: "Common, Goblin, Sylvan, Umbral"
 skills: "Athletics +3, Stealth +6"
-senses: "60 ft."
+senses: "60 ft., passive Perception 9"
 damage_resistances: "bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered or made of cold iron"
 condition_immunities: "frightened"
 speed: "30 ft."

@@ -12,7 +12,7 @@ size: Large plant
 alignment: unaligned
 challenge: "8 (3900 XP)"
 languages: "can understand the language of its creator or designated master"
-senses: "blindsight 120 ft."
+senses: "blindsight 120 ft., passive Perception 11"
 damage_immunities: "A dragonleaf tree enjoys the same immunities as its progenitor. Black, copper, and green trees are immune to acid damage; blue and bronze trees are immune to lightning damage; brass, gold, and red trees are immune to fire damage; and silver and white trees are immune to cold damage."
 condition_immunities: "blinded, deafened"
 speed: "5 ft."

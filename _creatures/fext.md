@@ -13,7 +13,7 @@ alignment: any alignment
 challenge: "6 (2300 XP)"
 languages: "the languages spoken by its patron"
 skills: "Perception +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 saving_throws: "Dex +6, Wis +4, Cha +7"
 damage_resistances: "bludgeoning, piercing, and slashing damage with nonmagical weapons"
 condition_immunities: "charmed, exhaustion, frightened, paralyzed, poisoned"

@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "17 (18000 XP)"
 languages: "understands Darakhul and Void Speech"
 skills: "Perception +8, Stealth +8"
-senses: "truesight 120 ft."
+senses: "truesight 120 ft., passive Perception 19"
 saving_throws: "Dex +8, Con +13, Wis +9, Cha +11"
 damage_immunities: "thunder"
 damage_resistances: "cold, lightning; bludgeoning, piercing, and slashing from nonmagical weapons that aren't silvered"

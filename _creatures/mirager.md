@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "3 (700 XP)"
 languages: "Common, Sylvan"
 skills: "Deception +7, Performance +9, Perception +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 speed: "30 ft."
 hit_points: "78 (12d8 + 24)"
 armor_class: "13"

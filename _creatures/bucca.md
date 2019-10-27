@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "1/2 (100 XP)"
 languages: "Darakhul, Dwarvish"
 skills: "Perception +1, Sleight of Hand +7, Stealth +7"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 speed: "20 ft., fly 30 ft."
 hit_points: "27 (5d4 + 15)"
 armor_class: "14 (natural armor)"

@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "1 (200 XP)"
 languages: "Common, Draconic"
 skills: "Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 speed: "30 ft."
 hit_points: "36 (8d6 + 8)"
 armor_class: "14 (leather)"

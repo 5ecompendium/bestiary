@@ -12,7 +12,7 @@ size: Small humanoid
 alignment: neutral
 challenge: "1/4 (50 XP)"
 languages: "Common, Erina"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 damage_resistances: "poison"
 speed: "20 ft., burrow 20 ft."
 hit_points: "22 (4d6 + 8)"

@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "4 (1100 XP)"
 languages: "Common, Draconic"
 skills: "Stealth +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 saving_throws: "Dex +4"
 damage_resistances: "fire"
 condition_immunities: "paralyzed, unconscious"

@@ -12,7 +12,7 @@ size: Large fey
 alignment: neutral
 challenge: "1 (200 XP)"
 languages: "--"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 speed: "10 ft., climb 10 ft., swim 80 ft."
 hit_points: "77 (9d10 + 27)"
 armor_class: "14"

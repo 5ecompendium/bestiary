@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "4 (1100 XP)"
 languages: "--"
 skills: "Perception +3"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 saving_throws: "Wis +3, Cha +7"
 damage_immunities: "psychic"
 condition_immunities: "charmed, frightened"

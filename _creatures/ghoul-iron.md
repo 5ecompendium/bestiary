@@ -12,7 +12,7 @@ size: Medium undead
 alignment: lawful evil
 challenge: "5 (1800 XP)"
 languages: "Common, Darakhul, Undercommon"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 damage_immunities: "poison"
 condition_immunities: "charmed, exhaustion, poisoned"
 speed: "30 ft., burrow 20 ft."

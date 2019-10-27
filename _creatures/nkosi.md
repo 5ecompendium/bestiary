@@ -13,7 +13,7 @@ alignment: nkosi), lawful neutral
 challenge: "1/2 (100 XP)"
 languages: "Common"
 skills: "Survival +2"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 speed: "30 ft."
 hit_points: "11 (2d8 + 2)"
 armor_class: "15 (studded leather)"

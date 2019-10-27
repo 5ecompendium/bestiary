@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "5 (1800 XP)"
 languages: "Common, Sylvan"
 skills: "Perception +4, Stealth +7"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 14"
 speed: "50 ft., climb 30 ft."
 hit_points: "127 (15d10 + 45)"
 armor_class: "14 (natural armor)"

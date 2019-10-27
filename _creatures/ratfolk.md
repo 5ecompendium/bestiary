@@ -13,7 +13,7 @@ alignment: neutral
 challenge: "1/4 (50 XP)"
 languages: "Common"
 skills: "Perception +2"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 speed: "25 ft., swim 10 ft."
 hit_points: "7 (2d6)"
 armor_class: "14 (studded leather armor)"

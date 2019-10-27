@@ -12,7 +12,7 @@ size: Medium plant
 alignment: neutral evil
 challenge: "4 (1100 XP)"
 languages: "--"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 speed: "20 ft."
 hit_points: "90 (12d8 + 36)"
 armor_class: "15 (natural armor)"

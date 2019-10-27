@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "16 (15000 XP)"
 languages: "Common, Elvish, Giant, Sylvan"
 skills: "Perception +10, Stealth +9"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception 20"
 saving_throws: "Dex +9, Con +7, Cha +9"
 damage_immunities: "cold"
 damage_resistances: "bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't cold iron"

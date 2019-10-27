@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "5 (1800 XP)"
 languages: "Common, Infernal"
 skills: "Athletics +9, Perception +4, Stealth +4"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 saving_throws: "Dex +4 Con +7"
 damage_immunities: "poison"
 damage_resistances: "acid, cold, fire; bludgeoning, piercing, and slashing from nonmagical weapons"

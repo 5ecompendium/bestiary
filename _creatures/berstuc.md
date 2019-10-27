@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "11 (7200 XP)"
 languages: "Abyssal, Common, Sylvan; telepathy 120 ft."
 skills: "Deception +8, Nature +10, Stealth +4 (+8 in forest terrain), Survival +6"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 12"
 saving_throws: "Str +10, Wis +6, Cha +8"
 damage_immunities: "lightning, poison"
 damage_resistances: "acid, fire; bludgeoning, piercing, and slashing damage from nonmagical weapons"

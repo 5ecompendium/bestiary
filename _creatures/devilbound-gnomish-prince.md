@@ -13,7 +13,7 @@ alignment: any evil
 challenge: "9 (5000 XP)"
 languages: "Common, Infernal, Gnomish"
 skills: "Arcana +7, Deception +10, History +7, Persuasion +10"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 11"
 saving_throws: "Con +6, Int +7, Cha +10"
 damage_resistances: "cold, fire, poison; bludgeoning, piercing, and slashing damage from nonmagical weapons that aren't silvered"
 condition_immunities: "poisoned"

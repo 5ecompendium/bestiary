@@ -13,7 +13,7 @@ alignment: neutral evil
 challenge: "4 (1100 XP)"
 languages: "Void Speech"
 skills: "Intimidate +2, Perception +3, Stealth +8"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 13"
 saving_throws: "Dex +6"
 damage_resistances: "acid, cold, lightning"
 speed: "20 ft., climb 15 ft."

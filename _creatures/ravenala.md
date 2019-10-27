@@ -12,7 +12,7 @@ size: Large plant
 alignment: unaligned
 challenge: "5 (1800 XP)"
 languages: "Common, Druidic, Elvish, Sylvan"
-senses: ""
+senses: ", passive Perception 13"
 saving_throws: "Wis +6, Cha +4"
 damage_vulnerabilities: "fire, cold"
 damage_resistances: "bludgeoning, piercing"

@@ -13,7 +13,7 @@ alignment: lawful neutral
 challenge: "18 (20000 XP)"
 languages: "Common, Draconic, Elvish, Sylvan"
 skills: "Athletics +11, Perception +10, Survival +10"
-senses: "blindsight 10 ft., darkvision 60 ft."
+senses: "blindsight 10 ft., darkvision 60 ft., passive Perception passive Perception 20"
 saving_throws: "Str +11, Wis +10, Cha +8"
 damage_immunities: "cold, poison"
 damage_resistances: "bludgeoning, piercing, and slashing from weapons that aren't made of cold iron"

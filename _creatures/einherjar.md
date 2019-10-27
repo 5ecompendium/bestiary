@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "7 (2900 XP)"
 languages: "Celestial, Common"
 skills: "Animal Handling +5, Intimidation +6, Perception +5"
-senses: "darkvision 60 ft., truesight 60 ft."
+senses: "darkvision 60 ft., truesight 60 ft., passive Perception 15"
 damage_resistances: "piercing weapons that are nonmagical"
 speed: "30 ft."
 hit_points: "119 (14d8 + 56)"

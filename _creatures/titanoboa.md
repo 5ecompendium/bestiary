@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "12 (8400 XP)"
 languages: "--"
 skills: "Perception +5"
-senses: "blindsight 10 ft."
+senses: "blindsight 10 ft., passive Perception 15"
 saving_throws: "Dex +5, Wis +5"
 speed: "40 ft., climb 40 ft., swim 40 ft."
 hit_points: "232 (15d20 + 75)"

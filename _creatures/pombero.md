@@ -13,7 +13,7 @@ alignment: chaotic neutral
 challenge: "3 (700 XP)"
 languages: "Sylvan"
 skills: "Athletics +5, Sleight of Hand +5, Stealth +5"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 10"
 speed: "30 ft."
 hit_points: "90 (12d8 + 36)"
 armor_class: "15 (natural armor)"

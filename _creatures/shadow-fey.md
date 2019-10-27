@@ -13,7 +13,7 @@ alignment: lawful evil
 challenge: "1/4 (50 XP)"
 languages: "Common, Elvish, Umbral"
 skills: "Arcana +2, Perception +2"
-senses: "darkvision 60 ft."
+senses: "darkvision 60 ft., passive Perception 12"
 speed: "30 ft."
 hit_points: "31 (7d8)"
 armor_class: "15 (chain shirt)"

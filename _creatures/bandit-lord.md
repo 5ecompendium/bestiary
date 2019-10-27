@@ -13,7 +13,7 @@ alignment: any non-lawful
 challenge: "4 (1100 XP)"
 languages: "any two languages"
 skills: "Athletics +5, Deception +4, Intimidation +4"
-senses: ""
+senses: ", passive Perception 10"
 saving_throws: "Str +5, Dex +4, Wis +2"
 speed: "30 ft."
 hit_points: "91 (14d8 + 28)"

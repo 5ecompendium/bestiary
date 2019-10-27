@@ -13,7 +13,7 @@ alignment: chaotic evil
 challenge: "5 (1800 XP)"
 languages: "Derro, Undercommon"
 skills: "Perception +0, Stealth +7"
-senses: "darkvision 120 ft."
+senses: "darkvision 120 ft., passive Perception 10"
 saving_throws: "Str +3, Wis +0, Cha +5"
 speed: "30 ft."
 hit_points: "82 (11d6 + 44)"
