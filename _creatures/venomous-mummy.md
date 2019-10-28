@@ -23,9 +23,9 @@ hit_points: "58 (9d8 + 18)"
 armor_class: "11 (natural armor)"
 ---
 
-***Selket's Venom.*** The venomous mummy's body and wrappings are magically imbued with substances that are highly toxic. Any creature that comes in physical contact with the venomous mummy (e.g., touching the mummy barehanded, grappling, using a bite attack) must succeed on a DC 12 Constitution saving throw or be poisoned with Selket's venom. The poisoned target takes 3 (1d6) poison damage every 10 minutes. Selket's venom is a curse, so it lasts until ended by the remove curse spell or comparable magic.
+***Selket's Venom.*** The venomous mummy's body and wrappings are magically imbued with substances that are highly toxic. Any creature that comes in physical contact with the venomous mummy (e.g., touching the mummy barehanded, grappling, using a bite attack) must succeed on a DC 12 Constitution saving throw or be poisoned with Selket's venom. The poisoned target takes 3 (1d6) poison damage every 10 minutes. Selket's venom is a curse, so it lasts until ended by the <i>remove curse</i> spell or comparable magic.
 
-***Toxic Smoke.*** The venomous mummy's poisonimbued wrappings and flesh create toxic fumes when burned. If a venomous mummy takes fire damage, it is surrounded by a cloud of toxic smoke in a 10-foot radius. This cloud persists for one full round. A creature that starts its turn inside the cloud or enters it for the first time on its turn takes 14 (4d6) poison damage, or half damage with a successful DC 12 Constitution saving throw.
+***Toxic Smoke.*** The venomous mummy's poison-imbued wrappings and flesh create toxic fumes when burned. If a venomous mummy takes fire damage, it is surrounded by a cloud of toxic smoke in a 10-foot radius. This cloud persists for one full round. A creature that starts its turn inside the cloud or enters it for the first time on its turn must make a DC 12 Constitution saving throw, taking 14 (4d6) poison damage on a failure, or half damage on a success.
 
 ### Actions
 
