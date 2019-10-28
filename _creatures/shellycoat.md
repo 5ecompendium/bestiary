@@ -22,9 +22,9 @@ armor_class: "14 (natural armor)"
 
 ***Innate Spellcasting.*** The shellycoat can cast the following spells innately, requiring no components:
 
-1/day each: darkness, fog cloud
+1/day each: <i>darkness, fog cloud</i>
 
-1/day (if in possession of its coat): water breathing
+1/day (if in possession of its coat): <i>water breathing</i>
 
 ***Regeneration.*** The shellycoat regains 3 hit points at the start of its turn. If the creature takes acid or fire damage, this trait doesn't function at the start of the monster's next turn. The shellycoat dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
