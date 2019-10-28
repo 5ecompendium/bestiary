@@ -26,7 +26,7 @@ armor_class: "16 (natural armor)"
 
 ***Innate Spellcasting.*** The dragon's innate spellcasting ability is Charisma. It can innately cast the following spell, requiring no material components:
 
-3/day: darkness
+* 3/day: <i>darkness</i>
 
 ### Actions
 
