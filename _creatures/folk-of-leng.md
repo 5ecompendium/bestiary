@@ -25,11 +25,11 @@ armor_class: "14 (studded leather)"
 
 ***Innate Spellcasting.*** The folk of Leng's innate spellcasting ability is Charisma (spell save DC 16). It can innately cast the following spells, requiring no material components:
 
-At will: comprehend languages, minor illusion
+* At will: <i>comprehend languages, minor illusion</i>
 
-3/day each: disguise self, suggestion
+* 3/day each: <i>disguise self, suggestion</i>
 
-1/day each: dream, etherealness
+* 1/day each: <i>dream, etherealness</i>
 
 ***Regeneration.*** The folk of Leng regains 5 hit points at the start of its turn. If the folk of Leng takes fire or radiant damage, this trait does not function at the start of its next turn. The folk of Leng dies only if it starts its turn with 0 hit points and does not regenerate. Even if slain, their bodies reform in a crypt of Leng and go on about their business.
 
