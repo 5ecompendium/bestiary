@@ -33,21 +33,12 @@ armor_class: "15 (natural armor)"
 
 ***Roar.*** When a mahoru roars all creatures with hearing within 30 feet of it must succeed on a DC 14 Wisdom saving throw or become frightened until the end of the mahoru's next turn. If the target fails the saving throw by 5 or more, it's also paralyzed for the same duration. A target that succeeds on the saving throw is immune to the Roar of all mahoru for the next 24 hours.
 
-***Vorpal Bite.*** A mahoru's saw-like jaws are excel at dismembering prey. When the mahoru scores a critical hit, the target must succeed on a DC 14 Strength saving throw or lose an appendage. Roll on the following table for the result:
-
-1-2: right hand
-
-3-4: left hand
-
-5-6: right food
-
-7-8: left foot
-
-9: right forearm
-
-10: left forearm
-
-11: right lower leg
-
-12: left lower leg
-
+***Vorpal Bite.*** A mahoru's saw-like jaws are excel at dismembering prey. When the mahoru scores a critical hit, the target must succeed on a DC 14 Strength saving throw or lose an appendage. Roll a d12 and consult the following table for the result:
+* 1-2: right hand
+* 3-4: left hand
+* 5-6: right food
+* 7-8: left foot
+* 9: right forearm
+* 10: left forearm
+* 11: right lower leg
+* 12: left lower leg
