@@ -21,9 +21,9 @@ armor_class: "14 (natural armor)"
 
 ***Innate Spellcasting.*** The leshy's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
 
-At will: animal friendship, pass without trace, speak with animals
+* At will: <i>animal friendship, pass without trace, speak with animals</i>
 
-1/day each: entangle, plant growth, shillelagh, speak with plants, hideous laughter
+* 1/day each: <i>entangle, plant growth, shillelagh, speak with plants, hideous laughter</i>
 
 ***Camouflage.*** A leshy has advantage on Stealth checks if it is at least lightly obscured by foliage.
 
