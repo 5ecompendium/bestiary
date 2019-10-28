@@ -27,5 +27,6 @@ armor_class: "15"
 
 ***Claw.*** Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (1d8 + 5) slashing damage.
 
-***Smother.*** If the bereginyas grapples an opponent, it extends a semi-solid gaseous tendril down the target's throat as a bonus action. The target must make a successful DC 14 Strength saving or it is immediately out of breath and begins suffocating. Suffocation ends if the grapple is broken or if the bereginyas is killed.
+### Bonus Actions
 
+***Smother.*** The bereginyas extends a semi-solid gaseous tendril down the grappled target's throat. The target must make a successful DC 14 Strength saving or it is immediately out of breath and begins suffocating. Suffocation ends if the grapple is broken or if the bereginyas is killed.
