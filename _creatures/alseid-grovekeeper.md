@@ -21,19 +21,19 @@ armor_class: "15 (studded leather Armor)"
 
 ***Spellcasting.*** The grovekeeper is a 5th-level spellcaster. Its spellcasting ability is Wisdom (spell save DC 13, +5 to hit with spell attacks). It has the following druid spells prepared:
 
-Cantrips (at will): druidcraft, guidance, produce flame, shillelagh
+* Cantrips (at will): <i>druidcraft, guidance, produce flame, shillelagh</i>
 
-1st (4 slots): animal friendship, cure wounds, faerie fire
+* 1st (4 slots): <i>animal friendship, cure wounds, faerie fire</i>
 
-2nd (3 slots): animal messenger, heat metal, lesser restoration
+* 2nd (3 slots): <i>animal messenger, heat metal, lesser restoration</i>
 
-3rd (2 slots): call lightning, dispel magic
+* 3rd (2 slots): <i>call lightning, dispel magic</i>
 
 ***Woodfriend.*** When in a forest, alseid leave no tracks and automatically discern true north.
 
 ### Actions
 
-***Quarterstaff.*** Melee Weapon Attack: +3 to hit (+5 with shillelagh), reach 5 ft., one creature.Hit: 4 (1d6 + 1) bludgeoning damage or 5 (1d8 + 1) bludgeoning damage if used in two hands, or 7 (1d8 + 3) bludgeoning damage with shillelagh.
+***Quarterstaff.*** Melee Weapon Attack: +3 to hit (+5 with <i>shillelagh</i>), reach 5 ft., one creature.Hit: 4 (1d6 + 1) bludgeoning damage or 5 (1d8 + 1) bludgeoning damage if used in two hands, or 7 (1d8 + 3) bludgeoning damage with <i>shillelagh</i>.
 
 ***Shortbow.*** Ranged Weapon Attack: +5 to hit, range 80/320 ft., one target. Hit: 6 (1d6+3) piercing damage.
 
