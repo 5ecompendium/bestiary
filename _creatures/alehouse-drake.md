@@ -23,11 +23,11 @@ armor_class: "13"
 
 ***Innate Spellcasting.*** The drake's innate casting ability is Charisma (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-At will: friends, vicious mockery
+* At will: <i>friends, vicious mockery</i>
 
-5/day each: calm emotions, dissonant whispers, ray of sickness, hideous laughter
+* 5/day each: <i>calm emotions, dissonant whispers, ray of sickness, hideous laughter</i>
 
-3/day each: confusion, invisibility
+* 3/day each: <i>confusion, invisibility</i>
 
 ***Forgetful Spellcasting.*** When a creature fails an Intelligence, Wisdom, or Charisma saving throw against a spell cast by an alehouse drake, the creature immediately forgets the source of the spellcasting.
 
