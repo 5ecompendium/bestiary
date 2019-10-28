@@ -19,13 +19,13 @@ hit_points: "44 (8d8 + 8)"
 armor_class: "15"
 ---
 
-***Folk Cure.*** A kot bayun's tales have the effect of a lesser restoration spell at will, and once per week it can have the effect of greater restoration. The kot bayun designates one listener to benefit from its ability, and that listener must spend one uninterrupted hour listening to the cat's tales. Kot bayuns are reluctant to share this benefit and must be bargained with or under the effect of domination to grant the boon.
+***Folk Cure.*** A kot bayun's tales have the effect of a <i>lesser restoration</i> spell at will, and once per week it can have the effect of <i>greater restoration</i>. The kot bayun designates one listener to benefit from its ability, and that listener must spend one uninterrupted hour listening to the cat's tales. Kot bayuns are reluctant to share this benefit and must be bargained with or under the effect of a spell such as <i>domination</i> to grant the boon.
 
 ***Innate Spellcasting.*** The kot bayun's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
 
-3/day each: fog cloud, invisibility (self only)
+* 3/day each: <i>fog cloud, invisibility </i>(self only)
 
-1/day: blink
+* 1/day: <i>blink</i>
 
 ### Actions
 
