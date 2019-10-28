@@ -22,7 +22,7 @@ armor_class: "15 (natural armor)"
 
 ***Luminescence.*** The chemicals within cavelight moss make the entire creature shed light as a torch. A cavelight moss cannot suppress this effect. It can, however, diminish the light produced to shed illumination as a candle.
 
-***Strength Drain.*** Living creatures hit by the cavelight moss's tendril attack or caught up in its grapple must make a successful DC 14 Constitution saving throw or 1 level of exhaustion. Creatures that succeed are immune to that particular cavelight moss's Strength Drain ability for 24 hours. For every level of exhaustion drained, the cavelight moss gains 5 temporary hit points.
+***Strength Drain.*** Living creatures hit by the cavelight moss's tendril attack or caught up in its grapple must make a successful DC 14 Constitution saving throw or suffer 1 level of exhaustion. Creatures that succeed are immune to that particular cavelight moss's Strength Drain ability for 24 hours. For every level of exhaustion drained, the cavelight moss gains 5 temporary hit points.
 
 ### Actions
 
