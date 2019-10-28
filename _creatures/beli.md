@@ -30,9 +30,9 @@ armor_class: "15 (natural armor)"
 
 ***Innate Spellcasting.*** The beli's innate spellcasting ability is Charisma (spell save DC 12, +4 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-At will: invisibility
+* At will: <i>invisibility</i>
 
-3/day: chill touch
+* 3/day: <i>chill touch</i>
 
 ### Actions
 
