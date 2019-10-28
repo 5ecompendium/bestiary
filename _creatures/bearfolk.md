@@ -18,8 +18,6 @@ hit_points: "45 (6d8 + 18)"
 armor_class: "14 (hide armor)"
 ---
 
-***Frenzy (1/rest).*** As a bonus action, the bearfolk can trigger a berserk frenzy that lasts 1 minute. While in frenzy, it gains resistance to bludgeoning, piercing, and slashing damage and has advantage on attack rolls. Attack rolls made against a frenzied bearfolk have advantage.
-
 ***Keen Smell.*** The bearfolk has advantage on Wisdom (Perception) checks that rely on smell.
 
 ### Actions
@@ -32,3 +30,6 @@ armor_class: "14 (hide armor)"
 
 ***Warhammer.*** Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) bludgeoning damage, or 9 (1d10 + 4) bludgeoning damage if used two-handed.
 
+### Bonus Actions
+
+***Frenzy (1/short rest).*** The bearfolk triggers a berserk frenzy that lasts for 1 minute. While in frenzy, it gains resistance to bludgeoning, piercing, and slashing damage and has advantage on attack rolls. Attack rolls made against a frenzied bearfolk have advantage.
