@@ -22,9 +22,9 @@ armor_class: "13"
 
 ***Innate Spellcasting.*** The gremlin's innate spellcasting ability is Charisma (spell save DC 11). It can innately cast the following spells, requiring no material components:
 
-At will: prestidigitation
+* At will: <i>prestidigitation</i>
 
-3/day: hex
+* 3/day: <i>hex</i>
 
 ***Magic Resistance.*** The gremlin has advantage on saving throws against spells and other magical effects.
 
