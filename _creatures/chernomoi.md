@@ -22,9 +22,9 @@ armor_class: "13"
 
 ***Innate Spellcasting.*** The chernomoi's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
 
-At will: detect magic, invisibility, mage hand, mending, message, prestidigitation
+* At will: <i>detect magic, invisibility, mage hand, mending, message, prestidigitation</i>
 
-1/day each: detect poison and disease, dimension door
+* 1/day each: <i>detect poison and disease, dimension door</i>
 
 ### Actions
 
