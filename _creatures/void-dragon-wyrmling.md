@@ -23,7 +23,7 @@ armor_class: "17 (natural armor)"
 
 ***Chill of the Void.*** Cold damage dealt by the void dragon ignores resistance to cold damage, but not cold immunity.
 
-***Void Dweller.*** As ancient void dragon.
+***Void Dweller.*** As an ancient void dragon.
 
 ### Actions
 
@@ -31,9 +31,9 @@ armor_class: "17 (natural armor)"
 
 ***Breath Weapons (Recharge 5-6).*** The dragon uses one of the following breath weapons:
 
-***Gravitic Breath.*** The dragon exhales a 15-foot cube of powerful localized gravity, originating from the dragon. Falling damage in the area increases to 1d10 per 10 feet fallen. When a creature starts its turn within the area or enters it for the first time in a turn, including when the dragon creates the field, must make a DC 13 Dexterity saving throw. On a failure the creature is restrained. On a success the creature's speed is halved as long as it remains in the field. A restrained creature repeats the saving throw at the end of its turn. The field persists until the dragon's breath recharges, and it can't use gravitic breath twice consecutively.
+* ***Gravitic Breath.*** The dragon exhales a 15-foot cube of powerful localized gravity, originating from the dragon. Falling damage in the area increases to 1d10 per 10 feet fallen. When a creature starts its turn within the area or enters it for the first time in a turn, including when the dragon creates the field, must make a DC 13 Dexterity saving throw. On a failure the creature is restrained. On a success the creature's speed is halved as long as it remains in the field. A restrained creature repeats the saving throw at the end of its turn. The field persists until the dragon's breath recharges, and it can't use gravitic breath twice consecutively.
 
-***Stellar Flare Breath.*** The dragon exhales star fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 10 (3d6) fire damage and 10 (3d6) radiant damage on a failed save, or half as much damage on a successful one.
+* ***Stellar Flare Breath.*** The dragon exhales star fire in a 15-foot cone. Each creature in that area must make a DC 13 Dexterity saving throw, taking 10 (3d6) fire damage and 10 (3d6) radiant damage on a failed save, or half as much damage on a successful one.
 
 ### Reactions
 
