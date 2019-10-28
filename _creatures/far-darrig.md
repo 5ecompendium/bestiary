@@ -24,7 +24,7 @@ armor_class: "14 (hide armor)"
 
 * At will: <i>calm emotions, charm animal </i>(as <i>charm person</i> but affects beasts only)<i>, cure wounds, detect poison and disease, water breathing, water walk, magic weapon </i>(antler glaive only)<i>, speak with animals</i>
 
-* 3/day each: <i>barkskin, conjure woodland beings, hold animal </i>(as hold person but affects beasts only)<i>, jump, longstrider</i>
+* 3/day each: <i>barkskin, conjure woodland beings, hold animal </i>(as <i>hold person</i> but affects beasts only)<i>, jump, longstrider</i>
 
 * 1/day each: <i>commune with nature, freedom of movement, nondetection, tree stride</i>
 
