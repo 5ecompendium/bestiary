@@ -23,11 +23,11 @@ armor_class: "14"
 
 ***Innate Spellcasting.*** The temple cat's innate spellcasting ability is Charisma (spell save DC 14, +6 to hit with spell attacks). The temple cat can innately cast the following spells, requiring no material components:
 
-At will: guidance
+* At will: <i>guidance</i>
 
-3/day each: charm person, cure wounds
+* 3/day each: <i>charm person, cure wounds</i>
 
-1/day: enhance ability (only Cat's Grace)
+* 1/day: <i>enhance ability</i> (only Cat's Grace)
 
 ***Priestly Purr.*** When a cleric or paladin who worships Bastet spends an hour preparing spells while a Bastet temple cat is within 5 feet, that spellcaster can choose two 1st-level spells and one 2nd-level spell that they are able to cast and imbue them into the temple cat. The temple cat can cast these spells 1/day each without a verbal component. These spells are cast as if they were included in the temple cat's Innate Spellcasting trait.
 
