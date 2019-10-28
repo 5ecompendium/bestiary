@@ -23,9 +23,9 @@ armor_class: "14"
 
 ***Innate Spellcasting.*** The wampus cat's innate spellcasting ability is Charisma (spell save DC 13). She can innately cast the following spells, requiring no material components:
 
-At will: disguise self (appearance of a female human), mage hand
+* At will: <i>disguise self </i>(appearance of a female human)<i>, mage hand</i>
 
-2/day: hex
+* 2/day: <i>hex</i>
 
 ***Magic Resistance.*** The wampus cat has advantage on saving throws against spells and other magical effects.
 
