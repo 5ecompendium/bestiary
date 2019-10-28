@@ -21,8 +21,6 @@ armor_class: "15 (chain shirt)"
 
 ***Harrying Attacks.*** If the gnoll attacks two creatures in the same turn, the first target has disadvantage on attack rolls until the end of its next turn.
 
-***Lightning Lope.*** The gnoll can Dash or Disengage as a bonus action.
-
 ***Pack Tactics.*** The gnoll has advantage on its attack rolls against a target if at least one of the gnoll's allies is within 5 feet of the target and the ally isn't incapacitated.
 
 ### Actions
@@ -33,3 +31,6 @@ armor_class: "15 (chain shirt)"
 
 ***Bite.*** Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.
 
+### Bonus Actions
+
+***Lightning Lope.*** The gnoll takes the Dash or Disengage action.
