@@ -27,5 +27,5 @@ armor_class: "13 (natural armor)"
 
 ***Gaze of Confusion.*** The library automaton chooses one creature it can see within 40 feet. The target must succeed on a DC 12 Intelligence saving throw or take 9 (3d4 + 2) psychic damage and have disadvantage on Intelligence-based checks, saving throws, and attacks until the end of its next turn. If the saving throw succeeds, then the target takes half damage and suffers no other effect.
 
-***Bibliotelekinesis.*** This ability functions as the cantrip mage hand but can be used only on books, scrolls, maps, and other printed or written materials.
+***Bibliotelekinesis.*** This ability functions as the cantrip <i>mage hand</i> but can be used only on books, scrolls, maps, and other printed or written materials.
 
