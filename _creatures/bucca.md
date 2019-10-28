@@ -25,9 +25,9 @@ armor_class: "14 (natural armor)"
 
 ***Innate Spellcasting.*** The bucca's innate spellcasting ability is Charisma (spell save DC 13). It can innately cast the following spells, requiring no material components:
 
-At will: invisibility
+* At will: <i>invisibility</i>
 
-3/day each: darkness, ensnaring strike, locate object
+* 3/day each: <i>darkness, ensnaring strike, locate object</i>
 
 ### Actions
 
