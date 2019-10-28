@@ -25,7 +25,7 @@ armor_class: "13"
 
 ***Innate Spellcasting.*** The stryx's innate spellcasting ability is Wisdom. It can cast the following spell, requiring no components:
 
-3/day: comprehend languages
+* 3/day: <i>comprehend languages</i>
 
 ***Keen Hearing and Sight.*** The stryx has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
