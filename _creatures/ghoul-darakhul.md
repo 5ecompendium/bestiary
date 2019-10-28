@@ -30,15 +30,11 @@ armor_class: "16 (scale mail; 18 with shield)"
 
 ***Turning Defiance.*** The darakhul and any ghouls within 30 feet of it have advantage on saving throws against effects that turn undead.
 
-***Darakhul Fever.*** Spread mainly through bite wounds, this rare disease makes itself known within 24 hours by swiftly debilitating the infected. A creature so afflicted must make a DC 17 Constitution saving throw after every long rest. On a failed save the victim takes 14 (4d6) necrotic damage, and its hit point maximum is reduced by an amount equal to the damage taken. This reduction can't be removed until the victim recovers from darakhul fever, and even then only by greater restoration or similar magic. The victim recovers from the disease by making successful saving throws on two consecutive days. Greater restoration cures the disease; lesser restoration allows the victim to make the daily Constitution check with advantage. Primarily spread among humanoids, the disease can affect ogres, and therefore other giants may be susceptible. If the infected creature dies while infected with darakhul fever, roll 1d20, add the character's current Constitution modifier, and find the result on the Adjustment Table to determine what undead form the victim's body rises in. Adjustment Table Roll Result:
-
-1-9 None; victim is simply dead
-
-10-16 Ghoul
-
-17-20 Ghast
-
-21+ Darakhul
+***Darakhul Fever.*** Spread mainly through bite wounds, this rare disease makes itself known within 24 hours by swiftly debilitating the infected. A creature so afflicted must make a DC 17 Constitution saving throw after every long rest. On a failed save the victim takes 14 (4d6) necrotic damage, and its hit point maximum is reduced by an amount equal to the damage taken. This reduction can't be removed until the victim recovers from darakhul fever, and even then only by <i>greater restoration</i> or similar magic. The victim recovers from the disease by making successful saving throws on two consecutive days. <i>Greater restoration</i> cures the disease; <i>lesser restoration</i> allows the victim to make the daily Constitution check with advantage. Primarily spread among humanoids, the disease can affect ogres, and therefore other giants may be susceptible. If the infected creature dies while infected with darakhul fever, roll 1d20, add the character's current Constitution modifier, and find the result below to determine what undead form the victim's body rises in:
+* 1-9: None; victim is simply dead
+* 10-16: Ghoul
+* 17-20: Ghast
+* 21+: Darakhul
 
 ### Actions
 
