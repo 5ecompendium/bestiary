@@ -25,7 +25,7 @@ armor_class: "13 (natural armor)"
 
 ***Innate Spellcasting.*** The lantern dragonette's innate spellcasting ability is Intelligence (spell save DC 13, +5 to hit with spell attacks). It can innately cast the following spells, requiring no material components:
 
-1/day each: burning hands, color spray, scorching ray
+* 1/day each: <i>burning hands, color spray, scorching ray</i>
 
 ***Vulnerable to Magical Darkness.*** A lantern dragonette in an area of magical darkness loses its lantern belly ability and its ability to fly. It also suffers 1d6 radiant damage for every minute of exposure.
 
