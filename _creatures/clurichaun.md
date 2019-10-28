@@ -25,9 +25,9 @@ armor_class: "14"
 
 ***Innate Spellcasting.*** The clurichaun's innate spellcasting ability is Charisma (spell save DC 13). The clurichaun can cast the following spells, requiring only alcohol as a component.
 
-At will: friends, mending, minor illusion, purify food and drink, vicious mockery
+* At will: <i>friends, mending, minor illusion, purify food and drink, vicious mockery</i>
 
-1/day each: blur, calm emotions, heroism, sleep, suggestion
+* 1/day each: <i>blur, calm emotions, heroism, sleep, suggestion</i>
 
 ***Magic Resistance.*** The clurichaun has advantage on saving throws against spells and other magical effects.
 
