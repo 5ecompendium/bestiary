@@ -22,11 +22,11 @@ armor_class: "17 (natural armor)"
 
 ***Innate Spellcasting.*** The dryad's innate spellcasting ability is Charisma (spell save DC 17). She can innately cast the following spells, requiring no material components:
 
-At will: dancing lights, druidcraft
+* At will: <i>dancing lights, druidcraft</i>
 
-3/day each: charm person, entangle, invisibility, magic missile
+* 3/day each: <i>charm person, entangle, invisibility, magic missile</i>
 
-1/day each: barkskin, counterspell, dispel magic, fog cloud, shillelagh, suggestion, wall of thorns
+* 1/day each: <i>barkskin, counterspell, dispel magic, fog cloud, shillelagh, suggestion, wall of thorns</i>
 
 ***Magic Resistance.*** The dryad has advantage on saving throws against spells and other magical effects.
 
