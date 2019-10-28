@@ -23,11 +23,11 @@ armor_class: "15"
 
 ***Innate Spellcasting.*** The boloti's innate spellcasting ability is Intelligence (spell save DC 11). It can innately cast the following spells, requiring no material components:
 
-At will: detect magic, water walk
+* At will: <i>detect magic, water walk</i>
 
-3/day: control water, create or destroy water, fog cloud, invisibility, see invisibility, water breathing
+* 3/day: <i>control water, create or destroy water, fog cloud, invisibility, see invisibility, water breathing</i>
 
-1/day: wall of ice
+* 1/day: <i>wall of ice</i>
 
 ***Water Mastery.*** A boloti has advantage on attack rolls if both it and its opponent are in water. If the opponent and the boloti are both on dry ground, the boloti has disadvantage on attack rolls.
 
