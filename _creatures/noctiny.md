@@ -11,8 +11,8 @@ str: 12 (+1)
 size: Medium humanoid
 alignment: neutral evil
 challenge: "2 (450 XP)"
-languages: "Common, plus the language spoken by the noctini's fext master"
-senses: ", passive Perception 10"
+languages: "Common, plus the language spoken by the noctini's master"
+senses: "assive Perception 10"
 condition_immunities: "frightened"
 speed: "30 ft."
 hit_points: "52 (8d8 + 16)"
@@ -25,11 +25,11 @@ armor_class: "13 (studded leather armor)"
 
 ***Spellcasting.*** The noctiny is a 3rd-level spellcaster. Its spellcasting ability score is Charisma (save DC 13, +5 to hit with spell attacks). It knows the following warlock spells.
 
-Cantrips (at will): chill touch, eldritch blast, poison spray
+* Cantrips (at will): <i>chill touch, eldritch blast, poison spray</i>
 
-1st level (4 slots): armor of agathys, charm person, hellish rebuke, hex
+* 1st level (4 slots): <i>armor of agathys, charm person, hellish rebuke, hex</i>
 
-2nd level (2 slots): crown of madness, misty step
+* 2nd level (2 slots): <i>crown of madness, misty step</i>
 
 ### Actions
 
