@@ -13,7 +13,7 @@ alignment: unaligned
 challenge: "5 (1800 XP)"
 languages: "--"
 skills: "Perception +3"
-senses: ", passive Perception 13"
+senses: "passive Perception 13"
 speed: "10 ft., fly 60 ft."
 hit_points: "112 (15d10 + 30)"
 armor_class: "16 (natural armor)"
@@ -22,8 +22,6 @@ armor_class: "16 (natural armor)"
 ***Flyby.*** The kongamato doesn't provoke an opportunity attacks when it flies out of an enemy's reach.
 
 ***Breaker of Boats.*** The kongamato deals double damage to objects and structures made of wood or lighter materials.
-
-***Carry Off.*** A single kongamato can carry away prey up to 50 lbs, or a single rider under that weight. A grouo of them can carry up to 100 lbs.
 
 ### Actions
 
