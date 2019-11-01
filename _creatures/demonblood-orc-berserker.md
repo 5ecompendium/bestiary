@@ -8,7 +8,7 @@ int: 7 (-2)
 con: 16 (+3)
 dex: 12 (+1)
 str: 19 (+4)
-size: Medium humanoid
+size: Medium humanoid (orc)
 alignment: chaotic evil
 challenge: "3 (700 XP)"
 languages: "Common, Orc"
