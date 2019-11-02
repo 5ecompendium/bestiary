@@ -14,7 +14,7 @@ challenge: "10 (5,900 XP)"
 languages: "Telepathy 120 ft."
 skills: "Deception +8, Intimidation +8, Performance +8"
 senses: "darkvision 60 ft., passive Perception 12"
-speed: "30 ft.""
+speed: "30 ft."
 hit_points: "88 (16d8 + 16)"
 armor_class: "16 (natural armor)"
 ---
