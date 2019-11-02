@@ -8,7 +8,7 @@ int: 5 (-3)
 con: 15 (+2)
 dex: 8 (-1)
 str: 12 (+1)
-size: Small undead (goblinoids)
+size: Small undead (goblinoid)
 alignment: neutral evil
 challenge: "1/4 (50 XP)"
 languages: "understands the languages it knew in life but can’t speak"
