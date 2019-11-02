@@ -30,7 +30,7 @@ and any attempts to magically compel their behavior fails.
 ***Formless Shape.*** The Queen is immune to any
 spell or effect that would alter his form.
 
-***Spellcasting. The Queen is a 9th-level spellcaster.
+***Spellcasting.*** The Queen is a 9th-level spellcaster.
 Her spellcasting ability is Wisdom (spell save DC
 16, +8 to hit with spell attacks). She has the following cleric spells prepared:
 
