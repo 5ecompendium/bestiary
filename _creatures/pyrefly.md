@@ -1,6 +1,6 @@
 ---
 layout: creature
-name: "Pyregly"
+name: "Pyrefly"
 tags: [tiny, elemental, cr1/4, nerzugals-extended-bestiary]
 cha: 4 (-3)
 wis: 14 (+2)
