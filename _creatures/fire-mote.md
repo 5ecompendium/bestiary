@@ -22,7 +22,7 @@ hit_points: "49 (11d6 + 11)"
 armor_class: "13 (natural armor)"
 ---
 
-***Fire Form.** The mote can enter a hostile creature’s
+***Fire Form.*** The mote can enter a hostile creature’s
 space and stop there.
 
 ***Annoying.*** An enemy in the same space as a
