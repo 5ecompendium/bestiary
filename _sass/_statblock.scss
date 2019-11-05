@@ -156,7 +156,7 @@
 .property-block{
     padding: 10px 2px 0;
 }
-#actions, #bonus-actions, #reactions, #legendary-actions, #lair-actions, #regional-effects, #roleplaying-information {
+#psionics, #actions, #bonus-actions, #reactions, #legendary-actions, #lair-actions, #regional-effects, #roleplaying-information {
     border-bottom: 1px solid $statblock-main-color;
     color: $statblock-main-color;
     font-size: 21px;
@@ -167,14 +167,15 @@
     padding: 0 0 10px;
     text-indent: 5px;
 }
-#actions, #bonus-actions, #reactions, #legendary-actions, #lair-actions, #regional-effects, #roleplaying-information {
+#psionics, #actions, #bonus-actions, #reactions, #legendary-actions, #lair-actions, #regional-effects, #roleplaying-information {
     margin: 0 0 10px;
 }
+#psionics:last-child,
+#actions:last-child,
 #bonus-actions:last-child,
 #reactions:last-child,
 #legendary-actions:last-child,
 #lair-actions:last-child,
-#actions:last-child,
 #regional-effects:last-child,
 #roleplaying-information:last-child {
     margin: 0;
