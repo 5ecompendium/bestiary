@@ -28,6 +28,8 @@ armor_class: "16 (chain mail)"
 
 ***Heavy Crossbow.*** Ranged Weapon Attack: +2 to hit, range 100/400 ft., one target. Hit: 5 (1d10) piercing damage.
 
+***Sleeping Poison Bolt (recharge 6).*** As an action, the Redbrand Patrol loads a poisoned bolt into its heavy crossbow.  If hit, the target must succeed on a DC 13 Constitution saving throw or be poisoned for 1 hour. If the saving throw fails by 5 or more, the target is also unconscious while poisoned in this way. The target wakes up if it takes damage or if another creature takes an action to shake it awake.
+
 ***Net.*** Ranged weapon attack: +3 to hit, range 5/15 ft., one creature. Hit: A large or smaller creature hit by a net is restrained until it is freed. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net also frees the creature.
 
 ### Reactions
