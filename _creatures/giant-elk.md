@@ -15,7 +15,7 @@ languages: "Giant Elk, understands Common, Elvish, and Sylvan but can't speak"
 skills: "Perception +4"
 speed: "60 ft."
 hit_points: "42 (5d12+10)"
-armor_class: "15 (natural armor)"
+armor_class: "14 (natural armor)"
 ---
 
 ***Charge.*** If the elk moves at least 20 ft. straight toward a target and then hits it with a ram attack on the same turn, the target takes an extra 7 (2d6) damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be knocked prone.
