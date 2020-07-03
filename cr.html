@@ -3,7 +3,10 @@ layout: default
 ---
 <div class="home">
   <h1 class="page-heading">All Creatures</h1>
-  <p id="creatureSearch">Search by name: <input type="search" id="jetsSearch"></p>
+  <p id="creatureSearch" class="search-bar">
+    <span class="fa fa-search icon"></span>
+    <input type="search" class="jetsSearch" id="jetsSearch" placeholder="Search by name">
+  </p>
   <p id="sortBy">Sort By: <a href="{{ site.baseurl }}/cr">CR</a> <a href="{{ site.baseurl }}/">name</a></p>
   {% assign all_creatures = site.creatures %}
   {% assign cr-tags = site.data.challenge_ratings %}
